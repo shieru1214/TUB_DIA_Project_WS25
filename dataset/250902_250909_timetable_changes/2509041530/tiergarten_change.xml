@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tiergarten" eva="8089091">
+  <s id="-8278537940519344780-2509041654-4" eva="8089091">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.390" pr="2" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.460" pr="1" />
+    <ar ct="2509041707" l="7" />
+    <dp ct="2509041707" l="7" />
+  </s>
+  <s id="-8165751692807447604-2509041507-11" eva="8089091">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.888" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.460" pr="1" />
+    <ar ct="2509041531" l="3" />
+    <dp ct="2509041531" l="3" />
+  </s>
+  <s id="-5899825833268278603-2509041451-19" eva="8089091">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.390" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.278" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.472" pr="1" />
+    <m id="r2486202" t="h" from="2509040930" to="2509041500" cat="Störung" ts="2509041000" ts-tts="25-09-04 10:00:17.676" pr="2" />
+    <ar ct="2509041535" l="7" />
+    <dp ct="2509041535" l="7" />
+  </s>
+  <s id="5415254515758618500-2509041450-15" eva="8089091">
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.475" pr="1" />
+    <ar cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue" ct="2509041529" cs="p" clt="2509041347" l="3" />
+    <dp cpth="Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" ct="2509041530" cs="p" clt="2509041347" l="3" />
+  </s>
+  <s id="-1384941265864015325-2509041545-19" eva="8089091">
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.459" pr="1" />
+    <ar ct="2509041628" l="5" />
+    <dp ct="2509041629" l="5" />
+  </s>
+  <s id="-4362235934840469608-2509041517-5" eva="8089091">
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.459" pr="1" />
+    <ar ct="2509041529" l="5" />
+    <dp ct="2509041529" l="5" />
+  </s>
+</timetable>

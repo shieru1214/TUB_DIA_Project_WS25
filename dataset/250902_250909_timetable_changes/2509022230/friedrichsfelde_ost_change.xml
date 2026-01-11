@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Friedrichsfelde Ost" eva="8089059">
+  <s id="2055361054383029564-2509022121-23" eva="8089059">
+    <m id="r2485165" t="h" from="2509021000" to="2509031800" cat="Störung" ts="2509021056" ts-tts="25-09-02 10:56:17.558" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 10:48:51.015" pr="1" />
+    <ar cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" ct="2509022221" l="7" />
+    <dp cpth="Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2509022222" l="7" />
+  </s>
+  <s id="1394246017689839595-2509022208-5" eva="8089059">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 10:48:51.016" pr="1" />
+    <ar ct="2509022219" l="75" />
+    <dp ct="2509022220" l="75" />
+  </s>
+  <s id="-8243913908166035137-2509022141-23" eva="8089059">
+    <m id="r2485165" t="h" from="2509021000" to="2509031800" cat="Störung" ts="2509021056" ts-tts="25-09-02 10:56:17.558" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 10:48:51.015" pr="1" />
+    <ar cpth="" ct="2509022248" cs="c" clt="2509022058" l="7" />
+    <dp cpth="" ct="2509022248" cs="c" clt="2509022058" l="7" />
+  </s>
+  <s id="-8162011231150658983-2509022209-5" eva="8089059">
+    <ar cpth="Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf" ct="2509022221" l="5" />
+    <dp cpth="Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2509022222" l="5" />
+  </s>
+  <s id="-3430025751131141384-2509022207-17" eva="8089059">
+    <ar ct="2509022249" l="5" />
+    <dp ct="2509022249" l="5" />
+  </s>
+  <s id="2353399563548339555-2509022201-23" eva="8089059">
+    <m id="r2485165" t="h" from="2509021000" to="2509031800" cat="Störung" ts="2509021056" ts-tts="25-09-02 10:56:17.558" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 10:48:51.015" pr="1" />
+    <ar ct="2509022302" l="7" />
+    <dp ct="2509022302" l="7" />
+  </s>
+  <s id="6656481945246699876-2509022231-7" eva="8089059">
+    <m id="r2485165" t="h" from="2509021000" to="2509031800" cat="Störung" ts="2509021056" ts-tts="25-09-02 10:56:17.558" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 10:48:51.015" pr="1" />
+    <ar ct="2509022243" l="7" />
+    <dp ct="2509022244" l="7" />
+  </s>
+  <s id="-8827067470320524380-2509022202-6" eva="8089059">
+    <ar ct="2509022214" l="5" />
+    <dp ct="2509022215" l="5" />
+  </s>
+  <s id="-8575348350948716387-2509022229-5" eva="8089059">
+    <ar ct="2509022241" l="5" />
+    <dp ct="2509022241" l="5" />
+  </s>
+  <s id="5517506412657247475-2509022228-5" eva="8089059">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 10:48:51.016" pr="1" />
+    <ar ct="2509022238" l="75" />
+    <dp ct="2509022238" l="75" />
+  </s>
+  <s id="-4239554511206497468-2509022201-5" eva="8089059">
+    <ar ct="2509022212" l="5" />
+    <dp ct="2509022213" l="5" />
+  </s>
+  <s id="-7565627891918086923-2509022158-5" eva="8089059">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 10:48:51.016" pr="1" />
+    <ar ct="2509022211" l="75" />
+    <dp ct="2509022211" l="75" />
+  </s>
+  <s id="-5967853084801901276-2509022227-17" eva="8089059">
+    <ar ct="2509022303" l="5" />
+    <dp ct="2509022303" l="5" />
+  </s>
+  <s id="5558069138839195727-2509022224-5" eva="8089059">
+    <ar ct="2509022233" l="5" />
+    <dp ct="2509022233" l="5" />
+  </s>
+</timetable>

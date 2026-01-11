@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="5635305837669555114-2509050647-23" eva="8089047">
+    <ar cpth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" cs="p" clt="2509041131" l="3" />
+    <dp cpth="Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" cs="p" clt="2509041131" l="3" />
+  </s>
+  <s id="5377527314377604207-2509050701-8" eva="8089047">
+    <ar l="42">
+      <m id="r23881577" t="f" c="0" ts="2509040859" ts-tts="25-09-04 09:00:03.466" />
+      <m id="r23881578" t="f" c="0" ts="2509040859" ts-tts="25-09-04 09:00:03.466" />
+    </ar>
+    <dp l="42">
+      <m id="r23881577" t="f" c="0" ts="2509040859" ts-tts="25-09-04 09:00:03.466" />
+      <m id="r23881578" t="f" c="0" ts="2509040859" ts-tts="25-09-04 09:00:03.466" />
+    </dp>
+  </s>
+  <s id="-4796569355290185174-2509050601-18" eva="8089047">
+    <ar l="41">
+      <m id="r23874512" t="f" c="0" ts="2509040759" ts-tts="25-09-04 08:00:10.853" />
+    </ar>
+    <dp l="41">
+      <m id="r23874512" t="f" c="0" ts="2509040759" ts-tts="25-09-04 08:00:10.853" />
+    </dp>
+  </s>
+  <s id="-1349495300897971510-2509041350-30" eva="8089047">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.940" pr="1" />
+    <ar ct="2509041507" l="5" />
+  </s>
+  <s id="5739446732821022774-2509041310-30" eva="8089047">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.940" pr="1" />
+    <ar ct="2509041429" l="5" />
+  </s>
+  <s id="2117293651452389653-2509041344-14" eva="8089047">
+    <ar ct="2509041414" l="41" />
+    <dp ct="2509041415" l="41" />
+  </s>
+  <s id="5428567562693151370-2509041331-23" eva="8089047">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.182" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.076" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.939" pr="1" />
+    <m id="r2486202" t="h" from="2509040930" to="2509041500" cat="Störung" ts="2509041000" ts-tts="25-09-04 10:00:19.270" pr="2" />
+    <ar ct="2509041423" l="7" />
+    <dp ct="2509041423" l="7" />
+  </s>
+  <s id="4516351885718747053-2509041430-30" eva="8089047">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.940" pr="1" />
+    <ar ct="2509041547" l="5" />
+  </s>
+  <s id="9137343284158543410-2509041309-24" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.620" pr="1" />
+    <m id="r2486210" t="h" from="2509041000" to="2509041300" cat="Störung" ts="2509041020" ts-tts="25-09-04 12:16:03.094" pr="2" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.939" pr="1" />
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" ct="2509041415" cs="p" clt="2509041007" l="9" />
+    <dp cpth="Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" ct="2509041415" cs="p" clt="2509041007" l="9" />
+  </s>
+  <s id="-39175797995701231-2509041429-24" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.620" pr="1" />
+    <m id="r2486210" t="h" from="2509041000" to="2509041300" cat="Störung" ts="2509041020" ts-tts="25-09-04 12:16:03.094" pr="2" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.939" pr="1" />
+    <ar ct="2509041532" l="9" />
+    <dp ct="2509041532" l="9" />
+  </s>
+  <s id="6432758865687917091-2509041425-23" eva="8089047">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.939" pr="1" />
+    <ar cpth="" ct="2509041528" cs="c" clt="2509041405" l="5" />
+  </s>
+  <s id="2749093861523858687-2509041357-7" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.620" pr="1" />
+    <m id="r2486210" t="h" from="2509041000" to="2509041300" cat="Störung" ts="2509041020" ts-tts="25-09-04 12:16:03.094" pr="2" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.939" pr="1" />
+    <ar ct="2509041414" l="9" />
+    <dp ct="2509041415" l="9" />
+  </s>
+  <s id="8834493246600353734-2509041447-23" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.620" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.940" pr="1" />
+    <ar cpth="" ct="2509041544" cs="c" clt="2509041407" l="3" />
+    <dp cpth="" ct="2509041544" cs="c" clt="2509041407" l="3" />
+  </s>
+  <s id="-976816169525292499-2509041327-7" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.620" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.940" pr="1" />
+    <ar cpth="" ct="2509041341" cs="c" clt="2509041351" l="3" />
+    <dp cpth="" ct="2509041342" cs="c" clt="2509041351" l="3" />
+  </s>
+</timetable>

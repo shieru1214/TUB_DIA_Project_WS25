@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Pankow" eva="8089080">
+  <s id="-7029401716802034501-2509021715-1" eva="8089080">
+    <dp ct="2509021715" l="2" />
+  </s>
+  <s id="8955423003815516076-2509021718-1" eva="8089080">
+    <dp ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" ct="2509021748" pt="2509021718" l="S2" />
+    <tl t="p" o="080001" c="Bus" n="22510" />
+  </s>
+  <s id="7796092631617366740-2509021654-5" eva="8089080">
+    <ar ct="2509021723" l="S2" />
+  </s>
+  <s id="5941037551939284870-2509021651-5" eva="8089080">
+    <ar ct="2509021720" l="S2" />
+  </s>
+  <s id="4927915802849211139-2509021627-5" eva="8089080">
+    <ar ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" ct="2509021748" pt="2509021652" l="S2" />
+    <tl t="p" o="080001" c="Bus" n="22481" />
+  </s>
+  <s id="6019761176682064551-2509021730-1" eva="8089080">
+    <dp ct="2509021730" l="S2" />
+  </s>
+  <s id="-867656547494927099-2509021642-5" eva="8089080">
+    <ar ct="2509021715" l="S2" />
+  </s>
+  <s id="654095243399157544-2509021631-7" eva="8089080">
+    <m id="r2462227" t="h" from="2508250300" to="2509080130" cat="Bauarbeiten" ts="2508242307" ts-tts="25-09-02 10:48:50.655" pr="2" />
+    <ar ct="2509021722" l="S8" />
+  </s>
+  <s id="374944046858244944-2509021657-1" eva="8089080">
+    <dp ct="2509021659" l="S2" />
+  </s>
+  <s id="-8504033517277794728-2509021639-5" eva="8089080">
+    <ar ct="2509021707" l="S2" />
+  </s>
+  <s id="-3085477907720687289-2509021636-5" eva="8089080">
+    <ar ct="2509021707" l="S2" />
+  </s>
+</timetable>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Biesdorf" eva="8089055">
+  <s id="1956134799406207112-2509061801-20" eva="8089055">
+    <ar ct="2509061846" l="5" />
+    <dp ct="2509061846" l="5" />
+  </s>
+  <s id="6856185892383663332-2509061821-20" eva="8089055">
+    <ar cpth="Berlin Olympiastadion|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)" ct="2509061906" cs="c" clt="2509061843" l="5">
+      <m id="r24210958" t="d" c="36" ts="2509061843" ts-tts="25-09-06 18:43:27.725" />
+      <m id="r24210960" t="d" c="36" ts="2509061843" ts-tts="25-09-06 18:43:27.725" />
+      <m id="r24211013" t="f" c="0" ts="2509061844" ts-tts="25-09-06 18:44:30.157" />
+    </ar>
+    <dp cpth="" ct="2509061906" cs="c" clt="2509061843" l="5">
+      <m id="r24210958" t="d" c="36" ts="2509061843" ts-tts="25-09-06 18:43:27.726" />
+      <m id="r24210960" t="d" c="36" ts="2509061843" ts-tts="25-09-06 18:43:27.726" />
+      <m id="r24211013" t="f" c="0" ts="2509061844" ts-tts="25-09-06 18:44:30.157" />
+    </dp>
+  </s>
+</timetable>

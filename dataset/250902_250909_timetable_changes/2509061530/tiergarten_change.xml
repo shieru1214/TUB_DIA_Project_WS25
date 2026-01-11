@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tiergarten" eva="8089091">
+  <s id="-8165751692807447604-2509061507-11" eva="8089091">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:04.067" pr="1" />
+    <ar ct="2509061530" l="3" />
+    <dp ct="2509061531" l="3" />
+  </s>
+  <s id="-8535327977361650419-2509061457-11" eva="8089091">
+    <ar ppth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)" pp="3" ct="2509061551" pt="2509061520" l="9" />
+    <dp ppth="Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" pp="3" ct="2509061551" pt="2509061521" l="9" />
+    <tl f="S" t="s" o="08" c="S" n="401" />
+  </s>
+  <s id="7847559778594890874-2509061525-5" eva="8089091">
+    <ar cpth="" ppth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)" pp="3" ct="2509061537" pt="2509061533" cs="c" clt="2509061523" l="7" />
+    <dp cpth="" ppth="Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" pp="3" ct="2509061538" pt="2509061533" cs="c" clt="2509061523" l="7" />
+    <tl f="S" t="e" o="08" c="S" n="70109" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="7109" />
+    </ref>
+  </s>
+  <s id="433256177367347147-2509061545-20" eva="8089091">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:04.067" pr="1" />
+    <ar ct="2509061633" l="3" />
+    <dp ct="2509061634" l="3" />
+  </s>
+  <s id="172073172742268942-2509061451-17" eva="8089091">
+    <ar ct="2509061529" l="5" />
+    <dp ct="2509061530" l="5" />
+  </s>
+  <s id="-2440800421143143239-2509061631-19" eva="8089091">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:04.246" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-05 23:16:04.236" pr="1" />
+    <ar cpth="" cs="c" clt="2509061529" l="7" />
+    <dp cpth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" cs="c" clt="2509061529" l="7" />
+  </s>
+  <s id="-1956726115382862787-2509061524-16" eva="8089091">
+    <ar ppth="Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue" pp="4" ct="2509061601" pt="2509061558" l="5" />
+    <dp ppth="Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Olympiastadion" pp="4" ct="2509061601" pt="2509061559" l="5" />
+    <tl f="S" t="e" o="08" c="S" n="50092" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="5092" />
+    </ref>
+  </s>
+</timetable>

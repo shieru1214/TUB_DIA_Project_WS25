@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hbf" eva="8011160">
+  <s id="-4703442358992585392-2509031114-22" eva="8011160">
+    <ar ct="2509031325" l="7" />
+    <dp ct="2509031329" l="7" />
+  </s>
+  <s id="-4683204968945380559-2509030945-8" eva="8011160">
+    <ar ppth="Köln Hbf|Wuppertal Hbf|Hagen Hbf|Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau" pp="12" ct="2509031440" pt="2509031417">
+      <m id="r23773671" t="q" c="91" ts="2509031258" ts-tts="25-09-03 12:58:53.030" />
+      <m id="r23773673" t="q" c="91" ts="2509031258" ts-tts="25-09-03 12:58:53.030" />
+    </ar>
+    <dp ppth="Berlin Ostbahnhof" pp="12" ct="2509031443" pt="2509031420">
+      <m id="r23773671" t="q" c="91" ts="2509031258" ts-tts="25-09-03 12:58:53.030" />
+      <m id="r23773673" t="q" c="91" ts="2509031258" ts-tts="25-09-03 12:58:53.030" />
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2917" />
+  </s>
+</timetable>

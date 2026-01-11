@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Stresow" eva="8089053">
+  <s id="-9079615572501425407-2509041258-9" eva="8089053">
+    <ar cpth="Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion" ppth="Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg" pp="1" ct="2509041318" pt="2509041316" cs="c" clt="2509041256" l="3" />
+    <dp cpth="" ppth="Berlin-Spandau (S)" pp="1" ct="2509041318" pt="2509041317" cs="c" clt="2509041256" l="3" />
+    <tl f="S" t="e" o="08" c="S" n="30096" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="3096" />
+    </ref>
+  </s>
+  <s id="-2935404416396632218-2509041257-2" eva="8089053">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.621" pr="1" />
+    <m id="r2486210" t="h" from="2509041000" to="2509041300" cat="Störung" ts="2509041020" ts-tts="25-09-04 12:16:03.094" pr="2" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.939" pr="1" />
+    <ar cpth="" ct="2509041301" cs="c" clt="2509041223" l="9" />
+    <dp cpth="Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)" ct="2509041302" cs="c" clt="2509041223" l="9" />
+  </s>
+  <s id="-6480249845564541429-2509041246-9" eva="8089053">
+    <ar ppth="Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg" pp="1" ct="2509041308" pt="2509041304" l="9" />
+    <dp ppth="Berlin-Spandau (S)" pp="1" ct="2509041309" pt="2509041305" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90078" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9078" />
+    </ref>
+  </s>
+</timetable>

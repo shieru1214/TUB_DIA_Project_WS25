@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Biesdorf" eva="8089055">
+  <s id="1605975111611790114-2509062011-4" eva="8089055">
+    <ar ct="2509062019" l="5" />
+    <dp ct="2509062020" l="5" />
+  </s>
+  <s id="-7524619887410635706-2509062030-13" eva="8089055">
+    <ar ct="2509062108" l="5" />
+    <dp ct="2509062108" l="5" />
+  </s>
+  <s id="9117846403617884892-2509062006-103" eva="8089055">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.070" pr="1" />
+    <m id="r2487504" t="h" from="2509061900" to="2509062200" cat="Störung" ts="2509061943" ts-tts="25-09-06 19:43:39.436" pr="2" />
+    <ar cpth="Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal" ppth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße" pp="1" ct="2509062016" pt="2509062013" ps="a" l="75" />
+    <dp cpth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ppth="Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" pp="1" ct="2509062017" pt="2509062013" ps="a" l="75" />
+    <tl f="S" t="p" o="08" c="S" n="75622" />
+  </s>
+</timetable>

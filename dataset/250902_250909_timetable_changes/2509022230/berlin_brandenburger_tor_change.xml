@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Brandenburger Tor" eva="8089044">
+  <s id="9211575774149829832-2509022205-8" eva="8089044">
+    <ar ct="2509022220" l="2" />
+    <dp ct="2509022221" l="2" />
+  </s>
+  <s id="867484033158265871-2509022225-8" eva="8089044">
+    <ar ct="2509022241" l="2" />
+    <dp ct="2509022242" l="2" />
+  </s>
+  <s id="5618149163219670523-2509022144-17" eva="8089044">
+    <ar ct="2509022219" l="1" />
+    <dp ct="2509022220" l="1" />
+  </s>
+  <s id="7341487233407985126-2509022131-19" eva="8089044">
+    <ar ct="2509022217" l="1" />
+    <dp ct="2509022218" l="1" />
+  </s>
+  <s id="6353941830457871725-2509022148-12" eva="8089044">
+    <ar ct="2509022217" l="2" />
+    <dp ct="2509022218" l="2" />
+  </s>
+  <s id="1927254637949588586-2509022211-19" eva="8089044">
+    <ar ct="2509022300" l="1" />
+    <dp ct="2509022300" l="1" />
+  </s>
+  <s id="-377270736863598262-2509022234-17" eva="8089044">
+    <ar ct="2509022308" l="1" />
+    <dp ct="2509022308" l="1" />
+  </s>
+  <s id="-2325864418383507047-2509022233-13" eva="8089044">
+    <ar ct="2509022258" l="1" />
+    <dp ct="2509022258" l="1" />
+  </s>
+  <s id="2513311440812336079-2509022214-17" eva="8089044">
+    <ar ct="2509022249" l="1" />
+    <dp ct="2509022250" l="1" />
+  </s>
+  <s id="-9152630527506129314-2509022208-16" eva="8089044">
+    <ar ct="2509022244" l="25" />
+    <dp ct="2509022245" l="25" />
+  </s>
+  <s id="-6091415033923146068-2509022231-19" eva="8089044">
+    <ar ct="2509022317" l="1" />
+    <dp ct="2509022317" l="1" />
+  </s>
+  <s id="8595122481992948137-2509022145-12" eva="8089044">
+    <ar ct="2509022212" l="25" />
+    <dp ct="2509022213" l="25" />
+  </s>
+  <s id="8101599965672695251-2509022228-16" eva="8089044">
+    <ar ct="2509022304" l="25" />
+    <dp ct="2509022305" l="25" />
+  </s>
+  <s id="5046051596327121039-2509022228-12" eva="8089044">
+    <ar ct="2509022255" l="2" />
+    <dp ct="2509022256" l="2" />
+  </s>
+  <s id="-7066416764061515909-2509022155-8" eva="8089044">
+    <ar ct="2509022211" l="2" />
+    <dp ct="2509022212" l="2" />
+  </s>
+  <s id="-6080720383947812117-2509022225-12" eva="8089044">
+    <ar ct="2509022250" l="25" />
+    <dp ct="2509022251" l="25" />
+  </s>
+  <s id="-238565622453982288-2509022134-17" eva="8089044">
+    <ar ct="2509022210" l="1" />
+    <dp ct="2509022210" l="1" />
+  </s>
+  <s id="-5225844632395043186-2509022143-12" eva="8089044">
+    <ar ppth="Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)" pp="1" ct="2509022208" pt="2509022207" l="1" />
+    <dp ppth="Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf" pp="1" ct="2509022209" pt="2509022207" l="1" />
+    <tl f="S" t="e" o="08" c="S" n="10631" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="1631" />
+    </ref>
+  </s>
+</timetable>

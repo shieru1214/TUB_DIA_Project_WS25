@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Priesterweg" eva="8089034">
+  <s id="4062888449584910830-2509080534-15" eva="8089034">
+    <ar ct="2509080608" l="26" />
+    <dp ct="2509080607" l="26" />
+  </s>
+  <s id="-4938533506523138056-2509080554-15" eva="8089034">
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof" ct="2509080627" cs="c" clt="2509080600" l="26" />
+    <dp cpth="" ct="2509080627" cs="c" clt="2509080600" l="26" />
+  </s>
+  <s id="-3881094617070782979-2509080615-7" eva="8089034">
+    <ar ct="2509080628" l="26" />
+    <dp ct="2509080629" l="26" />
+  </s>
+  <s id="1953769881906720940-2509080545-7" eva="8089034">
+    <ar ct="2509080559" l="25" />
+    <dp ct="2509080559" l="25" />
+  </s>
+  <s id="7576356083121382619-2509080655-7" eva="8089034">
+    <ar cpth="" cs="c" clt="2509080559" l="26" />
+    <dp cpth="Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" cs="c" clt="2509080559" l="26" />
+  </s>
+  <s id="3946930477244040962-2509080614-15" eva="8089034">
+    <ar ct="2509080647" l="26" />
+    <dp ct="2509080647" l="26" />
+  </s>
+</timetable>

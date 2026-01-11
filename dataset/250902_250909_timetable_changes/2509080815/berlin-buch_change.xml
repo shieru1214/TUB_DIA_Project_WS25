@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Buch" eva="8089057">
+  <s id="-8058853466534300007-2509080803-5" eva="8089057">
+    <ar ppth="Bernau (S)|Bernau-Friedenstal|Zepernick(Bernau)|Röntgental" cp="2" pp="1" ct="2509080816" pt="2509080813" l="2" />
+    <tl f="S" t="s" o="08" c="S" n="20039" />
+  </s>
+  <s id="-1669956213285402291-2509080728-23" eva="8089057">
+    <m id="r2488011" t="h" from="2509080700" to="2509081230" cat="Störung" ts="2509080717" ts-tts="25-09-08 07:17:53.331" pr="2" />
+    <ar cpth="Mahlow|Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg|Berlin-Karow" ct="2509080825" cs="c" clt="2509080711" l="2" />
+    <dp cpth="" ct="2509080826" cs="c" clt="2509080711" l="2" />
+  </s>
+</timetable>

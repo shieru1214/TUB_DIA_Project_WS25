@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Köpenick" eva="8089069">
+  <s id="1360027637371592899-2509052347-5" eva="8089069">
+    <ar cpth="Berlin-Friedrichshagen" ct="2509060004" l="3" />
+    <dp cpth="Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" ct="2509060003" l="3" />
+  </s>
+  <s id="609461914583349781-2509052349-3" eva="8089069">
+    <ar ppth="Berlin-Karlshorst (S)|Berlin-Wuhlheide" pp="2" ct="2509052359" pt="2509052354" l="3" />
+    <tl f="S" t="s" o="08" c="S" n="30631" />
+  </s>
+</timetable>

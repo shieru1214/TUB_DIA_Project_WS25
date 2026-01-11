@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Gehrenseestraße">
+  <s id="-3882792791888568941-2509070240-3">
+    <tl f="S" t="p" o="08" c="S" n="75218" />
+    <ar pt="2509070243" pp="2" l="75" ppth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)" />
+    <dp pt="2509070244" pp="2" l="75" ppth="Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+  <s id="-4644923690044262082-2509070156-7">
+    <tl f="S" t="p" o="08" c="S" n="75215" />
+    <ar pt="2509070214" pp="1" l="75" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl" />
+    <dp pt="2509070214" pp="1" l="75" ppth="Berlin-Hohenschönhausen (S)|Berlin-Wartenberg" />
+  </s>
+  <s id="7121746625050636263-2509070226-7">
+    <tl f="S" t="p" o="08" c="S" n="75217" />
+    <ar pt="2509070244" pp="1" l="75" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl" />
+    <dp pt="2509070244" pp="1" l="75" ppth="Berlin-Hohenschönhausen (S)|Berlin-Wartenberg" />
+  </s>
+  <s id="-4749959265959999437-2509070210-3">
+    <tl f="S" t="p" o="08" c="S" n="75216" />
+    <ar pt="2509070213" pp="2" l="75" ppth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)" />
+    <dp pt="2509070214" pp="2" l="75" ppth="Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+</timetable>

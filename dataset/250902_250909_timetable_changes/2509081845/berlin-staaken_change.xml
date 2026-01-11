@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Staaken" eva="8013021">
+  <s id="-2032569237475830480-2509081914-19" eva="8013021">
+    <m id="r2487941" t="h" from="2509080400" to="2509082359" cat="Information" ts="2509080409" ts-tts="25-09-08 04:09:05.967" pr="2" />
+    <m id="r2488339" t="h" from="2509081914" to="2509082043" cat="Störung" ts="2509081700" ts-tts="25-09-08 17:00:20.676" pr="2" />
+    <ar cpth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau" ct="2509082112" l="4">
+      <m id="r24444844" t="d" c="36" ts="2509081648" ts-tts="25-09-08 16:48:54.847" />
+      <m id="r24444846" t="d" c="36" ts="2509081648" ts-tts="25-09-08 16:48:54.847" />
+      <m id="r24456976" t="q" c="95" ts="2509081759" ts-tts="25-09-08 17:59:22.793" />
+      <m id="r24456978" t="q" c="95" ts="2509081759" ts-tts="25-09-08 17:59:22.793" />
+    </ar>
+    <dp cpth="Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow" ct="2509082112" l="4">
+      <m id="r24444844" t="d" c="36" ts="2509081648" ts-tts="25-09-08 16:48:54.847" />
+      <m id="r24444846" t="d" c="36" ts="2509081648" ts-tts="25-09-08 16:48:54.847" />
+      <m id="r24456976" t="q" c="95" ts="2509081759" ts-tts="25-09-08 17:59:22.793" />
+      <m id="r24456978" t="q" c="95" ts="2509081759" ts-tts="25-09-08 17:59:22.793" />
+    </dp>
+  </s>
+</timetable>

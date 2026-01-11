@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tempelhof" eva="8089090">
+  <s id="-1353764245058250353-2509081437-13" eva="8089090">
+    <m id="r2488245" t="h" from="2509081330" to="2509081530" cat="Störung" ts="2509081337" ts-tts="25-09-08 14:16:05.085" pr="2" />
+    <ar ct="2509081515" l="45" />
+    <dp ct="2509081516" l="45" />
+  </s>
+  <s id="6112865541765138542-2509081448-13" eva="8089090">
+    <ar ct="2509081515" l="42" />
+    <dp ct="2509081515" l="42" />
+  </s>
+  <s id="3776666740028506747-2509081508-2" eva="8089090">
+    <m id="r2488245" t="h" from="2509081330" to="2509081530" cat="Störung" ts="2509081337" ts-tts="25-09-08 14:16:05.085" pr="2" />
+    <ar cpth="Berlin Südkreuz (S)" ct="2509081512" l="45" />
+    <dp cpth="Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" ct="2509081513" l="45" />
+  </s>
+  <s id="3829161764756495355-2509081601-13" eva="8089090">
+    <m id="r2488245" t="h" from="2509081330" to="2509081530" cat="Störung" ts="2509081337" ts-tts="25-09-08 14:16:05.085" pr="2" />
+    <ar cpth="" ct="2509081640" cs="c" clt="2509081438" l="46" />
+    <dp cpth="" ct="2509081640" cs="c" clt="2509081438" l="46" />
+  </s>
+</timetable>

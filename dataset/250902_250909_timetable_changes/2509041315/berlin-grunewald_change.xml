@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Grunewald" eva="8089062">
+  <s id="-2539046491551756367-2509041321-6" eva="8089062">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:05.100" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.969" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.257" pr="1" />
+    <m id="r2486202" t="h" from="2509040930" to="2509041500" cat="Störung" ts="2509041000" ts-tts="25-09-04 10:00:15.558" pr="2" />
+    <ar ct="2509041341" l="7" />
+    <dp ct="2509041342" l="7" />
+  </s>
+  <s id="8959880672393202337-2509041251-6" eva="8089062">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:05.100" pr="2" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.257" pr="1" />
+    <m id="r2486202" t="h" from="2509040930" to="2509041500" cat="Störung" ts="2509041000" ts-tts="25-09-04 10:00:15.558" pr="2" />
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)|Berlin-Nikolassee" ct="2509041315" l="7" />
+    <dp cpth="Berlin Westkreuz|Berlin Charlottenburg (S)" ct="2509041316" l="7" />
+  </s>
+  <s id="-1277014858012149238-2509041301-6" eva="8089062">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:05.100" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.969" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.257" pr="1" />
+    <m id="r2486202" t="h" from="2509040930" to="2509041500" cat="Störung" ts="2509041000" ts-tts="25-09-04 10:00:15.558" pr="2" />
+    <ar ct="2509041327" l="7" />
+    <dp ct="2509041328" l="7" />
+  </s>
+  <s id="-162015665067287807-2509041236-17" eva="8089062">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:05.100" pr="2" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.257" pr="1" />
+    <m id="r2486202" t="h" from="2509040930" to="2509041500" cat="Störung" ts="2509041000" ts-tts="25-09-04 10:00:15.558" pr="2" />
+    <ar cpth="Berlin Charlottenburg (S)|Berlin Westkreuz" ct="2509041313" l="7" />
+    <dp cpth="Berlin-Nikolassee|Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" ct="2509041314" l="7" />
+  </s>
+</timetable>

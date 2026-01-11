@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lankwitz" eva="8089114">
+  <s id="488227415173641316-2509031123-21" eva="8089114">
+    <m id="r2485740" t="h" from="2509031100" to="2509031330" cat="Störung" ts="2509031129" ts-tts="25-09-03 11:29:06.419" pr="2" />
+    <ar cpth="Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende" ct="2509031213" cs="p" clt="2509031113" l="26" />
+    <dp cpth="Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" ct="2509031213" cs="p" clt="2509031113" l="26" />
+  </s>
+  <s id="-5728707907581117400-2509031155-5" eva="8089114">
+    <m id="r2485740" t="h" from="2509031100" to="2509031330" cat="Störung" ts="2509031129" ts-tts="25-09-03 11:29:06.419" pr="2" />
+    <ar ct="2509031208" l="26" />
+    <dp ct="2509031209" l="26" />
+  </s>
+</timetable>

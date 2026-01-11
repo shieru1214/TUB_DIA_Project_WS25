@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Schöneberg" eva="8089474">
+  <s id="4119271269871595954-2509041415-14" eva="8089474">
+    <ar ct="2509041445" l="42" />
+    <dp ct="2509041445" l="42" />
+  </s>
+  <s id="8814852253708732052-2509041401-15" eva="8089474">
+    <ar ct="2509041445" l="46" />
+    <dp ct="2509041445" l="46" />
+  </s>
+  <s id="3881415846983415530-2509041351-24" eva="8089474">
+    <m id="r2486148" t="h" from="2509040800" to="2509041230" cat="Störung" ts="2509040802" ts-tts="25-09-04 12:16:03.472" pr="2" />
+    <ar cpth="Oranienburg (S)|Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke" ct="2509041451" l="1" />
+    <dp cpth="Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2509041451" cs="p" clt="2509040717" l="1" />
+  </s>
+  <s id="774100629483791038-2509041431-24" eva="8089474">
+    <m id="r2486148" t="h" from="2509040800" to="2509041230" cat="Störung" ts="2509040802" ts-tts="25-09-04 12:16:03.472" pr="2" />
+    <ar cpth="Oranienburg (S)|Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke" ct="2509041529" l="1" />
+    <dp cpth="Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2509041529" cs="p" clt="2509040717" l="1" />
+  </s>
+</timetable>

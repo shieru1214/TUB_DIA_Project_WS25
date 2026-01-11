@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Plänterwald" eva="8089030">
+  <s id="8812994898884157104-2509041106-105" eva="8089030">
+    <ar cpth="Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg" ppth="" pp="4" ct="2509041044" pt="2509041038" ps="a" l="9" />
+    <dp cpth="Berlin Treptower Park|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)" ppth="Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" pp="4" ct="2509041044" pt="2509041038" ps="a" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90068" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9068" />
+    </ref>
+  </s>
+  <s id="9081538488228395159-2509041045-4" eva="8089030">
+    <ar ct="2509041053" l="8" />
+    <dp ct="2509041053" l="8" />
+  </s>
+  <s id="734470794928479963-2509041008-8" eva="8089030">
+    <ar cpth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park" ppth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park" pp="3" ct="2509041028" pt="2509041025" l="9" />
+    <dp cpth="Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" ppth="Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" pp="3" ct="2509041029" pt="2509041025" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90065" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9065" />
+    </ref>
+  </s>
+</timetable>

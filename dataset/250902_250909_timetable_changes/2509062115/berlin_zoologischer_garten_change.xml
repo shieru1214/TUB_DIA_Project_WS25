@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Zoologischer Garten" eva="8010406">
+  <s id="3410947352693819559-2509062026-15" eva="8010406">
+    <ar ct="2509062151" l="1">
+      <m id="r24224046" t="d" c="48" ts="2509062046" ts-tts="25-09-06 20:46:39.203" />
+    </ar>
+    <dp ct="2509062152" l="1">
+      <m id="r24224046" t="d" c="48" ts="2509062046" ts-tts="25-09-06 20:46:39.203" />
+    </dp>
+  </s>
+  <s id="-96203559036685518-2509062106-17" eva="8010406">
+    <ar ct="2509062249" l="1" />
+    <dp ct="2509062250" l="1" />
+  </s>
+  <s id="-561089680166663487-2509061955-11" eva="8010406">
+    <ar cpth="Frankfurt(Oder)|Frankfurt(Oder)-Rosengarten|Pillgram|Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf" ct="2509062121" l="1">
+      <m id="r24221115" t="d" c="43" ts="2509062016" ts-tts="25-09-06 20:16:03.578" />
+      <m id="r24221117" t="d" c="43" ts="2509062016" ts-tts="25-09-06 20:16:03.578" />
+    </ar>
+    <dp cpth="Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Hbf|Werder(Havel)|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Magdeburg-Neustadt|Magdeburg Hbf" ct="2509062122" l="1">
+      <m id="r24221115" t="d" c="43" ts="2509062016" ts-tts="25-09-06 20:16:03.578" />
+      <m id="r24221117" t="d" c="43" ts="2509062016" ts-tts="25-09-06 20:16:03.578" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:45.514" />
+</timetable>

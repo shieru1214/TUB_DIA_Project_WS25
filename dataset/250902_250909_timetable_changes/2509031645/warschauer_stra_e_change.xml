@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="-9011771718775644583-2509031617-19" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:04.477" pr="1" />
+    <ar ct="2509031703" l="9" />
+    <dp ct="2509031704" l="9" />
+  </s>
+  <s id="-4180779434156303121-2509031612-12" eva="8089045">
+    <ar ct="2509031645" l="3" />
+    <dp ct="2509031645" l="3" />
+  </s>
+  <s id="-2477370580072192002-2509031701-19" eva="8089045">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 13:16:04.733" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 23:16:04.838" pr="1" />
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)" l="7" />
+    <dp cpth="Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" l="7" />
+  </s>
+  <s id="8776812754150511065-2509031631-6" eva="8089045">
+    <ar ct="2509031654" l="5" />
+    <dp ct="2509031654" l="5" />
+  </s>
+  <s id="-8872518882384407117-2509031632-12" eva="8089045">
+    <ar ct="2509031702" l="3" />
+    <dp ct="2509031702" l="3" />
+  </s>
+  <s id="-7814198826315364321-2509031704-9" eva="8089045">
+    <ar ct="2509031733" l="5" />
+    <dp ct="2509031734" l="5" />
+  </s>
+  <s id="-4845604826762075201-2509031609-12" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:04.476" pr="1" />
+    <ar ct="2509031648" l="9" />
+    <dp ct="2509031648" l="9" />
+  </s>
+  <s id="-4733368022629812671-2509031624-9" eva="8089045">
+    <ar ct="2509031645" l="5" />
+    <dp ct="2509031646" l="5" />
+  </s>
+  <s id="-844859205309683840-2509031738-9" eva="8089045">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 23:16:04.838" pr="1" />
+    <ar cpth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)" cs="c" clt="2509031644" l="75" />
+  </s>
+  <s id="-8126831266435468688-2509031718-9" eva="8089045">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 23:16:04.838" pr="1" />
+    <ar cpth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)" cs="c" clt="2509031644" l="75" />
+  </s>
+  <s id="-123355754924694923-2509031726-9" eva="8089045">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 23:16:04.839" pr="1" />
+    <ar cpth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)" cs="c" clt="2509031644" l="75" />
+  </s>
+  <s id="-4028654287916203191-2509031550-18" eva="8089045">
+    <ar cpth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)" cp="3" ct="2509031644" l="5" />
+    <dp cpth="" ct="2509031641" cs="c" clt="2509031637" l="5" />
+  </s>
+  <s id="-7584512470811879260-2509031601-19" eva="8089045">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 13:16:04.733" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 23:16:04.838" pr="1" />
+    <ar ct="2509031700" l="7" />
+    <dp ct="2509031700" l="7" />
+  </s>
+  <s id="-4321044298926931517-2509031706-9" eva="8089045">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 23:16:04.839" pr="1" />
+    <ar cpth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)" cs="c" clt="2509031644" l="75" />
+  </s>
+</timetable>

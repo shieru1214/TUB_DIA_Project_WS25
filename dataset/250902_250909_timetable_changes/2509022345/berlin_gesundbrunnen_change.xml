@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Gesundbrunnen" eva="8011102">
+  <s id="-5141327365512533884-2509022103-15" eva="8011102">
+    <ar ppth="Perleberg|Groß Pankow|Pritzwalk|Heiligengrabe|Liebenthal(Prignitz)|Wittstock(Dosse)|Dossow(Prign)|Fretzdorf|Netzeband|Walsleben|Neuruppin West|Neuruppin Rheinsberger Tor|Löwenberg(Mark)|Oranienburg" pp="6" ct="2509030011" pt="2509022334" l="6">
+      <m id="r23711821" t="f" c="0" ts="2509022241" ts-tts="25-09-02 22:42:03.195" />
+      <m id="r23712523" t="d" c="43" ts="2509022249" ts-tts="25-09-02 22:49:14.971" />
+      <m id="r23712525" t="d" c="43" ts="2509022249" ts-tts="25-09-02 22:49:14.971" />
+      <m id="r23712527" t="d" c="43" ts="2509022249" ts-tts="25-09-02 22:49:14.971" />
+    </ar>
+    <tl f="N" t="p" o="800161" c="RE" n="3639" />
+  </s>
+  <s id="-9062453103731034880-2509021656-10" eva="8011102">
+    <ar ct="2509030020">
+      <m id="r23697202" t="d" c="43" ts="2509021918" ts-tts="25-09-02 19:18:56.240" />
+      <m id="r23707032" t="d" c="43" ts="2509022231" ts-tts="25-09-02 22:31:41.289" />
+    </ar>
+  </s>
+</timetable>

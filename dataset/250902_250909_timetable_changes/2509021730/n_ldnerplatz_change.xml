@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Nöldnerplatz" eva="8089026">
+  <s id="5532920996728912217-2509021657-15" eva="8089026">
+    <ar ct="2509021730" l="5" />
+    <dp ct="2509021730" l="5" />
+  </s>
+  <s id="8921626646247543906-2509021745-9" eva="8089026">
+    <ar cpth="Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)" ct="2509021805" l="5" />
+    <dp cpth="Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" ct="2509021806" l="5" />
+  </s>
+  <s id="-8126831266435468688-2509021718-7" eva="8089026">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 10:48:51.016" pr="1" />
+    <ar ct="2509021737" l="75" />
+    <dp ct="2509021738" l="75" />
+  </s>
+  <s id="-8908884976535130005-2509021647-15" eva="8089026">
+    <ar cpth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)" ct="2509021722" l="5" />
+    <dp cpth="Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)" ct="2509021724" l="5" />
+  </s>
+  <s id="-4342974825664247819-2509021801-21" eva="8089026">
+    <m id="r2485165" t="h" from="2509021000" to="2509031800" cat="Störung" ts="2509021056" ts-tts="25-09-02 10:56:17.558" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 10:48:51.015" pr="1" />
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" cs="c" clt="2509021727" l="7" />
+    <dp cpth="" cs="c" clt="2509021727" l="7" />
+  </s>
+  <s id="-5055450002730424740-2509021744-7" eva="8089026">
+    <ar ct="2509021759" l="5" />
+    <dp ct="2509021800" l="5" />
+  </s>
+  <s id="4858045599133853600-2509021711-9" eva="8089026">
+    <m id="r2485165" t="h" from="2509021000" to="2509031800" cat="Störung" ts="2509021056" ts-tts="25-09-02 10:56:17.558" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 10:48:51.015" pr="1" />
+    <ar ct="2509021728" l="7" />
+    <dp ct="2509021729" l="7" />
+  </s>
+  <s id="-7499154240306478318-2509021711-8" eva="8089026">
+    <ar ct="2509021728" l="5" />
+    <dp ct="2509021729" l="5" />
+  </s>
+</timetable>

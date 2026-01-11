@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Baumschulenweg" eva="8089004">
+  <s id="8078824570520660862-2509081028-6" eva="8089004">
+    <ar ct="2509081044" l="45" />
+    <dp ct="2509081045" l="45" />
+  </s>
+  <s id="-3834767604285670140-2509081044-14" eva="8089004">
+    <ar ct="2509081118" l="8" />
+    <dp ct="2509081119" l="8" />
+  </s>
+  <s id="2931075845095281302-2509081003-18" eva="8089004">
+    <ar cpth="Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Schönhauser Allee|Berlin Prenzlauer Allee|Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Plänterwald" ct="2509081045" l="85" />
+    <dp cpth="Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" ct="2509081045" l="85" />
+  </s>
+  <s id="5900691915469397924-2509081029-5" eva="8089004">
+    <ar ct="2509081042" l="8" />
+    <dp ct="2509081044" l="8" />
+  </s>
+  <s id="-2118249015491937288-2509081059-5" eva="8089004">
+    <ar cpth="" ct="2509081110" cs="c" clt="2509081044" l="85" />
+    <dp cpth="" ct="2509081110" cs="c" clt="2509081044" l="85" />
+  </s>
+  <s id="9178204014749383398-2509081049-5" eva="8089004">
+    <ar cpth="Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)" ct="2509081100" cs="c" clt="2509081044" l="8" />
+    <dp cpth="" ct="2509081100" cs="c" clt="2509081044" l="8" />
+  </s>
+  <s id="-6112341857996034516-2509081021-9" eva="8089004">
+    <ar ct="2509081048" l="46" />
+    <dp ct="2509081049" l="46" />
+  </s>
+</timetable>

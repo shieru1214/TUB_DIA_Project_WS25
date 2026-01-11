@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Sonnenallee" eva="8089327">
+  <s id="-9110776447817427316-2509061138-4" eva="8089327">
+    <ar ct="2509061145" l="42" />
+    <dp ct="2509061146" l="42" />
+  </s>
+  <s id="6691491657590837504-2509061201-7" eva="8089327">
+    <ar cpth="Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park" ct="2509061215" l="41">
+      <m id="r24053238" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.152" />
+      <m id="r24053239" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.152" />
+    </ar>
+    <dp cpth="Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ct="2509061215" l="41">
+      <m id="r24053238" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.152" />
+      <m id="r24053239" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.152" />
+    </dp>
+  </s>
+</timetable>

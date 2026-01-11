@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tiergarten" eva="8089091">
+  <s id="4929082008786566995-2509060017-11" eva="8089091">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.415" pr="1" />
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)" ct="2509060040" cs="p" clt="2509060036" l="9" />
+    <dp cpth="Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" ct="2509060041" cs="p" clt="2509060036" l="9" />
+  </s>
+  <s id="-2796382991739521090-2509060021-11" eva="8089091">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.627" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-05 23:16:03.616" pr="1" />
+    <ar ct="2509060100" l="7" />
+    <dp ct="2509060100" l="7" />
+  </s>
+  <s id="3201377494826907730-2509060009-20" eva="8089091">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.415" pr="1" />
+    <ar ct="2509060105" l="9" />
+    <dp ct="2509060105" l="9" />
+  </s>
+</timetable>

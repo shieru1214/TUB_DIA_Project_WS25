@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde Ost" eva="8011041">
+  <s id="-6272353519131270189-2509062005-18" eva="8011041">
+    <m id="r2473869" t="h" from="2508170000" to="2512072359" cat="Information" ts="2508172308" ts-tts="25-09-05 23:16:04.081" pr="2" />
+    <ar cpth="Elsterwerda|Hohenleipisch|Rückersdorf|Doberlug-Kirchhain|Walddrehna|Luckau-Uckro|Drahnsdorf|Golßen(Niederlausitz)|Klasdorf Glashütte|Baruth(Mark)|Neuhof(b Zossen)|Wünsdorf-Waldstadt" ct="2509062152" cs="c" clt="2509062045" l="8" />
+    <dp cpth="" ct="2509062153" cs="c" clt="2509062045" l="8" />
+  </s>
+  <s id="189632922177885776-2509062130-4" eva="8011041">
+    <ar ppth="Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)" pp="4" pt="2509062152" />
+    <dp ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" pp="4" pt="2509062153" />
+    <tl f="N" t="s" o="VW" c="RE" n="73813" />
+  </s>
+</timetable>

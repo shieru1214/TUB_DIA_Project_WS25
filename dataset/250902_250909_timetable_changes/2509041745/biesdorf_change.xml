@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Biesdorf" eva="8089055">
+  <s id="7439455265405790260-2509041725-6" eva="8089055">
+    <m id="r2486403" t="h" from="2509041700" to="2509041900" cat="Störung" ts="2509041723" ts-tts="25-09-04 17:23:29.428" pr="1" />
+    <ar cpth="Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal" ct="2509041744" l="5" />
+    <dp cpth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" ct="2509041745" l="5" />
+  </s>
+  <s id="-7249551353803028733-2509041707-18" eva="8089055">
+    <m id="r2486403" t="h" from="2509041700" to="2509041900" cat="Störung" ts="2509041723" ts-tts="25-09-04 17:23:29.428" pr="1" />
+    <ar cpth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" ct="2509041747" l="5" />
+    <dp cpth="Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)|Birkenstein|Hoppegarten(Mark)|Neuenhagen(b Berlin)" ct="2509041748" l="5" />
+  </s>
+  <s id="-4635456032690953654-2509041730-13" eva="8089055">
+    <m id="r2486403" t="h" from="2509041700" to="2509041900" cat="Störung" ts="2509041723" ts-tts="25-09-04 17:23:29.428" pr="1" />
+    <ar ct="2509041810" l="5" />
+    <dp ct="2509041811" l="5" />
+  </s>
+</timetable>

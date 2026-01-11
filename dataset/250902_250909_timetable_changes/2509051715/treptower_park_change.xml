@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Treptower Park" eva="8089043">
+  <s id="5668190876533071758-2509060901-6" eva="8089043">
+    <ar l="41">
+      <m id="r24033064" t="f" c="0" ts="2509051059" ts-tts="25-09-05 10:59:59.812" />
+      <m id="r24033065" t="f" c="0" ts="2509051059" ts-tts="25-09-05 10:59:59.812" />
+    </ar>
+    <dp l="41">
+      <m id="r24033064" t="f" c="0" ts="2509051059" ts-tts="25-09-05 10:59:59.812" />
+      <m id="r24033065" t="f" c="0" ts="2509051059" ts-tts="25-09-05 10:59:59.812" />
+    </dp>
+  </s>
+  <s id="8330725951038501919-2509051631-20" eva="8089043">
+    <ar ct="2509051713" l="42" />
+    <dp ct="2509051715" l="42" />
+  </s>
+  <s id="5306577613044590016-2509051729-11" eva="8089043">
+    <ar cpth="" ct="2509051801" cs="c" clt="2509051637" l="9" />
+    <dp cpth="Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" cs="c" clt="2509051637" l="9" />
+  </s>
+  <s id="5241224512675213644-2509051701-6" eva="8089043">
+    <ar ct="2509051713" l="41">
+      <m id="r23960729" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:23.064" />
+      <m id="r23960730" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:23.064" />
+    </ar>
+    <dp ct="2509051714" l="41">
+      <m id="r23960729" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:23.064" />
+      <m id="r23960730" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:23.064" />
+    </dp>
+  </s>
+  <s id="3108140191023162057-2509051721-6" eva="8089043">
+    <ar ct="2509051733" l="41" />
+    <dp ct="2509051734" l="41" />
+  </s>
+</timetable>

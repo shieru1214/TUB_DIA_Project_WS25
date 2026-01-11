@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hackescher Markt" eva="8089017">
+  <s id="-5967853084801901276-2509062227-9" eva="8089017">
+    <ar ct="2509062245" l="5" />
+    <dp ct="2509062245" l="5" />
+  </s>
+  <s id="-5907873652373276186-2509062205-16" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.507" pr="1" />
+    <ar ct="2509062244" l="3" />
+    <dp ct="2509062245" l="3" />
+  </s>
+  <s id="654501014165200525-2509062147-15" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.507" pr="1" />
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" ct="2509062228" l="3" />
+    <dp cpth="Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick|Berlin-Friedrichshagen" ct="2509062229" l="3" />
+  </s>
+</timetable>

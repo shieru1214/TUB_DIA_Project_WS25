@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde Ost" eva="8011041">
+  <s id="1707910008319770087-2509081724-12" eva="8011041">
+    <m id="r2473869" t="h" from="2508170000" to="2512072359" cat="Information" ts="2508172308" ts-tts="25-09-07 23:16:04.646" pr="2" />
+    <ar ct="2509081857" l="8" />
+    <dp ct="2509081858" l="8" />
+  </s>
+  <s id="-2032569237475830480-2509081914-13" eva="8011041">
+    <m id="r2487941" t="h" from="2509080400" to="2509082359" cat="Information" ts="2509080409" ts-tts="25-09-08 04:09:03.490" pr="2" />
+    <m id="r2488339" t="h" from="2509081914" to="2509082043" cat="Störung" ts="2509081700" ts-tts="25-09-08 17:00:26.135" pr="2" />
+    <ar cpth="" cs="c" clt="2509081648" l="4">
+      <m id="r24444844" t="d" c="36" ts="2509081648" ts-tts="25-09-08 16:49:00.963" />
+      <m id="r24444846" t="d" c="36" ts="2509081648" ts-tts="25-09-08 16:49:00.963" />
+      <m id="r24456976" t="q" c="95" ts="2509081759" ts-tts="25-09-08 17:59:13.319" />
+      <m id="r24456978" t="q" c="95" ts="2509081759" ts-tts="25-09-08 17:59:13.319" />
+    </ar>
+    <dp cpth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow" cs="c" clt="2509081648" l="4">
+      <m id="r24444844" t="d" c="36" ts="2509081648" ts-tts="25-09-08 16:49:00.963" />
+      <m id="r24444846" t="d" c="36" ts="2509081648" ts-tts="25-09-08 16:49:00.963" />
+      <m id="r24456976" t="q" c="95" ts="2509081759" ts-tts="25-09-08 17:59:13.319" />
+      <m id="r24456978" t="q" c="95" ts="2509081759" ts-tts="25-09-08 17:59:13.319" />
+    </dp>
+  </s>
+</timetable>

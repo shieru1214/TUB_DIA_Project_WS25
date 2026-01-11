@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Nöldnerplatz" eva="8089026">
+  <s id="7129883909309625979-2509041737-15" eva="8089026">
+    <m id="r2486403" t="h" from="2509041700" to="2509041900" cat="Störung" ts="2509041723" ts-tts="25-09-04 17:23:29.428" pr="1" />
+    <ar ct="2509041810" l="5" />
+    <dp ct="2509041810" l="5" />
+  </s>
+  <s id="-9090203953630211532-2509041746-7" eva="8089026">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.076" pr="1" />
+    <ar ct="2509041803" l="75" />
+    <dp ct="2509041804" l="75" />
+  </s>
+  <s id="-4635456032690953654-2509041730-16" eva="8089026">
+    <m id="r2486403" t="h" from="2509041700" to="2509041900" cat="Störung" ts="2509041723" ts-tts="25-09-04 17:23:29.428" pr="1" />
+    <ar ct="2509041817" l="5" />
+    <dp ct="2509041818" l="5" />
+  </s>
+  <s id="8921626646247543906-2509041745-9" eva="8089026">
+    <m id="r2486403" t="h" from="2509041700" to="2509041900" cat="Störung" ts="2509041723" ts-tts="25-09-04 17:23:29.428" pr="1" />
+    <ar cpth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)" ct="2509041807" l="5" />
+    <dp cpth="Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" ct="2509041807" l="5" />
+  </s>
+  <s id="7359538201596328011-2509041818-7" eva="8089026">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.077" pr="1" />
+    <ar ct="2509041833" l="75" />
+    <dp ct="2509041834" l="75" />
+  </s>
+  <s id="-6753737330270834447-2509041756-3" eva="8089026">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.076" pr="1" />
+    <ar ct="2509041801" l="75" />
+    <dp ct="2509041803" l="75" />
+  </s>
+  <s id="5161276944123927794-2509041817-15" eva="8089026">
+    <m id="r2486403" t="h" from="2509041700" to="2509041900" cat="Störung" ts="2509041723" ts-tts="25-09-04 17:23:29.428" pr="1" />
+    <ar ct="2509041848" l="5" />
+    <dp ct="2509041849" l="5" />
+  </s>
+</timetable>

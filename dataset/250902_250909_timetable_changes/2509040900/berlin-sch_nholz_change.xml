@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Schönholz" eva="8089087">
+  <s id="2634514173084792014-2509040831-11" eva="8089087">
+    <m id="r2486148" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040802" ts-tts="25-09-04 08:03:06.550" pr="2" />
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:29.833" pr="2" />
+    <ar cpth="Oranienburg (S)|Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh" ct="2509040900" l="1" />
+    <dp cpth="Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg" ct="2509040901" l="1" />
+  </s>
+  <s id="-9083921232904905854-2509040915-19" eva="8089087">
+    <ar ct="2509040957" l="26" />
+    <dp ct="2509040958" l="26" />
+  </s>
+  <s id="-2058573886405627558-2509040915-6" eva="8089087">
+    <m id="r2486148" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040802" ts-tts="25-09-04 08:03:06.550" pr="2" />
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:29.834" pr="2" />
+    <ar ct="2509040930" l="1" />
+    <dp ct="2509040931" l="1" />
+  </s>
+  <s id="-7138683808677441023-2509040818-18" eva="8089087">
+    <ar ppth="Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)|Berlin-Lankwitz|Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." pp="3" ct="2509040859" pt="2509040857" l="26" />
+    <dp ppth="Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" pp="3" ct="2509040859" pt="2509040858" l="26" />
+    <tl f="S" t="e" o="08" c="S" n="28540" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="26540" />
+    </ref>
+  </s>
+  <s id="-8900853721145935215-2509040814-24" eva="8089087">
+    <m id="r2486148" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040802" ts-tts="25-09-04 08:03:06.550" pr="2" />
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:29.833" pr="2" />
+    <ar cpth="Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." ct="2509040905" l="1" />
+    <dp cpth="Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" ct="2509040906" l="1" />
+  </s>
+  <s id="-5444509549961414149-2509040914-24" eva="8089087">
+    <m id="r2486148" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040802" ts-tts="25-09-04 08:03:06.550" pr="2" />
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:29.833" pr="2" />
+    <ar cpth="Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." ct="2509041004" l="1" />
+    <dp cpth="Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" ct="2509041005" l="1" />
+  </s>
+  <s id="4417885204938258979-2509040843-6" eva="8089087">
+    <ar ct="2509040857" l="26" />
+    <dp ct="2509040858" l="26" />
+  </s>
+</timetable>

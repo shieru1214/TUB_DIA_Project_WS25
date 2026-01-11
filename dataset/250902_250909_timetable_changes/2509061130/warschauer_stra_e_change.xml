@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="-2510683957234545195-2509061145-12" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.507" pr="1" />
+    <ar ct="2509061215" l="3" />
+    <dp ct="2509061216" l="3" />
+  </s>
+  <s id="93625145383822098-2509061111-9" eva="8089045">
+    <ar cpth="Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)" ct="2509061130" l="5" />
+    <dp cpth="Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Olympiastadion" ct="2509061131" l="5" />
+  </s>
+  <s id="6636329992247510812-2509061047-19" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.507" pr="1" />
+    <ar ct="2509061129" l="3" />
+    <dp ct="2509061130" l="3" />
+  </s>
+  <s id="-1914033317694652747-2509061101-19" eva="8089045">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.747" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-05 23:16:03.736" pr="1" />
+    <ar ct="2509061152" l="7" />
+    <dp ct="2509061152" l="7" />
+  </s>
+</timetable>

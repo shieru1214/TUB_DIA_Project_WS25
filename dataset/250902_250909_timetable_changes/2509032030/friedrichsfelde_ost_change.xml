@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Friedrichsfelde Ost" eva="8089059">
+  <s id="-4772021523359316543-2509031957-17" eva="8089059">
+    <m id="r2485858" t="h" from="2509031630" to="2509032230" cat="Störung" ts="2509031703" ts-tts="25-09-03 20:16:03.695" pr="1" />
+    <ar cpth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" ct="2509032038" cs="p" clt="2509031931" l="5" />
+    <dp cpth="Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)" ct="2509032038" cs="p" clt="2509031931" l="5" />
+  </s>
+  <s id="8658538549169114473-2509031947-17" eva="8089059">
+    <m id="r2485858" t="h" from="2509031630" to="2509032230" cat="Störung" ts="2509031703" ts-tts="25-09-03 20:16:03.695" pr="1" />
+    <ar cpth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" ct="2509032029" cs="p" clt="2509031908" l="5" />
+    <dp cpth="Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)|Birkenstein|Hoppegarten(Mark)|Neuenhagen(b Berlin)|Fredersdorf(b Berlin)|Petershagen Nord|Strausberg (S)|Strausberg-Hegermühle|Strausberg Stadt|Strausberg Nord" ct="2509032029" cs="p" clt="2509031908" l="5" />
+  </s>
+  <s id="448476555905445591-2509032018-5" eva="8089059">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 23:16:04.295" pr="1" />
+    <m id="r2485858" t="h" from="2509031630" to="2509032230" cat="Störung" ts="2509031703" ts-tts="25-09-03 20:16:03.694" pr="1" />
+    <ar cpth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße|Berlin Springpfuhl" ct="2509032031" l="75" />
+    <dp cpth="Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2509032032" l="75" />
+  </s>
+</timetable>

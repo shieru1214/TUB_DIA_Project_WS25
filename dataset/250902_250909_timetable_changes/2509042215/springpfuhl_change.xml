@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Springpfuhl" eva="8089040">
+  <s id="1394246017689839595-2509042208-6" eva="8089040">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.970" pr="1" />
+    <ar cpth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" ct="2509042226" cs="p" clt="2509042158" l="75" />
+    <dp cpth="Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)|Berlin-Wartenberg" ct="2509042227" cs="p" clt="2509042158" l="75" />
+  </s>
+  <s id="-5371670826590664173-2509042218-4" eva="8089040">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.970" pr="1" />
+    <ar cpth="" ct="2509042226" cs="c" clt="2509042158" l="75" />
+    <dp cpth="" ct="2509042226" cs="c" clt="2509042158" l="75" />
+  </s>
+</timetable>

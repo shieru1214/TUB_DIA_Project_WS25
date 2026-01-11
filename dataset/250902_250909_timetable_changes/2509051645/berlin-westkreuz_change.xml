@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="433256177367347147-2509051547-23" eva="8089047">
+    <ar ct="2509051645" l="3" />
+    <dp ct="2509051644" l="3" />
+  </s>
+  <s id="1390527141869994091-2509051621-7" eva="8089047">
+    <ar cpth="Berlin-Grunewald" ct="2509051645" cs="p" clt="2509051557" l="7">
+      <m id="r24075285" t="d" c="36" ts="2509051619" ts-tts="25-09-05 16:19:47.698" />
+      <m id="r24075287" t="d" c="36" ts="2509051619" ts-tts="25-09-05 16:19:47.698" />
+      <m id="r24077955" t="d" c="55" ts="2509051643" ts-tts="25-09-05 16:44:04.029" />
+    </ar>
+    <dp cpth="Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2509051645" cs="p" clt="2509051557" l="7">
+      <m id="r24075285" t="d" c="36" ts="2509051619" ts-tts="25-09-05 16:19:47.698" />
+      <m id="r24075287" t="d" c="36" ts="2509051619" ts-tts="25-09-05 16:19:47.698" />
+      <m id="r24077955" t="d" c="55" ts="2509051643" ts-tts="25-09-05 16:44:04.029" />
+    </dp>
+  </s>
+  <s id="2228095087725983248-2509051624-14" eva="8089047">
+    <ar ct="2509051654" l="41" />
+    <dp ct="2509051655" l="41" />
+  </s>
+  <s id="-1942514166185122799-2509051614-14" eva="8089047">
+    <ar ct="2509051643" l="41" />
+    <dp ct="2509051644" l="41" />
+  </s>
+  <s id="732838878254816626-2509051551-23" eva="8089047">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" ct="2509051643" l="7" />
+    <dp cpth="Berlin-Grunewald" ct="2509051644" l="7" />
+  </s>
+</timetable>

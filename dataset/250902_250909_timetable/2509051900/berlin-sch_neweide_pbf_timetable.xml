@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Schöneweide">
+  <s id="1345298703947082418-2509051808-9">
+    <tl f="N" t="p" o="800165" c="RB" n="18329" />
+    <ar pt="2509051901" pp="1" l="24" ppth="Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)|Berlin-Hohenschönhausen|Berlin-Lichtenberg|Berlin Ostkreuz" />
+    <dp pt="2509051902" pp="1" l="24" ppth="Schönefeld(bei Berlin)" />
+  </s>
+  <s id="-8096239910675543192-2509051949-2">
+    <tl f="N" t="p" o="800165" c="RB" n="18330" />
+    <ar pt="2509051958" pp="2" l="24" ppth="Schönefeld(bei Berlin)" />
+    <dp pt="2509051959" pp="2" l="24" ppth="Berlin Ostkreuz|Berlin-Lichtenberg|Berlin-Hohenschönhausen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf" />
+  </s>
+  <s id="-4296640336139523139-2509051914-3">
+    <tl f="N" t="p" o="800165" c="RB" n="18231" />
+    <ar pt="2509051925" pp="1" l="32" ppth="Berlin-Lichtenberg|Berlin Ostkreuz" />
+    <dp pt="2509051927" pp="1" l="32" ppth="Schönefeld(bei Berlin)" />
+  </s>
+  <s id="-5912035787436698721-2509051918-2">
+    <tl f="N" t="p" o="800165" c="RB" n="18228" />
+    <ar pt="2509051927" pp="2" l="32" ppth="Schönefeld(bei Berlin)" />
+    <dp pt="2509051928" pp="2" l="32" ppth="Berlin Ostkreuz|Berlin-Lichtenberg" />
+  </s>
+</timetable>

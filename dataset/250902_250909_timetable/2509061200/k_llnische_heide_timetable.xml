@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Köllnische Heide">
+  <s id="-2034644512420817830-2509061224-3">
+    <tl f="S" t="p" o="08" c="S" n="47103" />
+    <ar pt="2509061228" pp="2" l="47" ppth="Berlin Hermannstraße|Berlin-Neukölln" />
+    <dp pt="2509061229" pp="2" l="47" ppth="Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Oberspree|Berlin-Spindlersfeld" />
+  </s>
+  <s id="-3866170566236667573-2509061149-5">
+    <tl f="S" t="p" o="08" c="S" n="47098" />
+    <ar pt="2509061200" pp="1" l="47" ppth="Berlin-Spindlersfeld|Berlin-Oberspree|Berlin-Schöneweide (S)|Berlin Baumschulenweg" />
+    <dp pt="2509061202" pp="1" l="47" ppth="Berlin-Neukölln|Berlin Hermannstraße" />
+  </s>
+  <s id="-5310585609182156661-2509061209-5">
+    <tl f="S" t="p" o="08" c="S" n="47100" />
+    <ar pt="2509061220" pp="1" l="47" ppth="Berlin-Spindlersfeld|Berlin-Oberspree|Berlin-Schöneweide (S)|Berlin Baumschulenweg" />
+    <dp pt="2509061222" pp="1" l="47" ppth="Berlin-Neukölln|Berlin Hermannstraße" />
+  </s>
+  <s id="-9091089088185302751-2509061136-14">
+    <tl f="S" t="p" o="08" c="S" n="46363" />
+    <ar pt="2509061203" pp="2" l="46" ppth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln" />
+    <dp pt="2509061204" pp="2" l="46" ppth="Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" />
+  </s>
+  <s id="-7458873914555788792-2509061201-10">
+    <tl f="S" t="p" o="08" c="S" n="46366" />
+    <ar pt="2509061230" pp="1" l="46" ppth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg" />
+    <dp pt="2509061232" pp="1" l="46" ppth="Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof" />
+  </s>
+  <s id="-8119552054436912260-2509061228-5">
+    <tl f="S" t="p" o="08" c="S" n="45065" />
+    <ar pt="2509061238" pp="2" l="45" ppth="Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln" />
+    <dp pt="2509061238" pp="2" l="45" ppth="Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" />
+  </s>
+  <s id="1853750788518063853-2509061208-5">
+    <tl f="S" t="p" o="08" c="S" n="45063" />
+    <ar pt="2509061218" pp="2" l="45" ppth="Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln" />
+    <dp pt="2509061218" pp="2" l="45" ppth="Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" />
+  </s>
+  <s id="1988078809259971801-2509061221-10">
+    <tl f="S" t="p" o="08" c="S" n="46368" />
+    <ar pt="2509061250" pp="1" l="46" ppth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg" />
+    <dp pt="2509061252" pp="1" l="46" ppth="Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof" />
+  </s>
+  <s id="-1573537839449610924-2509061244-3">
+    <tl f="S" t="p" o="08" c="S" n="47105" />
+    <ar pt="2509061248" pp="2" l="47" ppth="Berlin Hermannstraße|Berlin-Neukölln" />
+    <dp pt="2509061249" pp="2" l="47" ppth="Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Oberspree|Berlin-Spindlersfeld" />
+  </s>
+  <s id="-9205158869388406668-2509061157-10">
+    <tl f="S" t="p" o="08" c="S" n="45060" />
+    <ar pt="2509061225" pp="1" l="45" ppth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg" />
+    <dp pt="2509061227" pp="1" l="45" ppth="Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)" />
+  </s>
+  <s id="7265696735114527347-2509061229-5">
+    <tl f="S" t="p" o="08" c="S" n="47102" />
+    <ar pt="2509061240" pp="1" l="47" ppth="Berlin-Spindlersfeld|Berlin-Oberspree|Berlin-Schöneweide (S)|Berlin Baumschulenweg" />
+    <dp pt="2509061242" pp="1" l="47" ppth="Berlin-Neukölln|Berlin Hermannstraße" />
+  </s>
+  <s id="-1472268847053472855-2509061217-10">
+    <tl f="S" t="p" o="08" c="S" n="45062" />
+    <ar pt="2509061245" pp="1" l="45" ppth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg" />
+    <dp pt="2509061247" pp="1" l="45" ppth="Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)" />
+  </s>
+  <s id="9203205757416250218-2509061137-10">
+    <tl f="S" t="p" o="08" c="S" n="45058" />
+    <ar pt="2509061205" pp="1" l="45" ppth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg" />
+    <dp pt="2509061207" pp="1" l="45" ppth="Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)" />
+  </s>
+  <s id="285887782677793103-2509061248-5">
+    <tl f="S" t="p" o="08" c="S" n="45067" />
+    <ar pt="2509061258" pp="2" l="45" ppth="Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln" />
+    <dp pt="2509061258" pp="2" l="45" ppth="Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" />
+  </s>
+  <s id="7919720208147771767-2509061235-4">
+    <tl f="S" t="p" o="08" c="S" n="46067" />
+    <ar pt="2509061243" pp="2" l="46" ppth="Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln" />
+    <dp pt="2509061244" pp="2" l="46" ppth="Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" />
+  </s>
+  <s id="-6881971447419261573-2509061156-14">
+    <tl f="S" t="p" o="08" c="S" n="46065" />
+    <ar pt="2509061223" pp="2" l="46" ppth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln" />
+    <dp pt="2509061224" pp="2" l="46" ppth="Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" />
+  </s>
+  <s id="1468758654972503744-2509061141-10">
+    <tl f="S" t="p" o="08" c="S" n="46364" />
+    <ar pt="2509061210" pp="1" l="46" ppth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg" />
+    <dp pt="2509061212" pp="1" l="46" ppth="Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof" />
+  </s>
+  <s id="7933670667142022111-2509061204-3">
+    <tl f="S" t="p" o="08" c="S" n="47101" />
+    <ar pt="2509061208" pp="2" l="47" ppth="Berlin Hermannstraße|Berlin-Neukölln" />
+    <dp pt="2509061209" pp="2" l="47" ppth="Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Oberspree|Berlin-Spindlersfeld" />
+  </s>
+</timetable>

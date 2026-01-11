@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tempelhof" eva="8089090">
+  <s id="3362111119944128355-2509041245-16" eva="8089090">
+    <ar ct="2509041317" l="42" />
+    <dp ct="2509041318" l="42" />
+  </s>
+  <s id="-8119552054436912260-2509041228-2" eva="8089090">
+    <m id="r2486210" t="h" from="2509041000" to="2509041300" cat="Störung" ts="2509041020" ts-tts="25-09-04 12:16:03.094" pr="2" />
+    <ar cpth="Berlin Südkreuz (S)" ct="2509041230" l="45" />
+    <dp cpth="Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ct="2509041230" l="45" />
+  </s>
+  <s id="-6194644670199709231-2509041244-6" eva="8089090">
+    <ar ct="2509041257" l="41" />
+    <dp ct="2509041258" l="41" />
+  </s>
+</timetable>

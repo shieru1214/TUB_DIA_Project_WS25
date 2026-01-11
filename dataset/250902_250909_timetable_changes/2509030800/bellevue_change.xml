@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bellevue" eva="8089005">
+  <s id="4475934560619431252-2509030737-12" eva="8089005">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:04.477" pr="1" />
+    <ar cpth="Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten" ct="2509030803" cs="p" clt="2509030646" l="9" />
+    <dp cpth="Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ct="2509030804" cs="p" clt="2509030646" l="9" />
+  </s>
+  <s id="1226182527177834278-2509030754-3" eva="8089005">
+    <m id="r2485165" t="h" from="2509021000" to="2509031800" cat="Störung" ts="2509021056" ts-tts="25-09-02 23:16:04.959" pr="2" />
+    <ar ct="2509030800" l="7" />
+    <dp ct="2509030800" l="7" />
+  </s>
+  <s id="-8846874702185925504-2509030814-3" eva="8089005">
+    <m id="r2485165" t="h" from="2509021000" to="2509031800" cat="Störung" ts="2509021056" ts-tts="25-09-02 23:16:04.959" pr="2" />
+    <ar ct="2509030819" l="7" />
+    <dp ct="2509030819" l="7" />
+  </s>
+  <s id="-7719858895215134131-2509030747-6" eva="8089005">
+    <ar ct="2509030759" l="5" />
+    <dp ct="2509030759" l="5" />
+  </s>
+</timetable>

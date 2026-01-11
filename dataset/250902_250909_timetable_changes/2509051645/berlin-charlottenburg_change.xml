@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Charlottenburg" eva="8010403">
+  <s id="8129208977883266754-2509051527-11" eva="8010403">
+    <ar cp="4" ct="2509051647" l="2" />
+    <dp cp="4" ct="2509051649" l="2" />
+  </s>
+  <s id="5526534603450682084-2509051534-4" eva="8010403">
+    <ar ppth="Hennigsdorf(b Berlin)|Dallgow-Döberitz|Berlin-Spandau" cp="2" pp="1" ct="2509051643" pt="2509051612" l="2">
+      <m id="r24059888" t="d" c="48" ts="2509051438" ts-tts="25-09-05 14:38:25.304" />
+      <m id="r24059890" t="d" c="48" ts="2509051438" ts-tts="25-09-05 14:38:25.305" />
+      <m id="r24059892" t="d" c="48" ts="2509051438" ts-tts="25-09-05 14:38:25.305" />
+    </ar>
+    <dp ppth="Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostkreuz|Königs Wusterhausen|Brand Tropical Islands|Lübben(Spreewald)|Lübbenau(Spreewald)" cp="2" pp="1" ct="2509051644" pt="2509051613" l="2">
+      <m id="r24059888" t="d" c="48" ts="2509051438" ts-tts="25-09-05 14:38:25.305" />
+      <m id="r24059890" t="d" c="48" ts="2509051438" ts-tts="25-09-05 14:38:25.305" />
+      <m id="r24059892" t="d" c="48" ts="2509051438" ts-tts="25-09-05 14:38:25.305" />
+    </dp>
+    <tl f="N" t="p" o="800165" c="RE" n="3124" />
+  </s>
+  <s id="2297658875142437576-2509051601-8" eva="8010403">
+    <ar ct="2509051643" l="7" />
+    <dp ct="2509051644" l="7" />
+  </s>
+  <s id="-7508358264308364137-2509051714-24" eva="8010403">
+    <ar ct="2509051922" l="7" />
+    <dp ct="2509051924" l="7" />
+  </s>
+  <s id="8848136332005309431-2509051555-12" eva="8010403">
+    <ar ct="2509051710" l="1" />
+    <dp ct="2509051711" l="1" />
+  </s>
+  <s id="8735333063408268302-2509051512-12" eva="8010403">
+    <ar ct="2509051653" l="1">
+      <m id="r24077226" t="q" c="92" ts="2509051636" ts-tts="25-09-05 16:37:14.202" />
+    </ar>
+    <dp ct="2509051654" l="1">
+      <m id="r24077226" t="q" c="92" ts="2509051636" ts-tts="25-09-05 16:37:14.202" />
+    </dp>
+  </s>
+</timetable>

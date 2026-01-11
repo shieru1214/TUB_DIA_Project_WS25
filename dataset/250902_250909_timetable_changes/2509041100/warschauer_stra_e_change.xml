@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="6723466089260048001-2509041039-10" eva="8089045">
+    <ar cpth="" ppth="Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)" pp="1" ct="2509041100" pt="2509041059" cs="c" clt="2509040827" l="9" />
+    <dp cpth="Berlin-Adlershof|Berlin-Grünau" ppth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" pp="1" ct="2509041100" pt="2509041059" cs="c" clt="2509040827" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90069" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9069" />
+    </ref>
+  </s>
+  <s id="-5593746777655307305-2509041126-106" eva="8089045">
+    <ar cpth="Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park" ppth="" pp="4" ct="2509041111" pt="2509041105" ps="a" l="9" />
+    <dp cpth="Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)" ppth="Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" pp="4" ct="2509041111" pt="2509041106" ps="a" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90070" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9070" />
+    </ref>
+  </s>
+  <s id="519505132451559714-2509041027-11" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.258" pr="1" />
+    <ar cpth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)" ct="2509041059" l="3" />
+    <dp cpth="Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)" ct="2509041059" l="3" />
+  </s>
+</timetable>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Neukölln" eva="8089077">
+  <s id="-1594365636424448158-2509032311-7" eva="8089077">
+    <ar ppth="Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide" pp="1" ct="2509032330" pt="2509032329" l="45" />
+    <dp ppth="Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)" pp="1" ct="2509032331" pt="2509032330" l="45" />
+    <tl f="S" t="e" o="08" c="S" n="44126" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="45126" />
+    </ref>
+  </s>
+  <s id="9087973613528654797-2509032251-18" eva="8089077">
+    <ar ct="2509032328" dc="1" l="42" />
+    <dp ct="2509032328" l="42" />
+  </s>
+</timetable>

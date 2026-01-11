@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Alexanderplatz" eva="8011155">
+  <s id="6960380508689666016-2509060110-10" eva="8011155">
+    <ar ct="2509060156" l="8" />
+    <dp ct="2509060157" l="8" />
+  </s>
+  <s id="-5981338179990436171-2509060544-4" eva="8011155">
+    <ar ct="2509060610" l="8" />
+    <dp ct="2509060611" l="8" />
+  </s>
+  <s id="-4887480265303675289-2509060042-24" eva="8011155">
+    <m id="r2486933" t="h" from="2509052300" to="2509060430" cat="Störung" ts="2509051553" ts-tts="25-09-05 23:16:03.651" pr="1" />
+    <ar cpth="Magdeburg Hbf|Magdeburg-Neustadt|Magdeburg Herrenkrug|Biederitz|Gerwisch|Möser|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße" ct="2509060254" l="1">
+      <m id="r24068846" t="d" c="31" ts="2509051536" ts-tts="25-09-05 15:37:07.060" />
+    </ar>
+    <dp cpth="Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)" ct="2509060255" l="1">
+      <m id="r24068846" t="d" c="31" ts="2509051536" ts-tts="25-09-05 15:37:07.060" />
+    </dp>
+  </s>
+  <s id="58133983524038883-2509052321-24" eva="8011155">
+    <m id="r2486933" t="h" from="2509052300" to="2509060430" cat="Störung" ts="2509051553" ts-tts="25-09-05 15:53:50.621" pr="1" />
+    <ar cpth="Magdeburg Hbf|Magdeburg-Neustadt|Magdeburg Herrenkrug|Biederitz|Gerwisch|Möser|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße" ct="2509060155" l="1">
+      <m id="r24068840" t="d" c="31" ts="2509051536" ts-tts="25-09-05 15:37:07.060" />
+      <m id="r24068841" t="d" c="31" ts="2509051536" ts-tts="25-09-05 15:37:07.060" />
+    </ar>
+    <dp cpth="Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)" ct="2509060156" l="1">
+      <m id="r24068840" t="d" c="31" ts="2509051536" ts-tts="25-09-05 15:37:07.060" />
+      <m id="r24068841" t="d" c="31" ts="2509051536" ts-tts="25-09-05 15:37:07.060" />
+    </dp>
+  </s>
+  <s id="3916491121868625246-2509060115-4" eva="8011155">
+    <ar ct="2509060142" />
+    <dp ct="2509060143" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:45.514" />
+</timetable>

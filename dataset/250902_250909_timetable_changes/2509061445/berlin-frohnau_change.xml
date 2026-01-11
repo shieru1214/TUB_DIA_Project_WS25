@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Frohnau" eva="8089061">
+  <s id="3649751446709079624-2509061425-1" eva="8089061">
+    <m id="r2487385" t="h" from="2509061230" to="2509061600" cat="Störung" ts="2509061315" ts-tts="25-09-06 13:15:20.560" pr="1" />
+    <dp ppth="Berliner Str., Hohen Neuendorf|Hohen Neuendorf(b Berlin)|Birkenwerder Hauptstraße|Kirche, Birkenwerder|Borgsdorf Berliner Chaussee|Borgsdorf (S), Hohen Neuendorf|Lehnitz|Oranienburg" ct="2509061456" pt="2509061425" l="S1A" />
+    <tl t="p" o="080001" c="Bus" n="1144" />
+  </s>
+  <s id="8404635017571470252-2509061444-1" eva="8089061">
+    <m id="r2487385" t="h" from="2509061230" to="2509061600" cat="Störung" ts="2509061315" ts-tts="25-09-06 13:15:20.560" pr="1" />
+    <dp ct="2509061444" l="S1X" />
+  </s>
+</timetable>

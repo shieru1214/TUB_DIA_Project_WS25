@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jungfernheide" eva="8011167">
+  <s id="4117010618655160998-2509030436-12" eva="8011167">
+    <ar ppth="Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Golm|Marquardt|Priort|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau" pp="3" ct="2509030627" pt="2509030533" l="21">
+      <m id="r23724235" t="d" c="47" ts="2509030431" ts-tts="25-09-03 04:31:38.364" />
+      <m id="r23725253" t="f" c="0" ts="2509030505" ts-tts="25-09-03 05:06:02.932" />
+    </ar>
+    <dp ppth="Berlin Gesundbrunnen" pp="3" ct="2509030628" pt="2509030534" l="21">
+      <m id="r23724235" t="d" c="47" ts="2509030431" ts-tts="25-09-03 04:31:38.364" />
+      <m id="r23725253" t="f" c="0" ts="2509030505" ts-tts="25-09-03 05:06:02.932" />
+    </dp>
+    <tl f="N" t="p" o="800165" c="RB" n="18240" />
+  </s>
+  <s id="-1547671302669669696-2509030535-12" eva="8011167">
+    <ar ct="2509030633" l="21" />
+    <dp ct="2509030635" l="21" />
+  </s>
+</timetable>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wannsee" eva="8010405">
+  <s id="5336426014546584474-2509041314-25" eva="8010405">
+    <ar cpth="Senftenberg|Sedlitz Ost|Großräschen|Altdöbern|Luckaitztal|Calau(Nl)|Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg" ct="2509041558" l="7">
+      <m id="r23913982" t="d" c="44" ts="2509041352" ts-tts="25-09-04 13:53:02.593" />
+      <m id="r23927681" t="d" c="67" ts="2509041528" ts-tts="25-09-04 15:28:42.736" />
+      <m id="r23927683" t="d" c="67" ts="2509041528" ts-tts="25-09-04 15:28:58.454" />
+      <m id="r23927974" t="d" c="32" ts="2509041529" ts-tts="25-09-04 15:30:02.381" />
+      <m id="r23927975" t="d" c="32" ts="2509041529" ts-tts="25-09-04 15:30:02.381" />
+      <m id="r23932702" t="d" c="23" ts="2509041555" ts-tts="25-09-04 15:55:29.903" />
+      <m id="r23932709" t="d" c="23" ts="2509041555" ts-tts="25-09-04 15:55:29.903" />
+      <m id="r23932714" t="d" c="23" ts="2509041555" ts-tts="25-09-04 15:55:29.903" />
+    </ar>
+    <dp cpth="Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Michendorf" ct="2509041559" l="7">
+      <m id="r23913982" t="d" c="44" ts="2509041352" ts-tts="25-09-04 13:53:02.593" />
+      <m id="r23927681" t="d" c="67" ts="2509041528" ts-tts="25-09-04 15:28:42.736" />
+      <m id="r23927683" t="d" c="67" ts="2509041528" ts-tts="25-09-04 15:28:58.454" />
+      <m id="r23927974" t="d" c="32" ts="2509041529" ts-tts="25-09-04 15:30:02.382" />
+      <m id="r23927975" t="d" c="32" ts="2509041529" ts-tts="25-09-04 15:30:02.382" />
+      <m id="r23932702" t="d" c="23" ts="2509041555" ts-tts="25-09-04 15:55:29.903" />
+      <m id="r23932709" t="d" c="23" ts="2509041555" ts-tts="25-09-04 15:55:29.903" />
+      <m id="r23932714" t="d" c="23" ts="2509041555" ts-tts="25-09-04 15:55:29.903" />
+    </dp>
+  </s>
+  <s id="6071966870883745842-2509041519-8" eva="8010405">
+    <ar ct="2509041600" l="1" />
+    <dp ct="2509041559" l="1" />
+  </s>
+</timetable>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wittenau (Wilhelmsruher Damm)" eva="8089096">
+  <s id="3331301730753834150-2509051835-4" eva="8089096">
+    <ar ct="2509051845" l="1" />
+    <dp ct="2509051845" l="1" />
+  </s>
+  <s id="1421451690851073627-2509051838-20" eva="8089096">
+    <ar ppth="Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)|Berlin-Lankwitz|Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh" pp="1" ct="2509051924" pt="2509051923" l="26" />
+    <dp ppth="Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" pp="1" ct="2509051925" pt="2509051924" l="26" />
+    <tl f="S" t="e" o="08" c="S" n="28602" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="26602" />
+    </ref>
+  </s>
+  <s id="5136948348839047328-2509051755-21" eva="8089096">
+    <ar ct="2509051844" l="26" />
+    <dp ct="2509051844" l="26" />
+  </s>
+</timetable>

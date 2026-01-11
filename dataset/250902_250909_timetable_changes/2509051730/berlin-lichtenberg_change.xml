@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichtenberg" eva="8010036">
+  <s id="8078177407275315373-2509060722-2" eva="8010036">
+    <ar cpth="Berlin Ostkreuz" ppth="Berlin Ostkreuz" pp="17" pt="2509060725" l="25">
+      <m id="r24085232" t="d" c="57" ts="2509051729" ts-tts="25-09-05 17:30:07.460" />
+    </ar>
+    <dp cpth="Ahrensfelde Friedhof|Ahrensfelde Nord|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark)|Werneuchen" ppth="" pp="17" pt="2509060729" ps="a" l="25">
+      <m id="r24085232" t="d" c="57" ts="2509051729" ts-tts="25-09-05 17:30:07.460" />
+    </dp>
+    <tl f="N" t="p" o="NBRB25" c="RB" n="55719" />
+  </s>
+  <s id="-2910442641180816478-2509051759-1" eva="8010036">
+    <dp ct="2509051800" l="25" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:48.013" />
+</timetable>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Frohnau" eva="8089061">
+  <s id="-8462016084991317601-2509071244-1" eva="8089061">
+    <dp ct="2509071245" l="S1X" />
+  </s>
+  <s id="2935678326466872694-2509071218-1" eva="8089061">
+    <m id="r2487622" t="h" from="2509070954" to="2509071530" cat="Störung" ts="2509070955" ts-tts="25-09-07 09:55:58.813" pr="2" />
+    <dp cpth="Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof" ct="2509071218" l="1" />
+  </s>
+</timetable>

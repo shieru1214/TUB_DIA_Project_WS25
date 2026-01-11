@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Betriebsbf Rummelsburg">
+  <s id="-4924235114354813335-2509051010-4">
+    <tl f="S" t="p" o="08" c="S" n="3548" />
+    <ar pt="2509051019" pp="1" l="3" ppth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)" />
+    <dp pt="2509051019" pp="1" l="3" ppth="Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+  <s id="5891034925864922379-2509051050-4">
+    <tl f="S" t="p" o="08" c="S" n="3552" />
+    <ar pt="2509051059" pp="1" l="3" ppth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)" />
+    <dp pt="2509051059" pp="1" l="3" ppth="Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+  <s id="-5877028812282956914-2509051030-4">
+    <tl f="S" t="p" o="08" c="S" n="3550" />
+    <ar pt="2509051039" pp="1" l="3" ppth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)" />
+    <dp pt="2509051039" pp="1" l="3" ppth="Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+  <s id="4322704830870363351-2509051019-4">
+    <tl f="S" t="p" o="08" c="S" n="3551" />
+    <ar pt="2509051025" pp="2" l="3" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg" />
+    <dp pt="2509051026" pp="2" l="3" ppth="Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick" />
+  </s>
+  <s id="5711699968614096923-2509050947-8">
+    <tl f="S" t="p" o="08" c="S" n="3082" />
+    <ar pt="2509051011" pp="1" l="3" ppth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)" />
+    <dp pt="2509051012" pp="1" l="3" ppth="Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" />
+  </s>
+  <s id="-9078374939635573585-2509051039-4">
+    <tl f="S" t="p" o="08" c="S" n="3553" />
+    <ar pt="2509051045" pp="2" l="3" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg" />
+    <dp pt="2509051046" pp="2" l="3" ppth="Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick" />
+  </s>
+  <s id="4556182739646747953-2509050927-22">
+    <tl f="S" t="p" o="08" c="S" n="3081" />
+    <ar pt="2509051015" pp="2" l="3" ppth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg" />
+    <dp pt="2509051015" pp="2" l="3" ppth="Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick|Berlin-Friedrichshagen|Berlin-Rahnsdorf|Berlin-Wilhelmshagen|Erkner (S)" />
+  </s>
+  <s id="5837831507886373363-2509050947-22">
+    <tl f="S" t="p" o="08" c="S" n="3083" />
+    <ar pt="2509051035" pp="2" l="3" ppth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg" />
+    <dp pt="2509051035" pp="2" l="3" ppth="Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick|Berlin-Friedrichshagen|Berlin-Rahnsdorf|Berlin-Wilhelmshagen|Erkner (S)" />
+  </s>
+  <s id="-2290362480840014020-2509051007-22">
+    <tl f="S" t="p" o="08" c="S" n="3085" />
+    <ar pt="2509051055" pp="2" l="3" ppth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg" />
+    <dp pt="2509051055" pp="2" l="3" ppth="Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick|Berlin-Friedrichshagen|Berlin-Rahnsdorf|Berlin-Wilhelmshagen|Erkner (S)" />
+  </s>
+  <s id="-764672952688159980-2509050932-15">
+    <tl f="S" t="p" o="08" c="S" n="3749" />
+    <ar pt="2509051005" pp="2" l="3" ppth="Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg" />
+    <dp pt="2509051006" pp="2" l="3" ppth="Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick" />
+  </s>
+  <s id="519505132451559714-2509051027-8">
+    <tl f="S" t="p" o="08" c="S" n="3086" />
+    <ar pt="2509051051" pp="1" l="3" ppth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)" />
+    <dp pt="2509051052" pp="1" l="3" ppth="Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" />
+  </s>
+  <s id="8143370572596346695-2509051007-8">
+    <tl f="S" t="p" o="08" c="S" n="3084" />
+    <ar pt="2509051031" pp="1" l="3" ppth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)" />
+    <dp pt="2509051032" pp="1" l="3" ppth="Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" />
+  </s>
+</timetable>

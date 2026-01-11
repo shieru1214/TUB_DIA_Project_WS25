@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Mehrower Allee" eva="8089022">
+  <s id="-4968655251164376061-2509021641-28" eva="8089022">
+    <m id="r2485165" t="h" from="2509021000" to="2509031800" cat="Störung" ts="2509021056" ts-tts="25-09-02 10:56:17.558" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 10:48:51.015" pr="1" />
+    <ar ct="2509021752" l="7" />
+    <dp ct="2509021753" l="7" />
+  </s>
+  <s id="-4342974825664247819-2509021801-28" eva="8089022">
+    <m id="r2485165" t="h" from="2509021000" to="2509031800" cat="Störung" ts="2509021056" ts-tts="25-09-02 10:56:17.558" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 10:48:51.015" pr="1" />
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" cs="c" clt="2509021727" l="7" />
+    <dp cpth="" cs="c" clt="2509021727" l="7" />
+  </s>
+</timetable>

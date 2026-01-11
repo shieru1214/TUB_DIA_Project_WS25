@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jannowitzbrücke" eva="8089019">
+  <s id="-3810837959040167248-2509032010-20" eva="8089019">
+    <ar cpth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)" ct="2509032105" cs="p" clt="2509031908" l="5" />
+    <dp cpth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" ct="2509032105" cs="p" clt="2509031908" l="5" />
+  </s>
+  <s id="-4048014309630771680-2509031931-13" eva="8089019">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 13:16:04.732" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 23:16:04.838" pr="1" />
+    <m id="r2485858" t="h" from="2509031630" to="2509032000" cat="Störung" ts="2509031703" ts-tts="25-09-03 19:16:04.426" pr="1" />
+    <ar ct="2509031959" l="7" />
+    <dp ct="2509032000" l="7" />
+  </s>
+  <s id="2554069637934912200-2509031911-17" eva="8089019">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 13:16:04.732" pr="2" />
+    <m id="r2485858" t="h" from="2509031630" to="2509032000" cat="Störung" ts="2509031703" ts-tts="25-09-03 19:16:04.426" pr="1" />
+    <ar ct="2509031958" l="7" />
+    <dp ct="2509031959" l="7" />
+  </s>
+  <s id="-5599688269041246385-2509031927-13" eva="8089019">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:04.476" pr="1" />
+    <m id="r2485858" t="h" from="2509031630" to="2509032000" cat="Störung" ts="2509031703" ts-tts="25-09-03 19:16:04.427" pr="1" />
+    <ar cpth="Berlin-Friedrichshagen|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)" ct="2509032005" l="3" />
+    <dp cpth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" ct="2509032005" l="3" />
+  </s>
+</timetable>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Springpfuhl" eva="8089040">
+  <s id="-461722775312558653-2509040051-6" eva="8089040">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.278" pr="1" />
+    <ar ct="2509040100" l="7" />
+    <dp ct="2509040101" l="7" />
+  </s>
+  <s id="3283246162599049070-2509040012-21" eva="8089040">
+    <ar ppth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" pp="2" ct="2509040105" pt="2509040103" l="7" />
+    <dp ppth="Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" pp="2" ct="2509040106" pt="2509040104" l="7" />
+    <tl f="S" t="e" o="08" c="S" n="70163" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="7163" />
+    </ref>
+  </s>
+  <s id="8659202940182109304-2509040048-6" eva="8089040">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.279" pr="1" />
+    <ar ct="2509040105" l="75" />
+    <dp ct="2509040105" l="75" />
+  </s>
+</timetable>

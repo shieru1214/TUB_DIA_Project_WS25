@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="8326091230092313572-2509071701-8" eva="8089047">
+    <ar ct="2509071723" l="42">
+      <m id="r24212720" t="f" c="0" ts="2509061858" ts-tts="25-09-06 18:59:01.756" />
+    </ar>
+    <dp ct="2509071723" l="42">
+      <m id="r24212720" t="f" c="0" ts="2509061858" ts-tts="25-09-06 18:59:01.756" />
+    </dp>
+  </s>
+  <s id="4886675896764328242-2509071656-16" eva="8089047">
+    <ar cp="2" ct="2509071729" l="7" />
+    <dp cp="2" ct="2509071730" l="7" />
+  </s>
+  <s id="-4028654287916203191-2509071550-30" eva="8089047">
+    <ar ct="2509071708" l="5" />
+    <dp ct="2509071708" l="5" />
+  </s>
+  <s id="-338918912024512627-2509071611-23" eva="8089047">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 16:16:04.389" pr="1" />
+    <ar cp="2" ct="2509071700" l="7" />
+    <dp cp="2" ct="2509071700" l="7" />
+  </s>
+  <s id="-7886588984237659355-2509071621-18" eva="8089047">
+    <ar ct="2509071659" l="41" />
+    <dp ct="2509071700" l="41" />
+  </s>
+  <s id="-4891537501695855995-2509071647-7" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.182" pr="1" />
+    <ar cpth="Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)" ct="2509071702" l="3" />
+    <dp cpth="Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick|Berlin-Friedrichshagen|Berlin-Rahnsdorf|Berlin-Wilhelmshagen|Erkner (S)" ct="2509071703" l="3" />
+  </s>
+</timetable>

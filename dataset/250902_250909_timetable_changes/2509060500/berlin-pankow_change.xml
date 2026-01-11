@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Pankow" eva="8089080">
+  <s id="6975093113989860734-2509060500-1" eva="8089080">
+    <dp ct="2509060500" l="85" />
+  </s>
+  <s id="2092181025735882302-2509060425-15" eva="8089080">
+    <ar ppth="Ladestr., Bernau bei Berlin|Gaskessel, Bernau bei Berlin|Zepernicker Chaussee, Bernau bei Berlin|Abzw. Wohnsiedlung, Bernau bei Berlin|Zepernick(Bernau)|Zepernick Kirche, Panketal|Zepernick Schweizer Str., Panketal|Alt-Buch, Berlin|Buch (S), Berlin|Bucher Chaussee/Achillesstr., Berlin|Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" ct="2509060607" pt="2509060537" l="S2" />
+    <tl t="p" o="080001" c="Bus" n="62103" />
+  </s>
+  <s id="-6990949952905195584-2509060405-15" eva="8089080">
+    <ar ct="2509060505" l="S2" />
+  </s>
+</timetable>

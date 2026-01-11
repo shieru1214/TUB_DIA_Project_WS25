@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tiergarten" eva="8089091">
+  <s id="4057069338159314673-2509050914-4" eva="8089091">
+    <ar ct="2509050924" l="7" />
+    <dp ct="2509050925" l="7" />
+  </s>
+  <s id="-2488878240867328765-2509050649-20" eva="8089091">
+    <ar ct="2509050745" l="9" />
+    <dp ct="2509050745" l="9" />
+  </s>
+  <s id="-6355538485874120765-2509050711-11" eva="8089091">
+    <m id="r2486678" t="h" from="2509050700" to="2509060330" cat="Störung" ts="2509050743" ts-tts="25-09-05 07:43:04.437" pr="2" />
+    <ar ct="2509050744" l="7" />
+    <dp ct="2509050744" l="7" />
+  </s>
+  <s id="-350837373914204669-2509050735-19" eva="8089091">
+    <ar ppth="Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue" pp="4" ct="2509050818" pt="2509050818" l="5">
+      <m id="r24011094" t="f" c="0" ts="2509050731" ts-tts="25-09-05 07:31:53.875" />
+    </ar>
+    <dp ppth="Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Olympiastadion" pp="4" ct="2509050819" pt="2509050819" l="5">
+      <m id="r24011094" t="f" c="0" ts="2509050731" ts-tts="25-09-05 07:31:53.875" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="50046" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="5046" />
+    </ref>
+  </s>
+  <s id="775860068496365047-2509050734-4" eva="8089091">
+    <ar ct="2509050743" l="7" />
+    <dp ct="2509050743" l="7" />
+  </s>
+  <s id="7012086047380989146-2509050731-11" eva="8089091">
+    <ar ct="2509050804" l="7" />
+    <dp ct="2509050805" l="7" />
+  </s>
+  <s id="-7980479882689312860-2509050650-26" eva="8089091">
+    <ar ct="2509050759" l="5" />
+    <dp ct="2509050759" l="5" />
+  </s>
+</timetable>

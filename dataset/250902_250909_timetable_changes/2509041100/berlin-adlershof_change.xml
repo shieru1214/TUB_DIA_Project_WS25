@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Adlershof" eva="8089052">
+  <s id="3536895429955386407-2509041019-16" eva="8089052">
+    <ar cpth="" ppth="Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal" pp="3" ct="2509041058" pt="2509041058" cs="c" clt="2509040827" l="9" />
+    <dp cpth="Berlin-Grünau" ppth="Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" pp="3" ct="2509041100" pt="2509041058" cs="p" clt="2509040827" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90067" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9067" />
+    </ref>
+  </s>
+  <s id="-2118249015491937288-2509041059-2" eva="8089052">
+    <ar ct="2509041103" l="85" />
+    <dp ct="2509041103" l="85" />
+  </s>
+  <s id="6642846718339418593-2509041115-8" eva="8089052">
+    <ar ct="2509041133" l="85" />
+    <dp ct="2509041133" l="85" />
+  </s>
+</timetable>

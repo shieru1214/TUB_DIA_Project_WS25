@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Neukölln" eva="8089077">
+  <s id="8143383984449034525-2509031414-4" eva="8089077">
+    <ar cpth="" ct="2509031422" cs="c" clt="2509031400" l="41" />
+    <dp cpth="Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ct="2509031422" cs="c" clt="2509031400" l="41" />
+  </s>
+  <s id="-4847683922419772324-2509031408-4" eva="8089077">
+    <m id="r2485791" t="h" from="2509031330" to="2509031600" cat="Störung" ts="2509031412" ts-tts="25-09-03 14:12:56.262" pr="1" />
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße" ct="2509031415" l="45" />
+    <dp cpth="Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ct="2509031416" l="45" />
+  </s>
+  <s id="-4664524881209325045-2509031429-6" eva="8089077">
+    <ar ct="2509031444" l="47" />
+    <dp ct="2509031445" l="47" />
+  </s>
+  <s id="-3480146279585786273-2509031408-3" eva="8089077">
+    <ar ct="2509031413" l="42" />
+    <dp ct="2509031413" l="42" />
+  </s>
+</timetable>

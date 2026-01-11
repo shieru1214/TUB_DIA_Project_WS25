@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Schöneberg" eva="8089474">
+  <s id="-8682829569901500249-2509021901-12" eva="8089474">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:19.925" pr="1" />
+    <ar ct="2509021931" l="41">
+      <m id="r23632917" t="f" c="0" ts="2509011646" ts-tts="25-09-02 11:22:05.470" />
+    </ar>
+    <dp ct="2509021932" l="41">
+      <m id="r23632917" t="f" c="0" ts="2509011646" ts-tts="25-09-02 11:22:05.470" />
+    </dp>
+  </s>
+  <s id="-2294093891392781262-2509021915-19" eva="8089474">
+    <ar ct="2509021958" l="1" />
+    <dp ct="2509021958" l="1" />
+  </s>
+  <s id="3229203659852864981-2509021851-12" eva="8089474">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:19.924" pr="1" />
+    <ar ct="2509021923" l="41" />
+    <dp ct="2509021923" l="41" />
+  </s>
+  <s id="7543069710296066844-2509021914-12" eva="8089474">
+    <ar ct="2509021936" l="1" />
+    <dp ct="2509021937" l="1" />
+  </s>
+  <s id="2009511987230237839-2509021831-14" eva="8089474">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:19.924" pr="1" />
+    <ar ct="2509021858" dc="1" l="42" />
+    <dp ct="2509021859" l="42" />
+  </s>
+  <s id="-2114543966230809769-2509021815-19" eva="8089474">
+    <ar ct="2509021858" l="1" />
+    <dp ct="2509021859" l="1" />
+  </s>
+  <s id="8690496754110300569-2509021913-23" eva="8089474">
+    <ar ppth="Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke" pp="1" ct="2509022008" pt="2509022008" l="1" />
+    <dp ppth="Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" pp="1" ct="2509022008" pt="2509022008" l="1" />
+    <tl f="S" t="e" o="08" c="S" n="10141" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="1141" />
+    </ref>
+  </s>
+</timetable>

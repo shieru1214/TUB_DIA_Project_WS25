@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Raoul-Wallenberg-Str." eva="8089035">
+  <s id="-6642586829647461034-2509041731-3" eva="8089035">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.183" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.075" pr="1" />
+  </s>
+  <s id="4858045599133853600-2509041711-3" eva="8089035">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.183" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.075" pr="1" />
+  </s>
+  <s id="3301742737556184250-2509041741-27" eva="8089035">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.183" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.076" pr="1" />
+  </s>
+  <s id="4106508201288921189-2509041721-27" eva="8089035">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.183" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.076" pr="1" />
+  </s>
+  <s id="-2477370580072192002-2509041701-27" eva="8089035">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.183" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.076" pr="1" />
+  </s>
+  <s id="-9213285949078389382-2509041751-3" eva="8089035">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.182" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.075" pr="1" />
+  </s>
+  <s id="3283246162599049070-2509040012-24" eva="8089035">
+    <ar ppth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn" pp="1" ct="2509040114" pt="2509040109" l="7" />
+    <dp ppth="Berlin Mehrower Allee|Ahrensfelde (S)" pp="1" ct="2509040114" pt="2509040110" l="7" />
+    <tl f="S" t="e" o="08" c="S" n="70163" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="7163" />
+    </ref>
+  </s>
+</timetable>

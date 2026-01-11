@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jannowitzbrücke" eva="8089019">
+  <s id="5428567562693151370-2509041331-13" eva="8089019">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.390" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.278" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:10.734" pr="1" />
+    <m id="r2486202" t="h" from="2509040930" to="2509041500" cat="Störung" ts="2509041000" ts-tts="25-09-04 10:00:17.676" pr="2" />
+    <ar ct="2509041400" l="7" />
+    <dp ct="2509041400" l="7" />
+  </s>
+  <s id="-5610158465765253034-2509041325-13" eva="8089019">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:10.734" pr="1" />
+    <ar ct="2509041358" l="5" />
+    <dp ct="2509041359" l="5" />
+  </s>
+  <s id="660284897804447239-2509041356-6" eva="8089019">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.390" pr="2" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:10.735" pr="1" />
+    <m id="r2486202" t="h" from="2509040930" to="2509041500" cat="Störung" ts="2509041000" ts-tts="25-09-04 10:00:17.676" pr="2" />
+    <ar ct="2509041409" l="7" />
+    <dp ct="2509041409" l="7" />
+  </s>
+  <s id="9137343284158543410-2509041309-14" eva="8089019">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.888" pr="1" />
+    <m id="r2486210" t="h" from="2509041000" to="2509041300" cat="Störung" ts="2509041020" ts-tts="25-09-04 12:16:03.519" pr="2" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:10.734" pr="1" />
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße|Berlin Ostbahnhof (S)" ct="2509041352" l="9" />
+    <dp cpth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" ct="2509041353" l="9" />
+  </s>
+</timetable>

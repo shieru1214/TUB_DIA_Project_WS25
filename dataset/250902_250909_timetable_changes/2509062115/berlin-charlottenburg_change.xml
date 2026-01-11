@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Charlottenburg" eva="8010403">
+  <s id="-96203559036685518-2509062106-16" eva="8010403">
+    <ar ct="2509062245" l="1" />
+    <dp ct="2509062246" l="1" />
+  </s>
+  <s id="-561089680166663487-2509061955-12" eva="8010403">
+    <ar cpth="Frankfurt(Oder)|Frankfurt(Oder)-Rosengarten|Pillgram|Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten" ct="2509062124" l="1">
+      <m id="r24221115" t="d" c="43" ts="2509062016" ts-tts="25-09-06 20:16:03.578" />
+      <m id="r24221117" t="d" c="43" ts="2509062016" ts-tts="25-09-06 20:16:03.578" />
+    </ar>
+    <dp cpth="Berlin-Wannsee|Potsdam Hbf|Werder(Havel)|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Magdeburg-Neustadt|Magdeburg Hbf" ct="2509062125" l="1">
+      <m id="r24221115" t="d" c="43" ts="2509062016" ts-tts="25-09-06 20:16:03.578" />
+      <m id="r24221117" t="d" c="43" ts="2509062016" ts-tts="25-09-06 20:16:03.578" />
+    </dp>
+  </s>
+</timetable>

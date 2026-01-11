@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Priesterweg" eva="8089034">
+  <s id="4104903083901409931-2509080808-7" eva="8089034">
+    <m id="r2488011" t="h" from="2509080700" to="2509081230" cat="Störung" ts="2509080717" ts-tts="25-09-08 07:17:56.722" pr="2" />
+    <ar cpth="Mahlow|Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr." ct="2509080824" l="2" />
+    <dp cpth="Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg|Berlin-Karow" ct="2509080825" l="2" />
+  </s>
+  <s id="-4511049944015103113-2509080715-7" eva="8089034">
+    <ar cpth="Teltow Stadt|Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)|Berlin-Lankwitz|Berlin Südende" ct="2509080730" l="26" />
+    <dp cpth="Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2509080730" l="26" />
+  </s>
+  <s id="7266624031824090843-2509080654-15" eva="8089034">
+    <ar ct="2509080729" l="26" />
+    <dp ct="2509080730" l="26" />
+  </s>
+  <s id="-3582400553785604422-2509080648-21" eva="8089034">
+    <ar ct="2509080738" l="25" />
+    <dp ct="2509080738" l="25" />
+  </s>
+  <s id="-8306813654815949243-2509080745-7" eva="8089034">
+    <ar ct="2509080758" l="25" />
+    <dp ct="2509080759" l="25" />
+  </s>
+  <s id="-743609822797904527-2509080703-17" eva="8089034">
+    <m id="r2488011" t="h" from="2509080700" to="2509081230" cat="Störung" ts="2509080717" ts-tts="25-09-08 07:17:56.722" pr="2" />
+    <ar ct="2509080746" l="2" />
+    <dp ct="2509080746" l="2" />
+  </s>
+</timetable>

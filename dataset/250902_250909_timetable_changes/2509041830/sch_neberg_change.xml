@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Schöneberg" eva="8089474">
+  <s id="6023726718989674131-2509041845-14" eva="8089474">
+    <ar ct="2509041913" l="42" />
+    <dp ct="2509041913" l="42" />
+  </s>
+  <s id="-3811058910454922774-2509041816-9" eva="8089474">
+    <ar ct="2509041830" l="46" />
+    <dp ct="2509041831" l="46" />
+  </s>
+  <s id="6046912733449924411-2509041844-8" eva="8089474">
+    <ar ct="2509041902" l="41" />
+    <dp ct="2509041902" l="41" />
+  </s>
+  <s id="1236222286362129290-2509041731-24" eva="8089474">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:29.449" pr="1" />
+    <ar cpth="Oranienburg (S)|Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke" ct="2509041829" l="1" />
+    <dp cpth="Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2509041829" cs="p" clt="2509040717" l="1" />
+  </s>
+  <s id="-4754820297020103258-2509041801-14" eva="8089474">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:29.449" pr="1" />
+    <ar ct="2509041828" l="42">
+      <m id="r23831639" t="f" c="0" ts="2509031959" ts-tts="25-09-03 20:00:09.071" />
+    </ar>
+    <dp ct="2509041829" l="42">
+      <m id="r23831639" t="f" c="0" ts="2509031959" ts-tts="25-09-03 20:00:09.071" />
+    </dp>
+  </s>
+  <s id="5656717281782730013-2509041844-12" eva="8089474">
+    <ar ct="2509041906" l="1" />
+    <dp ct="2509041907" l="1" />
+  </s>
+</timetable>

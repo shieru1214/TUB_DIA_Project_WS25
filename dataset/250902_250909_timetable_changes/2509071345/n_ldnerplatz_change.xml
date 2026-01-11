@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Nöldnerplatz" eva="8089026">
+  <s id="-8812414422124027655-2509071331-7" eva="8089026">
+    <ar ct="2509071345" l="5" />
+    <dp ct="2509071346" l="5" />
+  </s>
+  <s id="-4492818495708187675-2509071326-7" eva="8089026">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 23:16:03.162" pr="1" />
+    <ar ct="2509071343" l="75" />
+    <dp ct="2509071344" l="75" />
+  </s>
+  <s id="-1736392038267908174-2509071327-11" eva="8089026">
+    <ar ppth="Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)" pp="2" ct="2509071356" pt="2509071355" l="5" />
+    <dp ppth="Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Olympiastadion" pp="2" ct="2509071356" pt="2509071356" l="5" />
+    <tl f="S" t="e" o="08" c="S" n="50082" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="5082" />
+    </ref>
+  </s>
+</timetable>

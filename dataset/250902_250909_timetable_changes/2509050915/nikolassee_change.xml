@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Nikolassee" eva="8089078">
+  <s id="4057069338159314673-2509050914-10" eva="8089078">
+    <ar ct="2509050940" l="7" />
+    <dp ct="2509050940" l="7" />
+  </s>
+  <s id="1210434999863274708-2509050901-5" eva="8089078">
+    <m id="r2486678" t="h" from="2509050700" to="2509060330" cat="Störung" ts="2509050743" ts-tts="25-09-05 07:43:04.437" pr="2" />
+    <ar cpth="Berlin-Wannsee (S)" ct="2509050915" cs="p" clt="2509050827" l="7" />
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2509050916" cs="p" clt="2509050827" l="7" />
+  </s>
+  <s id="-9000021639174556835-2509050815-29" eva="8089078">
+    <ar ct="2509050922" l="1" />
+    <dp ct="2509050922" l="1" />
+  </s>
+</timetable>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Innsbrucker Platz" eva="8089106">
+  <s id="-2079051741317563369-2509080003-8" eva="8089106">
+    <ar cpth="Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg" ppth="Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg" pp="1" ct="2509080021" pt="2509080021" cs="c" clt="2509072348" l="45">
+      <m id="r24334050" t="f" c="0" ts="2509072348" ts-tts="25-09-07 23:48:10.597" />
+      <m id="r24334054" t="f" c="0" ts="2509072348" ts-tts="25-09-07 23:48:26.038" />
+    </ar>
+    <dp cpth="Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Charlottenburg (S)" ppth="Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Charlottenburg (S)" pp="1" ct="2509080021" pt="2509080021" cs="c" clt="2509072348" l="45">
+      <m id="r24334050" t="f" c="0" ts="2509072348" ts-tts="25-09-07 23:48:10.597" />
+      <m id="r24334054" t="f" c="0" ts="2509072348" ts-tts="25-09-07 23:48:26.038" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="44130" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="45130" />
+    </ref>
+  </s>
+  <s id="-1478611631937762169-2509080001-13" eva="8089106">
+    <ar ct="2509080029" l="41">
+      <m id="r24239408" t="f" c="0" ts="2509070200" ts-tts="25-09-07 02:00:10.312" />
+      <m id="r24239409" t="f" c="0" ts="2509070200" ts-tts="25-09-07 02:00:10.312" />
+    </ar>
+    <dp ct="2509080029" l="41">
+      <m id="r24239408" t="f" c="0" ts="2509070200" ts-tts="25-09-07 02:00:10.312" />
+      <m id="r24239409" t="f" c="0" ts="2509070200" ts-tts="25-09-07 02:00:10.312" />
+    </dp>
+  </s>
+</timetable>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hermannstraße">
+  <s id="-4100659615061494590-2509080355-2">
+    <tl f="S" t="p" o="08" c="S" n="46015" />
+    <ar pt="2509080358" pp="2" l="46" ppth="Berlin-Tempelhof" />
+    <dp pt="2509080359" pp="2" l="46" ppth="Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" />
+  </s>
+  <s id="1042297618291463943-2509080356-1">
+    <tl f="S" t="p" o="08" c="S" n="42011" />
+    <dp pt="2509080356" pp="2" l="42" pde="Berlin Beusselstraße" ppth="Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee|Berlin Greifswalder Str|Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße" />
+  </s>
+</timetable>

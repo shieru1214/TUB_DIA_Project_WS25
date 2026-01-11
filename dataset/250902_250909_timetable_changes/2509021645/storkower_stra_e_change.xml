@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Storkower Str" eva="8089041">
+  <s id="8897306426563276461-2509021641-3" eva="8089041">
+    <ar cpth="Berlin Landsberger Allee" ct="2509021647" l="41" />
+    <dp cpth="Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ct="2509021647" l="41" />
+  </s>
+  <s id="-8634782990342119502-2509021651-3" eva="8089041">
+    <ar ct="2509021700" l="41" />
+    <dp ct="2509021700" l="41" />
+  </s>
+  <s id="-4770286039880467404-2509021551-23" eva="8089041">
+    <m id="r2485131" t="h" from="2509020952" to="2509021600" cat="Störung" ts="2509020953" ts-tts="25-09-02 11:21:16.411" pr="2" />
+    <ar ct="2509021648" l="42" />
+    <dp ct="2509021648" l="42" />
+  </s>
+</timetable>

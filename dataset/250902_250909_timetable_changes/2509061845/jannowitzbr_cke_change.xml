@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jannowitzbrücke" eva="8089019">
+  <s id="-884126382626184896-2509061750-20" eva="8089019">
+    <ar ct="2509061845" l="5" />
+    <dp ct="2509061847" l="5" />
+  </s>
+  <s id="4440685589634261922-2509061831-13" eva="8089019">
+    <ar ct="2509061900" l="5" />
+    <dp ct="2509061859" l="5" />
+  </s>
+  <s id="5183786826876065133-2509061745-14" eva="8089019">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.507" pr="1" />
+    <ar cpth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Hirschgarten|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg" ct="2509061848" cs="c" clt="2509061809" l="3">
+      <m id="r24207735" t="d" c="36" ts="2509061809" ts-tts="25-09-06 18:09:28.499" />
+    </ar>
+    <dp cpth="" ct="2509061849" cs="c" clt="2509061809" l="3">
+      <m id="r24207735" t="d" c="36" ts="2509061809" ts-tts="25-09-06 18:09:28.499" />
+    </dp>
+  </s>
+  <s id="491255380004716013-2509061807-17" eva="8089019">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.507" pr="1" />
+    <ar ct="2509061849" l="3" />
+    <dp ct="2509061849" l="3" />
+  </s>
+  <s id="6856185892383663332-2509061821-13" eva="8089019">
+    <ar cpth="Berlin Olympiastadion|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" ct="2509061850" l="5">
+      <m id="r24211013" t="f" c="0" ts="2509061844" ts-tts="25-09-06 18:44:30.157" />
+    </ar>
+    <dp cpth="Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)" ct="2509061851" l="5">
+      <m id="r24211013" t="f" c="0" ts="2509061844" ts-tts="25-09-06 18:44:30.157" />
+    </dp>
+  </s>
+</timetable>

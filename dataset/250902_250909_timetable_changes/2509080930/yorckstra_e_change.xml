@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Yorckstr.(S2)" eva="8089050">
+  <s id="-2801888230673092587-2509080908-9" eva="8089050">
+    <m id="r2488011" t="h" from="2509080700" to="2509081230" cat="Störung" ts="2509080717" ts-tts="25-09-08 07:17:53.331" pr="2" />
+    <ar cpth="Mahlow|Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)" ct="2509080930" l="2" />
+    <dp cpth="Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg|Berlin-Karow|Berlin-Buch|Röntgental|Zepernick(Bernau)|Bernau-Friedenstal|Bernau (S)" ct="2509080930" l="2" />
+  </s>
+  <s id="4931349823537274416-2509080945-9" eva="8089050">
+    <ar ct="2509081004" l="25" />
+    <dp ct="2509081004" l="25" />
+  </s>
+  <s id="7513500183523305759-2509080848-19" eva="8089050">
+    <ar ct="2509080932" l="25" />
+    <dp ct="2509080933" l="25" />
+  </s>
+  <s id="-2621863234659503933-2509080843-19" eva="8089050">
+    <m id="r2488011" t="h" from="2509080700" to="2509081230" cat="Störung" ts="2509080717" ts-tts="25-09-08 07:17:53.331" pr="2" />
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf" ct="2509080929" cs="p" clt="2509080847" l="2" />
+    <dp cpth="Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee|Berlin Schichauweg|Berlin-Lichtenrade|Mahlow" ct="2509080929" cs="p" clt="2509080847" l="2" />
+  </s>
+</timetable>

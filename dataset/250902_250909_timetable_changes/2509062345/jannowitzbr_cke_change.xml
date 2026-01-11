@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jannowitzbrücke" eva="8089019">
+  <s id="8842394844799475175-2509070001-11" eva="8089019">
+    <ar ct="2509070027" l="5" />
+    <dp ct="2509070027" l="5" />
+  </s>
+  <s id="7921585212666496071-2509062341-11" eva="8089019">
+    <ar ct="2509070006" l="5" />
+    <dp ct="2509070007" l="5" />
+  </s>
+  <s id="4397109662926381180-2509062307-17" eva="8089019">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.414" pr="1" />
+    <ar ct="2509062344" l="3" />
+    <dp ct="2509062345" l="3" />
+  </s>
+  <s id="6857044208959336062-2509070005-14" eva="8089019">
+    <ar cpth="Berlin-Friedrichshagen|Berlin-Hirschgarten|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)" ct="2509070040" l="3" />
+    <dp cpth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" ct="2509070040" l="3" />
+  </s>
+  <s id="9012494199900510838-2509062321-11" eva="8089019">
+    <ar ct="2509062346" l="5" />
+    <dp ct="2509062347" l="5" />
+  </s>
+  <s id="3214437076730557390-2509062247-17" eva="8089019">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.414" pr="1" />
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" ct="2509062325" l="3" />
+    <dp cpth="Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick|Berlin-Friedrichshagen" ct="2509062327" l="3" />
+  </s>
+</timetable>

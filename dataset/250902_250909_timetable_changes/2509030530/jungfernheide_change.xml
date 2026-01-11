@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jungfernheide" eva="8011167">
+  <s id="4117010618655160998-2509030436-12" eva="8011167">
+    <ar ppth="Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Golm|Marquardt|Priort|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau" pp="3" ct="2509030618" pt="2509030533" l="21">
+      <m id="r23724235" t="d" c="47" ts="2509030431" ts-tts="25-09-03 04:31:29.400" />
+      <m id="r23725253" t="f" c="0" ts="2509030505" ts-tts="25-09-03 05:05:59.883" />
+    </ar>
+    <dp ppth="Berlin Gesundbrunnen" pp="3" ct="2509030619" pt="2509030534" l="21">
+      <m id="r23724235" t="d" c="47" ts="2509030431" ts-tts="25-09-03 04:31:29.400" />
+      <m id="r23725253" t="f" c="0" ts="2509030505" ts-tts="25-09-03 05:05:59.883" />
+    </dp>
+    <tl f="N" t="p" o="800165" c="RB" n="18240" />
+  </s>
+  <s id="4697796304437265814-2509030513-2" eva="8011167">
+    <ar ct="2509030528" l="21">
+      <m id="r23726153" t="d" c="47" ts="2509030518" ts-tts="25-09-03 05:18:19.136" />
+      <m id="r23726155" t="d" c="47" ts="2509030518" ts-tts="25-09-03 05:18:19.136" />
+      <m id="r23726406" t="f" c="0" ts="2509030521" ts-tts="25-09-03 05:21:39.440" />
+    </ar>
+    <dp ct="2509030528" l="21">
+      <m id="r23726153" t="d" c="47" ts="2509030518" ts-tts="25-09-03 05:18:19.136" />
+      <m id="r23726155" t="d" c="47" ts="2509030518" ts-tts="25-09-03 05:18:19.136" />
+      <m id="r23726406" t="f" c="0" ts="2509030521" ts-tts="25-09-03 05:21:39.440" />
+    </dp>
+  </s>
+</timetable>

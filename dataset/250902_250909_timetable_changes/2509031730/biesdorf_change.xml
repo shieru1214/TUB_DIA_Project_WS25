@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Biesdorf" eva="8089055">
+  <s id="8921626646247543906-2509031745-6" eva="8089055">
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:35.481" pr="1" />
+    <ar cpth="Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal" ct="2509031758" l="5" />
+    <dp cpth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2509031758" l="5" />
+  </s>
+  <s id="-551522984523274095-2509031724-4" eva="8089055">
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:35.482" pr="1" />
+    <ar ct="2509031733" l="5" />
+    <dp ct="2509031734" l="5" />
+  </s>
+  <s id="-8908884976535130005-2509031647-18" eva="8089055">
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:35.481" pr="1" />
+    <ar cpth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" ct="2509031729" l="5" />
+    <dp cpth="Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)|Birkenstein|Hoppegarten(Mark)|Neuenhagen(b Berlin)|Fredersdorf(b Berlin)|Petershagen Nord|Strausberg (S)|Strausberg-Hegermühle|Strausberg Stadt|Strausberg Nord" ct="2509031729" l="5" />
+  </s>
+  <s id="8427181902272506458-2509031731-11" eva="8089055">
+    <ar ct="2509031800" l="5" />
+    <dp ct="2509031800" l="5" />
+  </s>
+  <s id="7359186419892049489-2509031804-4" eva="8089055">
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:35.481" pr="1" />
+    <ar ct="2509031816" l="5" />
+    <dp ct="2509031817" l="5" />
+  </s>
+  <s id="-5055450002730424740-2509031744-4" eva="8089055">
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:35.481" pr="1" />
+    <ar ct="2509031758" l="5" />
+    <dp ct="2509031758" l="5" />
+  </s>
+</timetable>

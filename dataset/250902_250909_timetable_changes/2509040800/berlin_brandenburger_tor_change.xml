@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Brandenburger Tor" eva="8089044">
+  <s id="9004030587152014440-2509040745-8" eva="8089044">
+    <ar ct="2509040800" l="2" />
+    <dp ct="2509040800" l="2" />
+  </s>
+  <s id="-6491531428511917541-2509040815-8" eva="8089044">
+    <ar ct="2509040829" l="2" />
+    <dp ct="2509040830" l="2" />
+  </s>
+  <s id="-9000021639174556835-2509040815-14" eva="8089044">
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:24.055" pr="2" />
+    <ar ct="2509040847" l="1" />
+    <dp ct="2509040847" l="1" />
+  </s>
+  <s id="1120248909480865841-2509040724-17" eva="8089044">
+    <ar ct="2509040758" l="1" />
+    <dp ct="2509040759" l="1" />
+  </s>
+  <s id="-8900853721145935215-2509040814-17" eva="8089044">
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:24.055" pr="2" />
+    <ar cpth="Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)" ct="2509040848" l="1" />
+    <dp cpth="Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" ct="2509040848" l="1" />
+  </s>
+</timetable>

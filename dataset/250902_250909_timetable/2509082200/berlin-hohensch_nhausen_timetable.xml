@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Hohenschönhausen">
+  <s id="-441551164943657757-2509082242-2">
+    <tl t="p" o="080001" c="Bus" n="75006" />
+    <ar pt="2509082247" pp="" l="S75" ppth="Berlin-Wartenberg" />
+    <dp pt="2509082247" pp="" l="S75" ppth="Berlin Gehrenseestraße|Berlin Springpfuhl" />
+  </s>
+  <s id="2535610693770758516-2509082202-2">
+    <tl t="p" o="080001" c="Bus" n="75002" />
+    <ar pt="2509082207" pp="" l="S75" ppth="Berlin-Wartenberg" />
+    <dp pt="2509082207" pp="" l="S75" ppth="Berlin Gehrenseestraße|Berlin Springpfuhl" />
+  </s>
+  <s id="-3974710903231127524-2509082202-2">
+    <tl t="p" o="080001" c="Bus" n="75502" />
+    <ar pt="2509082207" pp="" l="S75" ppth="Berlin-Wartenberg" />
+    <dp pt="2509082207" pp="" l="S75" ppth="Berlin Gehrenseestraße|Berlin Springpfuhl" />
+  </s>
+  <s id="-7483284491349438351-2509082222-2">
+    <tl t="p" o="080001" c="Bus" n="75504" />
+    <ar pt="2509082227" pp="" l="S75" ppth="Berlin-Wartenberg" />
+    <dp pt="2509082227" pp="" l="S75" ppth="Berlin Gehrenseestraße|Berlin Springpfuhl" />
+  </s>
+  <s id="-633960660007709561-2509082222-2">
+    <tl t="p" o="080001" c="Bus" n="75004" />
+    <ar pt="2509082227" pp="" l="S75" ppth="Berlin-Wartenberg" />
+    <dp pt="2509082227" pp="" l="S75" ppth="Berlin Gehrenseestraße|Berlin Springpfuhl" />
+  </s>
+  <s id="8477011409113915854-2509082242-2">
+    <tl t="p" o="080001" c="Bus" n="75506" />
+    <ar pt="2509082247" pp="" l="S75" ppth="Berlin-Wartenberg" />
+    <dp pt="2509082247" pp="" l="S75" ppth="Berlin Gehrenseestraße|Berlin Springpfuhl" />
+  </s>
+  <s id="2160209034413770437-2509082149-5">
+    <tl f="N" t="p" o="800165" c="RB" n="18334" />
+    <ar pt="2509082221" pp="3" l="24" ppth="Schönefeld(bei Berlin)|Berlin-Schöneweide|Berlin Ostkreuz|Berlin-Lichtenberg" />
+    <dp pt="2509082222" pp="3" l="24" ppth="Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf" />
+  </s>
+</timetable>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Springpfuhl" eva="8089040">
+  <s id="1210434999863274708-2509050901-24" eva="8089040">
+    <m id="r2486678" t="h" from="2509050700" to="2509060330" cat="Störung" ts="2509050743" ts-tts="25-09-05 07:43:04.437" pr="2" />
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" ct="2509051006" cs="p" clt="2509050827" l="7" />
+    <dp cpth="Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2509051007" cs="p" clt="2509050827" l="7" />
+  </s>
+  <s id="5297108456943765419-2509050951-6" eva="8089040">
+    <ar cpth="Berlin-Marzahn|Berlin Poelchaustr." ct="2509051003" l="7" />
+    <dp cpth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2509051003" l="7" />
+  </s>
+  <s id="-8797483556235913974-2509050947-6" eva="8089040">
+    <ar ct="2509051000" l="75" />
+    <dp ct="2509051001" l="75" />
+  </s>
+  <s id="840439400706256640-2509050946-4" eva="8089040">
+    <ar ct="2509051000" l="75" />
+    <dp ct="2509051000" l="75" />
+  </s>
+  <s id="5925694062374148280-2509051006-4" eva="8089040">
+    <ar ct="2509051018" l="75" />
+    <dp ct="2509051018" l="75" />
+  </s>
+</timetable>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jannowitzbrücke" eva="8089019">
+  <s id="7221378461346258471-2509042326-3" eva="8089019">
+    <ar ppth="Berlin Warschauer Straße|Berlin Ostbahnhof (S)" pp="4" ct="2509042333" pt="2509042330" l="9" />
+    <dp ppth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" pp="4" ct="2509042334" pt="2509042330" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90144" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9144" />
+    </ref>
+  </s>
+  <s id="802454744916316135-2509042241-17" eva="8089019">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.390" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.278" pr="1" />
+    <ar ct="2509042329" l="7" />
+    <dp ct="2509042329" l="7" />
+  </s>
+</timetable>

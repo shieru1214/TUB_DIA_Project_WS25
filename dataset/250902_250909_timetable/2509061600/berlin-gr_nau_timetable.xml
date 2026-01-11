@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Grünau">
+  <s id="789552178863879615-2509061641-5">
+    <tl f="S" t="p" o="08" c="S" n="46394" />
+    <ar pt="2509061656" pp="4" l="46" ppth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde" />
+    <dp pt="2509061656" pp="4" l="46" ppth="Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof" />
+  </s>
+  <s id="8361372112746322674-2509061601-5">
+    <tl f="S" t="p" o="08" c="S" n="46390" />
+    <ar pt="2509061616" pp="4" l="46" ppth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde" />
+    <dp pt="2509061616" pp="4" l="46" ppth="Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof" />
+  </s>
+  <s id="3034800279676064907-2509061605-9">
+    <tl f="S" t="p" o="08" c="S" n="8107" />
+    <ar pt="2509061627" pp="2" l="8" ppth="Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" />
+  </s>
+  <s id="-2738842497174050190-2509061615-9">
+    <tl f="S" t="p" o="08" c="S" n="46089" />
+    <ar pt="2509061639" pp="1" l="46" ppth="Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" />
+    <dp pt="2509061640" pp="1" l="46" ppth="Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" />
+  </s>
+  <s id="-6191128537481915816-2509061635-9">
+    <tl f="S" t="p" o="08" c="S" n="46091" />
+    <ar pt="2509061659" pp="1" l="46" ppth="Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" />
+    <dp pt="2509061700" pp="1" l="46" ppth="Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" />
+  </s>
+  <s id="-5890726464490801495-2509061555-9">
+    <tl f="S" t="p" o="08" c="S" n="46087" />
+    <ar pt="2509061619" pp="1" l="46" ppth="Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" />
+    <dp pt="2509061620" pp="1" l="46" ppth="Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" />
+  </s>
+  <s id="-5477229826226390920-2509061609-1">
+    <tl f="S" t="p" o="08" c="S" n="8110" />
+    <dp pt="2509061609" pp="3" l="8" ppth="Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee" />
+  </s>
+  <s id="6605719588373573440-2509061625-9">
+    <tl f="S" t="p" o="08" c="S" n="8109" />
+    <ar pt="2509061647" pp="2" l="8" ppth="Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" />
+  </s>
+  <s id="-6775798024993475599-2509061629-1">
+    <tl f="S" t="p" o="08" c="S" n="8112" />
+    <dp pt="2509061629" pp="3" l="8" ppth="Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee" />
+  </s>
+  <s id="150051310895367024-2509061621-5">
+    <tl f="S" t="p" o="08" c="S" n="46392" />
+    <ar pt="2509061636" pp="4" l="46" ppth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde" />
+    <dp pt="2509061636" pp="4" l="46" ppth="Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof" />
+  </s>
+  <s id="8976015365908880613-2509061545-9">
+    <tl f="S" t="p" o="08" c="S" n="8105" />
+    <ar pt="2509061607" pp="2" l="8" ppth="Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" />
+  </s>
+  <s id="5683224394944245317-2509061649-1">
+    <tl f="S" t="p" o="08" c="S" n="8114" />
+    <dp pt="2509061649" pp="3" l="8" ppth="Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee" />
+  </s>
+  <s id="7484400201391608182-2509061535-9">
+    <tl f="S" t="p" o="08" c="S" n="46085" />
+    <ar pt="2509061559" pp="1" l="46" ppth="Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" />
+    <dp pt="2509061600" pp="1" l="46" ppth="Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" />
+  </s>
+</timetable>

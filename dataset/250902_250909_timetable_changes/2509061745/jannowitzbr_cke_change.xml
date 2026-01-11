@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jannowitzbrücke" eva="8089019">
+  <s id="-4635456032690953654-2509061730-20" eva="8089019">
+    <ar cpth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf" ct="2509061825" cs="c" clt="2509061745" l="5" />
+    <dp cpth="" ct="2509061825" cs="c" clt="2509061745" l="5" />
+  </s>
+  <s id="6805005977943824336-2509061707-17" eva="8089019">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.508" pr="1" />
+    <ar ct="2509061745" l="3" />
+    <dp ct="2509061744" l="3" />
+  </s>
+  <s id="7388368578082871397-2509061650-20" eva="8089019">
+    <ar ct="2509061745" l="5" />
+    <dp ct="2509061746" l="5" />
+  </s>
+</timetable>

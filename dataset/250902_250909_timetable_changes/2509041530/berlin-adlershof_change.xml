@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Adlershof" eva="8089052">
+  <s id="5649290765126931319-2509042149-2" eva="8089052">
+    <ar cpth="Berlin-Grünau" l="8" />
+    <dp cpth="Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park" l="8" />
+  </s>
+  <s id="2106461845293540378-2509042215-8" eva="8089052">
+    <ar cpth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal" l="8" />
+    <dp cpth="Berlin-Grünau" l="8" />
+  </s>
+  <s id="8976015365908880613-2509041545-8" eva="8089052">
+    <ar ct="2509041603" l="8" />
+    <dp ct="2509041603" l="8" />
+  </s>
+  <s id="3776666740028506747-2509041508-9" eva="8089052">
+    <ar ct="2509041528" l="45" />
+    <dp ct="2509041529" l="45" />
+  </s>
+</timetable>

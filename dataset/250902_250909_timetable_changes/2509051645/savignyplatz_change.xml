@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Savignyplatz" eva="8089037">
+  <s id="-4621085404125733440-2509051549-22" eva="8089037">
+    <ar ct="2509051648" l="9" />
+    <dp ct="2509051649" l="9" />
+  </s>
+  <s id="9079170669070697263-2509051530-28" eva="8089037">
+    <ar ct="2509051643" l="5" />
+    <dp ct="2509051644" l="5" />
+  </s>
+  <s id="732838878254816626-2509051551-21" eva="8089037">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)" ct="2509051639" l="7" />
+    <dp cpth="Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2509051639" l="7" />
+  </s>
+  <s id="1390527141869994091-2509051621-9" eva="8089037">
+    <ar cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)" ct="2509051649" cs="p" clt="2509051557" l="7">
+      <m id="r24075285" t="d" c="36" ts="2509051619" ts-tts="25-09-05 16:19:47.698" />
+      <m id="r24075287" t="d" c="36" ts="2509051619" ts-tts="25-09-05 16:19:47.698" />
+      <m id="r24077955" t="d" c="55" ts="2509051643" ts-tts="25-09-05 16:44:04.029" />
+    </ar>
+    <dp cpth="Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2509051649" cs="p" clt="2509051557" l="7">
+      <m id="r24075285" t="d" c="36" ts="2509051619" ts-tts="25-09-05 16:19:47.698" />
+      <m id="r24075287" t="d" c="36" ts="2509051619" ts-tts="25-09-05 16:19:47.698" />
+      <m id="r24077955" t="d" c="55" ts="2509051643" ts-tts="25-09-05 16:44:04.029" />
+    </dp>
+  </s>
+  <s id="-2591358946153207236-2509051610-17" eva="8089037">
+    <ar ct="2509051651" l="3" />
+    <dp ct="2509051651" l="3" />
+  </s>
+</timetable>

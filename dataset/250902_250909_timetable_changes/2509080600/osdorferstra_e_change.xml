@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Osdorfer Straße" eva="8089473">
+  <s id="-4938533506523138056-2509080554-19" eva="8089473">
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof" ct="2509080635" cs="c" clt="2509080600" l="26" />
+    <dp cpth="" ct="2509080636" cs="c" clt="2509080600" l="26" />
+  </s>
+  <s id="541254211750963682-2509080555-3" eva="8089473">
+    <ar ct="2509080600" l="26" />
+    <dp ct="2509080600" l="26" />
+  </s>
+  <s id="-3881094617070782979-2509080615-3" eva="8089473">
+    <ar ct="2509080620" l="26" />
+    <dp ct="2509080620" l="26" />
+  </s>
+  <s id="7576356083121382619-2509080655-3" eva="8089473">
+    <ar cpth="" cs="c" clt="2509080559" l="26" />
+    <dp cpth="Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" cs="c" clt="2509080559" l="26" />
+  </s>
+  <s id="3946930477244040962-2509080614-19" eva="8089473">
+    <ar ct="2509080655" l="26" />
+    <dp ct="2509080656" l="26" />
+  </s>
+</timetable>

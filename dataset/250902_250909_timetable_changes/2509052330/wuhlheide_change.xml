@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wuhlheide" eva="8089097">
+  <s id="-5413854737900985094-2509052329-2" eva="8089097">
+    <ar ppth="Berlin-Karlshorst (S)" pp="2" ct="2509052332" pt="2509052331" l="3" />
+    <dp ppth="Berlin-Köpenick" pp="2" ct="2509052333" pt="2509052332" l="3" />
+    <tl f="S" t="e" o="08" c="S" n="30629" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="3629" />
+    </ref>
+  </s>
+  <s id="609461914583349781-2509052349-2" eva="8089097">
+    <ar ppth="Berlin-Karlshorst (S)" pp="2" pt="2509052351" l="3" />
+    <dp ppth="Berlin-Köpenick" pp="2" pt="2509052351" l="3" />
+    <tl f="S" t="s" o="08" c="S" n="30631" />
+  </s>
+  <s id="4397109662926381180-2509052307-24" eva="8089097">
+    <ar ct="2509060003" l="3" />
+    <dp ct="2509060003" l="3" />
+  </s>
+</timetable>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hermannstraße" eva="8089105">
+  <s id="1493956073987190718-2509061601-17" eva="8089105">
+    <ar l="42">
+      <m id="r24089623" t="f" c="0" ts="2509051758" ts-tts="25-09-05 17:58:55.009" />
+    </ar>
+    <dp l="42">
+      <m id="r24089623" t="f" c="0" ts="2509051758" ts-tts="25-09-05 17:58:55.009" />
+    </dp>
+  </s>
+  <s id="-4940052607811026713-2509061501-9" eva="8089105">
+    <ar l="41">
+      <m id="r24080666" t="f" c="0" ts="2509051658" ts-tts="25-09-05 16:58:56.859" />
+      <m id="r24080667" t="f" c="0" ts="2509051658" ts-tts="25-09-05 16:58:56.859" />
+    </ar>
+    <dp l="41">
+      <m id="r24080666" t="f" c="0" ts="2509051658" ts-tts="25-09-05 16:58:56.859" />
+      <m id="r24080667" t="f" c="0" ts="2509051658" ts-tts="25-09-05 16:58:56.859" />
+    </dp>
+  </s>
+  <s id="-3635000672633311285-2509052308-3" eva="8089105">
+    <ar ct="2509052315" l="45" />
+    <dp ct="2509052315" l="45" />
+  </s>
+  <s id="3208140920676803502-2509052241-17" eva="8089105">
+    <ar ct="2509052317" l="42" />
+    <dp ct="2509052318" l="42" />
+  </s>
+  <s id="-1894271196610379089-2509052251-8" eva="8089105">
+    <ar ppth="Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln" pp="1" ct="2509052313" pt="2509052311" l="45" />
+    <dp ppth="Berlin-Tempelhof|Berlin Südkreuz (S)" pp="1" ct="2509052314" pt="2509052312" l="45" />
+    <tl f="S" t="s" o="08" c="S" n="44124" />
+  </s>
+</timetable>

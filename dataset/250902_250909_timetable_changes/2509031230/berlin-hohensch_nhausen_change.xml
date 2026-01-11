@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Hohenschönhausen" eva="8011901">
+  <s id="-614966473235197096-2509031249-5" eva="8011901">
+    <m id="r2485755" t="h" from="2509031249" to="2509031354" cat="Störung" ts="2509031230" ts-tts="25-09-03 12:30:52.104" pr="1" />
+    <ar cpth="Berlin-Lichtenberg" ct="2509031321" l="24">
+      <m id="r23710001" t="f" c="0" ts="2509022234" ts-tts="25-09-02 22:35:06.010" />
+      <m id="r23770039" t="d" c="48" ts="2509031228" ts-tts="25-09-03 12:29:00.029" />
+    </ar>
+    <dp cpth="Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf" ct="2509031322" l="24">
+      <m id="r23710001" t="f" c="0" ts="2509022234" ts-tts="25-09-02 22:35:06.010" />
+      <m id="r23770039" t="d" c="48" ts="2509031228" ts-tts="25-09-03 12:29:00.029" />
+    </dp>
+  </s>
+  <s id="5944106334529855552-2509031133-13" eva="8011901">
+    <ar ct="2509031247" l="12" />
+    <dp ct="2509031249" l="12" />
+  </s>
+</timetable>

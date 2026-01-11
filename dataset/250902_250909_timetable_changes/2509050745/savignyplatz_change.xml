@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Savignyplatz" eva="8089037">
+  <s id="-2488878240867328765-2509050649-22" eva="8089037">
+    <ar ct="2509050748" l="9" />
+    <dp ct="2509050749" l="9" />
+  </s>
+  <s id="-350837373914204669-2509050735-21" eva="8089037">
+    <ar ppth="Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)" pp="4" ct="2509050822" pt="2509050822" l="5">
+      <m id="r24011094" t="f" c="0" ts="2509050731" ts-tts="25-09-05 07:31:56.598" />
+    </ar>
+    <dp ppth="Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Olympiastadion" pp="4" pt="2509050823" l="5">
+      <m id="r24011094" t="f" c="0" ts="2509050731" ts-tts="25-09-05 07:31:56.598" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="50046" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="5046" />
+    </ref>
+  </s>
+  <s id="7012086047380989146-2509050731-9" eva="8089037">
+    <ar ct="2509050801" l="7" />
+    <dp ct="2509050801" l="7" />
+  </s>
+</timetable>

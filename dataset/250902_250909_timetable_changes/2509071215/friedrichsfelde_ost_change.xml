@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Friedrichsfelde Ost" eva="8089059">
+  <s id="1106930753239063023-2509071227-9" eva="8089059">
+    <ar cpth="" ppth="Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf" pp="2" ct="2509071251" pt="2509071251" cs="c" clt="2509071215" l="5" />
+    <dp cpth="" ppth="Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Olympiastadion" pp="2" ct="2509071251" pt="2509071251" cs="c" clt="2509071215" l="5" />
+    <tl f="S" t="e" o="08" c="S" n="50076" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="5076" />
+    </ref>
+  </s>
+  <s id="2470428453551712765-2509071230-14" eva="8089059">
+    <ar cpth="Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf" ct="2509071311" l="5" />
+    <dp cpth="Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Olympiastadion" ct="2509071311" l="5" />
+  </s>
+  <s id="-2663386127230652727-2509071131-19" eva="8089059">
+    <ar ct="2509071214" l="5" />
+    <dp ct="2509071215" l="5" />
+  </s>
+  <s id="-3105858336980416288-2509071130-14" eva="8089059">
+    <ar ct="2509071213" l="5" />
+    <dp ct="2509071214" l="5" />
+  </s>
+</timetable>

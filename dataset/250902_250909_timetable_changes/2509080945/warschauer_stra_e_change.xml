@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="-3229253093632429588-2509080909-12" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-07 23:16:04.237" pr="1" />
+    <ar ct="2509080946" l="9" />
+    <dp ct="2509080948" l="9" />
+  </s>
+  <s id="-2929546616446349691-2509080937-1" eva="8089045">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 23:16:04.613" pr="1" />
+    <dp cpth="Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)|Berlin-Wartenberg" ct="2509080937" l="75" />
+  </s>
+  <s id="3292616117665998896-2509080911-15" eva="8089045">
+    <ar ct="2509080944" l="5" />
+    <dp ct="2509080945" l="5" />
+  </s>
+  <s id="-2581913243982265043-2509080921-11" eva="8089045">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 23:16:04.613" pr="1" />
+    <ar ct="2509080943" l="7" />
+    <dp ct="2509080944" l="7" />
+  </s>
+</timetable>

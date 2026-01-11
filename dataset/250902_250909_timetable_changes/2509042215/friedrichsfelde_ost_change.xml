@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Friedrichsfelde Ost" eva="8089059">
+  <s id="-5371670826590664173-2509042218-5" eva="8089059">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.279" pr="1" />
+    <ar cpth="" ct="2509042229" cs="c" clt="2509042158" l="75" />
+    <dp cpth="" ct="2509042229" cs="c" clt="2509042158" l="75" />
+  </s>
+  <s id="-7024144893468919869-2509042101-23" eva="8089059">
+    <m id="r2486483" t="h" from="2509042000" to="2509042230" cat="Störung" ts="2509042015" ts-tts="25-09-04 20:15:12.516" pr="1" />
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.390" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.278" pr="1" />
+    <ar ct="2509042214" l="7" />
+    <dp ct="2509042215" l="7" />
+  </s>
+  <s id="1394246017689839595-2509042208-5" eva="8089059">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.279" pr="1" />
+    <ar cpth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" ct="2509042222" cs="p" clt="2509042158" l="75" />
+    <dp cpth="Berlin Springpfuhl|Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)|Berlin-Wartenberg" ct="2509042223" cs="p" clt="2509042158" l="75" />
+  </s>
+</timetable>

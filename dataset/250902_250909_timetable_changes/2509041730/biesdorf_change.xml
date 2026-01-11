@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Biesdorf" eva="8089055">
+  <s id="-4635456032690953654-2509041730-13" eva="8089055">
+    <m id="r2486403" t="h" from="2509041700" to="2509041900" cat="Störung" ts="2509041723" ts-tts="25-09-04 17:23:32.810" pr="1" />
+    <ar ct="2509041811" l="5" />
+    <dp ct="2509041811" l="5" />
+  </s>
+  <s id="-8908884976535130005-2509041647-18" eva="8089055">
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.784" pr="1" />
+    <ar cp="1" ct="2509041730" l="5" />
+    <dp cp="1" ct="2509041729" l="5" />
+  </s>
+  <s id="-551522984523274095-2509041724-4" eva="8089055">
+    <m id="r2486403" t="h" from="2509041700" to="2509041900" cat="Störung" ts="2509041723" ts-tts="25-09-04 17:23:32.810" pr="1" />
+    <ar cpth="" ct="2509041730" cs="c" clt="2509041729" l="5">
+      <m id="r23947118" t="d" c="36" ts="2509041729" ts-tts="25-09-04 17:29:29.213" />
+      <m id="r23947120" t="d" c="36" ts="2509041729" ts-tts="25-09-04 17:29:29.213" />
+    </ar>
+    <dp cpth="Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)" ct="2509041731" cs="c" clt="2509041729" l="5">
+      <m id="r23947118" t="d" c="36" ts="2509041729" ts-tts="25-09-04 17:29:29.213" />
+      <m id="r23947120" t="d" c="36" ts="2509041729" ts-tts="25-09-04 17:29:29.213" />
+    </dp>
+  </s>
+  <s id="-7499154240306478318-2509041711-11" eva="8089055">
+    <ar ct="2509041736" l="5" />
+    <dp ct="2509041736" l="5" />
+  </s>
+  <s id="-5055450002730424740-2509041744-4" eva="8089055">
+    <m id="r2486403" t="h" from="2509041700" to="2509041900" cat="Störung" ts="2509041723" ts-tts="25-09-04 17:23:32.810" pr="1" />
+    <ar ct="2509041752" l="5" />
+    <dp ct="2509041753" l="5" />
+  </s>
+</timetable>

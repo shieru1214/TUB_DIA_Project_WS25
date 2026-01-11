@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Köpenick" eva="8089069">
+  <s id="-764672952688159980-2509040932-18" eva="8089069">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.257" pr="1" />
+    <ar ct="2509041021" l="3" />
+  </s>
+  <s id="-1275668028221153903-2509040847-25" eva="8089069">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <ar ct="2509040944" l="3" />
+    <dp ct="2509040945" l="3" />
+  </s>
+  <s id="4878536115671137775-2509040912-18" eva="8089069">
+    <ar ct="2509040955" l="3" />
+  </s>
+  <s id="-8013781951759900400-2509040958-12" eva="8089069">
+    <ar ppth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide" pp="2" ct="2509041024" pt="2509041024" l="3" />
+    <dp ppth="Berlin-Friedrichshagen|Berlin-Rahnsdorf|Berlin-Wilhelmshagen|Erkner (S)" pp="2" ct="2509041024" pt="2509041024" l="3" />
+    <tl f="S" t="e" o="08" c="S" n="30081" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="3081" />
+    </ref>
+  </s>
+</timetable>

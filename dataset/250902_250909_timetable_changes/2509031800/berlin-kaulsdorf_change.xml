@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Kaulsdorf" eva="8089068">
+  <s id="1107671395656819281-2509031925-4" eva="8089068">
+    <ar cpth="Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)" l="5" />
+    <dp cpth="Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" l="5" />
+  </s>
+  <s id="8256709329134060660-2509031850-11" eva="8089068">
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:35.481" pr="1" />
+    <ar cpth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)" ct="2509031923" l="5" />
+    <dp cpth="Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2509031924" l="5" />
+  </s>
+  <s id="-5055450002730424740-2509031744-2" eva="8089068">
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:35.481" pr="1" />
+    <ar ct="2509031801" l="5" />
+    <dp ct="2509031802" l="5" />
+  </s>
+  <s id="-1246747738401012937-2509031905-4" eva="8089068">
+    <ar cpth="Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)" l="5" />
+    <dp cpth="Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" l="5" />
+  </s>
+  <s id="529349638452342774-2509031824-2" eva="8089068">
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:35.481" pr="1" />
+    <ar ct="2509031838" l="5" />
+    <dp ct="2509031839" l="5" />
+  </s>
+  <s id="4607710741670844106-2509031751-13" eva="8089068">
+    <ar ct="2509031830" l="5" />
+    <dp ct="2509031830" l="5" />
+  </s>
+  <s id="6337897871936326684-2509031837-20" eva="8089068">
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:35.481" pr="1" />
+    <ar cpth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal" l="5" />
+    <dp cpth="Berlin-Mahlsdorf (S)|Birkenstein|Hoppegarten(Mark)" l="5" />
+  </s>
+  <s id="4953571786526810340-2509031810-11" eva="8089068">
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:35.481" pr="1" />
+    <ar cpth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)" ct="2509031844" l="5" />
+    <dp cpth="Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2509031844" l="5" />
+  </s>
+  <s id="1383733975399778773-2509031830-11" eva="8089068">
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:35.481" pr="1" />
+    <ar cpth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)" l="5" />
+    <dp cpth="Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" l="5" />
+  </s>
+  <s id="-2185410414257421377-2509031845-4" eva="8089068">
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:35.481" pr="1" />
+    <ar cpth="Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)" l="5" />
+    <dp cpth="Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" l="5" />
+  </s>
+</timetable>

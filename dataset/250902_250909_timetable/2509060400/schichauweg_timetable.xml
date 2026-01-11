@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Schichauweg">
+  <s id="3899013513230823209-2509060355-17">
+    <tl f="S" t="p" o="08" c="S" n="2263" />
+    <ar pt="2509060444" pp="1" l="2" ppth="Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee" />
+    <dp pt="2509060444" pp="1" l="2" ppth="Berlin-Lichtenrade|Mahlow" />
+  </s>
+  <s id="3537374147175735476-2509060420-3">
+    <tl f="S" t="p" o="08" c="S" n="2274" />
+    <ar pt="2509060426" pp="2" l="2" ppth="Mahlow|Berlin-Lichtenrade" />
+    <dp pt="2509060426" pp="2" l="2" ppth="Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow" />
+  </s>
+  <s id="-5559173400145103397-2509060325-17">
+    <tl f="S" t="p" o="08" c="S" n="2221" />
+    <ar pt="2509060414" pp="1" l="2" ppth="Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee" />
+    <dp pt="2509060414" pp="1" l="2" ppth="Berlin-Lichtenrade|Mahlow" />
+  </s>
+  <s id="-2560596708546568808-2509060448-3">
+    <tl f="S" t="p" o="08" c="S" n="2018" />
+    <ar pt="2509060454" pp="2" l="2" ppth="Mahlow|Berlin-Lichtenrade" />
+    <dp pt="2509060454" pp="2" l="2" ppth="Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow" />
+  </s>
+</timetable>

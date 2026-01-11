@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hermannstraße" eva="8089105">
+  <s id="-8388647616442385944-2509061144-1" eva="8089105">
+    <dp ct="2509061145" l="47" />
+  </s>
+  <s id="2340315678888635394-2509061101-17" eva="8089105">
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof" ct="2509061143" l="42">
+      <m id="r24046091" t="f" c="0" ts="2509051300" ts-tts="25-09-05 13:00:25.751" />
+      <m id="r24046092" t="f" c="0" ts="2509051300" ts-tts="25-09-05 13:00:25.751" />
+    </ar>
+    <dp cpth="Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee" ct="2509061144" l="42">
+      <m id="r24046091" t="f" c="0" ts="2509051300" ts-tts="25-09-05 13:00:25.751" />
+      <m id="r24046092" t="f" c="0" ts="2509051300" ts-tts="25-09-05 13:00:25.751" />
+    </dp>
+  </s>
+  <s id="6691491657590837504-2509061201-9" eva="8089105">
+    <ar cpth="Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln" ct="2509061219" l="41">
+      <m id="r24053238" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.152" />
+      <m id="r24053239" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.152" />
+    </ar>
+    <dp cpth="Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" l="41">
+      <m id="r24053238" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.152" />
+      <m id="r24053239" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.152" />
+    </dp>
+  </s>
+  <s id="-8330413065028972171-2509061117-12" eva="8089105">
+    <ar ct="2509061152" l="45" />
+    <dp ct="2509061152" l="45" />
+  </s>
+  <s id="-8923568746666042979-2509061111-17" eva="8089105">
+    <ar ct="2509061147" l="42" />
+    <dp ct="2509061148" l="42" />
+  </s>
+</timetable>

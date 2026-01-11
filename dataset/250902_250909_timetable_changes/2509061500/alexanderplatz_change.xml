@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Alexanderplatz" eva="8011155">
+  <s id="6071966870883745842-2509061519-12" eva="8011155">
+    <ar ct="2509061621" l="1" />
+    <dp ct="2509061622" l="1" />
+  </s>
+  <s id="-1839551630028491335-2509061319-12" eva="8011155">
+    <ar cpth="Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Berlin-Wannsee|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße" ppth="Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Berlin-Wannsee|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße" pp="1" ct="2509061531" pt="2509061420" l="1" />
+    <dp cpth="Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)" ppth="Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)" pp="1" ct="2509061532" pt="2509061421" l="1" />
+    <tl f="N" t="p" o="OWRE" c="RE" n="73772" />
+  </s>
+  <s id="-2512511699549710191-2509061433-4" eva="8011155">
+    <ar ct="2509061458" l="8">
+      <m id="r24181120" t="d" c="48" ts="2509061420" ts-tts="25-09-06 14:20:56.459" />
+    </ar>
+    <dp ct="2509061458" l="8">
+      <m id="r24181120" t="d" c="48" ts="2509061420" ts-tts="25-09-06 14:20:56.459" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:48.013" />
+</timetable>

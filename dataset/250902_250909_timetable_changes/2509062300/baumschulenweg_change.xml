@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Baumschulenweg" eva="8089004">
+  <s id="8910292833623237200-2509062249-5" eva="8089004">
+    <ar ct="2509062300" l="8" />
+    <dp ct="2509062301" l="8" />
+  </s>
+  <s id="5530969722606973139-2509062315-5" eva="8089004">
+    <ar ct="2509062325" l="8" />
+    <dp ct="2509062325" l="8" />
+  </s>
+  <s id="3103466145225635242-2509062248-6" eva="8089004">
+    <ar ct="2509062300" l="45" />
+    <dp ct="2509062301" l="45" />
+  </s>
+  <s id="-6464642931563010604-2509062315-3" eva="8089004">
+    <ar ppth="Berlin Treptower Park|Berlin Plänterwald" pp="3" ct="2509062320" pt="2509062320" l="8" />
+    <dp ppth="Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" pp="3" ct="2509062320" pt="2509062320" l="8" />
+    <tl f="S" t="s" o="08" c="S" n="814353" />
+  </s>
+</timetable>

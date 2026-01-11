@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="-3533074024473700306-2509070144-13" eva="8089045">
+    <ar ppth="Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)" pp="3" ct="2509070215" pt="2509070215" l="5" />
+    <tl f="S" t="e" o="08" c="S" n="50262" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="5262" />
+    </ref>
+  </s>
+  <s id="1509193223554920888-2509070126-2" eva="8089045">
+    <ar ct="2509070129" l="3" />
+    <dp ct="2509070130" l="3" />
+  </s>
+  <s id="6387158608970118815-2509070053-12" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.798" pr="1" />
+    <ar ct="2509070128" l="9" />
+    <dp ct="2509070134" l="9" />
+  </s>
+</timetable>

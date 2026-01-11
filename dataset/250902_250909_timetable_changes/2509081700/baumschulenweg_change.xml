@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Baumschulenweg" eva="8089004">
+  <s id="3139994785061660047-2509081634-8" eva="8089004">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.273" pr="2" />
+    <ar cpth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)" ct="2509081700" l="8" />
+    <dp cpth="Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee|Berlin Greifswalder Str|Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2509081701" l="8" />
+  </s>
+  <s id="-9011771718775644583-2509081617-22" eva="8089004">
+    <m id="r2488251" t="h" from="2509081300" to="2509081530" cat="Störung" ts="2509081349" ts-tts="25-09-08 14:16:05.090" pr="2" />
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-07 23:16:04.476" pr="1" />
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.273" pr="2" />
+    <ar ct="2509081709" l="9" />
+    <dp ct="2509081710" l="9" />
+  </s>
+  <s id="-7345442869346298799-2509081714-8" eva="8089004">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.273" pr="2" />
+    <ar ct="2509081740" l="8" />
+    <dp ct="2509081740" l="8" />
+  </s>
+  <s id="-546799937379529745-2509081649-4" eva="8089004">
+    <ar ct="2509081658" l="47" />
+    <dp ct="2509081659" l="47" />
+  </s>
+</timetable>

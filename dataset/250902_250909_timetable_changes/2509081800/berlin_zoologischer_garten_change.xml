@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Zoologischer Garten" eva="8010406">
+  <s id="-4674302681811850992-2509081913-22" eva="8010406">
+    <m id="r2383285" t="h" from="2509081913" to="2510090706" cat="Bauarbeiten" ts="2509072307" ts-tts="25-09-07 23:07:16.524" pr="1" />
+    <m id="r2444960" t="h" from="2508270600" to="2509272359" cat="Information" ts="2508262309" ts-tts="25-09-07 23:16:04.746" pr="2" />
+    <m id="r2488294" t="h" from="2509072219" to="2509090547" cat="Störung" ts="2509081507" ts-tts="25-09-08 15:07:25.531" pr="1" />
+    <m id="r2383287" t="h" from="2509081913" to="2510090706" cat="Bauarbeiten" ts="2509072307" ts-tts="25-09-07 23:07:16.524" pr="1" />
+    <m id="r2383286" t="h" from="2509081913" to="2510090706" cat="Bauarbeiten" ts="2509072307" ts-tts="25-09-07 23:07:16.524" pr="1" />
+    <ar cpth="Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(M) Flughafen Fernbf|Siegburg/Bonn|Köln Hbf|Düsseldorf Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Bielefeld Hbf|Minden(Westf)|Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf|Brandenburg Hbf|Potsdam Hbf|Berlin-Wannsee" ct="2509090532">
+      <m id="r24440133" t="d" c="31" ts="2509081621" ts-tts="25-09-08 16:21:42.887" />
+      <m id="r24440135" t="d" c="31" ts="2509081621" ts-tts="25-09-08 16:21:42.887" />
+      <m id="r24455627" t="d" c="48" ts="2509081751" ts-tts="25-09-08 17:51:37.990" />
+      <m id="r24457002" t="f" c="0" ts="2509081759" ts-tts="25-09-08 17:59:49.355" />
+    </ar>
+    <dp cpth="Berlin Hbf|Berlin Ostbahnhof" ct="2509090534">
+      <m id="r24440133" t="d" c="31" ts="2509081621" ts-tts="25-09-08 16:21:42.887" />
+      <m id="r24440135" t="d" c="31" ts="2509081621" ts-tts="25-09-08 16:21:42.887" />
+      <m id="r24455627" t="d" c="48" ts="2509081751" ts-tts="25-09-08 17:51:37.990" />
+      <m id="r24457002" t="f" c="0" ts="2509081759" ts-tts="25-09-08 17:59:49.355" />
+    </dp>
+  </s>
+  <s id="-7508358264308364137-2509081714-23" eva="8010406">
+    <m id="r2483170" t="h" from="2509080000" to="2509121900" cat="Information" ts="2509072309" ts-tts="25-09-07 23:09:53.158" pr="2" />
+    <ar ct="2509081920" l="7" />
+    <dp ct="2509081921" l="7" />
+  </s>
+  <s id="-6887958024916358777-2509081801-9" eva="8010406">
+    <m id="r2483170" t="h" from="2509080000" to="2509121900" cat="Information" ts="2509072309" ts-tts="25-09-07 23:09:53.158" pr="2" />
+    <m id="r2487943" t="h" from="2509080330" to="2509082359" cat="Information" ts="2509080413" ts-tts="25-09-08 04:13:24.903" pr="2" />
+    <ar ct="2509081840" l="7" />
+    <dp ct="2509081841" l="7" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

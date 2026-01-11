@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lankwitz" eva="8089114">
+  <s id="5183580681728349127-2509080508-23" eva="8089114">
+    <ar ct="2509080601" l="25" />
+    <dp ct="2509080601" l="25" />
+  </s>
+  <s id="-4938533506523138056-2509080554-17" eva="8089114">
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof" ct="2509080631" cs="c" clt="2509080600" l="26" />
+    <dp cpth="" ct="2509080631" cs="c" clt="2509080600" l="26" />
+  </s>
+  <s id="-3881094617070782979-2509080615-5" eva="8089114">
+    <ar ct="2509080624" l="26" />
+    <dp ct="2509080624" l="26" />
+  </s>
+  <s id="7576356083121382619-2509080655-5" eva="8089114">
+    <ar cpth="" cs="c" clt="2509080559" l="26" />
+    <dp cpth="Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" cs="c" clt="2509080559" l="26" />
+  </s>
+  <s id="3946930477244040962-2509080614-17" eva="8089114">
+    <ar ct="2509080651" l="26" />
+    <dp ct="2509080651" l="26" />
+  </s>
+</timetable>

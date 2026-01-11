@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Savignyplatz" eva="8089037">
+  <s id="-1130646491810732642-2509071251-5" eva="8089037">
+    <ar ct="2509071301" l="5" />
+    <dp ct="2509071302" l="5" />
+  </s>
+  <s id="1106930753239063023-2509071227-23" eva="8089037">
+    <ar cpth="" ppth="Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)" pp="4" ct="2509071322" pt="2509071322" cs="c" clt="2509071215" l="5" />
+    <dp cpth="" ppth="Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Olympiastadion" pp="4" ct="2509071323" pt="2509071323" cs="c" clt="2509071215" l="5" />
+    <tl f="S" t="e" o="08" c="S" n="50076" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="5076" />
+    </ref>
+  </s>
+  <s id="3963781148212337793-2509071131-21" eva="8089037">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 23:16:03.504" pr="1" />
+    <ar ct="2509071215" l="7" />
+    <dp ct="2509071215" l="7" />
+  </s>
+  <s id="2470428453551712765-2509071230-28" eva="8089037">
+    <ar cpth="Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)" ct="2509071342" l="5" />
+    <dp cpth="Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Olympiastadion" ct="2509071343" l="5" />
+  </s>
+  <s id="-5365976065096125856-2509071229-22" eva="8089037">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.181" pr="1" />
+    <ar ct="2509071327" l="9" />
+    <dp ct="2509071328" l="9" />
+  </s>
+</timetable>

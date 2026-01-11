@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Savignyplatz" eva="8089037">
+  <s id="8648106502718269089-2509061516-14" eva="8089037">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.746" pr="2" />
+    <m id="r2487358" t="h" from="2509061130" to="2509061600" cat="Störung" ts="2509061214" ts-tts="25-09-06 12:14:49.171" pr="1" />
+    <ar cpth="Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)" ct="2509061545" l="7" />
+    <dp cpth="Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee|Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" ct="2509061545" l="7" />
+  </s>
+  <s id="7847559778594890874-2509061525-3" eva="8089037">
+    <ar cpth="" ppth="Berlin Westkreuz|Berlin Charlottenburg (S)" pp="3" ct="2509061548" pt="2509061529" cs="c" clt="2509061523" l="7" />
+    <dp cpth="" ppth="Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" pp="3" ct="2509061548" pt="2509061529" cs="c" clt="2509061523" l="7" />
+    <tl f="S" t="e" o="08" c="S" n="70109" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="7109" />
+    </ref>
+  </s>
+  <s id="1415115277631270144-2509061527-9" eva="8089037">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.508" pr="1" />
+    <ar ct="2509061547" l="3" />
+    <dp ct="2509061547" l="3" />
+  </s>
+  <s id="-5790363009453351842-2509061531-5" eva="8089037">
+    <ar ct="2509061543" l="5" />
+    <dp ct="2509061543" l="5" />
+  </s>
+</timetable>

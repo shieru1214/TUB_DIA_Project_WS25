@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Pankow">
+  <s id="-4688142707107394578-2509050342-5">
+    <tl f="S" t="p" o="08" c="S" n="2008" />
+    <ar pt="2509050353" pp="2" l="2" ppth="Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="-1608877025552722982-2509050351-3">
+    <tl f="S" t="p" o="08" c="S" n="84896" />
+    <ar pt="2509050357" pp="1" l="85" pde="Berlin Westend" ppth="Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="692834410276318767-2509050350-1">
+    <tl t="p" o="080001" c="Bus" n="22100" />
+    <dp pt="2509050350" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+</timetable>

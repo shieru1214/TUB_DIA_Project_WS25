@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bornholmer Str." eva="8089008">
+  <s id="2552625609599357362-2509071501-2" eva="8089008">
+    <ar l="8">
+      <m id="r24199564" t="f" c="0" ts="2509061659" ts-tts="25-09-06 16:59:37.796" />
+    </ar>
+    <dp l="8">
+      <m id="r24199564" t="f" c="0" ts="2509061659" ts-tts="25-09-06 16:59:37.796" />
+    </dp>
+  </s>
+  <s id="675350262971011718-2509071450-2" eva="8089008">
+    <ar l="8">
+      <m id="r24198793" t="f" c="0" ts="2509061649" ts-tts="25-09-06 16:49:45.574" />
+      <m id="r24198794" t="f" c="0" ts="2509061649" ts-tts="25-09-06 16:49:45.574" />
+    </ar>
+    <dp l="8">
+      <m id="r24198793" t="f" c="0" ts="2509061649" ts-tts="25-09-06 16:49:45.574" />
+      <m id="r24198794" t="f" c="0" ts="2509061649" ts-tts="25-09-06 16:49:45.574" />
+    </dp>
+  </s>
+  <s id="4691249738553768996-2509062211-2" eva="8089008">
+    <ar ct="2509062213" l="85" />
+    <dp ct="2509062215" l="85" />
+  </s>
+  <s id="-5706372244923830012-2509062220-2" eva="8089008">
+    <ar ct="2509062223" l="85" />
+    <dp cde="Berlin Treptower Park" dc="1" l="85" />
+  </s>
+  <s id="2547209313592749322-2509062230-2" eva="8089008">
+    <ar ct="2509062232" l="8" />
+  </s>
+  <s id="-3481965956683235929-2509062158-8" eva="8089008">
+    <ar cpth="Berlin-Schönholz|Berlin Wollankstraße" ct="2509062218" l="1" />
+    <dp cpth="Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf" ct="2509062219" l="1" />
+  </s>
+  <s id="-3414293138181469947-2509062148-10" eva="8089008">
+    <ar ct="2509062213" l="25" />
+    <dp ct="2509062214" l="25" />
+  </s>
+  <s id="5046051596327121039-2509062228-18" eva="8089008">
+    <ar ct="2509062308" l="2" />
+  </s>
+</timetable>

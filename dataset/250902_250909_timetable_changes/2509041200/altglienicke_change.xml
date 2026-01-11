@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Altglienicke" eva="8089054">
+  <s id="-9205158869388406668-2509041157-5" eva="8089054">
+    <m id="r2486210" t="h" from="2509041000" to="2509041500" cat="Störung" ts="2509041020" ts-tts="25-09-04 10:20:34.743" pr="2" />
+    <ar cpth="" ct="2509041212" cs="c" clt="2509041123" l="45" />
+    <dp cpth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)" ct="2509041213" cs="c" clt="2509041123" l="45" />
+  </s>
+  <s id="5301035540579287971-2509041208-13" eva="8089054">
+    <ar cpth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" ppth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" pp="1" ct="2509041242" pt="2509041242" cs="c" clt="2509041158" l="9" />
+    <dp cpth="Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ppth="Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" pp="1" ct="2509041243" pt="2509041243" cs="c" clt="2509041158" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90077" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9077" />
+    </ref>
+  </s>
+  <s id="-8335537581173972283-2509041148-13" eva="8089054">
+    <ar ppth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" pp="1" ct="2509041224" pt="2509041222" l="9" />
+    <dp ppth="Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" pp="1" ct="2509041224" pt="2509041223" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90075" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9075" />
+    </ref>
+  </s>
+</timetable>

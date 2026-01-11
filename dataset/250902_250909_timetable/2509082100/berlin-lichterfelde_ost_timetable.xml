@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde Ost">
+  <s id="-4591667838043678587-2509082056-5">
+    <tl f="N" t="p" o="800158" c="RE" n="3356" />
+    <ar pt="2509082111" pp="4" l="3" ppth="Ludwigsfelde|Birkengrund|Großbeeren|Teltow" />
+    <dp pt="2509082112" pp="4" l="3" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" />
+  </s>
+  <s id="416223917512060305-2509082103-6">
+    <tl f="N" t="p" o="800158" c="RE" n="3183" />
+    <ar pt="2509082136" pp="4" l="4" ppth="Jüterbog|Luckenwalde|Trebbin|Thyrow|Ludwigsfelde" />
+    <dp pt="2509082137" pp="4" l="4" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow|Stendal Hbf" />
+  </s>
+  <s id="7389501989890790418-2509082002-13">
+    <tl f="N" t="p" o="800158" c="RE" n="3160" />
+    <ar pt="2509082118" pp="3" l="4" ppth="Rathenow|Nennhausen|Buschow|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau|Berlin Jungfernheide|Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" />
+    <dp pt="2509082119" pp="3" l="4" ppth="Ludwigsfelde|Thyrow|Trebbin|Luckenwalde|Jüterbog" />
+  </s>
+  <s id="4922839504428406365-2509082133-4">
+    <tl f="N" t="p" o="800158" c="RE" n="3359" />
+    <ar pt="2509082149" pp="3" l="3" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" />
+    <dp pt="2509082150" pp="3" l="3" ppth="Teltow|Großbeeren|Birkengrund|Ludwigsfelde|Luckenwalde|Jüterbog" />
+  </s>
+</timetable>

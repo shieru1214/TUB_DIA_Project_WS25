@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Adlershof" eva="8089052">
+  <s id="5607666004607282394-2509081516-18" eva="8089052">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.098" pr="2" />
+    <ar cpth="Berlin Charlottenburg (S)|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal" ct="2509081607" l="46" />
+    <dp cpth="Berlin-Grünau|Eichwalde|Zeuthen" ct="2509081608" l="46" />
+  </s>
+  <s id="365419652580706518-2509081559-2" eva="8089052">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.098" pr="2" />
+    <ar ct="2509081603" l="85" />
+    <dp ct="2509081603" l="85" />
+  </s>
+  <s id="425200799711732885-2509081554-5" eva="8089052">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.098" pr="2" />
+    <ar cpth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde|Berlin-Grünau" ct="2509081613" l="8" />
+    <dp cpth="Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee|Berlin Greifswalder Str|Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2509081613" l="8" />
+  </s>
+  <s id="-2230900640356315077-2509081544-17" eva="8089052">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.098" pr="2" />
+    <ar ct="2509081624" l="8" />
+    <dp ct="2509081624" l="8" />
+  </s>
+</timetable>

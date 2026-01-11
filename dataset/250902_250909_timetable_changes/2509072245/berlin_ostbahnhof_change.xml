@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostbahnhof" eva="8010255">
+  <s id="-5600294764274248070-2509072314-3" eva="8010255">
+    <ar ct="2509072334" l="23" />
+    <dp ct="2509072338" l="23" />
+  </s>
+  <s id="-2167438544370822717-2509072236-101" eva="8010255">
+    <m id="r2397244" t="h" from="2504021351" to="2509302359" cat="Information" ts="2504021355" ts-tts="25-09-06 23:16:02.806" pr="2" />
+    <m id="r2484847" t="h" from="2509011500" to="2509192359" cat="Information" ts="2509011714" ts-tts="25-09-06 23:16:03.180" pr="2" />
+    <ar cpth="Hamburg-Altona|Hamburg Hbf|Lüneburg|Uelzen|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf" ppth="Hamburg-Altona|Hamburg Hbf|Lüneburg|Uelzen|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf|Berlin Südkreuz" pp="3" ct="2509080141" pt="2509080135" ps="a">
+      <m id="r24330913" t="f" c="0" ts="2509072244" ts-tts="25-09-07 22:44:18.513" />
+      <m id="r24330917" t="f" c="0" ts="2509072244" ts-tts="25-09-07 22:44:33.916" />
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="809" />
+  </s>
+  <s id="7251022928272275067-2509072206-21" eva="8010255">
+    <ar ct="2509080020" l="1">
+      <m id="r24330712" t="d" c="48" ts="2509072241" ts-tts="25-09-07 22:41:44.251" />
+      <m id="r24330713" t="d" c="48" ts="2509072241" ts-tts="25-09-07 22:41:44.251" />
+    </ar>
+    <dp ct="2509080021" l="1">
+      <m id="r24330712" t="d" c="48" ts="2509072241" ts-tts="25-09-07 22:41:44.251" />
+      <m id="r24330713" t="d" c="48" ts="2509072241" ts-tts="25-09-07 22:41:44.251" />
+    </dp>
+  </s>
+  <s id="-5198188873967874185-2509072301-13" eva="8010255">
+    <ar ct="2509080002" l="7" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:45.514" />
+</timetable>

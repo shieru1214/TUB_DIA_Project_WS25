@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostkreuz" eva="8011162">
+  <s id="8303865692043475120-2509082012-18" eva="8011162">
+    <ar ct="2509082213" l="1" />
+    <dp ct="2509082215" l="1" />
+  </s>
+  <s id="3136511382005359533-2509091408-8" eva="8011162">
+    <ar l="24">
+      <m id="r24478942" t="f" c="0" ts="2509082108" ts-tts="25-09-08 21:08:45.606" />
+    </ar>
+    <dp l="24">
+      <m id="r24478942" t="f" c="0" ts="2509082108" ts-tts="25-09-08 21:08:45.606" />
+    </dp>
+  </s>
+  <s id="2693393982479953636-2509091414-2" eva="8011162">
+    <ar l="32">
+      <m id="r24475932" t="f" c="0" ts="2509082035" ts-tts="25-09-08 20:36:13.248" />
+    </ar>
+    <dp l="32">
+      <m id="r24475932" t="f" c="0" ts="2509082035" ts-tts="25-09-08 20:36:13.248" />
+    </dp>
+  </s>
+  <s id="7598335771179837586-2509082241-7" eva="8011162">
+    <m id="r2483169" t="h" from="2509080000" to="2509121900" cat="Information" ts="2509072309" ts-tts="25-09-07 23:10:00.594" pr="2" />
+    <ar cpth="Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof" ct="2509082306" l="2">
+      <m id="r24483758" t="f" c="0" ts="2509082215" ts-tts="25-09-08 22:15:48.212" />
+      <m id="r24483759" t="d" c="57" ts="2509082215" ts-tts="25-09-08 22:15:48.212" />
+    </ar>
+    <dp cpth="Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Calau(Nl)|Cottbus Hbf" ct="2509082308" l="2">
+      <m id="r24483758" t="f" c="0" ts="2509082215" ts-tts="25-09-08 22:15:48.212" />
+      <m id="r24483759" t="d" c="57" ts="2509082215" ts-tts="25-09-08 22:15:48.212" />
+    </dp>
+  </s>
+  <s id="6891407687717538498-2509082124-11" eva="8011162">
+    <ar ct="2509082230" l="1">
+      <m id="r24481543" t="d" c="54" ts="2509082138" ts-tts="25-09-08 21:38:04.777" />
+    </ar>
+    <dp ct="2509082232" l="1">
+      <m id="r24481543" t="d" c="54" ts="2509082138" ts-tts="25-09-08 21:38:04.777" />
+    </dp>
+  </s>
+  <s id="7078793925461539984-2509082213-4" eva="8011162">
+    <ar ct="2509082244" l="1" />
+    <dp ct="2509082246" l="1" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:45.514" />
+</timetable>

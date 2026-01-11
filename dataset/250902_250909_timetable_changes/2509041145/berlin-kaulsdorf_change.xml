@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Kaulsdorf" eva="8089068">
+  <s id="2432629386449695473-2509041110-11" eva="8089068">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.940" pr="1" />
+    <ar cpth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)" ct="2509041143" l="5" />
+    <dp cpth="Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2509041144" l="5" />
+  </s>
+  <s id="3078832264724556591-2509041107-20" eva="8089068">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.940" pr="1" />
+    <ar cpth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal" ct="2509041156" cs="p" clt="2509040837" l="5" />
+    <dp cpth="Berlin-Mahlsdorf (S)|Birkenstein|Hoppegarten(Mark)|Neuenhagen(b Berlin)|Fredersdorf(b Berlin)|Petershagen Nord|Strausberg (S)|Strausberg-Hegermühle|Strausberg Stadt|Strausberg Nord" ct="2509041157" cs="p" clt="2509040837" l="5" />
+  </s>
+</timetable>

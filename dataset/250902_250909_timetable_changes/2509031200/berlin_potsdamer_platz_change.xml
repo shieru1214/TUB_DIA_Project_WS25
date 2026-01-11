@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Potsdamer Platz" eva="8011118">
+  <s id="3626444551768966269-2509031101-23" eva="8011118">
+    <m id="r2333137" t="h" from="2412150000" to="2510242358" cat="Information" ts="2412142302" ts-tts="25-09-02 23:16:03.826" pr="2" />
+    <m id="r2485713" t="h" from="2509031101" to="2509031421" cat="Störung" ts="2509031034" ts-tts="25-09-03 10:34:29.774" pr="1" />
+    <ar cpth="Grimmen|Rakow|Demmin|Utzedel|Sternfeld|Gnevkow|Altentreptow|Neubrandenburg|Burg Stargard(Meckl)|Cammin(Meckl)|Blankensee(Meckl)|Neustrelitz Hbf|Fürstenberg(Havel)|Gransee|Löwenberg(Mark)|Oranienburg|Berlin Gesundbrunnen|Berlin Hbf" ct="2509031419" l="5">
+      <m id="r23756005" t="d" c="34" ts="2509031030" ts-tts="25-09-03 10:30:05.261" />
+    </ar>
+    <dp cpth="Berlin Südkreuz" ct="2509031420" l="5">
+      <m id="r23756005" t="d" c="34" ts="2509031030" ts-tts="25-09-03 10:30:05.261" />
+    </dp>
+  </s>
+</timetable>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Rummelsburg">
+  <s id="5223674409498656108-2509060038-16">
+    <tl f="S" t="p" o="08" c="S" n="3171" />
+    <ar pt="2509060113" pp="2" l="3" ppth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)" />
+    <dp pt="2509060113" pp="2" l="3" ppth="Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick|Berlin-Friedrichshagen|Berlin-Rahnsdorf|Berlin-Wilhelmshagen|Erkner (S)" />
+  </s>
+  <s id="1509193223554920888-2509060126-4">
+    <tl f="S" t="p" o="08" c="S" n="3211" />
+    <ar pt="2509060133" pp="2" l="3" ppth="Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)" />
+    <dp pt="2509060133" pp="2" l="3" ppth="Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick|Berlin-Friedrichshagen|Berlin-Rahnsdorf|Berlin-Wilhelmshagen|Erkner (S)" />
+  </s>
+  <s id="-6828049456655487313-2509060125-9">
+    <tl f="S" t="p" o="08" c="S" n="3212" />
+    <ar pt="2509060152" pp="1" l="3" ppth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg" />
+    <dp pt="2509060152" pp="1" l="3" ppth="Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)" />
+  </s>
+  <s id="-2049099742784619239-2509060055-9">
+    <tl f="S" t="p" o="08" c="S" n="3210" />
+    <ar pt="2509060122" pp="1" l="3" ppth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg" />
+    <dp pt="2509060122" pp="1" l="3" ppth="Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)" />
+  </s>
+</timetable>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jannowitzbrücke" eva="8089019">
+  <s id="924515702605553277-2509052051-17" eva="8089019">
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" ct="2509052150" l="7" />
+    <dp cpth="Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)" ct="2509052150" l="7" />
+  </s>
+  <s id="-4641308070922418001-2509052041-17" eva="8089019">
+    <ar ct="2509052131" l="7" />
+    <dp ct="2509052130" l="7" />
+  </s>
+  <s id="-7024144893468919869-2509052101-17" eva="8089019">
+    <ar ct="2509052150" l="7" />
+    <dp ct="2509052150" l="7" />
+  </s>
+  <s id="-8720572785986479216-2509052107-17" eva="8089019">
+    <ar ct="2509052147" l="3" />
+    <dp ct="2509052148" l="3" />
+  </s>
+  <s id="2616654140644629928-2509052116-6" eva="8089019">
+    <ar ct="2509052129" l="7" />
+    <dp ct="2509052129" l="7" />
+  </s>
+</timetable>

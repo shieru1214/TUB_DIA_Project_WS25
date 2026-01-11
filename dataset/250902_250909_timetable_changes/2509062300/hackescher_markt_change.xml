@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hackescher Markt" eva="8089017">
+  <s id="6656481945246699876-2509062231-15" eva="8089017">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.627" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.070" pr="1" />
+    <ar ct="2509062302" l="7" />
+    <dp ct="2509062302" l="7" />
+  </s>
+  <s id="-8927383541084970752-2509062317-15" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.415" pr="1" />
+    <ar ct="2509062350" l="9" />
+    <dp ct="2509062350" l="9" />
+  </s>
+  <s id="-3438371448434672380-2509062232-12" eva="8089017">
+    <ar ppth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" pp="3" ct="2509062306" pt="2509062302" l="7" />
+    <dp ppth="Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" pp="3" ct="2509062306" pt="2509062303" l="7" />
+    <tl f="S" t="e" o="08" c="S" n="70153" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="7153" />
+    </ref>
+  </s>
+  <s id="-6372508145793358639-2509062237-15" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.415" pr="1" />
+    <ar ct="2509062314" l="9" />
+    <dp ct="2509062314" l="9" />
+  </s>
+  <s id="-5751841015562804089-2509062225-16" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.414" pr="1" />
+    <ar ct="2509062307" l="3" />
+    <dp ct="2509062307" l="3" />
+  </s>
+  <s id="-4812274590179037127-2509062255-9" eva="8089017">
+    <ar ct="2509062316" l="7" />
+    <dp ct="2509062316" l="7" />
+  </s>
+  <s id="-2039615013482865395-2509062316-8" eva="8089017">
+    <ar ct="2509062331" l="7" />
+    <dp ct="2509062332" l="7" />
+  </s>
+</timetable>

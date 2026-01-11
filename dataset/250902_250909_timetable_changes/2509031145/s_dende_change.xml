@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Südende" eva="8089115">
+  <s id="-7024214841070110850-2509031135-6" eva="8089115">
+    <m id="r2485740" t="h" from="2509031100" to="2509031330" cat="Störung" ts="2509031129" ts-tts="25-09-03 11:29:06.419" pr="2" />
+    <ar ct="2509031146" l="26" />
+    <dp ct="2509031146" l="26" />
+  </s>
+  <s id="-5066682485686111859-2509031115-12" eva="8089115">
+    <ar ppth="Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg" pp="1" ct="2509031146" pt="2509031139" l="25" />
+    <dp ppth="Berlin-Lankwitz|Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" pp="1" ct="2509031146" pt="2509031139" l="25" />
+    <tl f="S" t="e" o="08" c="S" n="27071" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="25071" />
+    </ref>
+  </s>
+</timetable>

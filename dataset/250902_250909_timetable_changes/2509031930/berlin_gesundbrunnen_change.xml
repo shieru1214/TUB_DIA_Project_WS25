@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Gesundbrunnen" eva="8011102">
+  <s id="4795003599783466511-2509031920-2" eva="8011102">
+    <ar ct="2509031931" />
+    <dp ct="2509031932" />
+  </s>
+  <s id="-2099715629578491328-2509031858-3" eva="8011102">
+    <ar ct="2509031928" />
+    <dp ct="2509031930" />
+  </s>
+  <s id="9129675734194079404-2509031901-4" eva="8011102">
+    <ar cpth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" cp="9" ct="2509031933" l="85">
+      <m id="r23820682" t="d" c="48" ts="2509031834" ts-tts="25-09-03 18:35:05.385" />
+      <m id="r23820683" t="d" c="48" ts="2509031834" ts-tts="25-09-03 18:35:05.385" />
+    </ar>
+    <dp cpth="Oranienburg|Neustrelitz Hbf|Waren(Müritz)|Güstrow|Bad Kleinen|Schwerin Hbf" cp="9" ct="2509031935" l="85">
+      <m id="r23820682" t="d" c="48" ts="2509031834" ts-tts="25-09-03 18:35:05.385" />
+      <m id="r23820683" t="d" c="48" ts="2509031834" ts-tts="25-09-03 18:35:05.385" />
+    </dp>
+  </s>
+  <s id="-5287916520246523283-2509031703-15" eva="8011102">
+    <ar cp="6" ct="2509031936" l="6" />
+  </s>
+  <s id="2882319538905299608-2509031836-4" eva="8011102">
+    <m id="r2485899" t="h" from="2509031836" to="2509032121" cat="Störung" ts="2509031831" ts-tts="25-09-03 18:31:09.689" pr="1" />
+    <ar cpth="Berlin Hbf" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" cp="10" pp="8" ct="2509031926" pt="2509031853" l="5">
+      <m id="r23819430" t="d" c="38" ts="2509031826" ts-tts="25-09-03 18:26:12.141" />
+    </ar>
+    <dp cpth="Oranienburg|Gransee|Dannenwalde(Gransee)|Fürstenberg(Havel)|Neustrelitz Hbf|Kratzeburg|Waren(Müritz)|Langhagen|Rostock Hbf" ppth="Oranienburg|Gransee|Dannenwalde(Gransee)|Fürstenberg(Havel)|Neustrelitz Hbf|Kratzeburg|Waren(Müritz)|Langhagen|Rostock Hbf" cp="10" pp="8" ct="2509031928" pt="2509031855" l="5">
+      <m id="r23819430" t="d" c="38" ts="2509031826" ts-tts="25-09-03 18:26:12.141" />
+    </dp>
+    <tl f="N" t="p" o="800158" c="RE" n="4364" />
+  </s>
+</timetable>

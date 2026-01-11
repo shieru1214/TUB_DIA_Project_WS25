@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Innsbrucker Platz" eva="8089106">
+  <s id="6023726718989674131-2509031845-13" eva="8089106">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar ct="2509031911" l="42" />
+    <dp ct="2509031912" l="42" />
+  </s>
+  <s id="7935799713358539552-2509031811-13" eva="8089106">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar ct="2509031840" l="41" />
+    <dp ct="2509031841" l="41" />
+  </s>
+  <s id="-4718814994247138592-2509031825-13" eva="8089106">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar ct="2509031853" l="42" />
+    <dp ct="2509031854" l="42" />
+  </s>
+  <s id="6046912733449924411-2509031844-9" eva="8089106">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar ct="2509031903" l="41" />
+    <dp ct="2509031904" l="41" />
+  </s>
+  <s id="5519180445979517263-2509031801-13" eva="8089106">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar cpth="Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg" ct="2509031828" l="41">
+      <m id="r23681596" t="f" c="0" ts="2509021507" ts-tts="25-09-02 15:07:15.368" />
+      <m id="r23810058" t="f" c="0" ts="2509031727" ts-tts="25-09-03 17:28:00.324" />
+    </ar>
+    <dp cpth="Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ct="2509031829" l="41">
+      <m id="r23681596" t="f" c="0" ts="2509021507" ts-tts="25-09-02 15:07:15.368" />
+      <m id="r23810058" t="f" c="0" ts="2509031727" ts-tts="25-09-03 17:28:00.324" />
+    </dp>
+  </s>
+  <s id="-2888474224218964310-2509031821-13" eva="8089106">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar ct="2509031849" l="41" />
+    <dp ct="2509031849" l="41" />
+  </s>
+  <s id="-2922197601836968940-2509031814-9" eva="8089106">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar ct="2509031838" l="41" />
+    <dp ct="2509031838" l="41" />
+  </s>
+</timetable>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde Ost" eva="8011041">
+  <s id="-2032569237475830480-2509021914-13" eva="8011041">
+    <m id="r2484996" t="h" from="2509020357" to="2509022359" cat="Information" ts="2509020359" ts-tts="25-09-02 10:20:35.664" pr="2" />
+    <ar ct="2509022037" l="4">
+      <m id="r23695287" t="q" c="73" ts="2509021845" ts-tts="25-09-02 18:45:48.208" />
+    </ar>
+    <dp ct="2509022038" l="4">
+      <m id="r23695287" t="q" c="73" ts="2509021845" ts-tts="25-09-02 18:45:48.208" />
+    </dp>
+  </s>
+  <s id="1707910008319770087-2509021724-12" eva="8011041">
+    <m id="r2473869" t="h" from="2508170000" to="2512072359" cat="Information" ts="2508172308" ts-tts="25-09-02 10:20:35.081" pr="2" />
+    <ar ct="2509021900" l="8">
+      <m id="r23695207" t="d" c="43" ts="2509021843" ts-tts="25-09-02 18:43:57.834" />
+    </ar>
+    <dp ct="2509021901" l="8">
+      <m id="r23695207" t="d" c="43" ts="2509021843" ts-tts="25-09-02 18:43:57.834" />
+    </dp>
+  </s>
+  <s id="-1140931938119300259-2509021706-13" eva="8011041">
+    <m id="r2485302" t="h" from="2509021706" to="2509021959" cat="Störung" ts="2509021626" ts-tts="25-09-02 16:26:48.522" pr="1" />
+    <ar cpth="Angermünde|Chorin|Britz|Eberswalde Hbf|Bernau(b Berlin)|Berlin Gesundbrunnen|Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" ct="2509021848" l="3">
+      <m id="r23686002" t="d" c="5" ts="2509021620" ts-tts="25-09-02 16:20:31.435" />
+    </ar>
+    <dp cpth="Teltow|Großbeeren|Birkengrund|Ludwigsfelde|Luckenwalde|Jüterbog|Niedergörsdorf|Blönsdorf|Zahna|Bülzig|Zörnigall|Lutherstadt Wittenberg Hbf" ct="2509021849" l="3">
+      <m id="r23686002" t="d" c="5" ts="2509021620" ts-tts="25-09-02 16:20:31.435" />
+    </dp>
+  </s>
+</timetable>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Brandenburger Tor" eva="8089044">
+  <s id="-7386637189482012776-2509071615-8" eva="8089044">
+    <ar ct="2509071629" l="2" />
+    <dp ct="2509071630" l="2" />
+  </s>
+  <s id="-5773777518053703814-2509071545-8" eva="8089044">
+    <ar ct="2509071600" l="2" />
+    <dp ct="2509071600" l="2" />
+  </s>
+  <s id="-1851985454215582007-2509071548-16" eva="8089044">
+    <ar ct="2509071625" l="25" />
+    <dp ct="2509071626" l="25" />
+  </s>
+  <s id="3993736526603694454-2509071514-17" eva="8089044">
+    <m id="r2487795" t="h" from="2509071430" to="2509071700" cat="Störung" ts="2509071525" ts-tts="25-09-07 15:25:55.851" pr="1" />
+    <m id="r2487622" t="h" from="2509070954" to="2509071530" cat="Störung" ts="2509070955" ts-tts="25-09-07 09:55:51.110" pr="2" />
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)" ct="2509071611" cs="p" clt="2509071517" l="1">
+      <m id="r24286489" t="d" c="1" ts="2509071557" ts-tts="25-09-07 15:57:21.343" />
+      <m id="r24286491" t="d" c="1" ts="2509071557" ts-tts="25-09-07 15:57:21.343" />
+    </ar>
+    <dp cpth="Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust" ct="2509071611" cs="p" clt="2509071517" l="1">
+      <m id="r24286489" t="d" c="1" ts="2509071557" ts-tts="25-09-07 15:57:21.343" />
+      <m id="r24286491" t="d" c="1" ts="2509071557" ts-tts="25-09-07 15:57:21.343" />
+    </dp>
+  </s>
+  <s id="3584560658399301002-2509071528-12" eva="8089044">
+    <ar ct="2509071558" l="2" />
+    <dp ct="2509071558" l="2" />
+  </s>
+</timetable>

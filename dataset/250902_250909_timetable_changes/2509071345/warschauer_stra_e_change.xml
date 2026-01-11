@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="407034044282336519-2509071309-12" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.798" pr="1" />
+    <ar ct="2509071346" l="9" />
+    <dp ct="2509071347" l="9" />
+  </s>
+  <s id="-976816169525292499-2509071327-19" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.799" pr="1" />
+    <ar ct="2509071413" l="3" />
+    <dp ct="2509071414" l="3" />
+  </s>
+  <s id="6925491777835966256-2509071311-15" eva="8089045">
+    <ar ct="2509071344" l="5" />
+    <dp ct="2509071344" l="5" />
+  </s>
+  <s id="5528243041974601771-2509071336-4" eva="8089045">
+    <ar ct="2509071344" l="7" />
+    <dp ct="2509071344" l="7" />
+  </s>
+  <s id="1556209641274560136-2509071315-12" eva="8089045">
+    <ar ct="2509071345" l="3" />
+  </s>
+  <s id="-7791841702607298116-2509071359-1" eva="8089045">
+    <dp ct="2509071359" l="3" />
+  </s>
+  <s id="-1736392038267908174-2509071327-13" eva="8089045">
+    <ar ppth="Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)" pp="4" ct="2509071400" pt="2509071400" l="5" />
+    <dp ppth="Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Olympiastadion" pp="4" ct="2509071401" pt="2509071401" l="5" />
+    <tl f="S" t="e" o="08" c="S" n="50082" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="5082" />
+    </ref>
+  </s>
+</timetable>

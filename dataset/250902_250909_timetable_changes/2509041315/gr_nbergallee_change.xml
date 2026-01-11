@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Grünbergallee" eva="8089016">
+  <s id="285887782677793103-2509041248-11" eva="8089016">
+    <m id="r2486210" t="h" from="2509041000" to="2509041300" cat="Störung" ts="2509041020" ts-tts="25-09-04 12:16:03.496" pr="2" />
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke" ct="2509041315" cs="p" clt="2509041133" l="45" />
+    <dp cpth="Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ct="2509041316" cs="p" clt="2509041133" l="45" />
+  </s>
+  <s id="-4672267032116851515-2509041329-4" eva="8089016">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <m id="r2486210" t="h" from="2509041000" to="2509041300" cat="Störung" ts="2509041020" ts-tts="25-09-04 12:16:03.496" pr="2" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.256" pr="1" />
+    <ar ct="2509041340" l="9" />
+    <dp ct="2509041341" l="9" />
+  </s>
+</timetable>

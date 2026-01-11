@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="9074337537617570183-2509071241-15" eva="8089045">
+    <ar ct="2509071314" l="5" />
+    <dp ct="2509071315" l="5" />
+  </s>
+  <s id="7531102054121913513-2509071245-12" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.799" pr="1" />
+    <ar ct="2509071316" l="3" />
+    <dp ct="2509071316" l="3" />
+  </s>
+  <s id="2470428453551712765-2509071230-18" eva="8089045">
+    <ar cpth="Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)" ct="2509071321" l="5" />
+    <dp cpth="Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Olympiastadion" ct="2509071322" l="5" />
+  </s>
+  <s id="7614030214965281185-2509071330-18" eva="8089045">
+    <ar ct="2509071420" l="5" />
+    <dp ct="2509071421" l="5" />
+  </s>
+  <s id="-6178502793904425163-2509071329-12" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.798" pr="1" />
+    <ar ct="2509071405" l="9" />
+    <dp ct="2509071406" l="9" />
+  </s>
+  <s id="-1130646491810732642-2509071251-15" eva="8089045">
+    <ar cpth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)" ct="2509071325" l="5" />
+    <dp cpth="Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)" ct="2509071326" l="5" />
+  </s>
+  <s id="-7167632220216133731-2509071251-11" eva="8089045">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 23:16:04.099" pr="1" />
+    <ar ct="2509071313" l="7" />
+    <dp ct="2509071314" l="7" />
+  </s>
+</timetable>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bellevue" eva="8089005">
+  <s id="6179189564255252742-2509050017-12" eva="8089005">
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten" ppth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten" pp="3" ct="2509050047" pt="2509050042" l="9" />
+    <dp cpth="Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)" ppth="Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße" pp="3" ct="2509050047" pt="2509050043" l="9" />
+    <tl f="S" t="s" o="08" c="S" n="90153" />
+  </s>
+  <s id="-2263494307410208200-2509050043-9" eva="8089005">
+    <ar ppth="Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)" pp="4" ct="2509050102" pt="2509050101" l="9">
+      <m id="r23960519" t="f" c="0" ts="2509041857" ts-tts="25-09-04 18:57:46.929" />
+    </ar>
+    <dp ppth="Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" pp="4" ct="2509050102" pt="2509050102" l="9">
+      <m id="r23960519" t="f" c="0" ts="2509041857" ts-tts="25-09-04 18:57:46.929" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="90152" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9152" />
+    </ref>
+  </s>
+  <s id="-5534965849079604138-2509050031-18" eva="8089005">
+    <ar ct="2509050110" l="7" />
+    <dp ct="2509050110" l="7" />
+  </s>
+</timetable>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westend" eva="8089111">
+  <s id="5377527314377604207-2509040701-6" eva="8089111">
+    <ar l="42">
+      <m id="r23684688" t="f" c="0" ts="2509021558" ts-tts="25-09-02 15:59:12.042" />
+      <m id="r23746538" t="f" c="0" ts="2509030859" ts-tts="25-09-03 08:59:56.585" />
+    </ar>
+    <dp l="42">
+      <m id="r23684688" t="f" c="0" ts="2509021558" ts-tts="25-09-02 15:59:12.042" />
+      <m id="r23746538" t="f" c="0" ts="2509030859" ts-tts="25-09-03 08:59:56.585" />
+    </dp>
+  </s>
+  <s id="-4796569355290185174-2509040601-20" eva="8089111">
+    <ar l="41">
+      <m id="r23684711" t="f" c="0" ts="2509021559" ts-tts="25-09-02 15:59:43.357" />
+      <m id="r23740793" t="f" c="0" ts="2509030800" ts-tts="25-09-03 08:01:09.681" />
+    </ar>
+    <dp l="41">
+      <m id="r23684711" t="f" c="0" ts="2509021559" ts-tts="25-09-02 15:59:43.357" />
+      <m id="r23740793" t="f" c="0" ts="2509030800" ts-tts="25-09-03 08:01:09.681" />
+    </dp>
+  </s>
+  <s id="8143383984449034525-2509031414-16" eva="8089111">
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)" ct="2509031447" cs="p" clt="2509031400" l="41" />
+    <dp cpth="Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ct="2509031447" cs="p" clt="2509031400" l="41" />
+  </s>
+  <s id="-6949571206764139587-2509031401-6" eva="8089111">
+    <ar ct="2509031413" l="42">
+      <m id="r23680320" t="f" c="0" ts="2509021449" ts-tts="25-09-02 14:49:45.415" />
+      <m id="r23779553" t="f" c="0" ts="2509031346" ts-tts="25-09-03 13:46:35.905" />
+    </ar>
+    <dp ct="2509031413" l="42">
+      <m id="r23680320" t="f" c="0" ts="2509021449" ts-tts="25-09-02 14:49:45.415" />
+      <m id="r23779553" t="f" c="0" ts="2509031346" ts-tts="25-09-03 13:46:35.905" />
+    </dp>
+  </s>
+</timetable>

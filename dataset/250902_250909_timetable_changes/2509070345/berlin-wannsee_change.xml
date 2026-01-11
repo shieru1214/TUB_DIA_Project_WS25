@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wannsee" eva="8010405">
+  <s id="208525135596944195-2509070353-19" eva="8010405">
+    <ar ppth="Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg" pp="5" ct="2509070605" pt="2509070533" l="7">
+      <m id="r24239867" t="f" c="0" ts="2509070238" ts-tts="25-09-07 02:38:22.725" />
+      <m id="r24240206" t="q" c="85" ts="2509070327" ts-tts="25-09-07 03:27:28.081" />
+      <m id="r24240208" t="q" c="85" ts="2509070327" ts-tts="25-09-07 03:27:28.081" />
+    </ar>
+    <dp ppth="Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Michendorf|Seddin|Beelitz-Heilstätten" pp="5" ct="2509070607" pt="2509070534" l="7">
+      <m id="r24239867" t="f" c="0" ts="2509070238" ts-tts="25-09-07 02:38:22.725" />
+      <m id="r24240206" t="q" c="85" ts="2509070327" ts-tts="25-09-07 03:27:28.081" />
+      <m id="r24240208" t="q" c="85" ts="2509070327" ts-tts="25-09-07 03:27:28.081" />
+    </dp>
+    <tl f="N" t="p" o="800165" c="RE" n="3707" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:48.013" />
+</timetable>

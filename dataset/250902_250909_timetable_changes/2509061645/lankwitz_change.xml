@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lankwitz" eva="8089114">
+  <s id="-5082912408519211777-2509061619-11" eva="8089114">
+    <ar ppth="Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende" pp="2" ct="2509061646" pt="2509061641" l="25" />
+    <dp ppth="Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" pp="2" ct="2509061646" pt="2509061641" l="25" />
+    <tl f="S" t="e" o="08" c="S" n="27101" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="25101" />
+    </ref>
+  </s>
+  <s id="-2857854423428848716-2509061608-23" eva="8089114">
+    <ar ct="2509061702" l="25" />
+    <dp ct="2509061702" l="25" />
+  </s>
+</timetable>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tempelhof" eva="8089090">
+  <s id="-5430480272715375598-2509081421-13" eva="8089090">
+    <m id="r2488245" t="h" from="2509081330" to="2509081530" cat="Störung" ts="2509081337" ts-tts="25-09-08 14:16:05.085" pr="2" />
+    <ar ct="2509081504" l="46" />
+    <dp ct="2509081505" l="46" />
+  </s>
+  <s id="9183522744511885403-2509081357-13" eva="8089090">
+    <m id="r2488245" t="h" from="2509081330" to="2509081530" cat="Störung" ts="2509081337" ts-tts="25-09-08 14:16:05.085" pr="2" />
+    <ar cpth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße" ct="2509081442" l="45" />
+    <dp cpth="Berlin Südkreuz (S)" ct="2509081442" l="45" />
+  </s>
+  <s id="8733508633648754851-2509081413-13" eva="8089090">
+    <ar ct="2509081441" l="42" />
+    <dp ct="2509081441" l="42" />
+  </s>
+  <s id="-396525327927466310-2509081403-13" eva="8089090">
+    <ar ct="2509081428" l="42" />
+    <dp ct="2509081428" l="42" />
+  </s>
+</timetable>

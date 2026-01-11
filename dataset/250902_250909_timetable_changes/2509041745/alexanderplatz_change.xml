@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Alexanderplatz" eva="8011155">
+  <s id="-6887958024916358777-2509041801-12" eva="8011155">
+    <ar ct="2509041900" l="7" />
+    <dp ct="2509041901" l="7" />
+  </s>
+  <s id="8953942811272684056-2509041814-20" eva="8011155">
+    <ar ct="2509042005" l="7" />
+    <dp ct="2509042006" l="7" />
+  </s>
+  <s id="4930255775559768785-2509041914-20" eva="8011155">
+    <ar cpth="Calau(Nl)|Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof" l="7">
+      <m id="r23949333" t="d" c="23" ts="2509041744" ts-tts="25-09-04 17:44:22.869" />
+      <m id="r23949335" t="d" c="23" ts="2509041744" ts-tts="25-09-04 17:44:22.869" />
+    </ar>
+    <dp cpth="Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Michendorf|Seddin|Beelitz-Heilstätten" l="7">
+      <m id="r23949333" t="d" c="23" ts="2509041744" ts-tts="25-09-04 17:44:22.869" />
+      <m id="r23949335" t="d" c="23" ts="2509041744" ts-tts="25-09-04 17:44:22.869" />
+    </dp>
+  </s>
+  <s id="2297658875142437576-2509041601-12" eva="8011155">
+    <m id="r2486367" t="h" from="2509041601" to="2509041841" cat="Störung" ts="2509041605" ts-tts="25-09-04 16:05:45.439" pr="1" />
+    <ar cpth="Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße" ct="2509041719" l="7">
+      <m id="r23932693" t="d" c="23" ts="2509041555" ts-tts="25-09-04 15:55:31.668" />
+      <m id="r23932695" t="d" c="23" ts="2509041555" ts-tts="25-09-04 15:55:31.668" />
+      <m id="r23932928" t="d" c="48" ts="2509041557" ts-tts="25-09-04 15:57:08.877" />
+      <m id="r23944116" t="d" c="32" ts="2509041710" ts-tts="25-09-04 17:11:04.145" />
+      <m id="r23944118" t="d" c="32" ts="2509041710" ts-tts="25-09-04 17:11:04.145" />
+      <m id="r23944120" t="d" c="32" ts="2509041710" ts-tts="25-09-04 17:11:04.145" />
+    </ar>
+    <dp cpth="Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Calau(Nl)" ct="2509041720" l="7">
+      <m id="r23932693" t="d" c="23" ts="2509041555" ts-tts="25-09-04 15:55:31.668" />
+      <m id="r23932695" t="d" c="23" ts="2509041555" ts-tts="25-09-04 15:55:31.668" />
+      <m id="r23932928" t="d" c="48" ts="2509041557" ts-tts="25-09-04 15:57:08.877" />
+      <m id="r23944116" t="d" c="32" ts="2509041710" ts-tts="25-09-04 17:11:04.145" />
+      <m id="r23944118" t="d" c="32" ts="2509041710" ts-tts="25-09-04 17:11:04.145" />
+      <m id="r23944120" t="d" c="32" ts="2509041710" ts-tts="25-09-04 17:11:04.145" />
+    </dp>
+  </s>
+  <s id="6055748783734142076-2509041814-4" eva="8011155">
+    <ar ct="2509041841" l="23" />
+    <dp ct="2509041842" l="23" />
+  </s>
+  <s id="-4606155340543406089-2509041714-4" eva="8011155">
+    <ar ct="2509041742" l="23" />
+    <dp ct="2509041743" l="23" />
+  </s>
+</timetable>

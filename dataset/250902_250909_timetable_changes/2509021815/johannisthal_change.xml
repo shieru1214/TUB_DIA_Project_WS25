@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Johannisthal" eva="8089007">
+  <s id="2556931624831782030-2509021748-8" eva="8089007">
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)" ct="2509021820" l="45" />
+    <dp cpth="Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)" ct="2509021820" l="45" />
+  </s>
+  <s id="-5018590720270318913-2509021754-6" eva="8089007">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:09.608" pr="1" />
+    <ar ct="2509021815" l="8" />
+    <dp ct="2509021815" l="8" />
+  </s>
+  <s id="2228535374979762865-2509021717-24" eva="8089007">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 10:20:34.832" pr="1" />
+    <ar ct="2509021815" l="9" />
+    <dp ct="2509021816" l="9" />
+  </s>
+  <s id="8739190780580828588-2509021815-7" eva="8089007">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:09.607" pr="1" />
+    <ar ct="2509021835" l="85" />
+    <dp ct="2509021835" l="85" />
+  </s>
+  <s id="-5955654750326801968-2509021829-7" eva="8089007">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 10:20:34.832" pr="1" />
+    <ar ct="2509021849" l="9" />
+    <dp ct="2509021850" l="9" />
+  </s>
+</timetable>

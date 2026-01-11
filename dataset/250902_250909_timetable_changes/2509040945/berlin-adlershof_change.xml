@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Adlershof" eva="8089052">
+  <s id="5686305186276327630-2509040849-6" eva="8089052">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.620" pr="1" />
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke" ct="2509040908" l="9" />
+    <dp cpth="Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" ct="2509040909" l="9" />
+  </s>
+  <s id="-673118519115591893-2509040939-2" eva="8089052">
+    <ar ct="2509040943" l="85" />
+    <dp ct="2509040944" l="85" />
+  </s>
+  <s id="5658747501948217999-2509040925-8" eva="8089052">
+    <ar ct="2509040943" l="8" />
+    <dp ct="2509040944" l="8" />
+  </s>
+  <s id="5472187899539715801-2509040959-2" eva="8089052">
+    <ar ct="2509041002" l="85" />
+    <dp ct="2509041002" l="85" />
+  </s>
+</timetable>

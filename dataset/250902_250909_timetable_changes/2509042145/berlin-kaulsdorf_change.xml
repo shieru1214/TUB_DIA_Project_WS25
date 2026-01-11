@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Kaulsdorf" eva="8089068">
+  <s id="-5330046465226298597-2509042107-20" eva="8089068">
+    <m id="r2486483" t="h" from="2509042000" to="2509042230" cat="Störung" ts="2509042015" ts-tts="25-09-04 20:15:12.515" pr="1" />
+    <ar cpth="" ct="2509042154" cs="c" clt="2509042102" l="5">
+      <m id="r23976741" t="d" c="40" ts="2509042102" ts-tts="25-09-04 21:02:50.127" />
+      <m id="r23976743" t="d" c="40" ts="2509042102" ts-tts="25-09-04 21:02:50.127" />
+    </ar>
+    <dp cpth="" ct="2509042155" cs="c" clt="2509042102" l="5">
+      <m id="r23976741" t="d" c="40" ts="2509042102" ts-tts="25-09-04 21:02:50.127" />
+      <m id="r23976743" t="d" c="40" ts="2509042102" ts-tts="25-09-04 21:02:50.127" />
+    </dp>
+  </s>
+  <s id="3072346986630064258-2509042110-11" eva="8089068">
+    <m id="r2486483" t="h" from="2509042000" to="2509042230" cat="Störung" ts="2509042015" ts-tts="25-09-04 20:15:12.515" pr="1" />
+    <ar cpth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)" ct="2509042144" l="5" />
+    <dp cpth="Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2509042144" l="5" />
+  </s>
+</timetable>

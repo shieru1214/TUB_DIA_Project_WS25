@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Messe Süd (Eichkamp)" eva="8089328">
+  <s id="-4593520582502646275-2509071417-6" eva="8089328">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.798" pr="1" />
+    <ar ct="2509071429" l="9" />
+    <dp ct="2509071430" l="9" />
+  </s>
+  <s id="-1736392038267908174-2509071327-26" eva="8089328">
+    <ar ppth="Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" pp="2" ct="2509071429" pt="2509071429" l="5" />
+    <dp ppth="Berlin Olympiastadion" pp="2" ct="2509071430" pt="2509071430" l="5" />
+    <tl f="S" t="e" o="08" c="S" n="50082" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="5082" />
+    </ref>
+  </s>
+  <s id="8834493246600353734-2509071445-25" eva="8089328">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.799" pr="1" />
+    <ar cpth="Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Hirschgarten|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" ct="2509071544" cs="p" clt="2509071424" l="3" />
+    <dp cpth="Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" ct="2509071544" cs="p" clt="2509071424" l="3" />
+  </s>
+</timetable>

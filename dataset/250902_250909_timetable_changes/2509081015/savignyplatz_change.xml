@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Savignyplatz" eva="8089037">
+  <s id="6430461702396114902-2509081030-28" eva="8089037">
+    <ar ct="2509081142" l="5" />
+    <dp ct="2509081143" l="5" />
+  </s>
+  <s id="1355311797266406564-2509080931-21" eva="8089037">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 23:16:04.612" pr="1" />
+    <ar ct="2509081015" l="7" />
+    <dp ct="2509081015" l="7" />
+  </s>
+  <s id="2686034295303383253-2509081029-22" eva="8089037">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-07 23:16:04.237" pr="1" />
+    <ar ct="2509081127" l="9" />
+    <dp ct="2509081128" l="9" />
+  </s>
+  <s id="3292616117665998896-2509080911-5" eva="8089037">
+    <ar cpth="Berlin Olympiastadion|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)" ct="2509080922" l="5" />
+    <dp cpth="Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)" ct="2509080922" l="5" />
+  </s>
+</timetable>

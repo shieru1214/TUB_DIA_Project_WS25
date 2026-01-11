@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Johannisthal" eva="8089007">
+  <s id="-6085101470063958442-2509081315-17" eva="8089007">
+    <ar ppth="Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)" pp="3" ct="2509081355" pt="2509081355" l="9" />
+    <dp ppth="Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" pp="3" ct="2509081356" pt="2509081356" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90085" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9085" />
+    </ref>
+  </s>
+  <s id="-2444114563873382780-2509081224-16" eva="8089007">
+    <ar ct="2509081303" l="8" />
+    <dp ct="2509081303" l="8" />
+  </s>
+</timetable>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Humboldthain" eva="8089018">
+  <s id="-4938533506523138056-2509080554-6" eva="8089018">
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)" ct="2509080606" l="26" />
+    <dp cpth="Berlin Nordbahnhof" ct="2509080606" l="26" />
+  </s>
+  <s id="6405767870767287685-2509080525-16" eva="8089018">
+    <ar ct="2509080600" l="25" />
+    <dp ct="2509080600" l="25" />
+  </s>
+  <s id="1109066834260013947-2509080615-10" eva="8089018">
+    <ar ct="2509080639" l="1" />
+    <dp ct="2509080639" l="1" />
+  </s>
+  <s id="107320604345915755-2509080535-10" eva="8089018">
+    <ar ct="2509080559" l="1" />
+    <dp ct="2509080600" l="1" />
+  </s>
+  <s id="-3881094617070782979-2509080615-16" eva="8089018">
+    <ar ct="2509080649" l="26" />
+    <dp ct="2509080649" l="26" />
+  </s>
+  <s id="7576356083121382619-2509080655-16" eva="8089018">
+    <ar cpth="Berlin Nordbahnhof" l="26" />
+    <dp cpth="Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" l="26" />
+  </s>
+  <s id="3946930477244040962-2509080614-6" eva="8089018">
+    <ar ct="2509080626" l="26" />
+    <dp ct="2509080626" l="26" />
+  </s>
+  <s id="-657222865300236134-2509080614-21" eva="8089018">
+    <m id="r2487970" t="h" from="2509080530" to="2509082000" cat="Störung" ts="2509080552" ts-tts="25-09-08 05:52:51.849" pr="2" />
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof" ct="2509080656" l="1" />
+    <dp cpth="Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)" ct="2509080657" l="1" />
+  </s>
+</timetable>

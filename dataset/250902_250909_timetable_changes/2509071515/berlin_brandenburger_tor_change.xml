@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Brandenburger Tor" eva="8089044">
+  <s id="5973222109353484407-2509071428-14" eva="8089044">
+    <m id="r2487622" t="h" from="2509070954" to="2509071530" cat="Störung" ts="2509070955" ts-tts="25-09-07 09:55:53.476" pr="2" />
+    <ar cpth="Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)" ct="2509071457" l="1" />
+    <dp cpth="Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten" ct="2509071458" l="1" />
+  </s>
+  <s id="377736910275521805-2509071445-12" eva="8089044">
+    <ar ct="2509071515" l="25" />
+    <dp ct="2509071515" l="25" />
+  </s>
+  <s id="3625673449804322326-2509071448-14" eva="8089044">
+    <m id="r2487622" t="h" from="2509070954" to="2509071530" cat="Störung" ts="2509070955" ts-tts="25-09-07 09:55:53.476" pr="2" />
+    <ar ct="2509071520" l="1" />
+    <dp ct="2509071521" l="1" />
+  </s>
+  <s id="2244574246574286137-2509071504-17" eva="8089044">
+    <m id="r2487622" t="h" from="2509070954" to="2509071530" cat="Störung" ts="2509070955" ts-tts="25-09-07 09:55:53.476" pr="2" />
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf" ct="2509071538" cs="c" clt="2509071515" l="1">
+      <m id="r24281441" t="d" c="2" ts="2509071515" ts-tts="25-09-07 15:15:08.162" />
+      <m id="r24281443" t="d" c="2" ts="2509071515" ts-tts="25-09-07 15:15:08.162" />
+    </ar>
+    <dp cpth="" ct="2509071538" cs="c" clt="2509071515" l="1">
+      <m id="r24281441" t="d" c="2" ts="2509071515" ts-tts="25-09-07 15:15:08.162" />
+      <m id="r24281443" t="d" c="2" ts="2509071515" ts-tts="25-09-07 15:15:08.162" />
+    </dp>
+  </s>
+  <s id="3584560658399301002-2509071528-12" eva="8089044">
+    <ar ct="2509071555" l="2" />
+    <dp ct="2509071556" l="2" />
+  </s>
+</timetable>

@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Pankow">
+  <s id="-7169423618730090509-2509040548-19">
+    <tl f="S" t="p" o="08" c="S" n="2024" />
+    <ar pt="2509040633" pp="2" l="2" ppth="Mahlow|Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="-6959386042611684209-2509040614-1">
+    <tl t="p" o="080001" c="Bus" n="8114" />
+    <dp pt="2509040614" pp="" l="S8" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Mühlenbeck-Mönchmühle|Schönfließ Kirche, Mühlenbecker Land|Bergfelde(b Berlin)|Hohen Neuendorf(b Berlin)" />
+  </s>
+  <s id="-2559883133849514244-2509040621-1">
+    <tl t="p" o="080001" c="Bus" n="22152" />
+    <dp pt="2509040621" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="-1678685166820882241-2509040633-1">
+    <tl t="p" o="080001" c="Bus" n="22160" />
+    <dp pt="2509040633" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="-4736393574084467904-2509040630-1">
+    <tl f="S" t="p" o="08" c="S" n="82051" />
+    <dp pt="2509040630" pp="1" l="8" pde="Berlin Greifswalder Str" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)" />
+  </s>
+  <s id="1103887666594810631-2509040621-5">
+    <tl t="p" o="080001" c="Bus" n="22157" />
+    <ar pt="2509040646" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="2898811216333801321-2509040531-7">
+    <tl t="p" o="080001" c="Bus" n="8111" />
+    <ar pt="2509040621" pp="" l="S8" ppth="Hohen Neuendorf(b Berlin)|Bergfelde(b Berlin)|Schönfließ Kirche, Mühlenbecker Land|Mühlenbeck-Mönchmühle|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="5331460132406128855-2509040615-1">
+    <tl t="p" o="080001" c="Bus" n="22148" />
+    <dp pt="2509040615" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="3885327158857395215-2509040651-3">
+    <tl f="S" t="p" o="08" c="S" n="84032" />
+    <ar pt="2509040657" pp="1" l="85" pde="Berlin Greifswalder Str" ppth="Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="5443936390026575091-2509040611-3">
+    <tl f="S" t="p" o="08" c="S" n="84024" />
+    <ar pt="2509040617" pp="1" l="85" pde="Berlin Greifswalder Str" ppth="Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="3621298857846688832-2509040627-5">
+    <tl t="p" o="080001" c="Bus" n="22161" />
+    <ar pt="2509040652" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="-5467363783829413452-2509040640-1">
+    <tl f="S" t="p" o="08" c="S" n="84053" />
+    <dp pt="2509040640" pp="1" l="85" pde="Berlin Greifswalder Str" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)" />
+  </s>
+  <s id="8234255032171990661-2509040551-7">
+    <tl t="p" o="080001" c="Bus" n="8113" />
+    <ar pt="2509040641" pp="" l="S8" ppth="Hohen Neuendorf(b Berlin)|Bergfelde(b Berlin)|Schönfließ Kirche, Mühlenbecker Land|Mühlenbeck-Mönchmühle|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="-8181526198558103680-2509040636-1">
+    <tl t="p" o="080001" c="Bus" n="22162" />
+    <dp pt="2509040636" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="-1696710782156970023-2509040606-5">
+    <tl t="p" o="080001" c="Bus" n="22147" />
+    <ar pt="2509040631" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="3545166956669210486-2509040624-1">
+    <tl t="p" o="080001" c="Bus" n="22154" />
+    <dp pt="2509040624" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="3729483699887325899-2509040615-1">
+    <tl f="S" t="p" o="08" c="S" n="2551" />
+    <dp pt="2509040615" pp="2" l="2" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee|Berlin Schichauweg|Berlin-Lichtenrade" />
+  </s>
+  <s id="2347266494017028635-2509040624-1">
+    <tl t="p" o="080001" c="Bus" n="8116" />
+    <dp pt="2509040624" pp="" l="S8" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Mühlenbeck-Mönchmühle|Schönfließ Kirche, Mühlenbecker Land|Bergfelde(b Berlin)|Hohen Neuendorf(b Berlin)" />
+  </s>
+  <s id="-2259012750731107772-2509040542-5">
+    <tl t="p" o="080001" c="Bus" n="22137" />
+    <ar pt="2509040607" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="5033583018591868626-2509040621-3">
+    <tl f="S" t="p" o="08" c="S" n="82026" />
+    <ar pt="2509040627" pp="1" l="8" pde="Berlin Greifswalder Str" ppth="Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="-4915898082187283973-2509040540-5">
+    <tl t="p" o="080001" c="Bus" n="22135" />
+    <ar pt="2509040605" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="6825069150133640626-2509040605-1">
+    <tl f="S" t="p" o="08" c="S" n="2025" />
+    <dp pt="2509040605" pp="2" l="2" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee|Berlin Schichauweg|Berlin-Lichtenrade|Mahlow" />
+  </s>
+  <s id="6335249770413135815-2509040651-1">
+    <tl t="p" o="080001" c="Bus" n="22172" />
+    <dp pt="2509040651" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="-6337343590267897463-2509040612-5">
+    <tl t="p" o="080001" c="Bus" n="22151" />
+    <ar pt="2509040637" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="-2098112047771916200-2509040600-1">
+    <tl f="S" t="p" o="08" c="S" n="84045" />
+    <dp pt="2509040600" pp="1" l="85" pde="Berlin Greifswalder Str" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)" />
+  </s>
+  <s id="2469941783386383905-2509040648-1">
+    <tl t="p" o="080001" c="Bus" n="22170" />
+    <dp pt="2509040648" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="-1556599155798147599-2509040620-1">
+    <tl f="S" t="p" o="08" c="S" n="84049" />
+    <dp pt="2509040620" pp="1" l="85" pde="Berlin Greifswalder Str" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)" />
+  </s>
+  <s id="-5476814245906532332-2509040645-1">
+    <tl f="S" t="p" o="08" c="S" n="2029" />
+    <dp pt="2509040645" pp="2" l="2" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee|Berlin Schichauweg|Berlin-Lichtenrade|Mahlow" />
+  </s>
+  <s id="-7261226301499956886-2509040522-18">
+    <tl f="S" t="p" o="08" c="S" n="2546" />
+    <ar pt="2509040603" pp="2" l="2" ppth="Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="-2629409953343425592-2509040606-1">
+    <tl t="p" o="080001" c="Bus" n="22142" />
+    <dp pt="2509040606" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="-1297951939515468123-2509040634-1">
+    <tl t="p" o="080001" c="Bus" n="8118" />
+    <dp pt="2509040634" pp="" l="S8" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Mühlenbeck-Mönchmühle|Schönfließ Kirche, Mühlenbecker Land|Bergfelde(b Berlin)|Hohen Neuendorf(b Berlin)" />
+  </s>
+  <s id="-8091238482132596274-2509040631-3">
+    <tl f="S" t="p" o="08" c="S" n="84028" />
+    <ar pt="2509040637" pp="1" l="85" pde="Berlin Greifswalder Str" ppth="Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="-5460203046392782174-2509040625-1">
+    <tl f="S" t="p" o="08" c="S" n="2027" />
+    <dp pt="2509040625" pp="2" l="2" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee|Berlin Schichauweg|Berlin-Lichtenrade|Mahlow" />
+  </s>
+  <s id="-1658470356117958671-2509040654-1">
+    <tl t="p" o="080001" c="Bus" n="8122" />
+    <dp pt="2509040654" pp="" l="S8" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Mühlenbeck-Mönchmühle|Schönfließ Kirche, Mühlenbecker Land|Bergfelde(b Berlin)|Hohen Neuendorf(b Berlin)" />
+  </s>
+  <s id="-2947510502669225599-2509040601-3">
+    <tl f="S" t="p" o="08" c="S" n="82022" />
+    <ar pt="2509040607" pp="1" l="8" pde="Berlin Greifswalder Str" ppth="Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="3947569382831507466-2509040635-1">
+    <tl f="S" t="p" o="08" c="S" n="2553" />
+    <dp pt="2509040635" pp="2" l="2" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee|Berlin Schichauweg|Berlin-Lichtenrade" />
+  </s>
+  <s id="-5625711086271023638-2509040542-18">
+    <tl f="S" t="p" o="08" c="S" n="2548" />
+    <ar pt="2509040623" pp="2" l="2" ppth="Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="-1049055056155929564-2509040644-1">
+    <tl t="p" o="080001" c="Bus" n="8120" />
+    <dp pt="2509040644" pp="" l="S8" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Mühlenbeck-Mönchmühle|Schönfließ Kirche, Mühlenbecker Land|Bergfelde(b Berlin)|Hohen Neuendorf(b Berlin)" />
+  </s>
+  <s id="4079690641895952083-2509040654-1">
+    <tl t="p" o="080001" c="Bus" n="22174" />
+    <dp pt="2509040654" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="-8873831887608454262-2509040550-5">
+    <tl t="p" o="080001" c="Bus" n="22139" />
+    <ar pt="2509040615" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="-4674596285694709177-2509040601-7">
+    <tl t="p" o="080001" c="Bus" n="8115" />
+    <ar pt="2509040651" pp="" l="S8" ppth="Hohen Neuendorf(b Berlin)|Bergfelde(b Berlin)|Schönfließ Kirche, Mühlenbecker Land|Mühlenbeck-Mönchmühle|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="-2777545250159073713-2509040600-5">
+    <tl t="p" o="080001" c="Bus" n="22143" />
+    <ar pt="2509040625" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="-3479514516270849256-2509040618-1">
+    <tl t="p" o="080001" c="Bus" n="22150" />
+    <dp pt="2509040618" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="4321501982796876586-2509040603-5">
+    <tl t="p" o="080001" c="Bus" n="22145" />
+    <ar pt="2509040628" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="-6281780632018839258-2509040604-1">
+    <tl t="p" o="080001" c="Bus" n="8112" />
+    <dp pt="2509040604" pp="" l="S8" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Mühlenbeck-Mönchmühle|Schönfließ Kirche, Mühlenbecker Land|Bergfelde(b Berlin)|Hohen Neuendorf(b Berlin)" />
+  </s>
+  <s id="-4575222130143620549-2509040603-1">
+    <tl t="p" o="080001" c="Bus" n="22140" />
+    <dp pt="2509040603" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="7053195436611951743-2509040650-1">
+    <tl f="S" t="p" o="08" c="S" n="82055" />
+    <dp pt="2509040650" pp="1" l="8" pde="Berlin Greifswalder Str" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)" />
+  </s>
+  <s id="-2706374630388888741-2509040609-5">
+    <tl t="p" o="080001" c="Bus" n="22149" />
+    <ar pt="2509040634" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="7935849879732441997-2509040612-1">
+    <tl t="p" o="080001" c="Bus" n="22146" />
+    <dp pt="2509040612" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="-2994379111426879423-2509040645-1">
+    <tl t="p" o="080001" c="Bus" n="22168" />
+    <dp pt="2509040645" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="-8601030847623681928-2509040639-1">
+    <tl t="p" o="080001" c="Bus" n="22164" />
+    <dp pt="2509040639" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="-8897892747264257751-2509040552-5">
+    <tl t="p" o="080001" c="Bus" n="22141" />
+    <ar pt="2509040617" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="6297773588236804256-2509040610-1">
+    <tl f="S" t="p" o="08" c="S" n="82047" />
+    <dp pt="2509040610" pp="1" l="8" pde="Berlin Greifswalder Str" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)" />
+  </s>
+  <s id="-2948441503260502908-2509040633-5">
+    <tl t="p" o="080001" c="Bus" n="22165" />
+    <ar pt="2509040658" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="-8888250212650529829-2509040608-19">
+    <tl f="S" t="p" o="08" c="S" n="2026" />
+    <ar pt="2509040653" pp="2" l="2" ppth="Mahlow|Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="-480886540975827950-2509040600-1">
+    <tl t="p" o="080001" c="Bus" n="22138" />
+    <dp pt="2509040600" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="-8786699243884681836-2509040618-5">
+    <tl t="p" o="080001" c="Bus" n="22155" />
+    <ar pt="2509040643" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="8389600051946312844-2509040602-18">
+    <tl f="S" t="p" o="08" c="S" n="2550" />
+    <ar pt="2509040643" pp="2" l="2" ppth="Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="3103095666177101536-2509040615-5">
+    <tl t="p" o="080001" c="Bus" n="22153" />
+    <ar pt="2509040640" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="-6094697281470899869-2509040642-1">
+    <tl t="p" o="080001" c="Bus" n="22166" />
+    <dp pt="2509040642" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="4921814604234072210-2509040624-5">
+    <tl t="p" o="080001" c="Bus" n="22159" />
+    <ar pt="2509040649" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="-6703679913454731770-2509040641-3">
+    <tl f="S" t="p" o="08" c="S" n="82030" />
+    <ar pt="2509040647" pp="1" l="8" pde="Berlin Greifswalder Str" ppth="Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="-7525827703724843459-2509040627-1">
+    <tl t="p" o="080001" c="Bus" n="22156" />
+    <dp pt="2509040627" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="-9049234977950966404-2509040511-7">
+    <tl t="p" o="080001" c="Bus" n="8109" />
+    <ar pt="2509040601" pp="" l="S8" ppth="Hohen Neuendorf(b Berlin)|Bergfelde(b Berlin)|Schönfließ Kirche, Mühlenbecker Land|Mühlenbeck-Mönchmühle|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="359661157720066037-2509040609-1">
+    <tl t="p" o="080001" c="Bus" n="22144" />
+    <dp pt="2509040609" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="3462884076392581547-2509040655-1">
+    <tl f="S" t="p" o="08" c="S" n="2555" />
+    <dp pt="2509040655" pp="2" l="2" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee|Berlin Schichauweg|Berlin-Lichtenrade" />
+  </s>
+  <s id="2949157209948085378-2509040528-19">
+    <tl f="S" t="p" o="08" c="S" n="2022" />
+    <ar pt="2509040613" pp="2" l="2" ppth="Mahlow|Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="-8619287410690612575-2509040630-1">
+    <tl t="p" o="080001" c="Bus" n="22158" />
+    <dp pt="2509040630" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+  <s id="-6186810877533485060-2509040630-5">
+    <tl t="p" o="080001" c="Bus" n="22163" />
+    <ar pt="2509040655" pp="" l="S2" ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="8449576225266064430-2509040657-1">
+    <tl t="p" o="080001" c="Bus" n="22176" />
+    <dp pt="2509040657" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" />
+  </s>
+</timetable>

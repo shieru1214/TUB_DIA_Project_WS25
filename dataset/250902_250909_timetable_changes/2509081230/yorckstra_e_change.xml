@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Yorckstr.(S2)" eva="8089050">
+  <s id="2875626455347287887-2509081208-9" eva="8089050">
+    <m id="r2488011" t="h" from="2509080700" to="2509081230" cat="Störung" ts="2509080717" ts-tts="25-09-08 07:17:52.082" pr="2" />
+    <ar ct="2509081229" l="2" />
+    <dp ct="2509081230" l="2" />
+  </s>
+  <s id="-7597213137856766632-2509081148-19" eva="8089050">
+    <m id="r2488181" t="h" from="2509081030" to="2509081300" cat="Störung" ts="2509081114" ts-tts="25-09-08 12:16:03.814" pr="2" />
+    <ar ct="2509081232" l="25" />
+    <dp ct="2509081232" l="25" />
+  </s>
+  <s id="6075802343504882735-2509081245-9" eva="8089050">
+    <m id="r2488181" t="h" from="2509081030" to="2509081300" cat="Störung" ts="2509081114" ts-tts="25-09-08 12:16:03.814" pr="2" />
+    <ar ct="2509081304" l="25" />
+    <dp ct="2509081304" l="25" />
+  </s>
+  <s id="4951511492116863763-2509081143-19" eva="8089050">
+    <m id="r2488011" t="h" from="2509080700" to="2509081230" cat="Störung" ts="2509080717" ts-tts="25-09-08 07:17:52.082" pr="2" />
+    <ar ct="2509081229" l="2" />
+    <dp ct="2509081229" l="2" />
+  </s>
+  <s id="2226027283471872018-2509081215-9" eva="8089050">
+    <m id="r2488181" t="h" from="2509081030" to="2509081300" cat="Störung" ts="2509081114" ts-tts="25-09-08 12:16:03.814" pr="2" />
+    <m id="r2488182" t="h" from="2509081030" to="2509082030" cat="Störung" ts="2509081116" ts-tts="25-09-08 11:17:03.465" pr="2" />
+    <ar cpth="" ct="2509081247" cs="c" clt="2509081129" l="26" />
+    <dp cpth="Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2509081247" cs="c" clt="2509081129" l="26" />
+  </s>
+</timetable>

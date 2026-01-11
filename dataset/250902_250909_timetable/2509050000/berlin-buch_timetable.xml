@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Buch">
+  <s id="4851237910432375759-2509050023-5">
+    <tl f="S" t="p" o="08" c="S" n="22137" />
+    <ar pt="2509050033" pp="1" l="2" ppth="Bernau (S)|Bernau-Friedenstal|Zepernick(Bernau)|Röntgental" />
+    <dp pt="2509050033" pp="1" l="2" ppth="Berlin-Karow" />
+  </s>
+  <s id="-7285495264808039887-2509050020-2">
+    <tl f="S" t="p" o="08" c="S" n="22130" />
+    <ar pt="2509050023" pp="1" l="2" ppth="Berlin-Karow" />
+    <dp pt="2509050023" pp="1" l="2" ppth="Röntgental|Zepernick(Bernau)|Bernau-Friedenstal|Bernau (S)" />
+  </s>
+  <s id="6669701800237626922-2509050043-5">
+    <tl f="S" t="p" o="08" c="S" n="22139" />
+    <ar pt="2509050053" pp="1" l="2" ppth="Bernau (S)|Bernau-Friedenstal|Zepernick(Bernau)|Röntgental" />
+    <dp pt="2509050053" pp="1" l="2" ppth="Berlin-Karow" />
+  </s>
+  <s id="3667086275311463206-2509050000-2">
+    <tl f="S" t="p" o="08" c="S" n="22128" />
+    <ar pt="2509050003" pp="1" l="2" ppth="Berlin-Karow" />
+    <dp pt="2509050003" pp="1" l="2" ppth="Röntgental|Zepernick(Bernau)|Bernau-Friedenstal|Bernau (S)" />
+  </s>
+  <s id="1117088177009407144-2509050040-2">
+    <tl f="S" t="p" o="08" c="S" n="22132" />
+    <ar pt="2509050043" pp="1" l="2" ppth="Berlin-Karow" />
+    <dp pt="2509050043" pp="1" l="2" ppth="Röntgental|Zepernick(Bernau)|Bernau-Friedenstal|Bernau (S)" />
+  </s>
+  <s id="-2962074857852129862-2509050003-5">
+    <tl f="S" t="p" o="08" c="S" n="22135" />
+    <ar pt="2509050013" pp="1" l="2" ppth="Bernau (S)|Bernau-Friedenstal|Zepernick(Bernau)|Röntgental" />
+    <dp pt="2509050013" pp="1" l="2" ppth="Berlin-Karow" />
+  </s>
+</timetable>

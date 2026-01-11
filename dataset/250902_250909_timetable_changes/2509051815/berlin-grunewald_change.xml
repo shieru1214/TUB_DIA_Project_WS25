@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Grunewald" eva="8089062">
+  <s id="5358052944080997724-2509051751-6" eva="8089062">
+    <ar ct="2509051815" l="7" />
+    <dp ct="2509051815" l="7" />
+  </s>
+  <s id="1772211509840795088-2509051634-9" eva="8089062">
+    <ar cpth="Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" ct="2509051652" l="7" />
+    <dp cpth="" ct="2509051653" cs="c" clt="2509051814" l="7">
+      <m id="r24092019" t="d" c="36" ts="2509051814" ts-tts="25-09-05 18:14:47.535" />
+      <m id="r24092021" t="d" c="36" ts="2509051814" ts-tts="25-09-05 18:15:03.254" />
+    </dp>
+  </s>
+</timetable>

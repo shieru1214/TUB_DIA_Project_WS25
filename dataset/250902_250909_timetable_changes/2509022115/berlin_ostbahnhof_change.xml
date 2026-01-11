@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostbahnhof" eva="8010255">
+  <s id="-96203559036685518-2509022106-21" eva="8010255">
+    <ar ct="2509022307" l="1" />
+    <dp ct="2509022311" l="1" />
+  </s>
+  <s id="-351077048637926577-2509022112-3" eva="8010255">
+    <ar ct="2509022120" l="23" />
+    <dp ct="2509022121" l="23" />
+  </s>
+  <s id="6378881227509878523-2509021550-12" eva="8010255">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-02 10:48:50.464" pr="3" />
+    <ar ppth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Hbf" pp="2" ct="2509022126" pt="2509022028">
+      <m id="r23685795" t="d" c="64" ts="2509021617" ts-tts="25-09-02 16:17:46.737" />
+      <m id="r23687462" t="d" c="25" ts="2509021643" ts-tts="25-09-02 16:43:41.606" />
+      <m id="r23692726" t="d" c="36" ts="2509021800" ts-tts="25-09-02 18:00:37.051" />
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="943" />
+  </s>
+  <s id="-107298036587741504-2509021545-9" eva="8010255">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-02 10:48:50.464" pr="3" />
+    <ar ppth="Köln Hbf|Wuppertal Hbf|Hagen Hbf|Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Hbf" pp="2" ct="2509022126" pt="2509022028" wings="6378881227509878523-2509021550">
+      <m id="r23687460" t="d" c="25" ts="2509021643" ts-tts="25-09-02 16:43:41.606" />
+      <m id="r23692724" t="d" c="36" ts="2509021800" ts-tts="25-09-02 18:00:37.051" />
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="953" />
+  </s>
+  <s id="2121877044531283563-2509022113-1" eva="8010255">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-02 10:48:50.464" pr="3" />
+    <dp ct="2509022114">
+      <m id="r23693541" t="d" c="51" ts="2509021813" ts-tts="25-09-02 18:13:57.375" />
+    </dp>
+  </s>
+  <s id="-1246312238388053590-2509022114-3" eva="8010255">
+    <ar ct="2509022135" l="23" />
+    <dp ct="2509022138" l="23" />
+  </s>
+</timetable>

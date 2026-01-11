@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="-1126287330788860768-2509031051-7" eva="8089047">
+    <m id="r2485165" t="h" from="2509021000" to="2509031800" cat="Störung" ts="2509021056" ts-tts="25-09-02 23:16:04.497" pr="2" />
+    <ar ct="2509031116" l="7" />
+    <dp ct="2509031117" l="7" />
+  </s>
+  <s id="-2334258063280761431-2509040347-23" eva="8089047">
+    <ar cpth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" cs="p" clt="2509031111" l="3" />
+    <dp cpth="Berlin-Grunewald" cs="p" clt="2509031111" l="3" />
+  </s>
+  <s id="-6112341857996034516-2509031021-21" eva="8089047">
+    <ar ct="2509031115" l="46" />
+    <dp ct="2509031116" l="46" />
+  </s>
+  <s id="-3105858336980416288-2509031130-30" eva="8089047">
+    <ar ct="2509031247" l="5" />
+  </s>
+  <s id="1475806924701080592-2509031129-24" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:03.926" pr="1" />
+    <ar ct="2509031232" l="9" />
+    <dp ct="2509031232" l="9" />
+  </s>
+  <s id="-5873133521175659700-2509031044-14" eva="8089047">
+    <ar ct="2509031113" l="41" />
+    <dp ct="2509031114" l="41" />
+  </s>
+</timetable>

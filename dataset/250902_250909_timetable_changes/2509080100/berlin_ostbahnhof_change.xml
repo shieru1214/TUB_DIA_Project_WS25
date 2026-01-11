@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostbahnhof" eva="8010255">
+  <s id="4757722904942764530-2509071957-13" eva="8010255">
+    <ar cpth="Aachen Hbf|Düren|Köln Hbf|Wuppertal Hbf|Hagen Hbf|Hamm(Westf)Hbf|Bielefeld Hbf|Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf|Berlin Zoologischer Garten" cp="3" ct="2509080231">
+      <m id="r24331288" t="d" c="43" ts="2509072251" ts-tts="25-09-07 22:51:40.777" />
+      <m id="r24331290" t="d" c="43" ts="2509072251" ts-tts="25-09-07 22:51:40.777" />
+      <m id="r24333607" t="d" c="31" ts="2509072336" ts-tts="25-09-07 23:36:38.685" />
+      <m id="r24333611" t="d" c="31" ts="2509072336" ts-tts="25-09-07 23:36:38.685" />
+    </ar>
+  </s>
+  <s id="-2167438544370822717-2509072236-101" eva="8010255">
+    <m id="r2397244" t="h" from="2504021351" to="2509302359" cat="Information" ts="2504021355" ts-tts="25-09-06 23:16:03.789" pr="2" />
+    <m id="r2484847" t="h" from="2509011500" to="2509192359" cat="Information" ts="2509011714" ts-tts="25-09-06 23:16:04.112" pr="2" />
+    <ar cpth="Hamburg-Altona|Hamburg Hbf|Lüneburg|Uelzen|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf" ppth="Hamburg-Altona|Hamburg Hbf|Lüneburg|Uelzen|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf|Berlin Südkreuz" pp="3" ct="2509080156" pt="2509080135" ps="a">
+      <m id="r24330913" t="f" c="0" ts="2509072244" ts-tts="25-09-07 22:44:23.492" />
+      <m id="r24330917" t="f" c="0" ts="2509072244" ts-tts="25-09-07 22:44:39.066" />
+      <m id="r24332399" t="d" c="43" ts="2509072311" ts-tts="25-09-07 23:11:58.489" />
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="809" />
+  </s>
+  <s id="58133983524038883-2509072321-25" eva="8010255">
+    <ar ct="2509080134" l="1">
+      <m id="r24333742" t="d" c="45" ts="2509072339" ts-tts="25-09-07 23:39:29.841" />
+    </ar>
+    <dp ct="2509080135" l="1">
+      <m id="r24333742" t="d" c="45" ts="2509072339" ts-tts="25-09-07 23:39:29.841" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

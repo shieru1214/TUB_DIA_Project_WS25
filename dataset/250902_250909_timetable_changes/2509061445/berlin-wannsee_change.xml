@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wannsee" eva="8010405">
+  <s id="8129662548196100785-2509061155-13" eva="8010405">
+    <ar cpth="Pillgram|Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg" ppth="Frankfurt(Oder)|Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg" pp="5" ct="2509061520" pt="2509061320" l="1">
+      <m id="r24177512" t="d" c="55" ts="2509061355" ts-tts="25-09-06 13:55:43.855" />
+    </ar>
+    <dp cpth="Potsdam Hbf|Werder(Havel)|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Magdeburg-Neustadt|Magdeburg Hbf" ppth="Potsdam Hbf|Werder(Havel)|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Magdeburg-Neustadt|Magdeburg Hbf" pp="5" ct="2509061522" pt="2509061323" l="1">
+      <m id="r24177512" t="d" c="55" ts="2509061355" ts-tts="25-09-06 13:55:43.855" />
+    </dp>
+    <tl f="N" t="p" o="OWRE" c="RE" n="73733" />
+  </s>
+  <s id="7507271746926051325-2509061439-6" eva="8010405">
+    <ar ct="2509061517" l="37" />
+  </s>
+  <s id="-7884440784250021167-2509061455-13" eva="8010405">
+    <ar ct="2509061631" l="1" />
+    <dp ct="2509061634" l="1" />
+  </s>
+  <s id="3889310201134315391-2509061514-25" eva="8010405">
+    <ar ct="2509061732" l="7" />
+    <dp ct="2509061734" l="7" />
+  </s>
+  <s id="-1839551630028491335-2509061319-8" eva="8010405">
+    <ar cpth="Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)" ppth="Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf" pp="6" ct="2509061500" pt="2509061356" l="1" />
+    <dp cpth="Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)" ppth="Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)" pp="6" ct="2509061501" pt="2509061357" l="1" />
+    <tl f="N" t="p" o="OWRE" c="RE" n="73772" />
+  </s>
+  <s id="-1561346117191090690-2509061426-16" eva="8010405">
+    <ar ct="2509061558" l="1" />
+    <dp ct="2509061559" l="1" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:45.514" />
+</timetable>

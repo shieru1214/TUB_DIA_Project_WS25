@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="9138488008622410153-2509041341-18" eva="8089047">
+    <ar ct="2509041419" l="41" />
+    <dp ct="2509041420" l="41" />
+  </s>
+  <s id="9137343284158543410-2509041309-24" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <m id="r2486210" t="h" from="2509041000" to="2509041300" cat="Störung" ts="2509041020" ts-tts="25-09-04 12:16:03.496" pr="2" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.256" pr="1" />
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" ct="2509041414" cs="p" clt="2509041007" l="9" />
+    <dp cpth="Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" ct="2509041415" cs="p" clt="2509041007" l="9" />
+  </s>
+  <s id="7264678968719401060-2509041321-18" eva="8089047">
+    <ar ct="2509041359" l="41" />
+    <dp ct="2509041400" l="41" />
+  </s>
+  <s id="4119271269871595954-2509041415-8" eva="8089047">
+    <ar ct="2509041432" l="42" />
+    <dp ct="2509041432" l="42" />
+  </s>
+  <s id="1947805669610133189-2509041305-23" eva="8089047">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.256" pr="1" />
+    <ar cpth="Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" ct="2509041400" cs="p" clt="2509040948" l="5" />
+  </s>
+  <s id="8143383984449034525-2509041414-14" eva="8089047">
+    <ar ct="2509041443" l="41" />
+    <dp ct="2509041444" l="41" />
+  </s>
+  <s id="7809989061840363622-2509041356-3" eva="8089047">
+    <ar ct="2509041400" l="46" />
+    <dp ct="2509041400" l="46" />
+  </s>
+  <s id="-8583756660436738852-2509041311-23" eva="8089047">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:05.100" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.969" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.257" pr="1" />
+    <m id="r2486202" t="h" from="2509040930" to="2509041500" cat="Störung" ts="2509041000" ts-tts="25-09-04 10:00:15.558" pr="2" />
+    <ar ct="2509041403" l="7" />
+    <dp ct="2509041403" l="7" />
+  </s>
+  <s id="5428567562693151370-2509041331-23" eva="8089047">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:05.100" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.969" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.257" pr="1" />
+    <m id="r2486202" t="h" from="2509040930" to="2509041500" cat="Störung" ts="2509041000" ts-tts="25-09-04 10:00:15.558" pr="2" />
+    <ar ct="2509041420" l="7" />
+    <dp ct="2509041420" l="7" />
+  </s>
+  <s id="2117293651452389653-2509041344-14" eva="8089047">
+    <ar ct="2509041414" l="41" />
+    <dp ct="2509041414" l="41" />
+  </s>
+</timetable>

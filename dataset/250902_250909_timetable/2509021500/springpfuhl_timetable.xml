@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Springpfuhl">
+  <s id="-7491112497275754952-2509021456-6">
+    <tl f="S" t="p" o="08" c="S" n="75791" />
+    <ar pt="2509021508" pp="1" l="75" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" />
+    <dp pt="2509021511" pp="1" l="75" ppth="Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)|Berlin-Wartenberg" />
+  </s>
+  <s id="-5618513255476876037-2509021546-4">
+    <tl f="S" t="p" o="08" c="S" n="75796" />
+    <ar pt="2509021553" pp="2" l="75" ppth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße" />
+    <dp pt="2509021556" pp="2" l="75" ppth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+  <s id="-1555244531435805638-2509021538-4">
+    <tl f="S" t="p" o="08" c="S" n="75090" />
+    <ar pt="2509021546" pp="2" l="75" ppth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße" />
+    <dp pt="2509021546" pp="2" l="75" ppth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+  <s id="-834852584330806640-2509021518-4">
+    <tl f="S" t="p" o="08" c="S" n="75088" />
+    <ar pt="2509021526" pp="2" l="75" ppth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße" />
+    <dp pt="2509021526" pp="2" l="75" ppth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+  <s id="-5899825833268278603-2509021451-6">
+    <tl f="S" t="p" o="08" c="S" n="7106" />
+    <ar pt="2509021500" pp="2" l="7" ppth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr." />
+    <dp pt="2509021501" pp="2" l="7" ppth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee|Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" />
+  </s>
+  <s id="-5409243335245476724-2509021546-6">
+    <tl f="S" t="p" o="08" c="S" n="75093" />
+    <ar pt="2509021558" pp="1" l="75" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" />
+    <dp pt="2509021601" pp="1" l="75" ppth="Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)|Berlin-Wartenberg" />
+  </s>
+  <s id="-3410224334550905736-2509021421-24">
+    <tl f="S" t="p" o="08" c="S" n="7105" />
+    <ar pt="2509021523" pp="2" l="7" ppth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" />
+    <dp pt="2509021524" pp="2" l="7" ppth="Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" />
+  </s>
+  <s id="-8704954481682561033-2509021506-4">
+    <tl f="S" t="p" o="08" c="S" n="75792" />
+    <ar pt="2509021513" pp="2" l="75" ppth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße" />
+    <dp pt="2509021516" pp="2" l="75" ppth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+  <s id="6590862899083847248-2509021401-24">
+    <tl f="S" t="p" o="08" c="S" n="7103" />
+    <ar pt="2509021503" pp="2" l="7" ppth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" />
+    <dp pt="2509021504" pp="2" l="7" ppth="Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" />
+  </s>
+  <s id="1378052578664399140-2509021511-6">
+    <tl f="S" t="p" o="08" c="S" n="7108" />
+    <ar pt="2509021520" pp="2" l="7" ppth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr." />
+    <dp pt="2509021521" pp="2" l="7" ppth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee|Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" />
+  </s>
+  <s id="-5965227496768792927-2509021506-6">
+    <tl f="S" t="p" o="08" c="S" n="75089" />
+    <ar pt="2509021518" pp="1" l="75" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" />
+    <dp pt="2509021521" pp="1" l="75" ppth="Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)|Berlin-Wartenberg" />
+  </s>
+  <s id="3439262859783883811-2509021536-6">
+    <tl f="S" t="p" o="08" c="S" n="75795" />
+    <ar pt="2509021548" pp="1" l="75" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" />
+    <dp pt="2509021551" pp="1" l="75" ppth="Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)|Berlin-Wartenberg" />
+  </s>
+  <s id="5113668419151843716-2509021458-4">
+    <tl f="S" t="p" o="08" c="S" n="75086" />
+    <ar pt="2509021506" pp="2" l="75" ppth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße" />
+    <dp pt="2509021506" pp="2" l="75" ppth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+  <s id="7447031367813263765-2509021441-24">
+    <tl f="S" t="p" o="08" c="S" n="7107" />
+    <ar pt="2509021543" pp="2" l="7" ppth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" />
+    <dp pt="2509021544" pp="2" l="7" ppth="Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" />
+  </s>
+  <s id="1965167754067780734-2509021516-6">
+    <tl f="S" t="p" o="08" c="S" n="75793" />
+    <ar pt="2509021528" pp="1" l="75" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" />
+    <dp pt="2509021531" pp="1" l="75" ppth="Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)|Berlin-Wartenberg" />
+  </s>
+  <s id="-3405826571220599902-2509021526-4">
+    <tl f="S" t="p" o="08" c="S" n="75794" />
+    <ar pt="2509021533" pp="2" l="75" ppth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße" />
+    <dp pt="2509021536" pp="2" l="75" ppth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+  <s id="4383082016987979121-2509021526-6">
+    <tl f="S" t="p" o="08" c="S" n="75091" />
+    <ar pt="2509021538" pp="1" l="75" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" />
+    <dp pt="2509021541" pp="1" l="75" ppth="Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)|Berlin-Wartenberg" />
+  </s>
+  <s id="-8599095161785331222-2509021446-6">
+    <tl f="S" t="p" o="08" c="S" n="75087" />
+    <ar pt="2509021458" pp="1" l="75" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" />
+    <dp pt="2509021501" pp="1" l="75" ppth="Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)|Berlin-Wartenberg" />
+  </s>
+  <s id="1486168508254805016-2509021531-6">
+    <tl f="S" t="p" o="08" c="S" n="7110" />
+    <ar pt="2509021540" pp="2" l="7" ppth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr." />
+    <dp pt="2509021541" pp="2" l="7" ppth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee|Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" />
+  </s>
+</timetable>

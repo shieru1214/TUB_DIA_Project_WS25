@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Waidmannslust" eva="8089092">
+  <s id="-213319042462600881-2509041128-1" eva="8089092">
+    <dp ppth="Berlin-Hermsdorf|Berlin-Frohnau" pp="1" ct="2509041131" pt="2509041128" l="26" />
+    <tl f="S" t="e" o="08" c="S" n="28554" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="26554" />
+    </ref>
+  </s>
+  <s id="308448635284740799-2509041144-27" eva="8089092">
+    <m id="r2486148" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040802" ts-tts="25-09-04 08:02:59.609" pr="2" />
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:24.055" pr="2" />
+    <ar ct="2509041243" l="1" />
+    <dp ct="2509041243" l="1" />
+  </s>
+</timetable>

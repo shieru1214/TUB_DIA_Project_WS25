@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bellevue" eva="8089005">
+  <s id="3419072004785619222-2509052357-12" eva="8089005">
+    <ar cpth="" ct="2509060025" cs="c" clt="2509041818" l="9">
+      <m id="r23994565" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.991" />
+      <m id="r23994567" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.991" />
+    </ar>
+    <dp cpth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ct="2509060025" cs="c" clt="2509041818" l="9">
+      <m id="r23994565" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.991" />
+      <m id="r23994567" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.991" />
+    </dp>
+  </s>
+  <s id="2764261752792737355-2509052347-12" eva="8089005">
+    <ar ct="2509060022" l="3" />
+    <dp ct="2509060023" l="3" />
+  </s>
+  <s id="3262805832235325961-2509060029-19" eva="8089005">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:04.067" pr="1" />
+    <ar ct="2509060123" l="9" />
+    <dp ct="2509060124" l="9" />
+  </s>
+  <s id="-2310595962716240109-2509060007-6" eva="8089005">
+    <ar ct="2509060023" l="5" />
+    <dp ct="2509060023" l="5" />
+  </s>
+</timetable>

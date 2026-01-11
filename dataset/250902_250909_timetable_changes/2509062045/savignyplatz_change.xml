@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Savignyplatz" eva="8089037">
+  <s id="4513650832838204072-2509062100-25" eva="8089037">
+    <ar ct="2509062202" l="5" />
+    <dp ct="2509062203" l="5" />
+  </s>
+  <s id="4194961227561832104-2509062042-6" eva="8089037">
+    <ar ppth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)" pp="3" ct="2509062101" pt="2509062059" l="7" />
+    <dp ppth="Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" pp="3" ct="2509062101" pt="2509062059" l="7" />
+    <tl f="S" t="e" o="08" c="S" n="70607" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="7607" />
+    </ref>
+  </s>
+  <s id="1265749905633546470-2509062016-14" eva="8089037">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.626" pr="2" />
+    <m id="r2487504" t="h" from="2509061900" to="2509062200" cat="Störung" ts="2509061943" ts-tts="25-09-06 19:43:39.436" pr="2" />
+    <ar ct="2509062045" l="7" />
+    <dp ct="2509062045" l="7" />
+  </s>
+</timetable>

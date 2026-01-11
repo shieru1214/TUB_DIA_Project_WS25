@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Baumschulenweg" eva="8089004">
+  <s id="-6930939662338827909-2509032048-6" eva="8089004">
+    <ar ct="2509032100" l="45" />
+    <dp ct="2509032101" l="45" />
+  </s>
+  <s id="2101985702161319272-2509032115-20" eva="8089004">
+    <m id="r2485869" t="h" from="2509031700" to="2509032230" cat="Störung" ts="2509031727" ts-tts="25-09-03 20:16:04.109" pr="1" />
+    <ar ct="2509032157" l="42" />
+    <dp ct="2509032158" l="42" />
+  </s>
+  <s id="-6612685660735495464-2509032055-20" eva="8089004">
+    <m id="r2485869" t="h" from="2509031700" to="2509032230" cat="Störung" ts="2509031727" ts-tts="25-09-03 20:16:04.109" pr="1" />
+    <ar ct="2509032152" l="42" />
+    <dp ct="2509032153" l="42" />
+  </s>
+  <s id="-5874207931311033574-2509032029-9" eva="8089004">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:03.926" pr="1" />
+    <m id="r2485858" t="h" from="2509031630" to="2509032230" cat="Störung" ts="2509031703" ts-tts="25-09-03 20:16:04.107" pr="1" />
+    <m id="r2485869" t="h" from="2509031700" to="2509032230" cat="Störung" ts="2509031727" ts-tts="25-09-03 20:16:04.108" pr="1" />
+    <ar cpth="Berlin-Schöneweide (S)" ct="2509032059" cs="p" clt="2509032037" l="9" />
+    <dp cpth="Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" ct="2509032100" cs="p" clt="2509032037" l="9" />
+  </s>
+  <s id="1361851905129153110-2509032015-20" eva="8089004">
+    <m id="r2485869" t="h" from="2509031700" to="2509032230" cat="Störung" ts="2509031727" ts-tts="25-09-03 20:16:04.108" pr="1" />
+    <ar ct="2509032058" l="42" />
+    <dp ct="2509032059" l="42" />
+  </s>
+  <s id="-6574632013299553210-2509032049-5" eva="8089004">
+    <m id="r2485869" t="h" from="2509031700" to="2509032230" cat="Störung" ts="2509031727" ts-tts="25-09-03 20:16:04.109" pr="1" />
+    <ar cpth="Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)" ct="2509032101" l="8" />
+    <dp cpth="Berlin Plänterwald|Berlin Treptower Park" ct="2509032102" l="8" />
+  </s>
+</timetable>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Neukölln" eva="8089077">
+  <s id="-8504069274002745310-2509050036-13" eva="8089077">
+    <ar ct="2509050100" l="46" />
+    <dp ct="2509050101" l="46" />
+  </s>
+  <s id="4253579057250304753-2509050041-8" eva="8089077">
+    <ar cpth="Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee" ct="2509050101" l="41" />
+    <dp cpth="Berlin Hermannstraße|Berlin-Tempelhof" ct="2509050100" l="41" />
+  </s>
+</timetable>

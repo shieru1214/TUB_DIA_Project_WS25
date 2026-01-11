@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bellevue" eva="8089005">
+  <s id="491255380004716013-2509061807-12" eva="8089005">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.507" pr="1" />
+    <ar ct="2509061837" l="3" />
+    <dp ct="2509061837" l="3" />
+  </s>
+  <s id="-2307520590555835121-2509061811-8" eva="8089005">
+    <ar ct="2509061830" l="5" />
+    <dp ct="2509061830" l="5" />
+  </s>
+  <s id="4813397633611476815-2509061845-19" eva="8089005">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.507" pr="1" />
+    <ar ct="2509061931" l="3" />
+    <dp ct="2509061932" l="3" />
+  </s>
+  <s id="-9213285949078389382-2509061751-18" eva="8089005">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.746" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.420" pr="1" />
+    <ar ct="2509061829" l="7" />
+    <dp ct="2509061830" l="7" />
+  </s>
+  <s id="5183786826876065133-2509061745-19" eva="8089005">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.507" pr="1" />
+    <ar cpth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Hirschgarten|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg" ct="2509061843" cs="c" clt="2509061809" l="3">
+      <m id="r24207735" t="d" c="36" ts="2509061809" ts-tts="25-09-06 18:09:28.499" />
+    </ar>
+    <dp cpth="" ct="2509061843" cs="c" clt="2509061809" l="3">
+      <m id="r24207735" t="d" c="36" ts="2509061809" ts-tts="25-09-06 18:09:28.499" />
+    </dp>
+  </s>
+</timetable>

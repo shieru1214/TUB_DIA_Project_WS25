@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Potsdamer Platz" eva="8011118">
+  <s id="-8242287713313171954-2509071213-8" eva="8011118">
+    <m id="r2458360" t="h" from="2508020000" to="2512132359" cat="Information" ts="2508022307" ts-tts="25-09-06 23:16:03.806" pr="1" />
+    <ar ct="2509071452" l="85" />
+    <dp ct="2509071453" l="85" />
+  </s>
+  <s id="8281476375952669238-2509071016-25" eva="8011118">
+    <m id="r2487716" t="h" from="2509071016" to="2509071426" cat="Störung" ts="2509071307" ts-tts="25-09-07 13:08:08.543" pr="2" />
+    <m id="r2487585" t="h" from="2509071016" to="2509071959" cat="Information" ts="2509070825" ts-tts="25-09-07 08:25:37.260" pr="2" />
+    <ar cpth="Stralsund Hbf|Miltzow|Greifswald|Greifswald Süd|Groß Kiesow|Züssow|Klein Bünzow|Anklam|Ducherow|Ferdinandshof|Jatznick|Pasewalk|Nechlin|Prenzlau|Seehausen(Uckermark)|Warnitz(Uckermark)|Wilmersdorf(Angerm)|Angermünde|Chorin|Britz|Eberswalde Hbf|Berlin Gesundbrunnen|Berlin Hbf" ct="2509071335" l="3">
+      <m id="r24234164" t="f" c="0" ts="2509062321" ts-tts="25-09-06 23:21:26.969" />
+      <m id="r24237644" t="q" c="73" ts="2509070103" ts-tts="25-09-07 01:03:19.699" />
+      <m id="r24237646" t="q" c="73" ts="2509070103" ts-tts="25-09-07 01:03:19.699" />
+      <m id="r24241654" t="f" c="0" ts="2509070519" ts-tts="25-09-07 05:19:30.098" />
+      <m id="r24241655" t="f" c="0" ts="2509070519" ts-tts="25-09-07 05:19:30.098" />
+      <m id="r24252458" t="q" c="95" ts="2509070940" ts-tts="25-09-07 09:40:11.752" />
+      <m id="r24252460" t="q" c="95" ts="2509070940" ts-tts="25-09-07 09:40:11.752" />
+      <m id="r24260313" t="d" c="21" ts="2509071133" ts-tts="25-09-07 11:33:30.620" />
+      <m id="r24262344" t="f" c="0" ts="2509071157" ts-tts="25-09-07 11:57:56.942" />
+      <m id="r24262346" t="f" c="0" ts="2509071157" ts-tts="25-09-07 11:57:56.942" />
+      <m id="r24262348" t="f" c="0" ts="2509071157" ts-tts="25-09-07 11:57:56.942" />
+      <m id="r24267269" t="f" c="0" ts="2509071257" ts-tts="25-09-07 12:57:54.457" />
+    </ar>
+    <dp cpth="Berlin Südkreuz|Berlin-Lichterfelde Ost|Teltow|Großbeeren|Birkengrund|Ludwigsfelde|Luckenwalde|Jüterbog" ct="2509071337" l="3">
+      <m id="r24234164" t="f" c="0" ts="2509062321" ts-tts="25-09-06 23:21:26.969" />
+      <m id="r24237644" t="q" c="73" ts="2509070103" ts-tts="25-09-07 01:03:19.699" />
+      <m id="r24237646" t="q" c="73" ts="2509070103" ts-tts="25-09-07 01:03:19.699" />
+      <m id="r24241654" t="f" c="0" ts="2509070519" ts-tts="25-09-07 05:19:30.098" />
+      <m id="r24241655" t="f" c="0" ts="2509070519" ts-tts="25-09-07 05:19:30.098" />
+      <m id="r24252458" t="q" c="95" ts="2509070940" ts-tts="25-09-07 09:40:11.752" />
+      <m id="r24252460" t="q" c="95" ts="2509070940" ts-tts="25-09-07 09:40:11.752" />
+      <m id="r24260313" t="d" c="21" ts="2509071133" ts-tts="25-09-07 11:33:30.620" />
+      <m id="r24262344" t="f" c="0" ts="2509071157" ts-tts="25-09-07 11:57:56.942" />
+      <m id="r24262346" t="f" c="0" ts="2509071157" ts-tts="25-09-07 11:57:56.942" />
+      <m id="r24262348" t="f" c="0" ts="2509071157" ts-tts="25-09-07 11:57:56.942" />
+      <m id="r24267269" t="f" c="0" ts="2509071257" ts-tts="25-09-07 12:57:54.457" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

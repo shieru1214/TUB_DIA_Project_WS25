@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wartenberg" eva="8089093">
+  <s id="4112066989692176344-2509032058-1" eva="8089093">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 23:16:04.839" pr="1" />
+    <m id="r2485858" t="h" from="2509031630" to="2509032230" cat="Störung" ts="2509031703" ts-tts="25-09-03 20:16:04.991" pr="1" />
+    <dp cpth="Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2509032059" l="75" />
+  </s>
+  <s id="-1493480136554993559-2509032036-9" eva="8089093">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 23:16:04.839" pr="1" />
+    <m id="r2485858" t="h" from="2509031630" to="2509032230" cat="Störung" ts="2509031703" ts-tts="25-09-03 20:16:04.991" pr="1" />
+    <ar cpth="Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)" ct="2509032059" l="75" />
+  </s>
+</timetable>

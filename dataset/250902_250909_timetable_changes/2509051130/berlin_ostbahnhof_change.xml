@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostbahnhof" eva="8010255">
+  <s id="3107260843756192953-2509051026-11" eva="8010255">
+    <ar ct="2509051135" l="1" />
+    <dp ct="2509051136" l="1" />
+  </s>
+  <s id="-5245365249318096848-2509051131-1" eva="8010255">
+    <dp ct="2509051129">
+      <m id="r24035091" t="f" c="0" ts="2509051118" ts-tts="25-09-05 11:18:08.968" />
+    </dp>
+  </s>
+  <s id="-4972973488175603045-2509051200-14" eva="8010255">
+    <ar ct="2509051800" />
+  </s>
+  <s id="-4703442358992585392-2509051114-19" eva="8010255">
+    <ar ct="2509051302" l="7">
+      <m id="r23995535" t="f" c="0" ts="2509050258" ts-tts="25-09-05 02:58:51.175" />
+    </ar>
+    <dp ct="2509051304" l="7">
+      <m id="r23995535" t="f" c="0" ts="2509050258" ts-tts="25-09-05 02:58:51.175" />
+    </dp>
+  </s>
+  <s id="-223354783277510420-2509050802-5" eva="8010255">
+    <ar ct="2509051219" />
+  </s>
+  <s id="5336426014546584474-2509051314-19" eva="8010255">
+    <ar cpth="Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen|Berlin Ostkreuz" l="7">
+      <m id="r23995339" t="f" c="0" ts="2509050239" ts-tts="25-09-05 02:39:19.031" />
+      <m id="r24036609" t="d" c="48" ts="2509051129" ts-tts="25-09-05 11:29:32.862" />
+      <m id="r24036614" t="d" c="48" ts="2509051129" ts-tts="25-09-05 11:29:32.862" />
+    </ar>
+    <dp cpth="Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Michendorf|Seddin|Beelitz-Heilstätten" l="7">
+      <m id="r23995339" t="f" c="0" ts="2509050239" ts-tts="25-09-05 02:39:19.031" />
+      <m id="r24036609" t="d" c="48" ts="2509051129" ts-tts="25-09-05 11:29:32.862" />
+      <m id="r24036614" t="d" c="48" ts="2509051129" ts-tts="25-09-05 11:29:32.862" />
+    </dp>
+  </s>
+  <s id="-1695631388112486473-2509051001-13" eva="8010255">
+    <ar cpth="Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz" ct="2509051100" l="7">
+      <m id="r23995359" t="f" c="0" ts="2509050245" ts-tts="25-09-05 02:45:54.696" />
+      <m id="r24031624" t="f" c="0" ts="2509051046" ts-tts="25-09-05 10:46:33.032" />
+      <m id="r24033536" t="f" c="0" ts="2509051104" ts-tts="25-09-05 11:04:55.068" />
+    </ar>
+    <dp cpth="Berlin Ostkreuz|Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)" ct="2509051101" l="7">
+      <m id="r23995359" t="f" c="0" ts="2509050245" ts-tts="25-09-05 02:45:54.696" />
+      <m id="r24031624" t="f" c="0" ts="2509051046" ts-tts="25-09-05 10:46:33.032" />
+      <m id="r24033536" t="f" c="0" ts="2509051104" ts-tts="25-09-05 11:04:55.068" />
+    </dp>
+  </s>
+  <s id="902735485776651747-2509050444-11" eva="8010255">
+    <m id="r975576848" t="c" ts="2509051118" ts-tts="25-09-05 11:18:08.885" />
+    <m id="r975576847" t="c" ts="2509051118" ts-tts="25-09-05 11:18:08.885" />
+    <m id="r975576849" t="c" ts="2509051118" ts-tts="25-09-05 11:18:08.885" />
+    <m id="r975576846" t="c" ts="2509051118" ts-tts="25-09-05 11:18:08.885" />
+    <m id="r975576845" t="c" ts="2509051118" ts-tts="25-09-05 11:18:08.885" />
+    <ar ppth="Warszawa Wschodnia|Warszawa Centralna|Warszawa Zachodnia|Kutno|Konin|Poznan Glowny|Zbaszynek|Swiebodzin|Rzepin|Frankfurt(Oder)" cp="7" pp="6" ct="2509051130" pt="2509051005">
+      <m id="r23865823" t="d" c="13" ts="2509040643" ts-tts="25-09-04 06:43:58.852" />
+      <m id="r23865825" t="d" c="13" ts="2509040643" ts-tts="25-09-04 06:43:58.852" />
+      <m id="r24019561" t="f" c="0" ts="2509050854" ts-tts="25-09-05 08:54:16.095" />
+      <m id="r24019622" t="f" c="0" ts="2509050854" ts-tts="25-09-05 08:54:46.990" />
+      <m id="r24021140" t="f" c="0" ts="2509050910" ts-tts="25-09-05 09:10:33.136" />
+      <m id="r24021141" t="f" c="0" ts="2509050910" ts-tts="25-09-05 09:10:33.136" />
+    </ar>
+    <dp ppth="Berlin Hbf" cp="7" pp="6" ct="2509051132" pt="2509051009" hi="1">
+      <m id="r23865823" t="d" c="13" ts="2509040643" ts-tts="25-09-04 06:43:58.852" />
+      <m id="r23865825" t="d" c="13" ts="2509040643" ts-tts="25-09-04 06:43:58.852" />
+      <m id="r24019561" t="f" c="0" ts="2509050854" ts-tts="25-09-05 08:54:16.095" />
+      <m id="r24019622" t="f" c="0" ts="2509050854" ts-tts="25-09-05 08:54:46.990" />
+      <m id="r24021140" t="f" c="0" ts="2509050910" ts-tts="25-09-05 09:10:33.136" />
+      <m id="r24021141" t="f" c="0" ts="2509050910" ts-tts="25-09-05 09:10:33.136" />
+    </dp>
+    <tl f="F" t="p" o="51" c="EC" n="248" />
+  </s>
+  <s id="4422815303177053715-2509051114-3" eva="8010255">
+    <ar ct="2509051136" l="23" />
+    <dp ct="2509051138" l="23" />
+  </s>
+  <s id="-5067205027928923412-2509050845-8" eva="8010255">
+    <ar ppth="Köln Hbf|Wuppertal Hbf|Hagen Hbf|Bielefeld Hbf|Hannover Hbf|Berlin-Spandau|Berlin Zoologischer Garten" pp="2" ct="2509051345" pt="2509051313">
+      <m id="r24019957" t="d" c="1" ts="2509050857" ts-tts="25-09-05 08:57:21.931" />
+      <m id="r24019959" t="d" c="1" ts="2509050857" ts-tts="25-09-05 08:57:21.931" />
+      <m id="r24019961" t="d" c="1" ts="2509050857" ts-tts="25-09-05 08:57:21.931" />
+      <m id="r24020130" t="d" c="36" ts="2509050859" ts-tts="25-09-05 08:59:10.403" />
+      <m id="r24020132" t="d" c="36" ts="2509050859" ts-tts="25-09-05 08:59:10.403" />
+      <m id="r24020190" t="f" c="0" ts="2509050859" ts-tts="25-09-05 08:59:56.992" />
+      <m id="r24023630" t="d" c="61" ts="2509050934" ts-tts="25-09-05 09:35:07.542" />
+      <m id="r24023632" t="d" c="61" ts="2509050934" ts-tts="25-09-05 09:35:07.542" />
+      <m id="r24029680" t="d" c="43" ts="2509051028" ts-tts="25-09-05 10:28:25.124" />
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="555" />
+  </s>
+</timetable>

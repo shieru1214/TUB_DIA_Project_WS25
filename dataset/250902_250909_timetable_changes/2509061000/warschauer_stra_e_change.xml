@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="3709969844048557310-2509060910-18" eva="8089045">
+    <ar ct="2509061001" l="5" />
+    <dp ct="2509061001" l="5" />
+  </s>
+  <s id="-6534640958996141076-2509060917-19" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.415" pr="1" />
+    <ar ct="2509061001" l="9" />
+    <dp ct="2509061001" l="9" />
+  </s>
+  <s id="-1246776378215178446-2509060959-1" eva="8089045">
+    <dp ct="2509061000" l="3" />
+  </s>
+  <s id="2871618282938544927-2509061015-12" eva="8089045">
+    <ar ct="2509061045" l="3" />
+  </s>
+  <s id="-3249051987203305970-2509060921-15" eva="8089045">
+    <ar cpth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)" ct="2509060958" l="5" />
+    <dp cpth="Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)|Birkenstein|Hoppegarten(Mark)|Neuenhagen(b Berlin)|Fredersdorf(b Berlin)|Petershagen Nord|Strausberg (S)|Strausberg-Hegermühle|Strausberg Stadt|Strausberg Nord" ct="2509060959" l="5" />
+  </s>
+  <s id="-455938737169320960-2509060938-9" eva="8089045">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-05 23:16:03.617" pr="1" />
+    <ar ct="2509060959" l="75" />
+  </s>
+</timetable>

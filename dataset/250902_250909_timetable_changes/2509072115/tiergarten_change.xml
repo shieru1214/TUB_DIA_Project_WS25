@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tiergarten" eva="8089091">
+  <s id="5974643148960084661-2509072031-19" eva="8089091">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 16:16:04.389" pr="1" />
+    <ar ct="2509072115" l="7" />
+    <dp ct="2509072116" l="7" />
+  </s>
+  <s id="-7024144893468919869-2509072101-11" eva="8089091">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 16:16:04.389" pr="1" />
+    <ar ct="2509072134" l="7" />
+    <dp ct="2509072133" l="7" />
+  </s>
+  <s id="-5314760361065860586-2509072129-20" eva="8089091">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.181" pr="1" />
+    <ar ct="2509072223" l="9" />
+    <dp ct="2509072224" l="9" />
+  </s>
+  <s id="-4850024847960793532-2509072036-12" eva="8089091">
+    <ar cpth="Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue" ct="2509072113" l="7" />
+    <dp cpth="Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2509072114" l="7" />
+  </s>
+  <s id="-4641308070922418001-2509072041-11" eva="8089091">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 16:16:04.389" pr="1" />
+    <ar ct="2509072113" l="7" />
+    <dp ct="2509072114" l="7" />
+  </s>
+</timetable>

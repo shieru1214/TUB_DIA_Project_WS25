@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Springpfuhl" eva="8089040">
+  <s id="-8654105932211107552-2509081514-7" eva="8089040">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 23:16:04.613" pr="1" />
+    <ar ct="2509081539" l="75" />
+    <dp ct="2509081539" l="75" />
+  </s>
+  <s id="-5618513255476876037-2509081546-4" eva="8089040">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 23:16:04.614" pr="1" />
+    <ar ct="2509081558" l="75" />
+    <dp ct="2509081558" l="75" />
+  </s>
+  <s id="1875168639954873063-2509081431-24" eva="8089040">
+    <m id="r2488251" t="h" from="2509081300" to="2509081530" cat="Störung" ts="2509081349" ts-tts="25-09-08 14:16:05.141" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 23:16:04.614" pr="1" />
+    <ar ct="2509081540" l="7" />
+    <dp ct="2509081540" l="7" />
+  </s>
+  <s id="-7093896427227834314-2509081411-24" eva="8089040">
+    <m id="r2488251" t="h" from="2509081300" to="2509081530" cat="Störung" ts="2509081349" ts-tts="25-09-08 14:16:05.141" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 23:16:04.614" pr="1" />
+    <ar cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" ct="2509081529" l="7" />
+    <dp cpth="Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2509081529" l="7" />
+  </s>
+</timetable>

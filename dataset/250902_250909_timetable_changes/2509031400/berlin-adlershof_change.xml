@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Adlershof" eva="8089052">
+  <s id="5139536819721006436-2509031345-8" eva="8089052">
+    <ar cpth="Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal" ct="2509031403" cs="c" clt="2509031400" l="8" />
+    <dp cpth="Berlin-Grünau|Eichwalde|Zeuthen|Wildau" ct="2509031403" cs="c" clt="2509031400" l="8" />
+  </s>
+  <s id="-7726689985520232746-2509031359-2" eva="8089052">
+    <ar cpth="Berlin-Grünau" ct="2509031403" cs="c" clt="2509031354" l="85" />
+    <dp cpth="Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee" ct="2509031402" cs="c" clt="2509031354" l="85" />
+  </s>
+  <s id="5299744016237679805-2509031415-8" eva="8089052">
+    <ar ct="2509031438" l="85" />
+    <dp ct="2509031438" l="85" />
+  </s>
+  <s id="-3653791164340742408-2509031337-6" eva="8089052">
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke" ct="2509031401" cs="c" clt="2509031354" l="45" />
+    <dp cpth="Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)" ct="2509031401" cs="c" clt="2509031354" l="45" />
+  </s>
+  <s id="2062805381225481990-2509031341-6" eva="8089052">
+    <ar cpth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde|Berlin-Grünau" ct="2509031402" cs="c" clt="2509031354" l="46" />
+    <dp cpth="Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" ct="2509031402" cs="c" clt="2509031354" l="46" />
+  </s>
+  <s id="-34638345912819589-2509031414-5" eva="8089052">
+    <ar ct="2509031432" l="8" />
+    <dp ct="2509031432" l="8" />
+  </s>
+  <s id="-1683265624818014782-2509031349-2" eva="8089052">
+    <ar cpth="Berlin-Grünau" ct="2509031400" cs="c" clt="2509031354" l="8" />
+    <dp cpth="Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee" ct="2509031401" cs="c" clt="2509031354" l="8" />
+  </s>
+</timetable>

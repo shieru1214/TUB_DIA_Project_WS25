@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bellevue" eva="8089005">
+  <s id="8866983601332495969-2509081541-8" eva="8089005">
+    <m id="r2488251" t="h" from="2509081300" to="2509081530" cat="Störung" ts="2509081349" ts-tts="25-09-08 14:16:05.139" pr="2" />
+    <ar ct="2509081600" l="5" />
+    <dp ct="2509081600" l="5" />
+  </s>
+  <s id="1357308019732839794-2509081551-8" eva="8089005">
+    <m id="r2488251" t="h" from="2509081300" to="2509081530" cat="Störung" ts="2509081349" ts-tts="25-09-08 14:16:05.140" pr="2" />
+    <ar ct="2509081609" l="5" />
+    <dp ct="2509081610" l="5" />
+  </s>
+  <s id="7796438042972141167-2509081521-18" eva="8089005">
+    <m id="r2488251" t="h" from="2509081300" to="2509081530" cat="Störung" ts="2509081349" ts-tts="25-09-08 14:16:05.141" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 23:16:04.614" pr="1" />
+    <ar ct="2509081559" l="7" />
+    <dp ct="2509081600" l="7" />
+  </s>
+  <s id="4046529063514582092-2509081615-19" eva="8089005">
+    <m id="r2488251" t="h" from="2509081300" to="2509081530" cat="Störung" ts="2509081349" ts-tts="25-09-08 14:16:05.139" pr="2" />
+    <ar ct="2509081707" l="3" />
+    <dp ct="2509081707" l="3" />
+  </s>
+  <s id="-4526419508944622247-2509081551-12" eva="8089005">
+    <m id="r2488251" t="h" from="2509081300" to="2509081530" cat="Störung" ts="2509081349" ts-tts="25-09-08 14:16:05.141" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 23:16:04.614" pr="1" />
+    <ar ct="2509081626" l="7" />
+    <dp ct="2509081626" l="7" />
+  </s>
+  <s id="5651852307817564121-2509081537-12" eva="8089005">
+    <m id="r2488251" t="h" from="2509081300" to="2509081530" cat="Störung" ts="2509081349" ts-tts="25-09-08 14:16:05.141" pr="2" />
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-07 23:16:04.236" pr="1" />
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.098" pr="2" />
+    <ar cpth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten" ct="2509081604" l="9" />
+    <dp cpth="Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ct="2509081604" l="9" />
+  </s>
+</timetable>

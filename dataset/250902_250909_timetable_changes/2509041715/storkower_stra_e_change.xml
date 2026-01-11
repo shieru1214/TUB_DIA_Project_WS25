@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Storkower Str" eva="8089041">
+  <s id="-8819113931152956666-2509051001-23" eva="8089041">
+    <ar l="42">
+      <m id="r23900773" t="f" c="0" ts="2509041159" ts-tts="25-09-04 11:59:42.154" />
+    </ar>
+    <dp l="42">
+      <m id="r23900773" t="f" c="0" ts="2509041159" ts-tts="25-09-04 11:59:42.154" />
+    </dp>
+  </s>
+  <s id="5668190876533071758-2509050901-3" eva="8089041">
+    <ar l="41">
+      <m id="r23894748" t="f" c="0" ts="2509041100" ts-tts="25-09-04 11:00:25.182" />
+      <m id="r23894749" t="f" c="0" ts="2509041100" ts-tts="25-09-04 11:00:25.182" />
+      <m id="r23894750" t="f" c="0" ts="2509041100" ts-tts="25-09-04 11:00:25.182" />
+    </ar>
+    <dp l="41">
+      <m id="r23894748" t="f" c="0" ts="2509041100" ts-tts="25-09-04 11:00:25.182" />
+      <m id="r23894749" t="f" c="0" ts="2509041100" ts-tts="25-09-04 11:00:25.182" />
+      <m id="r23894750" t="f" c="0" ts="2509041100" ts-tts="25-09-04 11:00:25.182" />
+    </dp>
+  </s>
+  <s id="6788934868271003721-2509041711-3" eva="8089041">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:34.059" pr="1" />
+    <ar ct="2509041716" l="41" />
+    <dp ct="2509041715" l="41" />
+  </s>
+  <s id="1602931142927512588-2509041621-23" eva="8089041">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:34.060" pr="1" />
+    <ar ct="2509041714" l="42" />
+    <dp ct="2509041715" l="42" />
+  </s>
+  <s id="3108140191023162057-2509041721-3" eva="8089041">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:34.060" pr="1" />
+    <ar ct="2509041725" l="41" />
+    <dp ct="2509041725" l="41" />
+  </s>
+  <s id="8330725951038501919-2509041631-23" eva="8089041">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:34.060" pr="1" />
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" ct="2509041741" cs="c" clt="2509041519" dc="1" l="42" />
+    <dp cpth="Berlin-Grünau" ct="2509041742" cs="c" clt="2509041519" l="42" />
+  </s>
+</timetable>

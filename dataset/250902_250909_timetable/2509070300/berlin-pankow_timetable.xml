@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Pankow">
+  <s id="-4642874144433906325-2509070220-19">
+    <tl f="S" t="p" o="08" c="S" n="2216" />
+    <ar pt="2509070304" pp="2" l="2" ppth="Mahlow|Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="5762867818000898061-2509070314-3">
+    <tl f="S" t="p" o="08" c="S" n="82334" />
+    <ar pt="2509070326" pp="1" l="8" pde="Berlin Greifswalder Str" ppth="Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="-227551095955197959-2509070220-15">
+    <tl t="p" o="080001" c="Bus" n="62059" />
+    <ar pt="2509070317" pp="" l="S2" ppth="Ladestr., Bernau bei Berlin|Gaskessel, Bernau bei Berlin|Zepernicker Chaussee, Bernau bei Berlin|Abzw. Wohnsiedlung, Bernau bei Berlin|Zepernick(Bernau)|Zepernick Kirche, Panketal|Zepernick Schweizer Str., Panketal|Alt-Buch, Berlin|Buch (S), Berlin|Bucher Chaussee/Achillesstr., Berlin|Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="4840748034128440820-2509070250-15">
+    <tl t="p" o="080001" c="Bus" n="62061" />
+    <ar pt="2509070347" pp="" l="S2" ppth="Ladestr., Bernau bei Berlin|Gaskessel, Bernau bei Berlin|Zepernicker Chaussee, Bernau bei Berlin|Abzw. Wohnsiedlung, Bernau bei Berlin|Zepernick(Bernau)|Zepernick Kirche, Panketal|Zepernick Schweizer Str., Panketal|Alt-Buch, Berlin|Buch (S), Berlin|Bucher Chaussee/Achillesstr., Berlin|Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" />
+  </s>
+  <s id="-5341637395412030875-2509070300-1">
+    <tl f="S" t="p" o="08" c="S" n="82443" />
+    <dp pt="2509070300" pp="1" l="8" pde="Berlin-Halensee" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)" />
+  </s>
+  <s id="-4774623274568063558-2509070344-3">
+    <tl f="S" t="p" o="08" c="S" n="82338" />
+    <ar pt="2509070356" pp="1" l="8" pde="Berlin Greifswalder Str" ppth="Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="-7803643490993430580-2509070311-1">
+    <tl t="p" o="080001" c="Bus" n="62000" />
+    <dp pt="2509070311" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin|Bucher Chaussee/Achillesstr., Berlin|Buch (S), Berlin|Alt-Buch/Wiltbergstr., Berlin|Zepernick Schweizer Str., Panketal|Zepernick Kirche, Panketal|Zepernick(Bernau)|Abzw. Wohnsiedlung, Bernau bei Berlin|Zepernicker Chaussee, Bernau bei Berlin|Gaskessel, Bernau bei Berlin|Ladestr., Bernau bei Berlin" />
+  </s>
+  <s id="-5559173400145103397-2509070325-1">
+    <tl f="S" t="p" o="08" c="S" n="2221" />
+    <dp pt="2509070325" pp="2" l="2" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee|Berlin Schichauweg|Berlin-Lichtenrade|Mahlow" />
+  </s>
+  <s id="164464271475855495-2509070355-1">
+    <tl f="S" t="p" o="08" c="S" n="2223" />
+    <dp pt="2509070355" pp="2" l="2" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee|Berlin Schichauweg|Berlin-Lichtenrade|Mahlow" />
+  </s>
+  <s id="3582486850935891310-2509070330-1">
+    <tl f="S" t="p" o="08" c="S" n="82447" />
+    <dp pt="2509070330" pp="1" l="8" pde="Berlin-Halensee" ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)" />
+  </s>
+  <s id="7555424716061394744-2509070250-19">
+    <tl f="S" t="p" o="08" c="S" n="2218" />
+    <ar pt="2509070334" pp="2" l="2" ppth="Mahlow|Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." />
+  </s>
+  <s id="-1150286728990515503-2509070341-1">
+    <tl t="p" o="080001" c="Bus" n="62002" />
+    <dp pt="2509070341" pp="" l="S2" ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin|Bucher Chaussee/Achillesstr., Berlin|Buch (S), Berlin|Alt-Buch/Wiltbergstr., Berlin|Zepernick Schweizer Str., Panketal|Zepernick Kirche, Panketal|Zepernick(Bernau)|Abzw. Wohnsiedlung, Bernau bei Berlin|Zepernicker Chaussee, Bernau bei Berlin|Gaskessel, Bernau bei Berlin|Ladestr., Bernau bei Berlin" />
+  </s>
+</timetable>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostbahnhof" eva="8010255">
+  <s id="-4554142996363352815-2509080606-18" eva="8010255">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-07 23:16:04.735" pr="3" />
+    <m id="r2444960" t="h" from="2508270600" to="2509272359" cat="Information" ts="2508262309" ts-tts="25-09-07 23:16:04.746" pr="2" />
+    <ar>
+      <m id="r24300174" t="f" c="0" ts="2509071753" ts-tts="25-09-07 17:54:04.181" />
+      <m id="r24340083" t="f" c="0" ts="2509080315" ts-tts="25-09-08 03:15:14.400" />
+    </ar>
+  </s>
+  <s id="-1148487310983463931-2509080606-18" eva="8010255">
+    <ar ppth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Baden-Baden|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Hanau Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Hbf" pp="2" pt="2509081341">
+      <m id="r24340055" t="f" c="0" ts="2509080313" ts-tts="25-09-08 03:13:27.252" />
+      <m id="r24340059" t="f" c="0" ts="2509080313" ts-tts="25-09-08 03:14:13.194" />
+    </ar>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2874" />
+  </s>
+  <s id="8355545464383240883-2509080712-17" eva="8010255">
+    <ar ct="2509080910" l="1" />
+    <dp ct="2509080911" l="1" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

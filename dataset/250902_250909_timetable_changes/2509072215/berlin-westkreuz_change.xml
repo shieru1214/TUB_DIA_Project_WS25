@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="3072346986630064258-2509072110-30" eva="8089047">
+    <ar cpth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" ct="2509072227" cs="c" clt="2509072215" l="5" />
+  </s>
+  <s id="2530457270011163026-2509072247-1" eva="8089047">
+    <dp ct="2509072247" l="5" />
+  </s>
+  <s id="-1774580398277054699-2509072146-14" eva="8089047">
+    <ar ct="2509072215" l="46" />
+    <dp ct="2509072216" l="46" />
+  </s>
+  <s id="935189708447427529-2509072229-24" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:02.815" pr="1" />
+    <ar ct="2509072332" l="9" />
+    <dp ct="2509072332" l="9" />
+  </s>
+  <s id="2130440578797678094-2509072157-7" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:02.815" pr="1" />
+    <ar ct="2509072213" l="9" />
+    <dp ct="2509072214" l="9" />
+  </s>
+  <s id="-7308430957378694433-2509072109-24" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:02.815" pr="1" />
+    <ar ct="2509072213" l="9" />
+    <dp ct="2509072214" l="9" />
+  </s>
+</timetable>

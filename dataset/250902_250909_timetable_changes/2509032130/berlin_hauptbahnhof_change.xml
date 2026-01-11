@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hbf" eva="8011160">
+  <s id="-2370594392823865841-2509032101-10" eva="8011160">
+    <ar ct="2509032145" l="7" />
+    <dp ct="2509032147" l="7" />
+  </s>
+  <s id="5254069718021379768-2509031400-13" eva="8011160">
+    <m id="r2485753" t="h" from="2509031130" to="2509031730" cat="Störung" ts="2509031217" ts-tts="25-09-03 17:16:03.777" pr="2" />
+    <ar cpth="Rheine|Osnabrück Hbf|Bünde(Westf)|Hannover Hbf|Berlin-Spandau" ppth="Amsterdam Centraal|Hilversum|Amersfoort Centraal|Apeldoorn|Deventer|Hengelo|Bad Bentheim|Rheine|Osnabrück Hbf|Bünde(Westf)|Hannover Hbf|Berlin-Spandau" pp="12" ct="2509032130" pt="2509031949" cs="p" clt="2509031310">
+      <m id="r23774713" t="d" c="8" ts="2509031310" ts-tts="25-09-03 13:10:37.120" />
+      <m id="r23774715" t="d" c="8" ts="2509031310" ts-tts="25-09-03 13:10:37.120" />
+      <m id="r23785026" t="f" c="0" ts="2509031430" ts-tts="25-09-03 14:30:38.701" />
+      <m id="r23806606" t="f" c="0" ts="2509031701" ts-tts="25-09-03 17:01:55.668" />
+      <m id="r23806607" t="f" c="0" ts="2509031701" ts-tts="25-09-03 17:01:55.668" />
+    </ar>
+    <dp cpth="Berlin Ostbahnhof" ppth="Berlin Ostbahnhof" pp="12" ct="2509032133" pt="2509031953" cs="p" hi="1" clt="2509031310">
+      <m id="r23774713" t="d" c="8" ts="2509031310" ts-tts="25-09-03 13:10:37.120" />
+      <m id="r23774715" t="d" c="8" ts="2509031310" ts-tts="25-09-03 13:10:37.120" />
+      <m id="r23785026" t="f" c="0" ts="2509031430" ts-tts="25-09-03 14:30:38.701" />
+      <m id="r23806606" t="f" c="0" ts="2509031701" ts-tts="25-09-03 17:01:55.668" />
+      <m id="r23806607" t="f" c="0" ts="2509031701" ts-tts="25-09-03 17:01:55.668" />
+    </dp>
+    <tl f="F" t="p" o="84" c="IC" n="149" />
+  </s>
+</timetable>

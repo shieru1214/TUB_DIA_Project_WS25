@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hackescher Markt" eva="8089017">
+  <s id="2177996931063581969-2509072105-16" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.182" pr="1" />
+    <ar ct="2509072146" l="3" />
+    <dp ct="2509072145" l="3" />
+  </s>
+  <s id="2747140997422875466-2509072127-15" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.182" pr="1" />
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" ct="2509072201" l="3" />
+    <dp cpth="Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide" ct="2509072202" l="3" />
+  </s>
+  <s id="-7024144893468919869-2509072101-15" eva="8089017">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 16:16:04.389" pr="1" />
+    <ar ct="2509072144" l="7" />
+    <dp ct="2509072145" l="7" />
+  </s>
+  <s id="-8834013167311099628-2509072111-15" eva="8089017">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 16:16:04.389" pr="1" />
+    <ar ct="2509072144" l="7" />
+    <dp ct="2509072145" l="7" />
+  </s>
+  <s id="-5907873652373276186-2509072205-16" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.182" pr="1" />
+    <ar cpth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Hirschgarten|Berlin-Köpenick|Berlin-Wuhlheide" cs="c" clt="2509072143" l="3" />
+    <dp cpth="" cs="c" clt="2509072143" l="3" />
+  </s>
+</timetable>

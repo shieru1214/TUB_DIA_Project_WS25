@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Innsbrucker Platz" eva="8089106">
+  <s id="-5084448307141278018-2509072301-16" eva="8089106">
+    <ar ct="2509072344" l="46" />
+    <dp ct="2509072345" l="46" />
+  </s>
+  <s id="-2456133143939163618-2509072348-8" eva="8089106">
+    <ar cpth="" ppth="Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg" pp="1" pt="2509080004" cs="c" clt="2509072344" l="46">
+      <m id="r24333870" t="f" c="0" ts="2509072343" ts-tts="25-09-07 23:43:33.696" />
+    </ar>
+    <dp cpth="" ppth="Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" pp="1" pt="2509080004" cs="c" clt="2509072344" l="46">
+      <m id="r24333870" t="f" c="0" ts="2509072343" ts-tts="25-09-07 23:43:33.696" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="48434" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="46434" />
+    </ref>
+  </s>
+  <s id="-1738170518021429449-2509072318-8" eva="8089106">
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz" ct="2509072331" l="46">
+      <m id="r24333881" t="f" c="0" ts="2509072343" ts-tts="25-09-07 23:44:04.430" />
+    </ar>
+    <dp cpth="Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg" ct="2509072331" l="46">
+      <m id="r24333881" t="f" c="0" ts="2509072343" ts-tts="25-09-07 23:44:04.430" />
+    </dp>
+  </s>
+</timetable>

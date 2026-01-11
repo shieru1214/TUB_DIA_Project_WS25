@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Sonnenallee" eva="8089327">
+  <s id="5377527314377604207-2509040701-19" eva="8089327">
+    <ar l="42">
+      <m id="r23684688" t="f" c="0" ts="2509021558" ts-tts="25-09-02 15:59:12.042" />
+      <m id="r23746538" t="f" c="0" ts="2509030859" ts-tts="25-09-03 08:59:56.585" />
+    </ar>
+    <dp l="42">
+      <m id="r23684688" t="f" c="0" ts="2509021558" ts-tts="25-09-02 15:59:12.042" />
+      <m id="r23746538" t="f" c="0" ts="2509030859" ts-tts="25-09-03 08:59:56.585" />
+    </dp>
+  </s>
+  <s id="-4796569355290185174-2509040601-7" eva="8089327">
+    <ar l="41">
+      <m id="r23684711" t="f" c="0" ts="2509021559" ts-tts="25-09-02 15:59:43.357" />
+      <m id="r23740793" t="f" c="0" ts="2509030800" ts-tts="25-09-03 08:01:09.681" />
+    </ar>
+    <dp l="41">
+      <m id="r23684711" t="f" c="0" ts="2509021559" ts-tts="25-09-02 15:59:43.357" />
+      <m id="r23740793" t="f" c="0" ts="2509030800" ts-tts="25-09-03 08:01:09.681" />
+    </dp>
+  </s>
+  <s id="8143383984449034525-2509031414-3" eva="8089327">
+    <ar cpth="" ct="2509031420" cs="c" clt="2509031400" l="41" />
+    <dp cpth="Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ct="2509031420" cs="c" clt="2509031400" l="41" />
+  </s>
+  <s id="-7913395131571602718-2509031401-7" eva="8089327">
+    <ar ct="2509031415" l="41">
+      <m id="r23680632" t="f" c="0" ts="2509021453" ts-tts="25-09-02 14:53:09.448" />
+      <m id="r23779527" t="f" c="0" ts="2509031346" ts-tts="25-09-03 13:46:20.346" />
+    </ar>
+    <dp ct="2509031415" l="41">
+      <m id="r23680632" t="f" c="0" ts="2509021453" ts-tts="25-09-02 14:53:09.448" />
+      <m id="r23779527" t="f" c="0" ts="2509031346" ts-tts="25-09-03 13:46:20.346" />
+    </dp>
+  </s>
+  <s id="-3480146279585786273-2509031408-4" eva="8089327">
+    <ar ct="2509031415" l="42" />
+    <dp ct="2509031416" l="42" />
+  </s>
+</timetable>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Frankfurter Allee" eva="8089013">
+  <s id="-5564426032856713587-2509031707-2" eva="8089013">
+    <ar ppth="Berlin Ostkreuz (S)" pp="2" ct="2509031710" pt="2509031709" l="42" />
+    <dp ppth="Berlin Storkower Str|Berlin Landsberger Allee|Berlin Greifswalder Str" pp="2" ct="2509031715" pt="2509031713" l="42" />
+    <tl f="S" t="e" o="08" c="S" n="43167" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="42167" />
+    </ref>
+  </s>
+  <s id="-9065876490929463146-2509031751-22" eva="8089013">
+    <ar ct="2509031858" l="42" />
+    <dp ct="2509031859" l="42" />
+  </s>
+  <s id="5241224512675213644-2509031701-4" eva="8089013">
+    <ar ct="2509031720" l="41">
+      <m id="r23681371" t="f" c="0" ts="2509021504" ts-tts="25-09-02 15:04:13.999" />
+      <m id="r23804520" t="f" c="0" ts="2509031646" ts-tts="25-09-03 16:46:23.418" />
+    </ar>
+    <dp ct="2509031721" l="41">
+      <m id="r23681371" t="f" c="0" ts="2509021504" ts-tts="25-09-02 15:04:13.999" />
+      <m id="r23804520" t="f" c="0" ts="2509031646" ts-tts="25-09-03 16:46:23.418" />
+    </dp>
+  </s>
+</timetable>

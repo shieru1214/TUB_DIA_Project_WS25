@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Frohnau" eva="8089061">
+  <s id="-3522300043458718230-2509060400-8" eva="8089061">
+    <ar ct="2509060436" l="S1A" />
+    <dp ct="2509060436" l="S1A" />
+  </s>
+  <s id="7110323023338536227-2509060412-100" eva="8089061">
+    <ar cpth="Oranienburg|Lehnitz|Borgsdorf (S), Hohen Neuendorf|Borgsdorf Berliner Chaussee|Kirche, Birkenwerder|Birkenwerder Hauptstraße|Hohen Neuendorf(b Berlin)|Berliner Str., Hohen Neuendorf" ppth="Oranienburg|Lehnitz|Borgsdorf (S), Hohen Neuendorf|Borgsdorf Berliner Chaussee|Kirche, Birkenwerder|Birkenwerder Hauptstraße|Hohen Neuendorf(b Berlin)|Berliner Str., Hohen Neuendorf|Zeltinger Platz/Frohnau (S), Berlin" ct="2509060453" pt="2509060451" ps="a" l="S1A" />
+    <dp cpth="Hohefeldstr., Berlin|Schildower Str., Berlin|Berlin-Waidmannslust|Göschenplatz/Wittenau (S), Berlin|Wittenau [Bus] (U), Berlin|Berlin-Wilhelmsruh|Berlin-Schönholz" ppth="Hohefeldstr., Berlin|Schildower Str., Berlin|Berlin-Waidmannslust|Göschenplatz/Wittenau (S), Berlin|Wittenau [Bus] (U), Berlin|Berlin-Wilhelmsruh|Berlin-Schönholz" ct="2509060453" pt="2509060451" ps="a" l="S1A" />
+    <tl t="p" o="080001" c="Bus" n="11035" />
+  </s>
+</timetable>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wannsee" eva="8010405">
+  <s id="3233652564648379036-2509061055-13" eva="8010405">
+    <ar cpth="Pillgram|Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg" ct="2509061220" l="1" />
+    <dp cpth="Potsdam Hbf|Werder(Havel)|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Magdeburg-Neustadt|Magdeburg Hbf" ct="2509061223" l="1" />
+  </s>
+  <s id="-4703442358992585392-2509061114-25" eva="8010405">
+    <ar ct="2509061332" l="7">
+      <m id="r24128357" t="f" c="0" ts="2509060154" ts-tts="25-09-06 01:55:13.907" />
+      <m id="r24128359" t="f" c="0" ts="2509060155" ts-tts="25-09-06 01:55:29.277" />
+    </ar>
+    <dp ct="2509061334" l="7">
+      <m id="r24128357" t="f" c="0" ts="2509060154" ts-tts="25-09-06 01:55:13.907" />
+      <m id="r24128359" t="f" c="0" ts="2509060155" ts-tts="25-09-06 01:55:29.277" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:45.514" />
+</timetable>

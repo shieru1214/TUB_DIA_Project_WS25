@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Grunewald" eva="8089062">
+  <s id="4057069338159314673-2509050914-9" eva="8089062">
+    <ar ct="2509050935" l="7" />
+    <dp ct="2509050935" l="7" />
+  </s>
+  <s id="-1433696894459537845-2509050732-3" eva="8089062">
+    <ar ppth="Berlin-Wannsee (S)|Berlin-Nikolassee" pp="4" ct="2509050744" pt="2509050741" l="7" />
+    <dp ppth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" pp="4" ct="2509050745" pt="2509050742" l="7" />
+    <tl f="S" t="e" o="08" c="S" n="70063" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="7063" />
+    </ref>
+  </s>
+  <s id="775860068496365047-2509050734-9" eva="8089062">
+    <ar ct="2509050753" l="7" />
+    <dp ct="2509050754" l="7" />
+  </s>
+  <s id="7012086047380989146-2509050731-6" eva="8089062">
+    <ar ct="2509050754" l="7" />
+    <dp ct="2509050754" l="7" />
+  </s>
+</timetable>

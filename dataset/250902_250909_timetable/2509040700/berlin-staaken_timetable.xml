@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Staaken">
+  <s id="7116794117001987550-2509040640-8">
+    <tl f="N" t="p" o="800158" c="RE" n="3166" />
+    <ar pt="2509040745" pp="1" l="4" ppth="Stendal Hbf|Rathenow|Nennhausen|Buschow|Wustermark|Elstal|Dallgow-Döberitz" />
+    <dp pt="2509040746" pp="1" l="4" ppth="Berlin-Spandau|Berlin Jungfernheide|Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz|Berlin-Lichterfelde Ost|Ludwigsfelde|Thyrow|Trebbin|Woltersdorf/Nuthe-Urstromtal|Luckenwalde|Jüterbog" />
+  </s>
+  <s id="-5497962612908054891-2509040707-3">
+    <tl f="N" t="p" o="OWRE" c="RE" n="62004" />
+    <ar pt="2509040715" pp="1" l="8" ppth="Elstal|Dallgow-Döberitz" />
+    <dp pt="2509040715" pp="1" l="8" ppth="Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Flughafen BER" />
+  </s>
+  <s id="-8842568153806784603-2509040635-10">
+    <tl f="N" t="p" o="800165" c="RB" n="18244" />
+    <ar pt="2509040722" pp="1" l="21" ppth="Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Golm|Marquardt|Priort|Wustermark|Elstal|Dallgow-Döberitz" />
+    <dp pt="2509040722" pp="1" l="21" ppth="Berlin-Spandau|Berlin Jungfernheide|Berlin Gesundbrunnen" />
+  </s>
+  <s id="-7764849104563270434-2509040714-4">
+    <tl f="N" t="p" o="800165" c="RB" n="18247" />
+    <ar pt="2509040733" pp="2" l="21" ppth="Berlin Gesundbrunnen|Berlin Jungfernheide|Berlin-Spandau" />
+    <dp pt="2509040734" pp="2" l="21" ppth="Dallgow-Döberitz|Elstal|Wustermark|Priort|Marquardt|Golm|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf" />
+  </s>
+  <s id="-2609968643722016545-2509040514-19">
+    <tl f="N" t="p" o="800158" c="RE" n="3147" />
+    <ar pt="2509040711" pp="2" l="4" ppth="Falkenberg(Elster)|Herzberg(Elster)|Holzdorf(Elster)|Linda(Elster)|Zellendorf|Oehna|Jüterbog|Luckenwalde|Woltersdorf/Nuthe-Urstromtal|Trebbin|Thyrow|Ludwigsfelde|Berlin-Lichterfelde Ost|Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau" />
+    <dp pt="2509040712" pp="2" l="4" ppth="Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow" />
+  </s>
+  <s id="-8725492385488339786-2509040641-6">
+    <tl f="N" t="p" o="800165" c="RB" n="18602" />
+    <ar pt="2509040706" pp="2" l="14" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau" />
+    <dp pt="2509040707" pp="2" l="14" ppth="Dallgow-Döberitz|Elstal|Wustermark" />
+  </s>
+  <s id="-1041981254056107115-2509040644-9">
+    <tl f="N" t="p" o="OWRE" c="RE" n="62007" />
+    <ar pt="2509040742" pp="2" l="8" ppth="Flughafen BER|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Spandau" />
+    <dp pt="2509040742" pp="2" l="8" ppth="Dallgow-Döberitz|Elstal" />
+  </s>
+</timetable>

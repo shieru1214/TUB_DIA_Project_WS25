@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="7471057137275042484-2509051841-7" eva="8089047">
+    <dp ct="2509051906" l="7" />
+  </s>
+  <s id="4470961940831818531-2509051611-7" eva="8089047">
+    <ar ct="2509051642" l="7" />
+    <dp ct="2509051642" l="7" />
+  </s>
+  <s id="-5067512081816741696-2509051754-8" eva="8089047">
+    <ar ct="2509051817" l="7" />
+    <dp ct="2509051817" l="7" />
+  </s>
+  <s id="494555846565758058-2509051645-8" eva="8089047">
+    <ar ct="2509051702" l="42" />
+    <dp ct="2509051702" l="42" />
+  </s>
+  <s id="1486168508254805016-2509051531-23" eva="8089047">
+    <m id="r2486678" t="h" from="2509050700" to="2509060330" cat="Störung" ts="2509050743" ts-tts="25-09-05 07:43:04.437" pr="2" />
+    <ar ct="2509051628" l="7" />
+    <dp ct="2509051630" l="7" />
+  </s>
+  <s id="4770991716854158135-2509051645-23" eva="8089047">
+    <ar ct="2509051737" l="5" />
+    <dp ct="2509051737" l="5" />
+  </s>
+  <s id="-2206002407788251189-2509051651-7" eva="8089047">
+    <ar ct="2509051718" l="7" />
+    <dp ct="2509051718" l="7" />
+  </s>
+  <s id="4862017594441901856-2509051644-14" eva="8089047">
+    <ar ct="2509051713" l="41" />
+    <dp ct="2509051714" l="41" />
+  </s>
+  <s id="-6651649733975822183-2509051551-18" eva="8089047">
+    <ar ct="2509051628" l="41" />
+    <dp ct="2509051629" l="41" />
+  </s>
+  <s id="3945460277344418655-2509051525-23" eva="8089047">
+    <ar cpth="Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" ct="2509051626" cs="c" clt="2509051628" l="5" />
+    <dp cpth="Berlin Messe Süd (Eichkamp)" ct="2509051617" cs="c" clt="2509051628" l="5" />
+  </s>
+</timetable>

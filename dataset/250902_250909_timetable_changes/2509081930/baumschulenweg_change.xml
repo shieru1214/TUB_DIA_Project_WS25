@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Baumschulenweg" eva="8089004">
+  <s id="7945131399224393196-2509081837-22" eva="8089004">
+    <m id="r2488251" t="h" from="2509081300" to="2509082359" cat="Störung" ts="2509081349" ts-tts="25-09-08 17:16:04.715" pr="2" />
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-07 23:16:04.743" pr="1" />
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.449" pr="2" />
+    <ar ct="2509081931" l="9" />
+    <dp ct="2509081932" l="9" />
+  </s>
+  <s id="4831699659348582165-2509081848-101" eva="8089004">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:40.999" pr="2" />
+    <ar cpth="Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide" ppth="Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park" pp="5" ct="2509081935" pt="2509081924" ps="a" l="42" />
+    <dp cpth="Berlin-Schöneweide (S)" ppth="Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee|Berlin Greifswalder Str|Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße" pp="5" ct="2509081935" pt="2509081926" ps="a" l="42" />
+    <tl f="S" t="p" o="08" c="S" n="42195" />
+  </s>
+  <s id="-1162189467518945587-2509081848-101" eva="8089004">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:40.999" pr="2" />
+    <ar cpth="Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)|Berlin Schönhauser Allee|Berlin Prenzlauer Allee|Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Plänterwald" ppth="Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)|Berlin Schönhauser Allee|Berlin Prenzlauer Allee|Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln" pp="3" pt="2509081918" ps="a" l="41" />
+    <dp cpth="Berlin-Schöneweide (S)" ppth="Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße" pp="3" pt="2509081918" ps="a" cde="Berlin Treptower Park" dc="1" l="41" />
+    <tl f="S" t="p" o="08" c="S" n="41190" />
+  </s>
+  <s id="6727863610524970627-2509081924-4" eva="8089004">
+    <ar ct="2509081936" l="47" />
+    <dp ct="2509081936" l="47" />
+  </s>
+  <s id="67399392213515399-2509081916-15" eva="8089004">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.449" pr="2" />
+    <ar ct="2509081947" l="46" />
+    <dp ct="2509081948" l="46" />
+  </s>
+  <s id="-8112858764754074726-2509081945-14" eva="8089004">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.450" pr="2" />
+    <ar ct="2509082015" l="8" />
+    <dp ct="2509082015" l="8" />
+  </s>
+  <s id="-6048196183732230918-2509081919-5" eva="8089004">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.449" pr="2" />
+    <ar ct="2509081930" l="85" />
+    <dp ct="2509081930" l="85" />
+  </s>
+  <s id="-4353035827079684813-2509081856-15" eva="8089004">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.449" pr="2" />
+    <ar ct="2509081934" l="46" />
+    <dp ct="2509081935" l="46" />
+  </s>
+  <s id="-2026375958010820325-2509082001-9" eva="8089004">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.449" pr="2" />
+    <ar ct="2509082032" l="46" />
+    <dp ct="2509082032" l="46" />
+  </s>
+  <s id="-1395015770585499894-2509081903-18" eva="8089004">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.449" pr="2" />
+    <ar ct="2509081948" l="85" />
+    <dp ct="2509081948" l="85" />
+  </s>
+  <s id="-8306133579563604663-2509081944-4" eva="8089004">
+    <ar ct="2509081951" l="47" />
+    <dp ct="2509081953" l="47" />
+  </s>
+  <s id="3412814033230472228-2509081901-9" eva="8089004">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.449" pr="2" />
+    <ar ct="2509081928" l="46" />
+    <dp ct="2509081928" l="46" />
+  </s>
+</timetable>

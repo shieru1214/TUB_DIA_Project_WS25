@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde Ost">
+  <s id="-7440650316530548951-2509040407-9">
+    <tl f="N" t="p" o="OWRE" c="RE" n="62051" />
+    <ar pt="2509040456" pp="4" l="8" ppth="Baruth(Mark)|Neuhof(b Zossen)|Wünsdorf-Waldstadt|Zossen|Dabendorf|Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)" />
+    <dp pt="2509040457" pp="4" l="8" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" />
+  </s>
+  <s id="-8727695767215884525-2509040438-4">
+    <tl f="N" t="p" o="OWRE" c="RE" n="62052" />
+    <ar pt="2509040451" pp="3" l="8" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" />
+    <dp pt="2509040452" pp="3" l="8" ppth="Blankenfelde(Teltow-Fläming)|Dahlewitz|Rangsdorf|Dabendorf|Zossen|Wünsdorf-Waldstadt|Neuhof(b Zossen)|Baruth(Mark)|Golßen(Niederlausitz)|Luckau-Uckro" />
+  </s>
+</timetable>

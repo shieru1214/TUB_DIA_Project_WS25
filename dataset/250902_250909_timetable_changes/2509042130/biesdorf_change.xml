@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Biesdorf" eva="8089055">
+  <s id="4513650832838204072-2509042100-10" eva="8089055">
+    <m id="r2486483" t="h" from="2509042000" to="2509042230" cat="Störung" ts="2509042015" ts-tts="25-09-04 20:15:25.267" pr="1" />
+    <ar cpth="Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal" ct="2509042128" l="5" />
+    <dp cpth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2509042129" l="5" />
+  </s>
+  <s id="-6087362165251277821-2509042047-18" eva="8089055">
+    <m id="r2486491" t="h" from="2509042000" to="2509042130" cat="Störung" ts="2509042041" ts-tts="25-09-04 20:41:51.991" pr="1" />
+    <m id="r2486483" t="h" from="2509042000" to="2509042230" cat="Störung" ts="2509042015" ts-tts="25-09-04 20:15:25.267" pr="1" />
+    <ar ct="2509042128" l="5" />
+    <dp ct="2509042129" l="5" />
+  </s>
+</timetable>

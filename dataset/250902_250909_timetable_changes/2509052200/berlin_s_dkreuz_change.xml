@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Südkreuz" eva="8011113">
+  <s id="-6272353519131270189-2509052005-19" eva="8011113">
+    <ar ct="2509052158" l="8" />
+    <dp ct="2509052200" l="8" />
+  </s>
+  <s id="8876453306416037539-2509051845-3" eva="8011113">
+    <m id="r2487041" t="h" from="2509051830" to="2509052359" cat="Störung" ts="2509052050" ts-tts="25-09-05 20:51:04.227" pr="1" />
+    <m id="r2486595" t="h" from="2509050449" to="2509060822" cat="Information" ts="2509050338" ts-tts="25-09-05 03:38:39.771" pr="2" />
+    <m id="r2487049" t="h" from="2509052100" to="2509052359" cat="Störung" ts="2509052159" ts-tts="25-09-05 21:59:47.875" pr="1" />
+    <ar ct="2509051908">
+      <m id="r23996302" t="q" c="95" ts="2509050349" ts-tts="25-09-05 03:49:20.817" />
+      <m id="r23996304" t="q" c="95" ts="2509050349" ts-tts="25-09-05 03:49:20.817" />
+    </ar>
+    <dp ct="2509051910">
+      <m id="r23996302" t="q" c="95" ts="2509050349" ts-tts="25-09-05 03:49:20.817" />
+      <m id="r23996304" t="q" c="95" ts="2509050349" ts-tts="25-09-05 03:49:20.817" />
+    </dp>
+  </s>
+  <s id="7843323857068644070-2509051701-2" eva="8011113">
+    <m id="r2487041" t="h" from="2509051830" to="2509052359" cat="Störung" ts="2509052050" ts-tts="25-09-05 20:51:04.227" pr="1" />
+    <m id="r2487049" t="h" from="2509052100" to="2509052359" cat="Störung" ts="2509052159" ts-tts="25-09-05 21:59:47.875" pr="1" />
+    <ar cpth="Berlin Hbf" ct="2509051706" />
+    <dp cpth="Halle(Saale)Hbf|Erfurt Hbf|Frankfurt(Main)Hbf|Darmstadt Hbf|Mannheim Hbf|Neustadt(Weinstr)Hbf|Kaiserslautern Hbf|Homburg(Saar)Hbf|Saarbrücken Hbf" ct="2509051708" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:48.013" />
+</timetable>

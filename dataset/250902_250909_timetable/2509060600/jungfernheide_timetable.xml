@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jungfernheide">
+  <s id="2014204826565536663-2509060606-9">
+    <tl f="N" t="p" o="800158" c="RE" n="3146" />
+    <ar pt="2509060657" pp="3" l="4" ppth="Rathenow|Nennhausen|Buschow|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau" />
+    <dp pt="2509060658" pp="3" l="4" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz|Berlin-Lichterfelde Ost|Ludwigsfelde|Thyrow|Trebbin|Luckenwalde|Jüterbog|Oehna|Zellendorf|Linda(Elster)|Holzdorf(Elster)|Herzberg(Elster)|Falkenberg(Elster)" />
+  </s>
+  <s id="-6715641444851575514-2509060503-11">
+    <tl f="N" t="p" o="800158" c="RE" n="3167" />
+    <ar pt="2509060601" pp="4" l="4" ppth="Jüterbog|Luckenwalde|Woltersdorf/Nuthe-Urstromtal|Trebbin|Thyrow|Ludwigsfelde|Berlin-Lichterfelde Ost|Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" />
+    <dp pt="2509060602" pp="4" l="4" ppth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow|Stendal Hbf" />
+  </s>
+</timetable>

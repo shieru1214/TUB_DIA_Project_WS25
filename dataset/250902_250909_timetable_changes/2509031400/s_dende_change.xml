@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Südende" eva="8089115">
+  <s id="-8545059264735345141-2509031308-22" eva="8089115">
+    <m id="r2485740" t="h" from="2509031100" to="2509031330" cat="Störung" ts="2509031129" ts-tts="25-09-03 11:29:16.922" pr="2" />
+    <ar ct="2509031359" l="25" />
+    <dp ct="2509031400" l="25" />
+  </s>
+  <s id="-6944197438870840303-2509031345-6" eva="8089115">
+    <ar ct="2509031359" l="25" />
+    <dp ct="2509031400" l="25" />
+  </s>
+  <s id="-6273811174645192051-2509031415-6" eva="8089115">
+    <ar cpth="" ct="2509031426" cs="c" clt="2509031246" l="26" />
+    <dp cpth="Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2509031426" cs="c" clt="2509031246" l="26" />
+  </s>
+</timetable>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Anhalter Bf" eva="8089002">
+  <s id="1927254637949588586-2509022211-21" eva="8089002">
+    <ar ct="2509022304" l="1" />
+    <dp ct="2509022304" l="1" />
+  </s>
+  <s id="-377270736863598262-2509022234-15" eva="8089002">
+    <ar ct="2509022303" l="1" />
+    <dp ct="2509022304" l="1" />
+  </s>
+  <s id="-2325864418383507047-2509022233-11" eva="8089002">
+    <ar ct="2509022253" l="1" />
+    <dp ct="2509022254" l="1" />
+  </s>
+  <s id="2513311440812336079-2509022214-15" eva="8089002">
+    <ar ct="2509022245" l="1" />
+    <dp ct="2509022246" l="1" />
+  </s>
+  <s id="-7066416764061515909-2509022155-10" eva="8089002">
+    <ar ct="2509022215" l="2" />
+    <dp ct="2509022216" l="2" />
+  </s>
+  <s id="-6091415033923146068-2509022231-21" eva="8089002">
+    <ar ct="2509022321" l="1" />
+    <dp ct="2509022322" l="1" />
+  </s>
+  <s id="5618149163219670523-2509022144-15" eva="8089002">
+    <ar ct="2509022214" l="1" />
+    <dp ct="2509022215" l="1" />
+  </s>
+  <s id="8101599965672695251-2509022228-18" eva="8089002">
+    <ar ct="2509022309" l="25" />
+    <dp ct="2509022309" l="25" />
+  </s>
+  <s id="6353941830457871725-2509022148-10" eva="8089002">
+    <ar ct="2509022213" l="2" />
+    <dp ct="2509022214" l="2" />
+  </s>
+  <s id="5046051596327121039-2509022228-10" eva="8089002">
+    <ar ct="2509022251" l="2" />
+    <dp ct="2509022252" l="2" />
+  </s>
+  <s id="-5225844632395043186-2509022143-14" eva="8089002">
+    <ar ppth="Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)" pp="2" ct="2509022212" pt="2509022211" l="1" />
+    <dp ppth="Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf" pp="2" ct="2509022213" pt="2509022212" l="1" />
+    <tl f="S" t="e" o="08" c="S" n="10631" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="1631" />
+    </ref>
+  </s>
+  <s id="-2524854754502658330-2509022154-15" eva="8089002">
+    <ar ct="2509022223" l="1" />
+    <dp ct="2509022224" l="1" />
+  </s>
+  <s id="867484033158265871-2509022225-10" eva="8089002">
+    <ar ct="2509022244" l="2" />
+    <dp ct="2509022244" l="2" />
+  </s>
+  <s id="-6080720383947812117-2509022225-10" eva="8089002">
+    <ar ct="2509022246" l="25" />
+    <dp ct="2509022247" l="25" />
+  </s>
+  <s id="3420594700675286034-2509022128-18" eva="8089002">
+    <ar ct="2509022209" l="25" />
+    <dp ct="2509022209" l="25" />
+  </s>
+</timetable>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tiergarten" eva="8089091">
+  <s id="7272797346927184431-2509061237-11" eva="8089091">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.508" pr="1" />
+    <ar cpth="" ct="2509061326" cs="c" clt="2509061238" l="9" />
+    <dp cpth="Berlin-Lichtenberg (S)" ct="2509061327" cs="c" clt="2509061238" l="9" />
+  </s>
+  <s id="9074337537617570183-2509061241-7" eva="8089091">
+    <ar ct="2509061300" l="5" />
+    <dp ct="2509061301" l="5" />
+  </s>
+  <s id="7291074344008617590-2509061150-26" eva="8089091">
+    <ar ct="2509061259" l="5" />
+    <dp ct="2509061259" l="5" />
+  </s>
+  <s id="8657017635244075976-2509061341-11" eva="8089091">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.746" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-05 23:16:03.736" pr="1" />
+    <m id="r2487358" t="h" from="2509061130" to="2509061600" cat="Störung" ts="2509061214" ts-tts="25-09-06 12:14:49.172" pr="1" />
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" cs="c" clt="2509061258" l="7" />
+    <dp cpth="" cs="c" clt="2509061258" l="7" />
+  </s>
+</timetable>

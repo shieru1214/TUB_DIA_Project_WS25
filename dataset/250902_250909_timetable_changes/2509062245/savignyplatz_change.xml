@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Savignyplatz" eva="8089037">
+  <s id="-4990998094743729035-2509062305-22" eva="8089037">
+    <ar cpth="Berlin-Friedrichshagen|Berlin-Hirschgarten|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)" ct="2509062357" l="3" />
+    <dp cpth="Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2509062358" l="3" />
+  </s>
+  <s id="1130075688227088336-2509062216-14" eva="8089037">
+    <ar ct="2509062245" l="7" />
+    <dp ct="2509062246" l="7" />
+  </s>
+  <s id="654501014165200525-2509062147-9" eva="8089037">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.507" pr="1" />
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)" ct="2509062212" l="3" />
+    <dp cpth="Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick|Berlin-Friedrichshagen" ct="2509062213" l="3" />
+  </s>
+  <s id="-4239554511206497468-2509062201-19" eva="8089037">
+    <ar ct="2509062243" l="5" />
+    <dp ct="2509062244" l="5" />
+  </s>
+  <s id="-4025585052883739351-2509062235-3" eva="8089037">
+    <ar ct="2509062243" l="7" />
+    <dp ct="2509062244" l="7" />
+  </s>
+</timetable>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Waidmannslust" eva="8089092">
+  <s id="-834159543467109457-2509041355-22" eva="8089092">
+    <ar ct="2509041446" l="26" />
+    <dp ct="2509041448" l="26" />
+  </s>
+  <s id="774100629483791038-2509041431-8" eva="8089092">
+    <m id="r2486148" t="h" from="2509040800" to="2509041230" cat="Störung" ts="2509040802" ts-tts="25-09-04 12:16:03.474" pr="2" />
+    <ar cpth="Oranienburg (S)|Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf" ct="2509041456" l="1" />
+    <dp cpth="Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2509041456" l="1" />
+  </s>
+  <s id="8954708290445672037-2509041435-3" eva="8089092">
+    <m id="r2486148" t="h" from="2509040800" to="2509041230" cat="Störung" ts="2509040802" ts-tts="25-09-04 12:16:03.474" pr="2" />
+    <ar ct="2509041440" l="1" />
+    <dp ct="2509041443" l="1" />
+  </s>
+  <s id="-8713033717530433151-2509041344-27" eva="8089092">
+    <m id="r2486148" t="h" from="2509040800" to="2509041230" cat="Störung" ts="2509040802" ts-tts="25-09-04 12:16:03.474" pr="2" />
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:29.834" pr="2" />
+    <ar ct="2509041443" l="1" />
+    <dp ct="2509041443" l="1" />
+  </s>
+</timetable>

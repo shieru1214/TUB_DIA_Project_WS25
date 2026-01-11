@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wartenberg">
+  <s id="-755901161489275896-2509060823-6">
+    <tl f="S" t="p" o="08" c="S" n="75551" />
+    <ar pt="2509060839" pp="1" l="75" ppth="Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)" />
+  </s>
+  <s id="8661258825924427735-2509060827-9">
+    <tl f="S" t="p" o="08" c="S" n="75049" />
+    <ar pt="2509060849" pp="2" l="75" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)" />
+  </s>
+  <s id="-2024169927597479082-2509060858-1">
+    <tl f="S" t="p" o="08" c="S" n="75050" />
+    <dp pt="2509060858" pp="2" l="75" ppth="Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+  <s id="8622926536024069560-2509060846-1">
+    <tl f="S" t="p" o="08" c="S" n="75554" />
+    <dp pt="2509060846" pp="1" l="75" ppth="Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+  <s id="-897928606730695934-2509060843-6">
+    <tl f="S" t="p" o="08" c="S" n="75553" />
+    <ar pt="2509060859" pp="1" l="75" ppth="Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)" />
+  </s>
+  <s id="2993986160795707117-2509060747-9">
+    <tl f="S" t="p" o="08" c="S" n="75045" />
+    <ar pt="2509060809" pp="2" l="75" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)" />
+  </s>
+  <s id="5014425434187350421-2509060838-1">
+    <tl f="S" t="p" o="08" c="S" n="75048" />
+    <dp pt="2509060838" pp="2" l="75" ppth="Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+  <s id="-8760080741066581971-2509060807-9">
+    <tl f="S" t="p" o="08" c="S" n="75047" />
+    <ar pt="2509060829" pp="2" l="75" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)" />
+  </s>
+  <s id="5560332430975005103-2509060818-1">
+    <tl f="S" t="p" o="08" c="S" n="75046" />
+    <dp pt="2509060818" pp="2" l="75" ppth="Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+</timetable>

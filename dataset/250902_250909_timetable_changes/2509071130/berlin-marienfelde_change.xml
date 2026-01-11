@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Marienfelde" eva="8089074">
+  <s id="8702234919109329332-2509071128-5" eva="8089074">
+    <ar ct="2509071138" l="2" />
+    <dp ct="2509071138" l="2" />
+  </s>
+  <s id="3720479119184069092-2509071135-15" eva="8089074">
+    <ar ct="2509071207" l="2">
+      <m id="r24175085" t="f" c="0" ts="2509061334" ts-tts="25-09-06 13:34:24.772" />
+      <m id="r24175086" t="f" c="0" ts="2509061334" ts-tts="25-09-06 13:34:24.772" />
+    </ar>
+    <dp ct="2509071208" l="2">
+      <m id="r24175085" t="f" c="0" ts="2509061334" ts-tts="25-09-06 13:34:24.772" />
+      <m id="r24175086" t="f" c="0" ts="2509061334" ts-tts="25-09-06 13:34:24.772" />
+    </dp>
+  </s>
+  <s id="2346862314133285104-2509071054-11" eva="8089074">
+    <ar ppth="Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr." pp="1" ct="2509071127" pt="2509071117" l="2" />
+    <dp ppth="Berlin Buckower Chaussee|Berlin Schichauweg|Berlin-Lichtenrade|Mahlow" pp="1" ct="2509071128" pt="2509071118" l="2" />
+    <tl f="S" t="e" o="08" c="S" n="20053" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="2053" />
+    </ref>
+  </s>
+  <s id="-5975367799365298124-2509071142-4" eva="8089074">
+    <ar ct="2509071152" l="2" />
+    <dp ct="2509071153" l="2" />
+  </s>
+</timetable>

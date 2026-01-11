@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Potsdamer Platz" eva="8011118">
+  <s id="-6823123026189092320-2509051439-6" eva="8011118">
+    <ar ppth="Wustermark|Dallgow-Döberitz|Berlin-Spandau|Berlin Jungfernheide|Berlin Hbf" pp="1" ct="2509051547" pt="2509051513" l="14" />
+    <dp ppth="Berlin Südkreuz" pp="1" ct="2509051547" pt="2509051514" l="14" />
+    <tl f="N" t="p" o="800165" c="RB" n="18619" />
+  </s>
+  <s id="-7186686355699286030-2509051541-2" eva="8011118">
+    <ar cpth="Berlin Südkreuz" ct="2509051601" cs="p" clt="2509051516" l="14">
+      <m id="r24065765" t="d" c="61" ts="2509051516" ts-tts="25-09-05 15:16:52.112" />
+      <m id="r24065767" t="d" c="61" ts="2509051516" ts-tts="25-09-05 15:16:52.112" />
+      <m id="r24066605" t="f" c="0" ts="2509051521" ts-tts="25-09-05 15:21:42.718" />
+      <m id="r24067750" t="d" c="48" ts="2509051529" ts-tts="25-09-05 15:29:12.100" />
+      <m id="r24067752" t="d" c="48" ts="2509051529" ts-tts="25-09-05 15:29:12.100" />
+    </ar>
+    <dp cpth="Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark" ct="2509051602" cs="p" clt="2509051516" l="14">
+      <m id="r24065765" t="d" c="61" ts="2509051516" ts-tts="25-09-05 15:16:52.112" />
+      <m id="r24065767" t="d" c="61" ts="2509051516" ts-tts="25-09-05 15:16:52.112" />
+      <m id="r24066605" t="f" c="0" ts="2509051521" ts-tts="25-09-05 15:21:42.718" />
+      <m id="r24067750" t="d" c="48" ts="2509051529" ts-tts="25-09-05 15:29:12.100" />
+      <m id="r24067752" t="d" c="48" ts="2509051529" ts-tts="25-09-05 15:29:12.100" />
+    </dp>
+  </s>
+</timetable>

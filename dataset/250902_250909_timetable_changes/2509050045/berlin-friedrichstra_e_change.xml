@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Friedrichstraße" eva="8011306">
+  <s id="976888597252262936-2509050444-5" eva="8011306">
+    <ar ct="2509050514" l="8" />
+    <dp ct="2509050515" l="8" />
+  </s>
+  <s id="3916491121868625246-2509050115-5" eva="8011306">
+    <ar ct="2509050143" />
+    <dp ct="2509050144" />
+  </s>
+  <s id="-4499169996640701986-2509050002-8" eva="8011306">
+    <ar cpth="Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf" ct="2509050043" l="8">
+      <m id="r23990583" t="d" c="48" ts="2509050026" ts-tts="25-09-05 00:26:30.356" />
+    </ar>
+    <dp cpth="Berlin Alexanderplatz|Berlin Ostbahnhof" ct="2509050044" l="8">
+      <m id="r23990583" t="d" c="48" ts="2509050026" ts-tts="25-09-05 00:26:30.356" />
+    </dp>
+  </s>
+  <s id="-5353275084219714352-2509042254-17" eva="8011306">
+    <ar ct="2509050049" l="2">
+      <m id="r23988426" t="d" c="47" ts="2509042335" ts-tts="25-09-04 23:35:15.929" />
+      <m id="r23988428" t="d" c="47" ts="2509042335" ts-tts="25-09-04 23:35:15.929" />
+    </ar>
+    <dp ct="2509050050" l="2">
+      <m id="r23988426" t="d" c="47" ts="2509042335" ts-tts="25-09-04 23:35:15.929" />
+      <m id="r23988428" t="d" c="47" ts="2509042335" ts-tts="25-09-04 23:35:15.929" />
+    </dp>
+  </s>
+</timetable>

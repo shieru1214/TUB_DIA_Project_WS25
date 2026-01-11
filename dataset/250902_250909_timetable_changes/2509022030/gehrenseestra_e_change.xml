@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Gehrenseestraße" eva="8089014">
+  <s id="-7260602157117504253-2509022026-3" eva="8089014">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 10:20:35.331" pr="1" />
+    <ar ct="2509022030" l="75" />
+    <dp ct="2509022030" l="75" />
+  </s>
+  <s id="-2077268499892260384-2509022016-7" eva="8089014">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 10:20:35.330" pr="1" />
+    <ar cpth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl" ct="2509022035" cs="p" clt="2509022019" l="75" />
+    <dp cpth="Berlin-Hohenschönhausen (S)|Berlin-Wartenberg" ct="2509022035" cs="p" clt="2509022019" l="75" />
+  </s>
+</timetable>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Poelchaustr." eva="8089031">
+  <s id="-8753921327242565113-2509042021-25" eva="8089031">
+    <m id="r2486491" t="h" from="2509042000" to="2509042130" cat="Störung" ts="2509042041" ts-tts="25-09-04 20:41:51.991" pr="1" />
+    <m id="r2486483" t="h" from="2509042000" to="2509042230" cat="Störung" ts="2509042015" ts-tts="25-09-04 20:15:25.268" pr="1" />
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.183" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.075" pr="1" />
+    <ar ct="2509042129" l="7" />
+    <dp ct="2509042130" l="7" />
+  </s>
+  <s id="5810844411587761867-2509041921-25" eva="8089031">
+    <m id="r2486491" t="h" from="2509042000" to="2509042130" cat="Störung" ts="2509042041" ts-tts="25-09-04 20:41:51.991" pr="1" />
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.182" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.075" pr="1" />
+    <ar ppth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl" pp="2" ct="2509042058" pt="2509042025" l="7" />
+    <dp ppth="Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" pp="2" ct="2509042059" pt="2509042026" l="7" />
+    <tl f="S" t="p" o="08" c="S" n="7135" />
+  </s>
+</timetable>

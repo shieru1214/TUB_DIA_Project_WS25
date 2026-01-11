@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Gesundbrunnen" eva="8011102">
+  <s id="-5654150394377905878-2509031637-10" eva="8011102">
+    <ar cp="8" ct="2509031911" l="5" />
+    <dp cp="8" ct="2509031912" l="5" />
+  </s>
+  <s id="-3021218213597977430-2509031501-21" eva="8011102">
+    <m id="r2485898" t="h" from="2509031501" to="2509031824" cat="Störung" ts="2509031830" ts-tts="25-09-03 18:30:16.671" pr="1" />
+    <m id="r2333137" t="h" from="2412150000" to="2510242358" cat="Information" ts="2412142302" ts-tts="25-09-02 23:16:03.894" pr="2" />
+    <ar cpth="Stralsund Hbf|Zarrendorf|Elmenhorst|Wittenhagen|Grimmen|Rakow|Demmin|Utzedel|Sternfeld|Gnevkow|Altentreptow|Neubrandenburg|Burg Stargard(Meckl)|Cammin(Meckl)|Blankensee(Meckl)|Neustrelitz Hbf|Fürstenberg(Havel)|Gransee|Löwenberg(Mark)|Oranienburg" ppth="Stralsund Hbf|Zarrendorf|Elmenhorst|Wittenhagen|Grimmen|Rakow|Demmin|Utzedel|Sternfeld|Gnevkow|Altentreptow|Neubrandenburg|Burg Stargard(Meckl)|Cammin(Meckl)|Blankensee(Meckl)|Neustrelitz Hbf|Fürstenberg(Havel)|Gransee|Löwenberg(Mark)|Oranienburg" cp="7" pp="5" ct="2509031858" pt="2509031802" l="5">
+      <m id="r23819424" t="d" c="38" ts="2509031826" ts-tts="25-09-03 18:26:20.501" />
+      <m id="r23819426" t="d" c="38" ts="2509031826" ts-tts="25-09-03 18:26:20.501" />
+    </ar>
+    <dp cpth="Berlin Hbf" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" cp="7" pp="5" ct="2509031900" pt="2509031804" l="5">
+      <m id="r23819424" t="d" c="38" ts="2509031826" ts-tts="25-09-03 18:26:20.501" />
+      <m id="r23819426" t="d" c="38" ts="2509031826" ts-tts="25-09-03 18:26:20.501" />
+    </dp>
+    <tl f="N" t="p" o="800158" c="RE" n="3515" />
+  </s>
+  <s id="2194870834977343793-2509031735-13" eva="8011102">
+    <ar cp="5" ct="2509031845" l="21" />
+  </s>
+  <s id="4835148581858351707-2509031730-7" eva="8011102">
+    <ar ct="2509032000" />
+    <dp ct="2509032001" />
+  </s>
+  <s id="-4831004071712342153-2509031701-21" eva="8011102">
+    <m id="r2333137" t="h" from="2412150000" to="2510242358" cat="Information" ts="2412142302" ts-tts="25-09-02 23:16:03.894" pr="2" />
+    <m id="r2485846" t="h" from="2509031701" to="2509032020" cat="Störung" ts="2509031639" ts-tts="25-09-03 16:39:18.456" pr="1" />
+    <ar cpth="Elmenhorst|Wittenhagen|Grimmen|Rakow|Demmin|Utzedel|Sternfeld|Gnevkow|Altentreptow|Neubrandenburg|Burg Stargard(Meckl)|Cammin(Meckl)|Blankensee(Meckl)|Neustrelitz Hbf|Fürstenberg(Havel)|Gransee|Löwenberg(Mark)|Oranienburg" ct="2509032014" l="5">
+      <m id="r23802219" t="d" c="38" ts="2509031631" ts-tts="25-09-03 16:31:10.353" />
+      <m id="r23802221" t="d" c="38" ts="2509031631" ts-tts="25-09-03 16:31:10.353" />
+    </ar>
+    <dp cpth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" ct="2509032015" l="5">
+      <m id="r23802219" t="d" c="38" ts="2509031631" ts-tts="25-09-03 16:31:10.353" />
+      <m id="r23802221" t="d" c="38" ts="2509031631" ts-tts="25-09-03 16:31:10.353" />
+    </dp>
+  </s>
+</timetable>

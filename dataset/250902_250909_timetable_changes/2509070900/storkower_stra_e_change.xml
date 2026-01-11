@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Storkower Str" eva="8089041">
+  <s id="5497234702597225735-2509070915-4" eva="8089041">
+    <ar ppth="Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee" pp="2" ct="2509070924" pt="2509070924" l="42" />
+    <dp ppth="Berlin Landsberger Allee|Berlin Greifswalder Str" pp="2" ct="2509070925" pt="2509070925" l="42" />
+    <tl f="S" t="e" o="08" c="S" n="43073" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="42073" />
+    </ref>
+  </s>
+</timetable>

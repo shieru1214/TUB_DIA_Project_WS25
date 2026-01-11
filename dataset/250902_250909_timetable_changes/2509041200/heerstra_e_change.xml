@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Heerstraße" eva="8089329">
+  <s id="5590557892900683533-2509041146-6" eva="8089329">
+    <ar ppth="Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)" pp="2" ct="2509041159" pt="2509041156" l="9" />
+    <dp ppth="Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" pp="2" ct="2509041200" pt="2509041157" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90072" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9072" />
+    </ref>
+  </s>
+  <s id="-2484581786279544313-2509041149-109" eva="8089329">
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf" ppth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)" pp="2" pt="2509041209" cs="c" ps="a" clt="2509041158" l="9" />
+    <dp cpth="" ppth="" pp="2" pt="2509041209" cs="c" ps="a" clt="2509041158" l="9" />
+    <tl f="S" t="s" o="08" c="S" n="91078" />
+  </s>
+</timetable>

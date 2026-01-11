@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hbf" eva="8011160">
+  <s id="4966825592039783790-2509032121-100" eva="8011160">
+    <m id="r2471136" t="h" from="2509010000" to="2509302300" cat="Information" ts="2508312308" ts-tts="25-09-02 23:16:04.169" pr="2" />
+    <m id="r2484847" t="h" from="2509011500" to="2509192359" cat="Information" ts="2509011714" ts-tts="25-09-02 23:16:04.490" pr="2" />
+    <ar cpth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Uelzen|Lehrte|Stendal Hbf|Berlin-Spandau" ppth="Hamburg-Altona|Hamburg Dammtor|Hamburg Hbf|Hamburg-Harburg|Uelzen|Lehrte|Stendal Hbf|Berlin-Spandau" pp="11" ct="2509040122" pt="2509040047" ps="a">
+      <m id="r23846723" t="f" c="0" ts="2509032300" ts-tts="25-09-03 23:00:33.608" />
+    </ar>
+    <dp cpth="" ppth="Berlin Hbf|Berlin Südkreuz" pp="11" ct="2509040114" pt="2509040051" cs="c" ps="a" clt="2509032300">
+      <m id="r23846723" t="f" c="0" ts="2509032300" ts-tts="25-09-03 23:00:33.608" />
+      <m id="r23846812" t="f" c="0" ts="2509032300" ts-tts="25-09-03 23:01:04.544" />
+      <m id="r23846813" t="f" c="0" ts="2509032300" ts-tts="25-09-03 23:01:04.544" />
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="907" />
+  </s>
+  <s id="-7260953034263185039-2509032009-12" eva="8011160">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-02 23:16:03.916" pr="3" />
+    <m id="r2485816" t="h" from="2509031500" to="2509032359" cat="Störung" ts="2509031514" ts-tts="25-09-03 18:16:03.933" pr="1" />
+    <ar ct="2509040111">
+      <m id="r23833760" t="d" c="7" ts="2509032019" ts-tts="25-09-03 20:19:36.090" />
+    </ar>
+    <dp ct="2509040115">
+      <m id="r23833760" t="d" c="7" ts="2509032019" ts-tts="25-09-03 20:19:36.090" />
+    </dp>
+  </s>
+  <s id="-7460128831778763104-2509040002-6" eva="8011160">
+    <ar ct="2509040037" />
+    <dp ct="2509040038" />
+  </s>
+  <s id="-4310203737838801908-2509040626-13" eva="8011160">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-03 23:16:03.880" pr="3" />
+    <m id="r2486023" t="h" from="2509040626" to="2509041127" cat="Information" ts="2509040029" ts-tts="25-09-04 00:29:32.798" pr="3" />
+  </s>
+  <s id="2001635860734548872-2509032324-15" eva="8011160">
+    <ar ct="2509040041" l="1" />
+    <dp ct="2509040044" l="1" />
+  </s>
+</timetable>

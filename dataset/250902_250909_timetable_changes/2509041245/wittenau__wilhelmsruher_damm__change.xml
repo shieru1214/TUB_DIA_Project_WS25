@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wittenau (Wilhelmsruher Damm)" eva="8089096">
+  <s id="-4128041871284193783-2509041235-4" eva="8089096">
+    <m id="r2486148" t="h" from="2509040800" to="2509041230" cat="Störung" ts="2509040802" ts-tts="25-09-04 12:16:03.474" pr="2" />
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:29.834" pr="2" />
+    <ar ct="2509041245" l="1" />
+    <dp ct="2509041245" l="1" />
+  </s>
+  <s id="6527890210362704210-2509041154-26" eva="8089096">
+    <m id="r2486148" t="h" from="2509040800" to="2509041230" cat="Störung" ts="2509040802" ts-tts="25-09-04 12:16:03.474" pr="2" />
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:29.833" pr="2" />
+    <ar cpth="Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh" ct="2509041256" l="1" />
+    <dp cpth="Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" ct="2509041256" l="1" />
+  </s>
+  <s id="2226027283471872018-2509041215-21" eva="8089096">
+    <ar ct="2509041307" l="26" />
+    <dp ct="2509041307" l="26" />
+  </s>
+</timetable>

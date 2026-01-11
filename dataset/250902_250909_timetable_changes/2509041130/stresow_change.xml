@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Stresow" eva="8089053">
+  <s id="-5423683445440184659-2509041127-2" eva="8089053">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.258" pr="1" />
+    <ar cpth="Berlin-Spandau (S)" ct="2509041131" l="3" />
+    <dp cpth="Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)" ct="2509041132" l="3" />
+  </s>
+  <s id="8812994898884157104-2509041106-9" eva="8089053">
+    <ar cpth="Berlin Friedrichstraße (S)|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg" ppth="Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg" pp="1" ct="2509041128" pt="2509041124" cs="p" clt="2509041007" l="9" />
+    <dp cpth="Berlin-Spandau (S)" ppth="Berlin-Spandau (S)" pp="1" ct="2509041129" pt="2509041125" cs="p" clt="2509041007" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90068" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9068" />
+    </ref>
+  </s>
+</timetable>

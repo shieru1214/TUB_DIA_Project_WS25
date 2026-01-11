@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde Ost" eva="8011041">
+  <s id="6273561646192769716-2509061714-13" eva="8011041">
+    <ar ppth="Falkenberg(Elster)|Herzberg(Elster)|Holzdorf(Elster)|Linda(Elster)|Zellendorf|Oehna|Jüterbog|Luckenwalde|Woltersdorf/Nuthe-Urstromtal|Trebbin|Thyrow|Ludwigsfelde" pp="4" ct="2509061907" pt="2509061837" l="4">
+      <m id="r24181036" t="q" c="73" ts="2509061420" ts-tts="25-09-06 14:20:25.311" />
+      <m id="r24203743" t="d" c="36" ts="2509061733" ts-tts="25-09-06 17:33:55.492" />
+      <m id="r24203745" t="d" c="36" ts="2509061733" ts-tts="25-09-06 17:33:55.492" />
+      <m id="r24203747" t="d" c="36" ts="2509061733" ts-tts="25-09-06 17:33:55.492" />
+      <m id="r24203795" t="f" c="0" ts="2509061734" ts-tts="25-09-06 17:34:11.049" />
+      <m id="r24205389" t="f" c="0" ts="2509061745" ts-tts="25-09-06 17:45:51.536" />
+    </ar>
+    <dp ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow" pp="4" ct="2509061908" pt="2509061838" l="4">
+      <m id="r24181036" t="q" c="73" ts="2509061420" ts-tts="25-09-06 14:20:25.311" />
+      <m id="r24203743" t="d" c="36" ts="2509061733" ts-tts="25-09-06 17:33:55.492" />
+      <m id="r24203745" t="d" c="36" ts="2509061733" ts-tts="25-09-06 17:33:55.492" />
+      <m id="r24203747" t="d" c="36" ts="2509061733" ts-tts="25-09-06 17:33:55.492" />
+      <m id="r24203795" t="f" c="0" ts="2509061734" ts-tts="25-09-06 17:34:11.049" />
+      <m id="r24205389" t="f" c="0" ts="2509061745" ts-tts="25-09-06 17:45:51.536" />
+    </dp>
+    <tl f="N" t="p" o="800158" c="RE" n="3159" />
+  </s>
+  <s id="-6065240417646439631-2509062142-4" eva="8011041">
+    <m id="r2473869" t="h" from="2508170000" to="2512072359" cat="Information" ts="2508172308" ts-tts="25-09-05 23:16:03.521" pr="2" />
+    <ar ct="2509062157" l="8" />
+    <dp ct="2509062158" l="8" />
+  </s>
+  <s id="-1325035297184672827-2509061416-27" eva="8011041">
+    <m id="r2467189" t="h" from="2508070000" to="2509072359" cat="Information" ts="2508072308" ts-tts="25-09-05 23:16:03.518" pr="2" />
+    <ar ct="2509061751" l="3">
+      <m id="r24128084" t="f" c="0" ts="2509060151" ts-tts="25-09-06 01:51:52.781" />
+      <m id="r24183262" t="d" c="21" ts="2509061440" ts-tts="25-09-06 14:40:55.662" />
+      <m id="r24183264" t="d" c="21" ts="2509061440" ts-tts="25-09-06 14:40:55.663" />
+      <m id="r24191382" t="f" c="0" ts="2509061547" ts-tts="25-09-06 15:47:26.556" />
+    </ar>
+    <dp ct="2509061752" l="3">
+      <m id="r24128084" t="f" c="0" ts="2509060151" ts-tts="25-09-06 01:51:52.781" />
+      <m id="r24183262" t="d" c="21" ts="2509061440" ts-tts="25-09-06 14:40:55.663" />
+      <m id="r24183264" t="d" c="21" ts="2509061440" ts-tts="25-09-06 14:40:55.663" />
+      <m id="r24191382" t="f" c="0" ts="2509061547" ts-tts="25-09-06 15:47:26.556" />
+    </dp>
+  </s>
+</timetable>

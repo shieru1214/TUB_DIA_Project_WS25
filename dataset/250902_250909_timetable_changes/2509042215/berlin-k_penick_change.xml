@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Köpenick" eva="8089069">
+  <s id="2747140997422875466-2509042127-25" eva="8089069">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.888" pr="1" />
+    <m id="r2486483" t="h" from="2509042000" to="2509042230" cat="Störung" ts="2509042015" ts-tts="25-09-04 20:15:12.516" pr="1" />
+    <ar ct="2509042233" l="3" />
+    <dp ct="2509042234" l="3" />
+  </s>
+  <s id="2483104541033580416-2509042230-1" eva="8089069">
+    <m id="r2486483" t="h" from="2509042000" to="2509042230" cat="Störung" ts="2509042015" ts-tts="25-09-04 20:15:12.516" pr="1" />
+    <dp ct="2509042230" l="3" />
+  </s>
+  <s id="-5907873652373276186-2509042207-5" eva="8089069">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.888" pr="1" />
+    <m id="r2486483" t="h" from="2509042000" to="2509042230" cat="Störung" ts="2509042015" ts-tts="25-09-04 20:15:12.516" pr="1" />
+    <ar cpth="" ct="2509042230" cs="c" clt="2509041949" l="3" />
+    <dp cpth="" ct="2509042231" cs="c" clt="2509041949" l="3" />
+  </s>
+  <s id="-1693482275053534971-2509042247-5" eva="8089069">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.888" pr="1" />
+    <ar ct="2509042308" l="3" />
+    <dp ct="2509042308" l="3" />
+  </s>
+  <s id="-8720572785986479216-2509042107-25" eva="8089069">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.888" pr="1" />
+    <m id="r2486483" t="h" from="2509042000" to="2509042230" cat="Störung" ts="2509042015" ts-tts="25-09-04 20:15:12.516" pr="1" />
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide" ct="2509042215" l="3" />
+    <dp cpth="Berlin-Friedrichshagen|Berlin-Rahnsdorf" ct="2509042215" l="3" />
+  </s>
+</timetable>

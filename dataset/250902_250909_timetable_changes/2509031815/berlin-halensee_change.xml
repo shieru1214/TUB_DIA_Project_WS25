@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Halensee" eva="8089109">
+  <s id="8201466914186461859-2509031755-9" eva="8089109">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:54.860" pr="1" />
+    <ar ct="2509031813" l="42" />
+    <dp ct="2509031814" l="42" />
+  </s>
+  <s id="5472169967215975852-2509031801-20" eva="8089109">
+    <ar ct="2509031859" l="46" />
+    <dp ct="2509031900" l="46" />
+  </s>
+  <s id="3460806150745304951-2509031701-20" eva="8089109">
+    <ar cpth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm" ct="2509031811" l="46" />
+    <dp cpth="Berlin Charlottenburg (S)" ct="2509031813" l="46" />
+  </s>
+</timetable>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Gesundbrunnen" eva="8011102">
+  <s id="-7316281068568158264-2509030422-1" eva="8011102">
+    <dp ppth="Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Leipzig Hbf|Erfurt Hbf|Würzburg Hbf|Nürnberg Hbf|München Hbf" pp="7" pt="2509030422">
+      <m id="r23703770" t="f" c="0" ts="2509022200" ts-tts="25-09-02 22:00:38.148" />
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2901" />
+  </s>
+  <s id="5505348089403655832-2509022128-3" eva="8011102">
+    <ar cp="5" ct="2509022215">
+      <m id="r23683979" t="d" c="38" ts="2509021546" ts-tts="25-09-02 15:47:02.181" />
+    </ar>
+  </s>
+  <s id="6268443086368436859-2509022003-13" eva="8011102">
+    <ar ct="2509022236" l="6" />
+  </s>
+</timetable>

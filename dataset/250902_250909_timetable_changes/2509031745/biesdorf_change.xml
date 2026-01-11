@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Biesdorf" eva="8089055">
+  <s id="8427181902272506458-2509031731-11" eva="8089055">
+    <ar ct="2509031802" l="5" />
+    <dp ct="2509031802" l="5" />
+  </s>
+  <s id="7359186419892049489-2509031804-4" eva="8089055">
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:45.047" pr="1" />
+    <ar ct="2509031819" l="5" />
+    <dp ct="2509031819" l="5" />
+  </s>
+  <s id="-7499154240306478318-2509031711-11" eva="8089055">
+    <ar ct="2509031744" l="5" />
+    <dp ct="2509031745" l="5" />
+  </s>
+  <s id="7439455265405790260-2509031725-6" eva="8089055">
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:45.047" pr="1" />
+    <ar cpth="Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal" ct="2509031743" l="5" />
+    <dp cpth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" ct="2509031744" l="5" />
+  </s>
+  <s id="7365346367188999368-2509031710-13" eva="8089055">
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:45.047" pr="1" />
+    <ar cpth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal" ct="2509031750" l="5" />
+    <dp cpth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2509031751" l="5" />
+  </s>
+  <s id="4607710741670844106-2509031751-11" eva="8089055">
+    <ar ct="2509031818" l="5" />
+    <dp ct="2509031818" l="5" />
+  </s>
+</timetable>

@@ -1,0 +1,524 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Botanischer Garten" eva="8089009">
+  <s id="4544501358770751439-2509021511-28" eva="8089009">
+    <ar ct="2509021616" l="1" />
+    <dp ct="2509021616" l="1" />
+  </s>
+  <s id="7008008746123793871-2509021604-8" eva="8089009">
+    <ar ct="2509021621" l="1" />
+    <dp ct="2509021621" l="1" />
+  </s>
+  <s id="2356075921305138883-2509021535-23" eva="8089009">
+    <ar ct="2509021627" l="1" />
+    <dp ct="2509021627" l="1" />
+  </s>
+  <s id="2898095756946234618-2509021554-8" eva="8089009">
+    <ar ct="2509021609" l="1" />
+    <dp ct="2509021610" l="1" />
+  </s>
+  <s id="2355559244024995597-2509021624-8" eva="8089009">
+    <ar ct="2509021639" l="1" />
+    <dp ct="2509021639" l="1" />
+  </s>
+  <s id="-1143528713919942697-2509021515-23" eva="8089009">
+    <ar ct="2509021606" l="1" />
+    <dp ct="2509021607" l="1" />
+  </s>
+  <s id="9212657513451796205-2509021631-28" eva="8089009">
+    <ar cpth="" cs="c" clt="2509021605" l="1" />
+    <dp cpth="" cs="c" clt="2509021605" l="1" />
+  </s>
+  <s id="-8899526079612069471-2509021451-28" eva="8089009">
+    <ar ct="2509021601" l="1" />
+    <dp ct="2509021602" l="1" />
+  </s>
+  <s id="7996061164632386785-2509021615-23" eva="8089009">
+    <ar ct="2509021706" l="1" />
+    <dp ct="2509021706" l="1" />
+  </s>
+  <s id="2014247285822662480-2509021544-8" eva="8089009">
+    <ar ct="2509021559" l="1" />
+    <dp ct="2509021559" l="1" />
+  </s>
+  <s id="506556623345286805-2509021614-8" eva="8089009">
+    <ar ct="2509021629" l="1" />
+    <dp ct="2509021629" l="1" />
+  </s>
+  <s id="3087093866448386914-2509021611-28" eva="8089009">
+    <ar ct="2509021716" l="1" />
+    <dp ct="2509021716" l="1" />
+  </s>
+  <s id="2335173283741224758-2509021534-8" eva="8089009">
+    <ar ct="2509021549" l="1" />
+    <dp ct="2509021550" l="1" />
+  </s>
+  <s id="73627962782666396-2509021514-8" eva="8089009">
+    <ar cpth="" ppth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West" pp="2" pt="2509021529" cs="c" clt="2509021547" l="1">
+      <m id="r23684019" t="d" c="36" ts="2509021547" ts-tts="25-09-02 15:47:42.236" />
+    </ar>
+    <dp cpth="Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" ppth="Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" pp="2" pt="2509021529" cs="c" clt="2509021547" l="1">
+      <m id="r23684019" t="d" c="36" ts="2509021547" ts-tts="25-09-02 15:47:42.236" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="10116" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="1116" />
+    </ref>
+  </s>
+  <s id="1156374932911954535-2509021455-23" eva="8089009">
+    <ar ct="2509021545" l="1" />
+    <dp ct="2509021546" l="1" />
+  </s>
+  <s id="3993736526603694454-2509021514-8" eva="8089009">
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West" ct="2509021529" l="1">
+      <m id="r23683923" t="f" c="0" ts="2509021546" ts-tts="25-09-02 15:46:08.313" />
+    </ar>
+    <dp cpth="Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg" ct="2509021529" l="1">
+      <m id="r23683923" t="f" c="0" ts="2509021546" ts-tts="25-09-02 15:46:08.313" />
+    </dp>
+  </s>
+  <s id="-337409522679179593-2509021555-23" eva="8089009">
+    <ar ct="2509021646" l="1" />
+    <dp ct="2509021646" l="1" />
+  </s>
+  <s id="-7491087940757279516-2509021524-8" eva="8089009">
+    <ar ct="2509021539" l="1" />
+    <dp ct="2509021539" l="1" />
+  </s>
+  <s id="-8173116280098245436-2509021433-27" eva="8089009">
+    <ar ppth="Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz" pp="1" ct="2509021536" pt="2509021535" l="1" />
+    <dp ppth="Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" pp="1" ct="2509021537" pt="2509021535" l="1" />
+    <tl f="S" t="s" o="08" c="S" n="10113" />
+  </s>
+  <s id="-7257278113347358399-2509021551-28" eva="8089009">
+    <ar ct="2509021656" l="1" />
+    <dp ct="2509021656" l="1" />
+  </s>
+  <s id="8954708290445672037-2509021435-23" eva="8089009">
+    <ar ct="2509021526" l="1" />
+    <dp ct="2509021527" l="1" />
+  </s>
+  <s id="2244574246574286137-2509021504-8" eva="8089009">
+    <ar ct="2509021521" l="1" />
+    <dp ct="2509021522" l="1" />
+  </s>
+  <s id="4462983284372307399-2509021411-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar cpth="Oranienburg (S)|Lehnitz" ct="2509021516" cs="c" clt="2509021407" l="1" />
+    <dp cpth="" ct="2509021517" cs="c" clt="2509021407" l="1" />
+  </s>
+  <s id="566536059927864144-2509021531-28" eva="8089009">
+    <ar ct="2509021636" l="1" />
+    <dp ct="2509021636" l="1" />
+  </s>
+  <s id="8261378827292965908-2509021454-8" eva="8089009">
+    <ar ct="2509021509" l="1" />
+    <dp ct="2509021510" l="1" />
+  </s>
+  <s id="-1879660515032090037-2509021415-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.334" pr="2" />
+    <ar ct="2509021507" l="1" />
+    <dp ct="2509021507" l="1" />
+  </s>
+  <s id="-5432943118452726032-2509021444-8" eva="8089009">
+    <ar ct="2509021500" l="1" />
+    <dp ct="2509021500" l="1" />
+  </s>
+  <s id="3881415846983415530-2509021351-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021456" l="1" />
+    <dp ct="2509021457" l="1" />
+  </s>
+  <s id="1228099043241115084-2509021434-8" eva="8089009">
+    <ar ct="2509021449" l="1" />
+    <dp ct="2509021449" l="1" />
+  </s>
+  <s id="6101075731607145659-2509021355-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.334" pr="2" />
+    <ar ct="2509021447" l="1" />
+    <dp ct="2509021448" l="1" />
+  </s>
+  <s id="6947595865349591649-2509021424-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021439" l="1" />
+    <dp ct="2509021439" l="1" />
+  </s>
+  <s id="8695487084543627662-2509021331-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021436" l="1" />
+    <dp ct="2509021437" l="1" />
+  </s>
+  <s id="6056724838551233796-2509021414-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021429" l="1" />
+    <dp ct="2509021429" l="1" />
+  </s>
+  <s id="-6455031593922641955-2509021335-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021426" l="1" />
+    <dp ct="2509021427" l="1" />
+  </s>
+  <s id="8743417838421331689-2509021404-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021419" l="1" />
+    <dp ct="2509021419" l="1" />
+  </s>
+  <s id="6784487211600579348-2509021311-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021416" l="1" />
+    <dp ct="2509021416" l="1" />
+  </s>
+  <s id="-1353584245745207711-2509021254-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West" ct="2509021309" l="1" />
+    <dp cpth="Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" ct="2509021309" l="1" />
+  </s>
+  <s id="2550551608445398519-2509021354-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021409" l="1" />
+    <dp ct="2509021410" l="1" />
+  </s>
+  <s id="5670150254095344767-2509021315-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021406" l="1" />
+    <dp ct="2509021407" l="1" />
+  </s>
+  <s id="-3207641768684853403-2509021314-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West" ct="2509021329" l="1" />
+    <dp cpth="Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz" ct="2509021329" l="1" />
+  </s>
+  <s id="774100629483791038-2509021431-28" eva="8089009">
+    <ar cpth="Oranienburg (S)|Lehnitz" cs="c" clt="2509021404" l="1" />
+    <dp cpth="" cs="c" clt="2509021404" l="1" />
+  </s>
+  <s id="-8713033717530433151-2509021344-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021359" l="1" />
+    <dp ct="2509021400" l="1" />
+  </s>
+  <s id="2049103661161980963-2509021251-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021356" l="1" />
+    <dp ct="2509021357" l="1" />
+  </s>
+  <s id="5932952352152238438-2509021334-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021349" l="1" />
+    <dp ct="2509021350" l="1" />
+  </s>
+  <s id="4914604482109737474-2509021255-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021346" l="1" />
+    <dp ct="2509021347" l="1" />
+  </s>
+  <s id="5939993262368712436-2509021324-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021339" l="1" />
+    <dp ct="2509021340" l="1" />
+  </s>
+  <s id="8386957451650566363-2509021231-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021336" l="1" />
+    <dp ct="2509021336" l="1" />
+  </s>
+  <s id="-4128041871284193783-2509021235-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021327" l="1" />
+    <dp ct="2509021327" l="1" />
+  </s>
+  <s id="1715603565170606474-2509021211-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021320" l="1" />
+    <dp ct="2509021321" l="1" />
+  </s>
+  <s id="841306140217331951-2509021304-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021319" l="1" />
+    <dp ct="2509021320" l="1" />
+  </s>
+  <s id="1526507198905727989-2509021215-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021307" l="1" />
+    <dp ct="2509021308" l="1" />
+  </s>
+  <s id="8636196545285041752-2509021244-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021300" l="1" />
+    <dp ct="2509021301" l="1" />
+  </s>
+  <s id="-2911821122900541657-2509021151-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021256" l="1" />
+    <dp ct="2509021257" l="1" />
+  </s>
+  <s id="8011655206424851534-2509021234-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021249" l="1" />
+    <dp ct="2509021250" l="1" />
+  </s>
+  <s id="8798506317632074015-2509021155-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021246" l="1" />
+    <dp ct="2509021246" l="1" />
+  </s>
+  <s id="-7181638878852047362-2509021224-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021240" l="1" />
+    <dp ct="2509021240" l="1" />
+  </s>
+  <s id="1249006753985684559-2509021131-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021240" l="1" />
+    <dp ct="2509021241" l="1" />
+  </s>
+  <s id="1555138346406256057-2509021214-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021229" l="1" />
+    <dp ct="2509021230" l="1" />
+  </s>
+  <s id="-6944640205882483505-2509021135-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021226" l="1" />
+    <dp ct="2509021226" l="1" />
+  </s>
+  <s id="-6607739963333126454-2509021204-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021219" l="1" />
+    <dp ct="2509021219" l="1" />
+  </s>
+  <s id="6348599890745672156-2509021111-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021216" l="1" />
+    <dp ct="2509021217" l="1" />
+  </s>
+  <s id="6527890210362704210-2509021154-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021209" l="1" />
+    <dp ct="2509021209" l="1" />
+  </s>
+  <s id="-2126206237271499485-2509021115-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021206" l="1" />
+    <dp ct="2509021207" l="1" />
+  </s>
+  <s id="308448635284740799-2509021144-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021159" l="1" />
+    <dp ct="2509021159" l="1" />
+  </s>
+  <s id="5843197686694192087-2509021051-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021156" l="1" />
+    <dp ct="2509021157" l="1" />
+  </s>
+  <s id="-4380746451017406535-2509021134-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021149" l="1" />
+    <dp ct="2509021150" l="1" />
+  </s>
+  <s id="-8696302329435492027-2509021055-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021146" l="1" />
+    <dp ct="2509021147" l="1" />
+  </s>
+  <s id="5156841409354974715-2509021124-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021139" l="1" />
+    <dp ct="2509021139" l="1" />
+  </s>
+  <s id="1088535020200624871-2509021031-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021136" l="1" />
+    <dp ct="2509021136" l="1" />
+  </s>
+  <s id="8179814534007398710-2509021114-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021129" l="1" />
+    <dp ct="2509021130" l="1" />
+  </s>
+  <s id="-7084038903585514973-2509021035-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021128" l="1" />
+    <dp ct="2509021128" l="1" />
+  </s>
+  <s id="-1654285359393140584-2509021104-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021119" l="1" />
+    <dp ct="2509021120" l="1" />
+  </s>
+  <s id="6759045818010246544-2509021011-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021116" l="1" />
+    <dp ct="2509021117" l="1" />
+  </s>
+  <s id="-1852382614679887550-2509021054-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021109" l="1" />
+    <dp ct="2509021109" l="1" />
+  </s>
+  <s id="-6123655235436820022-2509021015-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021106" l="1" />
+    <dp ct="2509021106" l="1" />
+  </s>
+  <s id="2797420159025155747-2509021044-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021059" l="1" />
+    <dp ct="2509021100" l="1" />
+  </s>
+  <s id="6470517583049106590-2509020951-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021056" l="1" />
+    <dp ct="2509021056" l="1" />
+  </s>
+  <s id="8809983536951184310-2509021034-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021049" l="1" />
+    <dp ct="2509021050" l="1" />
+  </s>
+  <s id="1149800491036808129-2509020755-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar cpth="Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz" ct="2509020847" l="1" />
+    <dp cpth="Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2509020848" l="1" />
+  </s>
+  <s id="6714095118557531938-2509020811-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar cpth="Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz" ct="2509020918" l="1" />
+    <dp cpth="Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2509020919" l="1" />
+  </s>
+  <s id="-1020539789936835065-2509020931-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021036" l="1" />
+    <dp ct="2509021036" l="1" />
+  </s>
+  <s id="8553189944614822522-2509020911-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021016" l="1" />
+    <dp ct="2509021016" l="1" />
+  </s>
+  <s id="2243751880507433014-2509020851-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509020957" l="1" />
+    <dp ct="2509020957" l="1" />
+  </s>
+  <s id="2634514173084792014-2509020831-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509020936" l="1" />
+    <dp ct="2509020937" l="1" />
+  </s>
+  <s id="1906266522083467603-2509020751-28" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509020856" l="1" />
+    <dp ct="2509020857" l="1" />
+  </s>
+  <s id="-5688463078112584623-2509021014-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021029" l="1" />
+    <dp ct="2509021030" l="1" />
+  </s>
+  <s id="7471292086578022963-2509020954-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509021009" l="1" />
+    <dp ct="2509021010" l="1" />
+  </s>
+  <s id="-2046174448513995529-2509020934-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509020949" l="1" />
+    <dp ct="2509020950" l="1" />
+  </s>
+  <s id="-5444509549961414149-2509020914-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509020929" l="1" />
+    <dp ct="2509020930" l="1" />
+  </s>
+  <s id="-4372902990706972824-2509020854-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509020909" l="1" />
+    <dp ct="2509020910" l="1" />
+  </s>
+  <s id="-8954323635620633270-2509020834-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509020849" l="1" />
+    <dp ct="2509020850" l="1" />
+  </s>
+  <s id="-8900853721145935215-2509020814-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509020829" l="1" />
+    <dp ct="2509020829" l="1" />
+  </s>
+  <s id="-4945425538632673766-2509020754-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.345" pr="2" />
+    <ar ct="2509020809" l="1" />
+    <dp ct="2509020810" l="1" />
+  </s>
+  <s id="1839465458389801120-2509020955-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021046" l="1" />
+    <dp ct="2509021047" l="1" />
+  </s>
+  <s id="6277659116072466112-2509020935-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021026" l="1" />
+    <dp ct="2509021027" l="1" />
+  </s>
+  <s id="-2058573886405627558-2509020915-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021006" l="1" />
+    <dp ct="2509021007" l="1" />
+  </s>
+  <s id="-8728395287863435816-2509020855-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509020946" l="1" />
+    <dp ct="2509020947" l="1" />
+  </s>
+  <s id="2607258187971675669-2509020835-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509020927" l="1" />
+    <dp ct="2509020928" l="1" />
+  </s>
+  <s id="-9000021639174556835-2509020815-23" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509020907" l="1" />
+    <dp ct="2509020908" l="1" />
+  </s>
+  <s id="-3486310083662654682-2509021024-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021039" l="1" />
+    <dp ct="2509021039" l="1" />
+  </s>
+  <s id="3864167694597402781-2509021004-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021019" l="1" />
+    <dp ct="2509021020" l="1" />
+  </s>
+  <s id="-8145754445168957056-2509020944-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509021000" l="1" />
+    <dp ct="2509021000" l="1" />
+  </s>
+  <s id="8647255251912915148-2509020924-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509020939" l="1" />
+    <dp ct="2509020940" l="1" />
+  </s>
+  <s id="5344203901431566423-2509020904-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509020919" l="1" />
+    <dp ct="2509020920" l="1" />
+  </s>
+  <s id="-3505384184156903485-2509020844-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509020859" l="1" />
+    <dp ct="2509020900" l="1" />
+  </s>
+  <s id="5407846585181429487-2509020824-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509020839" l="1" />
+    <dp ct="2509020839" l="1" />
+  </s>
+  <s id="-3832860924728279914-2509020804-8" eva="8089009">
+    <m id="r2485051" t="h" from="2509020719" to="2509021430" cat="Störung" ts="2509020722" ts-tts="25-09-02 10:48:51.333" pr="2" />
+    <ar ct="2509020819" l="1" />
+    <dp ct="2509020820" l="1" />
+  </s>
+</timetable>

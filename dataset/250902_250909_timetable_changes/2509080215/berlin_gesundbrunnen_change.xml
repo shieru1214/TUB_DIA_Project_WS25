@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Gesundbrunnen" eva="8011102">
+  <s id="5089820149948252230-2509071646-16" eva="8011102">
+    <m id="r2487893" t="h" from="2509071930" to="2509072359" cat="Störung" ts="2509072115" ts-tts="25-09-07 21:15:38.305" pr="1" />
+    <ar ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Fulda|Eisenach Hbf|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf" pp="8" ct="2509080216" pt="2509080043">
+      <m id="r24322027" t="d" c="8" ts="2509072056" ts-tts="25-09-07 20:57:11.596" />
+      <m id="r24322029" t="d" c="8" ts="2509072056" ts-tts="25-09-07 20:57:11.596" />
+      <m id="r24323152" t="f" c="0" ts="2509072104" ts-tts="25-09-07 21:04:57.473" />
+      <m id="r24323153" t="f" c="0" ts="2509072104" ts-tts="25-09-07 21:04:57.473" />
+      <m id="r24323849" t="f" c="0" ts="2509072117" ts-tts="25-09-07 21:17:27.128" />
+      <m id="r24324432" t="f" c="0" ts="2509072124" ts-tts="25-09-07 21:24:26.104" />
+      <m id="r24326068" t="f" c="0" ts="2509072144" ts-tts="25-09-07 21:44:18.317" />
+      <m id="r24328547" t="f" c="0" ts="2509072209" ts-tts="25-09-07 22:10:05.482" />
+      <m id="r24328548" t="f" c="0" ts="2509072209" ts-tts="25-09-07 22:10:05.482" />
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="592" />
+  </s>
+  <s id="-8796593196277190999-2509080613-6" eva="8011102">
+    <ar ct="2509080838" l="85" />
+    <dp ct="2509080840" l="85" />
+  </s>
+</timetable>

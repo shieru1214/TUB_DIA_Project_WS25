@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Spandau" eva="8010404">
+  <s id="-689328588130788162-2509072244-9" eva="8010404">
+    <ar cpth="Flughafen BER|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten" ct="2509072336" l="8" />
+    <dp cpth="Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark" ct="2509072338" l="8" />
+  </s>
+  <s id="4527502747804446727-2509072227-3" eva="8010404">
+    <m id="r2484847" t="h" from="2509011500" to="2509192359" cat="Information" ts="2509011714" ts-tts="25-09-06 23:16:03.181" pr="2" />
+  </s>
+  <s id="-2167438544370822717-2509072236-7" eva="8010404">
+    <m id="r2397244" t="h" from="2504021351" to="2509302359" cat="Information" ts="2504021355" ts-tts="25-09-06 23:16:02.806" pr="2" />
+    <m id="r2484847" t="h" from="2509011500" to="2509192359" cat="Information" ts="2509011714" ts-tts="25-09-06 23:16:03.180" pr="2" />
+  </s>
+  <s id="-8071444848207572218-2509062358-9" eva="8010404">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-05 23:16:03.410" pr="3" />
+    <ar ct="2509070647">
+      <m id="r24240573" t="f" c="0" ts="2509070418" ts-tts="25-09-07 04:18:50.992" />
+    </ar>
+    <dp ct="2509070700">
+      <m id="r24240573" t="f" c="0" ts="2509070418" ts-tts="25-09-07 04:18:50.992" />
+    </dp>
+  </s>
+  <s id="-2470681078798054054-2509070644-3" eva="8010404">
+    <ar ct="2509070710" />
+    <dp ct="2509070713" />
+  </s>
+  <s id="-4820699274069166646-2509070607-4" eva="8010404">
+    <ar ct="2509070620" l="8" />
+    <dp ct="2509070623" l="8" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:45.514" />
+</timetable>

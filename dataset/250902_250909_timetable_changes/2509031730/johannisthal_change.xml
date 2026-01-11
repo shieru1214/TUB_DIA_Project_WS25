@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Johannisthal" eva="8089007">
+  <s id="-7345442869346298799-2509031714-6" eva="8089007">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar cpth="Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof" ct="2509031734" l="8" />
+    <dp cpth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park" ct="2509031735" l="8" />
+  </s>
+  <s id="7741911341396890485-2509031637-24" eva="8089007">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:04.477" pr="1" />
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:35.481" pr="1" />
+    <ar ct="2509031737" l="9" />
+    <dp ct="2509031737" l="9" />
+  </s>
+  <s id="7945131399224393196-2509031837-24" eva="8089007">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:04.477" pr="1" />
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:35.481" pr="1" />
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar cpth="" cs="c" clt="2509031730" l="9" />
+    <dp cpth="" cs="c" clt="2509031730" l="9" />
+  </s>
+  <s id="1644843237899574196-2509031745-7" eva="8089007">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar ct="2509031800" l="8" />
+    <dp ct="2509031801" l="8" />
+  </s>
+  <s id="3529272336257423429-2509031817-24" eva="8089007">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:04.477" pr="1" />
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:35.481" pr="1" />
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar cpth="" cs="c" clt="2509031729" l="9" />
+    <dp cpth="" cs="c" clt="2509031729" l="9" />
+  </s>
+  <s id="-8711479641329914412-2509031655-7" eva="8089007">
+    <ar cpth="Berlin-Schöneweide (S)" ct="2509031731" l="85" />
+    <dp cpth="Berlin-Adlershof|Berlin-Grünau" ct="2509031732" l="85" />
+  </s>
+  <s id="-3363862170723971053-2509031708-8" eva="8089007">
+    <ar ct="2509031728" l="45" />
+    <dp ct="2509031729" l="45" />
+  </s>
+</timetable>

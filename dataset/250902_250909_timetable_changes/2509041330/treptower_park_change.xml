@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Treptower Park" eva="8089043">
+  <s id="790996603395233200-2509041325-3" eva="8089043">
+    <ar ct="2509041329" l="8" />
+    <dp ct="2509041331" l="8" />
+  </s>
+  <s id="-2806569003348046311-2509041317-20" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.888" pr="1" />
+    <m id="r2486210" t="h" from="2509041000" to="2509041300" cat="Störung" ts="2509041020" ts-tts="25-09-04 12:16:03.519" pr="2" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:10.734" pr="1" />
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße" ct="2509041404" cs="p" clt="2509040957" l="9" />
+    <dp cpth="Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ct="2509041405" cs="p" clt="2509040957" l="9" />
+  </s>
+  <s id="3362111119944128355-2509041245-20" eva="8089043">
+    <ar ct="2509041329" l="42" />
+    <dp ct="2509041330" l="42" />
+  </s>
+  <s id="-7842535364035236067-2509041308-7" eva="8089043">
+    <ar ppth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße" pp="3" ct="2509041330" pt="2509041322" l="9" />
+    <dp ppth="Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" pp="3" ct="2509041330" pt="2509041323" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90083" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9083" />
+    </ref>
+  </s>
+  <s id="-501011684368288677-2509041345-20" eva="8089043">
+    <ar ct="2509041428" l="42" />
+    <dp ct="2509041430" l="42" />
+  </s>
+  <s id="7264678968719401060-2509041321-6" eva="8089043">
+    <ar ct="2509041334" l="41" />
+    <dp ct="2509041334" l="41" />
+  </s>
+  <s id="5985431167972837250-2509041340-1" eva="8089043">
+    <dp ct="2509041341" l="42" />
+  </s>
+  <s id="5139536819721006436-2509041345-3" eva="8089043">
+    <ar ct="2509041349" l="8" />
+    <dp ct="2509041350" l="8" />
+  </s>
+  <s id="2117293651452389653-2509041344-2" eva="8089043">
+    <ar ct="2509041346" l="41" />
+    <dp ct="2509041347" l="41" />
+  </s>
+</timetable>

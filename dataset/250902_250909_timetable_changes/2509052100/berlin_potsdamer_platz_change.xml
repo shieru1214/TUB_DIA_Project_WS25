@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Potsdamer Platz" eva="8011118">
+  <s id="8930734303365215950-2509052036-2" eva="8011118">
+    <m id="r2486717" t="h" from="2509051336" to="2509052321" cat="Information" ts="2509050927" ts-tts="25-09-05 09:28:14.049" pr="2" />
+    <ar ppth="Berlin Südkreuz" pp="3" ct="2509052111" pt="2509052040" l="5">
+      <m id="r24040373" t="q" c="73" ts="2509051204" ts-tts="25-09-05 12:04:22.073" />
+      <m id="r24040375" t="q" c="73" ts="2509051204" ts-tts="25-09-05 12:04:22.073" />
+    </ar>
+    <dp ppth="Berlin Hbf|Berlin Gesundbrunnen|Oranienburg|Gransee|Dannenwalde(Gransee)|Fürstenberg(Havel)|Neustrelitz Hbf|Kratzeburg|Waren(Müritz)|Langhagen|Rostock Hbf" pp="3" ct="2509052112" pt="2509052041" l="5">
+      <m id="r24040373" t="q" c="73" ts="2509051204" ts-tts="25-09-05 12:04:22.073" />
+      <m id="r24040375" t="q" c="73" ts="2509051204" ts-tts="25-09-05 12:04:22.073" />
+    </dp>
+    <tl f="N" t="p" o="800158" c="RE" n="4366" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

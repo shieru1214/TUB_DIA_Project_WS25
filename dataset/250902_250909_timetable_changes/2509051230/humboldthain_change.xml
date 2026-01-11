@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Humboldthain" eva="8089018">
+  <s id="-1534307274385248825-2509051245-4" eva="8089018">
+    <ar ct="2509051251" l="2" />
+    <dp ct="2509051251" l="2" />
+  </s>
+  <s id="-5728707907581117400-2509051155-16" eva="8089018">
+    <ar ct="2509051230" l="26" />
+    <dp ct="2509051230" l="26" />
+  </s>
+  <s id="6075802343504882735-2509051245-16" eva="8089018">
+    <ar ct="2509051319" l="25" />
+    <dp ct="2509051319" l="25" />
+  </s>
+  <s id="-2911821122900541657-2509051151-15" eva="8089018">
+    <m id="r2486700" t="h" from="2509050800" to="2509051300" cat="Störung" ts="2509050857" ts-tts="25-09-05 08:57:43.374" pr="1" />
+    <ar cpth="Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)" ct="2509051229" l="1" />
+    <dp cpth="Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2509051229" l="1" />
+  </s>
+  <s id="8636196545285041752-2509051244-21" eva="8089018">
+    <ar ct="2509051326" l="1" />
+    <dp ct="2509051327" l="1" />
+  </s>
+</timetable>

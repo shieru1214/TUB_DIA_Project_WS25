@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jungfernheide">
+  <s id="6617695006145501165-2509051941-4">
+    <tl f="N" t="p" o="800165" c="RB" n="18628" />
+    <ar pt="2509051954" pp="4" l="14" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" />
+    <dp pt="2509051955" pp="4" l="14" ppth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark" />
+  </s>
+  <s id="7043396718381329906-2509051835-12">
+    <tl f="N" t="p" o="800165" c="RB" n="18268" />
+    <ar pt="2509051931" pp="3" l="21" ppth="Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Golm|Marquardt|Priort|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau" />
+    <dp pt="2509051933" pp="3" l="21" ppth="Berlin Gesundbrunnen" />
+  </s>
+  <s id="6273561646192769716-2509051714-17">
+    <tl f="N" t="p" o="800158" c="RE" n="3159" />
+    <ar pt="2509051901" pp="4" l="4" ppth="Falkenberg(Elster)|Herzberg(Elster)|Holzdorf(Elster)|Linda(Elster)|Zellendorf|Oehna|Jüterbog|Luckenwalde|Woltersdorf/Nuthe-Urstromtal|Trebbin|Thyrow|Ludwigsfelde|Berlin-Lichterfelde Ost|Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" />
+    <dp pt="2509051902" pp="4" l="4" ppth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow" />
+  </s>
+  <s id="-2818151692476083876-2509051838-4">
+    <tl f="N" t="p" o="800165" c="RB" n="18627" />
+    <ar pt="2509051903" pp="3" l="14" ppth="Wustermark|Dallgow-Döberitz|Berlin-Spandau" />
+    <dp pt="2509051904" pp="3" l="14" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" />
+  </s>
+  <s id="-4659876279235164279-2509051832-9">
+    <tl f="N" t="p" o="800158" c="RE" n="3178" />
+    <ar pt="2509051956" pp="3" l="4" ppth="Stendal Hbf|Rathenow|Nennhausen|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau" />
+    <dp pt="2509051956" pp="3" l="4" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz|Berlin-Lichterfelde Ost|Ludwigsfelde|Thyrow|Trebbin|Woltersdorf/Nuthe-Urstromtal|Luckenwalde|Jüterbog" />
+  </s>
+  <s id="1494377583683787990-2509051916-2">
+    <tl f="N" t="p" o="800165" c="RB" n="18271" />
+    <ar pt="2509051923" pp="4" l="21" ppth="Berlin Gesundbrunnen" />
+    <dp pt="2509051924" pp="4" l="21" ppth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Priort|Marquardt|Golm|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf" />
+  </s>
+</timetable>

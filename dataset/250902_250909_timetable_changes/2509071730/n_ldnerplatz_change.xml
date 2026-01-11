@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Nöldnerplatz" eva="8089026">
+  <s id="7365346367188999368-2509071710-16" eva="8089026">
+    <ar ct="2509071757" l="5" />
+    <dp ct="2509071757" l="5" />
+  </s>
+  <s id="-5448739266563287602-2509071727-3" eva="8089026">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 16:16:04.390" pr="1" />
+    <ar ct="2509071731" l="75" />
+    <dp ct="2509071731" l="75" />
+  </s>
+  <s id="4858045599133853600-2509071711-9" eva="8089026">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 16:16:04.389" pr="1" />
+    <ar ct="2509071728" l="7" />
+    <dp ct="2509071729" l="7" />
+  </s>
+  <s id="3577251965004204208-2509071651-17" eva="8089026">
+    <ar cpth="Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)" ct="2509071729" l="5" />
+    <dp cpth="Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)" ct="2509071729" l="5" />
+  </s>
+  <s id="-2477370580072192002-2509071701-21" eva="8089026">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 16:16:04.389" pr="1" />
+    <ar ct="2509071759" l="7" />
+    <dp ct="2509071800" l="7" />
+  </s>
+</timetable>

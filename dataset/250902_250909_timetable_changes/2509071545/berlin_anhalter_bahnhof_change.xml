@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Anhalter Bf" eva="8089002">
+  <s id="2748920187749381613-2509071525-10" eva="8089002">
+    <ar ct="2509071545" l="2" />
+    <dp ct="2509071545" l="2" />
+  </s>
+  <s id="-8582761935247756123-2509071638-16" eva="8089002">
+    <m id="r2487795" t="h" from="2509071430" to="2509071700" cat="Störung" ts="2509071525" ts-tts="25-09-07 15:25:59.271" pr="1" />
+    <ar ct="2509071713" l="1" />
+    <dp ct="2509071713" l="1" />
+  </s>
+  <s id="-7491087940757279516-2509071524-15" eva="8089002">
+    <m id="r2487795" t="h" from="2509071430" to="2509071700" cat="Störung" ts="2509071525" ts-tts="25-09-07 15:25:59.271" pr="1" />
+    <m id="r2487622" t="h" from="2509070954" to="2509071530" cat="Störung" ts="2509070955" ts-tts="25-09-07 09:55:53.476" pr="2" />
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)" ct="2509071606" cs="p" clt="2509071517" l="1" />
+    <dp cpth="Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2509071606" cs="p" clt="2509071517" l="1" />
+  </s>
+  <s id="1834887054717246736-2509071602-9" eva="8089002">
+    <ar ct="2509071623" l="2" />
+    <dp ct="2509071624" l="2" />
+  </s>
+  <s id="2335173283741224758-2509071534-15" eva="8089002">
+    <m id="r2487795" t="h" from="2509071430" to="2509071700" cat="Störung" ts="2509071525" ts-tts="25-09-07 15:25:59.271" pr="1" />
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)" ct="2509071610" cs="p" clt="2509071532" l="1" />
+    <dp cpth="Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2509071610" cs="p" clt="2509071532" l="1" />
+  </s>
+  <s id="2643504820083614720-2509071508-16" eva="8089002">
+    <m id="r2487795" t="h" from="2509071430" to="2509071700" cat="Störung" ts="2509071525" ts-tts="25-09-07 15:25:59.271" pr="1" />
+    <m id="r2487622" t="h" from="2509070954" to="2509071530" cat="Störung" ts="2509070955" ts-tts="25-09-07 09:55:53.476" pr="2" />
+    <ar ct="2509071543" l="1" />
+    <dp ct="2509071544" l="1" />
+  </s>
+</timetable>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jannowitzbrücke" eva="8089019">
+  <s id="2146154658426716045-2509021951-17" eva="8089019">
+    <m id="r2485165" t="h" from="2509021000" to="2509031800" cat="Störung" ts="2509021056" ts-tts="25-09-02 10:56:17.558" pr="2" />
+    <ar ct="2509022038" l="7" />
+    <dp ct="2509022038" l="7" />
+  </s>
+  <s id="-5751488137473470439-2509021945-13" eva="8089019">
+    <ar ct="2509022016" l="5" />
+    <dp ct="2509022015" l="5" />
+  </s>
+  <s id="-4772021523359316543-2509021957-11" eva="8089019">
+    <ar ct="2509022020" l="5" />
+    <dp ct="2509022021" l="5" />
+  </s>
+  <s id="5826395670101667647-2509021937-17" eva="8089019">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 10:48:50.550" pr="1" />
+    <ar ct="2509022014" l="9" />
+    <dp ct="2509022015" l="9" />
+  </s>
+  <s id="1265749905633546470-2509022016-6" eva="8089019">
+    <m id="r2485165" t="h" from="2509021000" to="2509031800" cat="Störung" ts="2509021056" ts-tts="25-09-02 10:56:17.558" pr="2" />
+    <ar cpth="Berlin Warschauer Straße|Berlin Ostbahnhof (S)" ct="2509022027" l="7" />
+    <dp cpth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee|Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" ct="2509022028" l="7" />
+  </s>
+  <s id="-7524619887410635706-2509022030-20" eva="8089019">
+    <ar ct="2509022125" l="5" />
+    <dp ct="2509022125" l="5" />
+  </s>
+  <s id="-5874207931311033574-2509022029-14" eva="8089019">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 10:48:50.549" pr="1" />
+    <ar ct="2509022110" l="9" />
+    <dp ct="2509022110" l="9" />
+  </s>
+  <s id="-5068496127941651862-2509021950-9" eva="8089019">
+    <ar ct="2509022013" l="3" />
+    <dp ct="2509022014" l="3" />
+  </s>
+</timetable>

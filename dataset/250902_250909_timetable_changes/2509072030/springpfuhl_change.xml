@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Springpfuhl" eva="8089040">
+  <s id="-5026843579212960121-2509072027-6" eva="8089040">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 16:16:04.390" pr="1" />
+    <ar ct="2509072041" l="75" />
+    <dp ct="2509072041" l="75" />
+  </s>
+  <s id="-5658765785006357322-2509071941-24" eva="8089040">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 16:16:04.389" pr="1" />
+    <ar ct="2509072045" l="7" />
+    <dp ct="2509072045" l="7" />
+  </s>
+  <s id="-2060728106650554233-2509072021-1" eva="8089040">
+    <dp ppth="Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)|Berlin-Wartenberg" pp="1" ct="2509072029" pt="2509072021" l="75" />
+    <tl f="S" t="e" o="08" c="S" n="76119" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="75119" />
+    </ref>
+  </s>
+</timetable>

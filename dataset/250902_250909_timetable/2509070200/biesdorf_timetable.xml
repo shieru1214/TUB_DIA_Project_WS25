@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Biesdorf">
+  <s id="-1469352186007072668-2509070227-4">
+    <tl f="S" t="p" o="08" c="S" n="5264" />
+    <ar pt="2509070233" pp="1" l="5" ppth="Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal" />
+    <dp pt="2509070233" pp="1" l="5" ppth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+  <s id="-1061626912567785933-2509070128-13">
+    <tl f="S" t="p" o="08" c="S" n="5262" />
+    <ar pt="2509070203" pp="1" l="5" ppth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal" />
+    <dp pt="2509070203" pp="1" l="5" ppth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" />
+  </s>
+  <s id="384767693937383072-2509070213-6">
+    <tl f="S" t="p" o="08" c="S" n="5267" />
+    <ar pt="2509070225" pp="2" l="5" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" />
+    <dp pt="2509070225" pp="2" l="5" ppth="Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)|Birkenstein|Hoppegarten(Mark)|Neuenhagen(b Berlin)|Fredersdorf(b Berlin)|Petershagen Nord|Strausberg (S)|Strausberg-Hegermühle|Strausberg Stadt|Strausberg Nord" />
+  </s>
+  <s id="5705838893884177137-2509070243-6">
+    <tl f="S" t="p" o="08" c="S" n="5269" />
+    <ar pt="2509070255" pp="2" l="5" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost" />
+    <dp pt="2509070255" pp="2" l="5" ppth="Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)" />
+  </s>
+</timetable>

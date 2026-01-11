@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hermannstraße" eva="8089105">
+  <s id="5377527314377604207-2509040701-17" eva="8089105">
+    <ar l="42">
+      <m id="r23684688" t="f" c="0" ts="2509021558" ts-tts="25-09-02 15:58:58.633" />
+      <m id="r23746538" t="f" c="0" ts="2509030859" ts-tts="25-09-03 08:59:45.022" />
+    </ar>
+    <dp l="42">
+      <m id="r23684688" t="f" c="0" ts="2509021558" ts-tts="25-09-02 15:58:58.633" />
+      <m id="r23746538" t="f" c="0" ts="2509030859" ts-tts="25-09-03 08:59:45.022" />
+    </dp>
+  </s>
+  <s id="-4796569355290185174-2509040601-9" eva="8089105">
+    <ar l="41">
+      <m id="r23684711" t="f" c="0" ts="2509021559" ts-tts="25-09-02 15:59:31.134" />
+      <m id="r23740793" t="f" c="0" ts="2509030800" ts-tts="25-09-03 08:01:01.210" />
+    </ar>
+    <dp l="41">
+      <m id="r23684711" t="f" c="0" ts="2509021559" ts-tts="25-09-02 15:59:31.134" />
+      <m id="r23740793" t="f" c="0" ts="2509030800" ts-tts="25-09-03 08:01:01.210" />
+    </dp>
+  </s>
+  <s id="8143383984449034525-2509031414-5" eva="8089105">
+    <ar cpth="" ct="2509031424" cs="c" clt="2509031400" l="41" />
+    <dp cpth="Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ct="2509031424" cs="c" clt="2509031400" l="41" />
+  </s>
+  <s id="520073043704376291-2509031341-17" eva="8089105">
+    <ar ct="2509031416" l="42" />
+    <dp ct="2509031416" l="42" />
+  </s>
+  <s id="-4847683922419772324-2509031408-3" eva="8089105">
+    <m id="r2485791" t="h" from="2509031330" to="2509031600" cat="Störung" ts="2509031412" ts-tts="25-09-03 14:12:56.262" pr="1" />
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Tempelhof" ct="2509031414" l="45" />
+    <dp cpth="Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ct="2509031414" l="45" />
+  </s>
+  <s id="246477552923093546-2509031404-5" eva="8089105">
+    <ar ct="2509031414" l="41" />
+    <dp ct="2509031415" l="41" />
+  </s>
+  <s id="-4664524881209325045-2509031429-7" eva="8089105">
+    <ar ct="2509031446" l="47" />
+  </s>
+</timetable>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostkreuz" eva="8011162">
+  <s id="884430687893734155-2509041901-14" eva="8011162">
+    <ar ct="2509042006" l="7" />
+    <dp ct="2509042007" l="7" />
+  </s>
+  <s id="3433559710760088836-2509041719-14" eva="8011162">
+    <ar ct="2509041840" l="1" />
+    <dp ct="2509041842" l="1" />
+  </s>
+  <s id="2536661623828971725-2509041807-10" eva="8011162">
+    <ar ct="2509041855" l="8" />
+    <dp ct="2509041857" l="8" />
+  </s>
+  <s id="-8117698018396659816-2509041712-18" eva="8011162">
+    <ar ct="2509041913" l="1" />
+    <dp ct="2509041915" l="1" />
+  </s>
+  <s id="-3594609905266768095-2509041701-14" eva="8011162">
+    <ar ppth="Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof" pp="1" ct="2509041837" pt="2509041801" l="7">
+      <m id="r23942583" t="d" c="48" ts="2509041659" ts-tts="25-09-04 16:59:21.333" />
+    </ar>
+    <dp ppth="Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Calau(Nl)|Luckaitztal|Altdöbern|Großräschen|Sedlitz Ost|Senftenberg" pp="1" ct="2509041838" pt="2509041803" l="7">
+      <m id="r23942583" t="d" c="48" ts="2509041659" ts-tts="25-09-04 16:59:21.333" />
+    </dp>
+    <tl f="N" t="p" o="800165" c="RE" n="3728" />
+  </s>
+  <s id="-6887958024916358777-2509041801-14" eva="8011162">
+    <ar ct="2509041912" l="7" />
+    <dp ct="2509041913" l="7" />
+  </s>
+  <s id="-2628504781120600806-2509041821-3" eva="8011162">
+    <ar ct="2509041839" />
+    <dp ct="2509041841" />
+  </s>
+  <s id="-104933368229407655-2509041828-2" eva="8011162">
+    <ar ct="2509041846" />
+    <dp ct="2509041848" />
+  </s>
+  <s id="-3688437143679647143-2509041733-15" eva="8011162">
+    <ar ct="2509041903" l="12" />
+  </s>
+</timetable>

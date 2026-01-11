@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hohenzollerndamm" eva="8089108">
+  <s id="-1093971613945248882-2509081443-22" eva="8089108">
+    <ar ct="2509081529" l="41" />
+    <dp ct="2509081530" l="41" />
+  </s>
+  <s id="-2865354267006537430-2509081513-7" eva="8089108">
+    <ar ct="2509081529" l="42" />
+    <dp ct="2509081530" l="42" />
+  </s>
+  <s id="-6939321751395319139-2509081621-19" eva="8089108">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.451" pr="2" />
+    <ar ct="2509081713" l="46" />
+    <dp ct="2509081713" l="46" />
+  </s>
+  <s id="5607666004607282394-2509081516-5" eva="8089108">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.451" pr="2" />
+    <ar cpth="Berlin Charlottenburg (S)|Berlin-Halensee" ct="2509081529" cs="p" clt="2509081500" l="46" />
+    <dp cpth="Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" ct="2509081533" l="46" />
+  </s>
+</timetable>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Pankow" eva="8089080">
+  <s id="4464971735915857878-2509050901-3" eva="8089080">
+    <ar l="8">
+      <m id="r23894678" t="f" c="0" ts="2509041059" ts-tts="25-09-04 10:59:37.458" />
+    </ar>
+  </s>
+  <s id="-3370385844956177480-2509050850-1" eva="8089080">
+    <dp l="8">
+      <m id="r23893597" t="f" c="0" ts="2509041049" ts-tts="25-09-04 10:49:29.483" />
+    </dp>
+  </s>
+  <s id="-1706651402670989334-2509041611-3" eva="8089080">
+    <ar cpth="" cs="c" clt="2509041615" l="85" />
+  </s>
+  <s id="7507124815187609459-2509041548-5" eva="8089080">
+    <ar ct="2509041631" l="S2" />
+  </s>
+  <s id="653505797069917569-2509041551-5" eva="8089080">
+    <ar ct="2509041626" l="S2" />
+  </s>
+  <s id="5803953260876486713-2509041605-1" eva="8089080">
+    <dp cpth="Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee|Berlin Schichauweg|Berlin-Lichtenrade|Mahlow" ct="2509041622" cs="c" clt="2509041615" l="2">
+      <m id="r23935211" t="d" c="36" ts="2509041615" ts-tts="25-09-04 16:15:45.516" />
+      <m id="r23935213" t="d" c="36" ts="2509041615" ts-tts="25-09-04 16:15:45.516" />
+    </dp>
+  </s>
+  <s id="5669228957054366236-2509041615-5" eva="8089080">
+    <ar ct="2509041652" l="S2" />
+  </s>
+  <s id="2171941855840667734-2509041612-1" eva="8089080">
+    <dp ct="2509041615" l="S2" />
+  </s>
+  <s id="-7522696532162659229-2509041554-5" eva="8089080">
+    <ar ct="2509041631" l="S2" />
+  </s>
+  <s id="-6348478233061888420-2509041603-1" eva="8089080">
+    <dp ct="2509041614" l="S2" />
+  </s>
+  <s id="-3353799509590667063-2509041624-5" eva="8089080">
+    <ar ct="2509041654" l="S2" />
+  </s>
+  <s id="-1685492623179808558-2509041522-18" eva="8089080">
+    <ar cpth="Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." ct="2509041618" cs="c" clt="2509041611" l="2" />
+  </s>
+  <s id="9044805107416460248-2509041541-7" eva="8089080">
+    <m id="r2462227" t="h" from="2508250300" to="2509080130" cat="Bauarbeiten" ts="2508242307" ts-tts="25-09-03 23:16:04.741" pr="2" />
+    <ar ct="2509041632" l="S8" />
+  </s>
+  <s id="8371775907934381726-2509041630-5" eva="8089080">
+    <ar ct="2509041704" l="S2" />
+  </s>
+  <s id="5770142295134354740-2509041625-1" eva="8089080">
+    <dp ct="2509041628" l="2" />
+  </s>
+  <s id="118762314263066309-2509041542-5" eva="8089080">
+    <ar ct="2509041622" l="S2" />
+  </s>
+  <s id="-9046808337198745676-2509041614-1" eva="8089080">
+    <m id="r2462227" t="h" from="2508250300" to="2509080130" cat="Bauarbeiten" ts="2508242307" ts-tts="25-09-03 23:16:04.742" pr="2" />
+    <dp ct="2509041615" l="S8" />
+  </s>
+  <s id="-8504033517277794728-2509041639-5" eva="8089080">
+    <ar ct="2509041705" l="S2" />
+  </s>
+  <s id="-3085477907720687289-2509041636-5" eva="8089080">
+    <ar ct="2509041704" l="S2" />
+  </s>
+  <s id="-1162932385611739113-2509041542-18" eva="8089080">
+    <ar cpth="Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof" cs="c" clt="2509041615" l="2">
+      <m id="r23935162" t="d" c="36" ts="2509041615" ts-tts="25-09-04 16:15:29.134" />
+      <m id="r23935164" t="d" c="36" ts="2509041615" ts-tts="25-09-04 16:15:29.134" />
+    </ar>
+  </s>
+  <s id="4618374815629573839-2509041645-1" eva="8089080">
+    <dp ct="2509041645" l="S2" />
+  </s>
+  <s id="-5793271144053307224-2509041630-1" eva="8089080">
+    <dp ct="2509041630" l="8" />
+  </s>
+  <s id="-4979084308457221060-2509041545-5" eva="8089080">
+    <ar ct="2509041625" l="S2" />
+  </s>
+  <s id="-5944349791778710930-2509041618-5" eva="8089080">
+    <ar ct="2509041650" l="S2" />
+  </s>
+  <s id="-1928865549772785451-2509041539-5" eva="8089080">
+    <ar ct="2509041616" l="S2" />
+  </s>
+  <s id="3584560658399301002-2509041528-19" eva="8089080">
+    <ar ct="2509041619" l="2" />
+  </s>
+  <s id="2817796063828515797-2509041603-5" eva="8089080">
+    <ar ct="2509041637" l="S2" />
+  </s>
+  <s id="-8688286297366895349-2509041621-5" eva="8089080">
+    <ar ct="2509041648" l="S2" />
+  </s>
+  <s id="-7386637189482012776-2509041615-1" eva="8089080">
+    <dp ct="2509041623" l="2" />
+  </s>
+  <s id="-6246865065478094594-2509041551-7" eva="8089080">
+    <m id="r2462227" t="h" from="2508250300" to="2509080130" cat="Bauarbeiten" ts="2508242307" ts-tts="25-09-03 23:16:04.741" pr="2" />
+    <ar ct="2509041642" l="S8" />
+  </s>
+  <s id="7463761166208004665-2509041521-7" eva="8089080">
+    <m id="r2462227" t="h" from="2508250300" to="2509080130" cat="Bauarbeiten" ts="2508242307" ts-tts="25-09-03 23:16:04.742" pr="2" />
+    <ar ct="2509041616" l="S8" />
+  </s>
+  <s id="7626345703307381888-2509041612-5" eva="8089080">
+    <ar ct="2509041647" l="S2" />
+  </s>
+  <s id="-433572608467996760-2509041606-5" eva="8089080">
+    <ar ct="2509041641" l="S2" />
+  </s>
+</timetable>

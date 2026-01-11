@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="6000173061452134347-2509061559-1" eva="8089045">
+    <dp ct="2509061600" l="3" />
+  </s>
+  <s id="-1935978501065523082-2509061517-19" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.508" pr="1" />
+    <ar ct="2509061559" l="9" />
+    <dp ct="2509061600" l="9" />
+  </s>
+  <s id="4182431020439555863-2509061615-12" eva="8089045">
+    <ar ct="2509061645" l="3" />
+  </s>
+  <s id="-3345095656832001720-2509061511-114" eva="8089045">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.746" pr="2" />
+    <m id="r2487358" t="h" from="2509061130" to="2509061600" cat="Störung" ts="2509061214" ts-tts="25-09-06 12:14:49.171" pr="1" />
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Nikolassee|Berlin-Grunewald|Berlin-Grunewald|Berlin Westkreuz|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Ostbahnhof (S)" ppth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)" pp="1" ct="2509061603" pt="2509061600" ps="a" l="7" />
+    <dp cpth="Berlin Ostkreuz (S)|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" pp="1" ct="2509061603" pt="2509061601" ps="a" l="7">
+      <m id="r24187306" t="d" c="1" ts="2509061514" ts-tts="25-09-06 15:14:25.925" />
+      <m id="r24187308" t="d" c="1" ts="2509061514" ts-tts="25-09-06 15:14:25.925" />
+    </dp>
+    <tl f="S" t="p" o="08" c="S" n="7575" />
+  </s>
+  <s id="-5790363009453351842-2509061531-15" eva="8089045">
+    <ar ct="2509061605" l="5" />
+    <dp ct="2509061605" l="5" />
+  </s>
+  <s id="-1555244531435805638-2509061538-9" eva="8089045">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-05 23:16:03.737" pr="1" />
+    <ar ct="2509061600" l="75" />
+  </s>
+</timetable>

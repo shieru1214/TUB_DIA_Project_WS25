@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hackescher Markt" eva="8089017">
+  <s id="-2640118173465362191-2509050711-15" eva="8089017">
+    <ar ct="2509050745" l="7" />
+    <dp ct="2509050745" l="7" />
+  </s>
+  <s id="-6733194214433736564-2509050727-9" eva="8089017">
+    <ar ct="2509050745" l="5" />
+    <dp ct="2509050745" l="5" />
+  </s>
+  <s id="4017854280671466608-2509050725-15" eva="8089017">
+    <ar ct="2509050800" l="5" />
+    <dp ct="2509050800" l="5" />
+  </s>
+  <s id="-350837373914204669-2509050735-15" eva="8089017">
+    <ar ppth="Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)" pp="4" ct="2509050810" pt="2509050809" l="5">
+      <m id="r24011094" t="f" c="0" ts="2509050731" ts-tts="25-09-05 07:31:44.981" />
+    </ar>
+    <dp ppth="Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Olympiastadion" pp="4" ct="2509050810" pt="2509050809" l="5">
+      <m id="r24011094" t="f" c="0" ts="2509050731" ts-tts="25-09-05 07:31:44.981" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="50046" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="5046" />
+    </ref>
+  </s>
+  <s id="8845262228362009105-2509050701-15" eva="8089017">
+    <ar ct="2509050743" l="7" />
+    <dp ct="2509050744" l="7" />
+  </s>
+  <s id="-7980479882689312860-2509050650-22" eva="8089017">
+    <ar ct="2509050751" l="5" />
+    <dp ct="2509050751" l="5" />
+  </s>
+</timetable>

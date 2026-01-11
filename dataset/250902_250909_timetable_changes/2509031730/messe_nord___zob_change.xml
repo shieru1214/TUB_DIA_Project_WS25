@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Messe Nord/ZOB (Witzleben)" eva="8089110">
+  <s id="7569054094282718346-2509031751-19" eva="8089110">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:54.859" pr="1" />
+    <ar ct="2509031832" l="41" />
+    <dp ct="2509031832" l="41" />
+  </s>
+  <s id="3565949444521820822-2509031741-19" eva="8089110">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:54.859" pr="1" />
+    <ar ct="2509031820" l="41" />
+    <dp ct="2509031820" l="41" />
+  </s>
+  <s id="8978566633539968098-2509031704-15" eva="8089110">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:54.859" pr="1" />
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz" ct="2509031736" l="41" />
+    <dp cpth="Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ct="2509031736" l="41" />
+  </s>
+  <s id="6788934868271003721-2509031711-19" eva="8089110">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:54.859" pr="1" />
+    <ar cpth="Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz" ct="2509031753" cs="p" clt="2509031707" l="41">
+      <m id="r23809492" t="f" c="0" ts="2509031723" ts-tts="25-09-03 17:23:43.185" />
+    </ar>
+    <dp cpth="Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ct="2509031750" cs="p" clt="2509031707" l="41">
+      <m id="r23809492" t="f" c="0" ts="2509031723" ts-tts="25-09-03 17:23:43.185" />
+    </dp>
+  </s>
+  <s id="6037137750331944083-2509031745-7" eva="8089110">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:54.860" pr="1" />
+    <ar ct="2509031800" l="42" />
+    <dp ct="2509031800" l="42" />
+  </s>
+  <s id="4335501651358262574-2509031641-22" eva="8089110">
+    <ar ct="2509031744" l="46" />
+    <dp ct="2509031745" l="46" />
+  </s>
+  <s id="3460806150745304951-2509031701-22" eva="8089110">
+    <ar ct="2509031758" l="46" />
+    <dp ct="2509031759" l="46" />
+  </s>
+  <s id="4223974535396028217-2509031744-15" eva="8089110">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:54.859" pr="1" />
+    <ar ct="2509031815" l="41" />
+    <dp ct="2509031815" l="41" />
+  </s>
+  <s id="3263875903703732297-2509031715-7" eva="8089110">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:54.860" pr="1" />
+    <ar ct="2509031730" l="42" />
+    <dp ct="2509031730" l="42" />
+  </s>
+  <s id="-1130218517468650480-2509031717-12" eva="8089110">
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz" ppth="Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz" pp="1" ct="2509031742" pt="2509031740" l="41" />
+    <dp cpth="Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ppth="Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" pp="1" ct="2509031743" pt="2509031740" l="41" />
+    <tl f="S" t="e" o="08" c="S" n="40166" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="41166" />
+    </ref>
+  </s>
+</timetable>

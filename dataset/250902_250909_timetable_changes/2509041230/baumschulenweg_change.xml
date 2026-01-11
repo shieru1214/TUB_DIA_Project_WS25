@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Baumschulenweg" eva="8089004">
+  <s id="8812720708587314180-2509041245-5" eva="8089004">
+    <ar ct="2509041255" l="8" />
+    <dp ct="2509041255" l="8" />
+  </s>
+  <s id="-1054693728299001776-2509041219-5" eva="8089004">
+    <ar ct="2509041230" l="85" />
+    <dp ct="2509041230" l="85" />
+  </s>
+  <s id="-1573537839449610924-2509041244-4" eva="8089004">
+    <ar ct="2509041251" l="47" />
+    <dp ct="2509041253" l="47" />
+  </s>
+  <s id="5301035540579287971-2509041208-9" eva="8089004">
+    <ar cpth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald" ppth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald" pp="3" ct="2509041233" pt="2509041227" l="9" />
+    <dp cpth="Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ppth="Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" pp="3" ct="2509041233" pt="2509041230" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90077" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9077" />
+    </ref>
+  </s>
+</timetable>

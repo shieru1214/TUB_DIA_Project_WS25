@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bornholmer Str." eva="8089008">
+  <s id="-8980370220052342425-2509040750-2" eva="8089008">
+    <ar ct="2509040753" l="8">
+      <m id="r23684811" t="f" c="0" ts="2509021601" ts-tts="25-09-02 16:01:33.177" />
+      <m id="r23751966" t="f" c="0" ts="2509030949" ts-tts="25-09-03 09:49:24.251" />
+    </ar>
+    <dp l="8">
+      <m id="r23684811" t="f" c="0" ts="2509021601" ts-tts="25-09-02 16:01:33.177" />
+      <m id="r23751966" t="f" c="0" ts="2509030949" ts-tts="25-09-03 09:49:24.251" />
+    </dp>
+  </s>
+  <s id="-8921921293442253093-2509040741-2" eva="8089008">
+    <ar ct="2509040743" l="8" />
+    <dp ct="2509040745" l="8" />
+  </s>
+  <s id="-8707214272483695022-2509040800-2" eva="8089008">
+    <ar ct="2509040802" l="85" />
+  </s>
+  <s id="-8123594914713961525-2509040711-13" eva="8089008">
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:26.560" pr="2" />
+    <ar cpth="Oranienburg (S)|Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße" ct="2509040745" l="1" />
+    <dp cpth="Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2509040745" l="1" />
+  </s>
+  <s id="7626689773335685290-2509040811-2" eva="8089008">
+    <ar ct="2509040816" cde="Berlin Frankfurter Allee" dc="1" l="85" />
+    <dp ct="2509040816" l="85" />
+  </s>
+  <s id="-7626756881048900359-2509040705-18" eva="8089008">
+    <ar ct="2509040743" l="25" />
+    <dp ct="2509040744" l="25" />
+  </s>
+  <s id="-7514861184418311880-2509040820-2" eva="8089008">
+    <ar ct="2509040824" l="85" />
+  </s>
+</timetable>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="3072346986630064258-2509072110-18" eva="8089045">
+    <ar ct="2509072219" l="5" />
+    <dp ct="2509072219" l="5" />
+  </s>
+  <s id="-2532918917427809230-2509072159-1" eva="8089045">
+    <dp ct="2509072200" l="3" />
+  </s>
+  <s id="-4676423176224402078-2509072117-19" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:02.815" pr="1" />
+    <ar ct="2509072159" l="9" />
+    <dp ct="2509072200" l="9" />
+  </s>
+  <s id="2747140997422875466-2509072127-19" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:02.816" pr="1" />
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)" ct="2509072210" l="3" />
+    <dp cpth="Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide" ct="2509072210" l="3" />
+  </s>
+</timetable>

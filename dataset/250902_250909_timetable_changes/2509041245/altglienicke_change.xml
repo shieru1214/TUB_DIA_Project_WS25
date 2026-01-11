@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Altglienicke" eva="8089054">
+  <s id="5301035540579287971-2509041208-13" eva="8089054">
+    <ar cpth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" ppth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" pp="1" ct="2509041245" pt="2509041242" cs="p" clt="2509041158" l="9">
+      <m id="r23903292" t="f" c="0" ts="2509041219" ts-tts="25-09-04 12:20:04.085" />
+    </ar>
+    <dp cpth="Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ppth="Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" pp="1" ct="2509041247" pt="2509041243" cs="p" clt="2509041158" l="9">
+      <m id="r23903292" t="f" c="0" ts="2509041219" ts-tts="25-09-04 12:20:04.085" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="90077" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9077" />
+    </ref>
+  </s>
+</timetable>

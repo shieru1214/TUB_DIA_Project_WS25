@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bundesplatz" eva="8089107">
+  <s id="-8819113931152956666-2509051001-12" eva="8089107">
+    <ar l="42">
+      <m id="r23900773" t="f" c="0" ts="2509041159" ts-tts="25-09-04 11:59:45.071" />
+    </ar>
+    <dp l="42">
+      <m id="r23900773" t="f" c="0" ts="2509041159" ts-tts="25-09-04 11:59:45.071" />
+    </dp>
+  </s>
+  <s id="5668190876533071758-2509050901-14" eva="8089107">
+    <ar l="41">
+      <m id="r23894748" t="f" c="0" ts="2509041100" ts-tts="25-09-04 11:00:21.337" />
+      <m id="r23894749" t="f" c="0" ts="2509041100" ts-tts="25-09-04 11:00:21.337" />
+      <m id="r23894750" t="f" c="0" ts="2509041100" ts-tts="25-09-04 11:00:21.337" />
+    </ar>
+    <dp l="41">
+      <m id="r23894748" t="f" c="0" ts="2509041100" ts-tts="25-09-04 11:00:21.337" />
+      <m id="r23894749" t="f" c="0" ts="2509041100" ts-tts="25-09-04 11:00:21.337" />
+      <m id="r23894750" t="f" c="0" ts="2509041100" ts-tts="25-09-04 11:00:21.337" />
+    </dp>
+  </s>
+  <s id="-3057792255553469410-2509041654-10" eva="8089107">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:29.448" pr="1" />
+    <ar ct="2509041715" l="41" />
+    <dp ct="2509041716" l="41" />
+  </s>
+  <s id="-3157649736762619495-2509041651-12" eva="8089107">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:29.449" pr="1" />
+    <ar ct="2509041715" dc="1" l="42" />
+    <dp ct="2509041716" l="42" />
+  </s>
+  <s id="8330725951038501919-2509041631-12" eva="8089107">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:29.449" pr="1" />
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz" ct="2509041700" dc="1" l="42" />
+    <dp cpth="Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" ct="2509041701" l="42" />
+  </s>
+</timetable>

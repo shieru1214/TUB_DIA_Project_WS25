@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Nikolassee" eva="8089078">
+  <s id="238650148999444393-2509050556-18" eva="8089078">
+    <ar ct="2509050642" l="7" />
+    <dp ct="2509050641" l="7" />
+  </s>
+  <s id="-9069514685844319235-2509050651-5" eva="8089078">
+    <ar cpth="" ct="2509050704" cs="c" clt="2509050614" l="7">
+      <m id="r24004257" t="d" c="36" ts="2509050614" ts-tts="25-09-05 06:14:13.802" />
+      <m id="r24004259" t="d" c="36" ts="2509050614" ts-tts="25-09-05 06:14:13.802" />
+      <m id="r24004261" t="d" c="36" ts="2509050614" ts-tts="25-09-05 06:14:13.802" />
+    </ar>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" ct="2509050705" cs="c" clt="2509050614" l="7">
+      <m id="r24004257" t="d" c="36" ts="2509050614" ts-tts="25-09-05 06:14:13.802" />
+      <m id="r24004259" t="d" c="36" ts="2509050614" ts-tts="25-09-05 06:14:13.802" />
+      <m id="r24004261" t="d" c="36" ts="2509050614" ts-tts="25-09-05 06:14:13.802" />
+    </dp>
+  </s>
+</timetable>

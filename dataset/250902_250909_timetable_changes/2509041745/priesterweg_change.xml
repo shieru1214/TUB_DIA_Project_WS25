@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Priesterweg" eva="8089034">
+  <s id="-1545017013876756841-2509041703-19" eva="8089034">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:32.950" pr="1" />
+    <ar cpth="Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)" ct="2509041748" cs="p" clt="2509041558" l="26" />
+    <dp cpth="Berlin Südende|Berlin-Lankwitz|Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" ct="2509041749" cs="p" clt="2509041558" l="26" />
+  </s>
+  <s id="2098691922786645285-2509041728-7" eva="8089034">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:32.949" pr="1" />
+    <ar ct="2509041745" l="2" />
+    <dp ct="2509041744" l="2" />
+  </s>
+  <s id="-7029401716802034501-2509041715-13" eva="8089034">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:32.950" pr="1" />
+    <ar ct="2509041743" l="2" />
+    <dp ct="2509041744" l="2" />
+  </s>
+</timetable>

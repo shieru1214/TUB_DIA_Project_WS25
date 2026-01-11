@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Charlottenburg" eva="8010403">
+  <s id="5840998983065524523-2509061727-11" eva="8010403">
+    <ar ct="2509061847" l="2" />
+  </s>
+  <s id="-689328588130788162-2509062244-8" eva="8010403">
+    <ar ct="2509062329" l="8" />
+    <dp ct="2509062329" l="8" />
+  </s>
+  <s id="-4274858682271669191-2509061755-12" eva="8010403">
+    <ar cpth="Frankfurt(Oder)|Frankfurt(Oder)-Rosengarten|Pillgram|Jacobsdorf(Mark)|Briesen(Mark)|Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten" ct="2509061915" l="1" />
+    <dp cpth="Berlin-Wannsee|Potsdam Hbf|Werder(Havel)|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Magdeburg-Neustadt|Magdeburg Hbf" ct="2509061916" l="1" />
+  </s>
+  <s id="-3664826778399093529-2509061812-12" eva="8010403">
+    <ar ct="2509061949" l="1" />
+    <dp ct="2509061950" l="1" />
+  </s>
+  <s id="4930255775559768785-2509061914-24" eva="8010403">
+    <ar ct="2509062122" l="7">
+      <m id="r24170791" t="q" c="95" ts="2509061254" ts-tts="25-09-06 12:55:13.557" />
+      <m id="r24170793" t="q" c="95" ts="2509061254" ts-tts="25-09-06 12:55:13.557" />
+    </ar>
+    <dp ct="2509062124" l="7">
+      <m id="r24170791" t="q" c="95" ts="2509061254" ts-tts="25-09-06 12:55:13.557" />
+      <m id="r24170793" t="q" c="95" ts="2509061254" ts-tts="25-09-06 12:55:13.557" />
+    </dp>
+  </s>
+</timetable>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde Ost" eva="8011041">
+  <s id="-4398534199326013641-2509070007-9" eva="8011041">
+    <m id="r2473869" t="h" from="2508170000" to="2512072359" cat="Information" ts="2508172308" ts-tts="25-09-06 23:16:02.985" pr="2" />
+    <ar cpth="Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)" ct="2509070059" l="8">
+      <m id="r24236774" t="d" c="21" ts="2509070030" ts-tts="25-09-07 00:30:40.088" />
+    </ar>
+    <dp cpth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" ct="2509070100" l="8">
+      <m id="r24236774" t="d" c="21" ts="2509070030" ts-tts="25-09-07 00:30:40.088" />
+    </dp>
+  </s>
+  <s id="1037108886086847422-2509062207-9" eva="8011041">
+    <m id="r2473869" t="h" from="2508170000" to="2512072359" cat="Information" ts="2508172308" ts-tts="25-09-05 23:16:03.430" pr="2" />
+    <ar cpth="Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)" ppth="Baruth(Mark)|Neuhof(b Zossen)|Wünsdorf-Waldstadt|Zossen|Dabendorf|Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)" pp="4" ct="2509070028" pt="2509062256" l="8">
+      <m id="r24236188" t="d" c="48" ts="2509070011" ts-tts="25-09-07 00:11:57.679" />
+    </ar>
+    <dp cpth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" pp="4" ct="2509070029" pt="2509062257" l="8">
+      <m id="r24236188" t="d" c="48" ts="2509070011" ts-tts="25-09-07 00:11:57.679" />
+    </dp>
+    <tl f="N" t="p" o="OWRE" c="RE" n="62087" />
+  </s>
+  <s id="4662689697193213288-2509071033-7" eva="8011041">
+    <ar l="3">
+      <m id="r24236735" t="q" c="74" ts="2509070029" ts-tts="25-09-07 00:29:23.283" />
+    </ar>
+    <dp l="3">
+      <m id="r24236735" t="q" c="74" ts="2509070029" ts-tts="25-09-07 00:29:23.283" />
+    </dp>
+  </s>
+  <s id="-7368990239716967650-2509070616-27" eva="8011041">
+    <ar l="3">
+      <m id="r24236711" t="q" c="73" ts="2509070029" ts-tts="25-09-07 00:29:07.912" />
+      <m id="r24236713" t="q" c="73" ts="2509070029" ts-tts="25-09-07 00:29:07.912" />
+    </ar>
+    <dp l="3">
+      <m id="r24236711" t="q" c="73" ts="2509070029" ts-tts="25-09-07 00:29:07.912" />
+      <m id="r24236713" t="q" c="73" ts="2509070029" ts-tts="25-09-07 00:29:07.912" />
+    </dp>
+  </s>
+</timetable>

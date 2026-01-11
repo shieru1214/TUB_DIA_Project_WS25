@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Innsbrucker Platz" eva="8089106">
+  <s id="2383348030314654349-2509060918-8" eva="8089106">
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz" ct="2509060931" l="46" />
+    <dp cpth="Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" ct="2509060931" l="46" />
+  </s>
+  <s id="5668190876533071758-2509060901-13" eva="8089106">
+    <ar ct="2509060928" l="41">
+      <m id="r24033064" t="f" c="0" ts="2509051059" ts-tts="25-09-05 10:59:59.812" />
+      <m id="r24033065" t="f" c="0" ts="2509051059" ts-tts="25-09-05 10:59:59.812" />
+    </ar>
+    <dp ct="2509060929" l="41">
+      <m id="r24033064" t="f" c="0" ts="2509051059" ts-tts="25-09-05 10:59:59.812" />
+      <m id="r24033065" t="f" c="0" ts="2509051059" ts-tts="25-09-05 10:59:59.812" />
+    </dp>
+  </s>
+</timetable>

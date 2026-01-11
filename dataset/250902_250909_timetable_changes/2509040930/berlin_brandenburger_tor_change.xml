@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Brandenburger Tor" eva="8089044">
+  <s id="310757650923866528-2509040945-8" eva="8089044">
+    <ar ct="2509040959" l="2" />
+    <dp ct="2509041000" l="2" />
+  </s>
+  <s id="4931349823537274416-2509040945-12" eva="8089044">
+    <ar ct="2509041010" l="25" />
+    <dp ct="2509041011" l="25" />
+  </s>
+  <s id="7931043844629669317-2509040915-8" eva="8089044">
+    <ar ct="2509040930" l="2" />
+    <dp ct="2509040930" l="2" />
+  </s>
+  <s id="-4372902990706972824-2509040854-17" eva="8089044">
+    <m id="r2486148" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040802" ts-tts="25-09-04 08:03:06.550" pr="2" />
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:29.833" pr="2" />
+    <ar cpth="Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)" ct="2509040928" l="1" />
+    <dp cpth="Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" ct="2509040929" l="1" />
+  </s>
+  <s id="-8145754445168957056-2509040944-17" eva="8089044">
+    <m id="r2486148" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040802" ts-tts="25-09-04 08:03:06.550" pr="2" />
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:29.834" pr="2" />
+    <ar ct="2509041018" l="1" />
+    <dp ct="2509041018" l="1" />
+  </s>
+  <s id="-8728395287863435816-2509040855-14" eva="8089044">
+    <m id="r2486148" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040802" ts-tts="25-09-04 08:03:06.550" pr="2" />
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:29.834" pr="2" />
+    <ar ct="2509040928" l="1" />
+    <dp ct="2509040929" l="1" />
+  </s>
+</timetable>

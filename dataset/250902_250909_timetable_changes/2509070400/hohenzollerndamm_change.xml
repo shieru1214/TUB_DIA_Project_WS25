@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hohenzollerndamm" eva="8089108">
+  <s id="-6838773746389598412-2509070316-16" eva="8089108">
+    <ar ct="2509070359" l="41" />
+    <dp ct="2509070359" l="41" />
+  </s>
+  <s id="-6162714514839030290-2509070331-16" eva="8089108">
+    <ar cpth="Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park" ct="2509070420" cs="c" clt="2509070359" l="41" />
+    <dp cpth="" ct="2509070420" cs="c" clt="2509070359" l="41" />
+  </s>
+  <s id="-7615481607663355225-2509070332-10" eva="8089108">
+    <ar ct="2509070358" l="42" />
+    <dp ct="2509070359" l="42" />
+  </s>
+</timetable>

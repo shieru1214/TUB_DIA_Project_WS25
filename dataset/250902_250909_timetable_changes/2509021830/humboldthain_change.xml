@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Humboldthain" eva="8089018">
+  <s id="6401697887296655433-2509021845-4" eva="8089018">
+    <ar ct="2509021851" l="2" />
+    <dp ct="2509021851" l="2" />
+  </s>
+  <s id="-8108259286081711061-2509021744-21" eva="8089018">
+    <ar ct="2509021830" l="1" />
+    <dp ct="2509021830" l="1" />
+  </s>
+  <s id="-1527065607302450233-2509021845-16" eva="8089018">
+    <ar ct="2509021919" l="25" />
+    <dp ct="2509021919" l="25" />
+  </s>
+  <s id="-5194784368097239710-2509021803-11" eva="8089018">
+    <ar ppth="Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)" pp="1" ct="2509021829" pt="2509021829" l="1" />
+    <dp ppth="Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" pp="1" ct="2509021829" pt="2509021829" l="1" />
+    <tl f="S" t="e" o="08" c="S" n="10133" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="1133" />
+    </ref>
+  </s>
+  <s id="5656717281782730013-2509021844-21" eva="8089018">
+    <ar ct="2509021926" l="1" />
+    <dp ct="2509021927" l="1" />
+  </s>
+</timetable>

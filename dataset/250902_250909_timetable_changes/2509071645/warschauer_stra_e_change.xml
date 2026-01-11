@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="41681319160748751-2509071557-19" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.181" pr="1" />
+    <ar ct="2509071648" l="9" />
+    <dp ct="2509071648" l="9" />
+  </s>
+  <s id="7481915220395144033-2509071636-4" eva="8089045">
+    <ar ct="2509071644" l="7" />
+    <dp ct="2509071645" l="7" />
+  </s>
+  <s id="4182431020439555863-2509071615-12" eva="8089045">
+    <ar ct="2509071645" l="3" />
+  </s>
+  <s id="86623699079519081-2509071601-15" eva="8089045">
+    <ar cpth="Berlin Olympiastadion|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)" ct="2509071646" l="5" />
+    <dp cpth="Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" ct="2509071646" l="5" />
+  </s>
+  <s id="2805446625888826205-2509071541-19" eva="8089045">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 16:16:04.389" pr="1" />
+    <ar ct="2509071643" l="7" />
+    <dp ct="2509071644" l="7" />
+  </s>
+  <s id="-8059296424282828523-2509071659-1" eva="8089045">
+    <dp ct="2509071659" l="3" />
+  </s>
+  <s id="2883433382400743802-2509071609-12" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.181" pr="1" />
+    <ar ct="2509071647" l="9" />
+    <dp ct="2509071647" l="9" />
+  </s>
+  <s id="-2833476662617090683-2509071607-19" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.182" pr="1" />
+    <ar ct="2509071652" l="3" />
+    <dp ct="2509071652" l="3" />
+  </s>
+</timetable>

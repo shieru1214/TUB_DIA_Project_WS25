@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Betriebsbf Rummelsburg" eva="8089006">
+  <s id="-6884518584481055591-2509041330-4" eva="8089006">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.257" pr="1" />
+    <ar cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)" ct="2509041339" l="3" />
+    <dp cpth="Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2509041339" l="3" />
+  </s>
+  <s id="-4937522965235914695-2509041258-9" eva="8089006">
+    <ar ppth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg" pp="2" ct="2509041315" pt="2509041315" l="3" />
+    <dp ppth="Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick|Berlin-Friedrichshagen|Berlin-Rahnsdorf|Berlin-Wilhelmshagen|Erkner (S)" pp="2" ct="2509041315" pt="2509041315" l="3" />
+    <tl f="S" t="e" o="08" c="S" n="30099" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="3099" />
+    </ref>
+  </s>
+</timetable>

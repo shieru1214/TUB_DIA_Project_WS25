@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Kaulsdorf" eva="8089068">
+  <s id="7088093928019020480-2509081427-9" eva="8089068">
+    <m id="r2488251" t="h" from="2509081300" to="2509081530" cat="Störung" ts="2509081349" ts-tts="25-09-08 14:16:05.141" pr="2" />
+    <ar ct="2509081447" l="5" />
+  </s>
+  <s id="8666738498658689881-2509081510-11" eva="8089068">
+    <m id="r2488251" t="h" from="2509081300" to="2509081530" cat="Störung" ts="2509081349" ts-tts="25-09-08 14:16:05.140" pr="2" />
+    <ar ct="2509081550" l="5" />
+    <dp ct="2509081550" l="5" />
+  </s>
+  <s id="-3708238111003228908-2509081445-4" eva="8089068">
+    <m id="r2488251" t="h" from="2509081300" to="2509081530" cat="Störung" ts="2509081349" ts-tts="25-09-08 14:16:05.140" pr="2" />
+    <ar ct="2509081453" l="5" />
+    <dp ct="2509081454" l="5" />
+  </s>
+  <s id="-1462857066847275241-2509081341-22" eva="8089068">
+    <m id="r2488251" t="h" from="2509081300" to="2509081530" cat="Störung" ts="2509081349" ts-tts="25-09-08 14:16:05.140" pr="2" />
+    <ar ct="2509081443" l="5" />
+    <dp ct="2509081443" l="5" />
+  </s>
+  <s id="5769881973439113234-2509081351-22" eva="8089068">
+    <m id="r2488251" t="h" from="2509081300" to="2509081530" cat="Störung" ts="2509081349" ts-tts="25-09-08 14:16:05.140" pr="2" />
+    <ar cpth="Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal" ct="2509081444" l="5" />
+    <dp cpth="Berlin-Mahlsdorf (S)|Birkenstein|Hoppegarten(Mark)" ct="2509081444" l="5" />
+  </s>
+</timetable>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hermannstraße" eva="8089105">
+  <s id="528012096107723141-2509082009-7" eva="8089105">
+    <ar ct="2509082032" l="47" />
+  </s>
+  <s id="-4789882024647388783-2509082003-14" eva="8089105">
+    <ar ct="2509082056" dc="1" l="42" />
+    <dp ct="2509082057" l="42" />
+  </s>
+  <s id="8760474568377269190-2509082013-15" eva="8089105">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:29.557" pr="2" />
+    <ar ct="2509082058" dc="1" l="41" />
+    <dp ct="2509082059" l="41" />
+  </s>
+  <s id="3647391331110447452-2509081958-15" eva="8089105">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:29.557" pr="2" />
+    <ar ct="2509082031" dc="1" l="41" />
+    <dp ct="2509082032" l="41" />
+  </s>
+  <s id="-2402152309790619188-2509082023-15" eva="8089105">
+    <ar ct="2509082058" dc="1" l="41" />
+    <dp ct="2509082059" l="41" />
+  </s>
+  <s id="-3331720145990329514-2509082044-1" eva="8089105">
+    <dp ct="2509082044" l="47" />
+  </s>
+  <s id="116025168374903034-2509081949-7" eva="8089105">
+    <ar cp="2" ct="2509082030" l="47" />
+  </s>
+  <s id="-7567588656670136343-2509081948-15" eva="8089105">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:29.557" pr="2" />
+    <ar cpth="Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)|Berlin Schönhauser Allee|Berlin Prenzlauer Allee|Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln" ct="2509082031" cs="p" clt="2509081930" dc="1" l="41" />
+    <dp cpth="Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße" ct="2509082031" cs="p" clt="2509081930" l="41" />
+  </s>
+</timetable>

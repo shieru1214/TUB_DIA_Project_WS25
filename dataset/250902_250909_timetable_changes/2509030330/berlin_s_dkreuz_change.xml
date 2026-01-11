@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Südkreuz" eva="8011113">
+  <s id="1017582578470993001-2509030422-3" eva="8011113">
+    <ar cpth="Berlin Gesundbrunnen|Berlin Hbf" ct="2509030435">
+      <m id="r23703699" t="f" c="0" ts="2509022157" ts-tts="25-09-02 21:57:22.597" />
+      <m id="r23709548" t="f" c="0" ts="2509022234" ts-tts="25-09-02 22:34:26.552" />
+      <m id="r23709549" t="f" c="0" ts="2509022234" ts-tts="25-09-02 22:34:26.552" />
+    </ar>
+    <dp cpth="Lutherstadt Wittenberg Hbf|Leipzig Hbf|Erfurt Hbf|Würzburg Hbf|Nürnberg Hbf|München Hbf" ct="2509030437">
+      <m id="r23703699" t="f" c="0" ts="2509022157" ts-tts="25-09-02 21:57:22.597" />
+      <m id="r23709548" t="f" c="0" ts="2509022234" ts-tts="25-09-02 22:34:26.552" />
+      <m id="r23709549" t="f" c="0" ts="2509022234" ts-tts="25-09-02 22:34:26.552" />
+    </dp>
+  </s>
+  <s id="-7316281068568158264-2509030422-3" eva="8011113">
+    <ar ppth="Berlin Gesundbrunnen|Berlin Hbf" pp="4" ct="2509030435" pt="2509030435">
+      <m id="r23703770" t="f" c="0" ts="2509022200" ts-tts="25-09-02 22:00:43.897" />
+      <m id="r23709447" t="f" c="0" ts="2509022234" ts-tts="25-09-02 22:34:26.552" />
+      <m id="r23709448" t="f" c="0" ts="2509022234" ts-tts="25-09-02 22:34:26.552" />
+    </ar>
+    <dp ppth="Lutherstadt Wittenberg Hbf|Leipzig Hbf|Erfurt Hbf|Würzburg Hbf|Nürnberg Hbf|München Hbf" pp="4" ct="2509030437" pt="2509030437">
+      <m id="r23703770" t="f" c="0" ts="2509022200" ts-tts="25-09-02 22:00:43.897" />
+      <m id="r23709447" t="f" c="0" ts="2509022234" ts-tts="25-09-02 22:34:26.552" />
+      <m id="r23709448" t="f" c="0" ts="2509022234" ts-tts="25-09-02 22:34:26.552" />
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2901" />
+  </s>
+</timetable>

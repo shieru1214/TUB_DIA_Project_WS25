@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Frankfurter Allee" eva="8089013">
+  <s id="2106461845293540378-2509042215-1" eva="8089013">
+    <dp cpth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" cs="c" clt="2509041530" l="8" />
+  </s>
+  <s id="5649290765126931319-2509042149-9" eva="8089013">
+    <ar cpth="Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park" cs="c" clt="2509041530" l="8" />
+  </s>
+  <s id="8976015365908880613-2509041545-1" eva="8089013">
+    <dp ct="2509041545" l="8" />
+  </s>
+  <s id="-2991043446257348433-2509041441-22" eva="8089013">
+    <ar ct="2509041530" l="42" />
+    <dp ct="2509041533" l="42" />
+  </s>
+  <s id="-657067120154828351-2509041521-4" eva="8089013">
+    <ar ct="2509041528" l="41" />
+    <dp ct="2509041529" l="41" />
+  </s>
+</timetable>

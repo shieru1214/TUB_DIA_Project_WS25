@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jannowitzbrücke" eva="8089019">
+  <s id="8092602129267375114-2509041238-4" eva="8089019">
+    <ar ppth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" pp="3" ct="2509041244" pt="2509041244" l="3" />
+    <dp ppth="Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick|Berlin-Friedrichshagen|Berlin-Rahnsdorf|Berlin-Wilhelmshagen|Erkner (S)" pp="3" ct="2509041245" pt="2509041244" l="3" />
+    <tl f="S" t="e" o="08" c="S" n="30097" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="3097" />
+    </ref>
+  </s>
+  <s id="8029852172210133810-2509041231-13" eva="8089019">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.390" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.278" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:10.734" pr="1" />
+    <m id="r2486202" t="h" from="2509040930" to="2509041500" cat="Störung" ts="2509041000" ts-tts="25-09-04 10:00:17.676" pr="2" />
+    <ar ct="2509041258" l="7" />
+    <dp ct="2509041259" l="7" />
+  </s>
+  <s id="-4937522965235914695-2509041258-4" eva="8089019">
+    <ar ppth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" pp="3" ct="2509041304" pt="2509041304" l="3" />
+    <dp ppth="Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick|Berlin-Friedrichshagen|Berlin-Rahnsdorf|Berlin-Wilhelmshagen|Erkner (S)" pp="3" ct="2509041304" pt="2509041304" l="3" />
+    <tl f="S" t="e" o="08" c="S" n="30099" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="3099" />
+    </ref>
+  </s>
+</timetable>

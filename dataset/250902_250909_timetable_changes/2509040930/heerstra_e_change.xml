@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Heerstraße" eva="8089329">
+  <s id="4556182739646747953-2509040927-5" eva="8089329">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion" ct="2509040939" l="3" />
+    <dp cpth="Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)" ct="2509040939" l="3" />
+  </s>
+  <s id="-4387326181838854916-2509040827-25" eva="8089329">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <ar ct="2509040929" l="3" />
+    <dp ct="2509040930" l="3" />
+  </s>
+  <s id="-5458898349331550529-2509040917-5" eva="8089329">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <ar ct="2509040928" l="9" />
+    <dp ct="2509040929" l="9" />
+  </s>
+</timetable>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Friedrichsfelde Ost" eva="8089059">
+  <s id="-4506050784121317392-2509080907-5" eva="8089059">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 23:16:04.792" pr="1" />
+    <ar ct="2509080915" l="75" />
+    <dp ct="2509080916" l="75" />
+  </s>
+  <s id="-6028579287227631708-2509080930-14" eva="8089059">
+    <ar ct="2509081011" l="5" />
+    <dp ct="2509081011" l="5" />
+  </s>
+  <s id="2622308821274013487-2509080901-7" eva="8089059">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 23:16:04.792" pr="1" />
+    <ar ct="2509080914" l="7" />
+    <dp ct="2509080914" l="7" />
+  </s>
+  <s id="214036710104575173-2509080831-19" eva="8089059">
+    <ar cpth="Berlin Olympiastadion|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" ct="2509080913" l="5" />
+    <dp cpth="Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)" ct="2509080914" l="5" />
+  </s>
+</timetable>

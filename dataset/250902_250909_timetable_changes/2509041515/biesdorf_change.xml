@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Biesdorf" eva="8089055">
+  <s id="842729966120304805-2509041604-4" eva="8089055">
+    <ar ct="2509041611" l="5" />
+  </s>
+  <s id="4353345139945320035-2509041531-11" eva="8089055">
+    <ar ct="2509041555" l="5" />
+    <dp ct="2509041555" l="5" />
+  </s>
+  <s id="5785789445732158238-2509041410-13" eva="8089055">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.257" pr="1" />
+    <ar cpth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal" ct="2509041448" l="5" />
+    <dp cpth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" ct="2509041449" l="5" />
+  </s>
+  <s id="9079170669070697263-2509041530-13" eva="8089055">
+    <ar ct="2509041608" l="5" />
+    <dp ct="2509041608" l="5" />
+  </s>
+  <s id="6808094986291499598-2509041511-11" eva="8089055">
+    <ar ct="2509041534" l="5" />
+    <dp ct="2509041534" l="5" />
+  </s>
+  <s id="-5934555742163664719-2509041544-4" eva="8089055">
+    <ar ct="2509041550" l="5" />
+    <dp ct="2509041551" l="5" />
+  </s>
+</timetable>

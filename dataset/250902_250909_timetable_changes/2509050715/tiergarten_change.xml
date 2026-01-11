@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tiergarten" eva="8089091">
+  <s id="3419072004785619222-2509052357-11" eva="8089091">
+    <ar cpth="" cs="c" clt="2509041818" l="9">
+      <m id="r23994565" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.617" />
+      <m id="r23994567" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.617" />
+    </ar>
+    <dp cpth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" cs="c" clt="2509041818" l="9">
+      <m id="r23994565" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.617" />
+      <m id="r23994567" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.617" />
+    </dp>
+  </s>
+  <s id="8771322217712001464-2509050730-15" eva="8089091">
+    <ar ct="2509050806" l="3" />
+    <dp ct="2509050806" l="3" />
+  </s>
+  <s id="-5536277158924325492-2509050627-19" eva="8089091">
+    <ar ct="2509050716" l="3" />
+    <dp ct="2509050716" l="3" />
+  </s>
+  <s id="-1556942503135678581-2509050641-11" eva="8089091">
+    <ar ct="2509050714" l="7" />
+    <dp ct="2509050715" l="7" />
+  </s>
+  <s id="8845262228362009105-2509050701-11" eva="8089091">
+    <ar ct="2509050734" l="7" />
+    <dp ct="2509050735" l="7" />
+  </s>
+  <s id="1397698907182047501-2509050730-26" eva="8089091">
+    <ar ct="2509050838" l="5" />
+    <dp ct="2509050839" l="5" />
+  </s>
+  <s id="1323719639919393713-2509050729-20" eva="8089091">
+    <ar ct="2509050823" l="9" />
+    <dp ct="2509050824" l="9" />
+  </s>
+</timetable>

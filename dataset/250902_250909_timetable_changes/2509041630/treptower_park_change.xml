@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Treptower Park" eva="8089043">
+  <s id="6576022645946072817-2509041655-20" eva="8089043">
+    <ar cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee" l="42" />
+    <dp cpth="Berlin Ostkreuz (S)" l="42" />
+  </s>
+  <s id="8754252874419393638-2509042349-11" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald" l="9" />
+    <dp cpth="" cs="c" clt="2509041630" l="9" />
+  </s>
+  <s id="6605719588373573440-2509041625-3" eva="8089043">
+    <ar ct="2509041629" l="8" />
+    <dp ct="2509041630" l="8" />
+  </s>
+  <s id="494555846565758058-2509041645-20" eva="8089043">
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee" ct="2509041728" l="42" />
+    <dp cpth="Berlin Ostkreuz (S)" ct="2509041730" l="42" />
+  </s>
+  <s id="3360893944022444050-2509042337-20" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <ar cpth="" cs="c" clt="2509041630" l="9" />
+    <dp cpth="Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" cp="4" l="9" />
+  </s>
+  <s id="-3502234289036778262-2509041557-20" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.785" pr="1" />
+    <ar ct="2509041643" l="9" />
+    <dp ct="2509041643" l="9" />
+  </s>
+  <s id="-7925159838019797805-2509042329-11" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald" l="9" />
+    <dp cpth="" cs="c" clt="2509041630" l="9" />
+  </s>
+  <s id="-2507195854251941433-2509041645-3" eva="8089043">
+    <ar ct="2509041649" l="8" />
+    <dp ct="2509041650" l="8" />
+  </s>
+  <s id="-8927383541084970752-2509042317-20" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <ar cpth="" cp="4" cs="c" clt="2509041629" l="9" />
+    <dp cpth="Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" cp="4" l="9" />
+  </s>
+  <s id="4862017594441901856-2509041644-2" eva="8089043">
+    <ar ct="2509041646" l="41" />
+    <dp ct="2509041647" l="41" />
+  </s>
+  <s id="6573732649710011252-2509042309-11" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald" l="9" />
+    <dp cpth="" cs="c" clt="2509041629" l="9" />
+  </s>
+  <s id="-227463373182075391-2509042257-20" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <ar cpth="" cs="c" clt="2509041629" l="9" />
+    <dp cpth="Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" cp="4" l="9" />
+  </s>
+  <s id="5651852307817564121-2509041537-20" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.785" pr="1" />
+    <ar ct="2509041631" l="9" />
+    <dp ct="2509041632" l="9" />
+  </s>
+</timetable>

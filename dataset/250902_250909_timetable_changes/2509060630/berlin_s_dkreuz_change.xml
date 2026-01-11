@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Südkreuz" eva="8011113">
+  <s id="8049328993498305601-2509060619-3" eva="8011113">
+    <ar ppth="Berlin Gesundbrunnen|Berlin Hbf" pp="3" ct="2509060731" pt="2509060633" hi="1">
+      <m id="r24132857" t="d" c="47" ts="2509060521" ts-tts="25-09-06 05:21:11.359" />
+      <m id="r24132859" t="d" c="47" ts="2509060521" ts-tts="25-09-06 05:21:11.359" />
+      <m id="r24135796" t="f" c="0" ts="2509060630" ts-tts="25-09-06 06:30:55.029" />
+    </ar>
+    <dp ppth="Lutherstadt Wittenberg Hbf|Leipzig Hbf|Erfurt Hbf|Würzburg Hbf|Nürnberg Hbf|München Hbf" pp="3" ct="2509060733" pt="2509060635">
+      <m id="r24132857" t="d" c="47" ts="2509060521" ts-tts="25-09-06 05:21:11.359" />
+      <m id="r24132859" t="d" c="47" ts="2509060521" ts-tts="25-09-06 05:21:11.359" />
+      <m id="r24135796" t="f" c="0" ts="2509060630" ts-tts="25-09-06 06:30:55.029" />
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="503" />
+  </s>
+  <s id="712763676223655180-2509060549-5" eva="8011113">
+    <ar ct="2509061031" />
+  </s>
+  <s id="2893431466261682474-2509060530-5" eva="8011113">
+    <ar ct="2509060733" />
+    <dp ct="2509060734" />
+  </s>
+  <s id="1002717078006700774-2509060624-3" eva="8011113">
+    <ar ct="2509060733" l="17" />
+    <dp ct="2509060734" l="17" />
+  </s>
+  <s id="7108274583246193747-2509052151-16" eva="8011113">
+    <ar cpth="München Hbf|Augsburg Hbf|Günzburg|Ulm Hbf|Stuttgart Hbf|Heidelberg Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Eisenach Hbf|Gotha|Erfurt Hbf|Halle(Saale)Hbf|Bitterfeld" ppth="München Hbf|Augsburg Hbf|Günzburg|Ulm Hbf|Stuttgart Hbf|Heidelberg Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Eisenach Hbf|Gotha|Erfurt Hbf|Weimar|Naumburg(Saale)Hbf|Halle(Saale)Hbf|Bitterfeld" pp="6" ct="2509060832" pt="2509060747">
+      <m id="r24130879" t="d" c="31" ts="2509060351" ts-tts="25-09-06 03:51:54.937" />
+      <m id="r24130881" t="d" c="31" ts="2509060351" ts-tts="25-09-06 03:51:54.937" />
+      <m id="r24131141" t="f" c="0" ts="2509060407" ts-tts="25-09-06 04:07:26.580" />
+      <m id="r24131796" t="f" c="0" ts="2509060441" ts-tts="25-09-06 04:41:05.292" />
+      <m id="r24131831" t="f" c="0" ts="2509060441" ts-tts="25-09-06 04:41:20.592" />
+      <m id="r24135536" t="f" c="0" ts="2509060623" ts-tts="25-09-06 06:23:43.371" />
+      <m id="r24135550" t="f" c="0" ts="2509060623" ts-tts="25-09-06 06:23:58.749" />
+    </ar>
+    <dp cpth="Berlin Hbf" ppth="Berlin Hbf" pp="6" ct="2509060834" pt="2509060749" hi="1">
+      <m id="r24130879" t="d" c="31" ts="2509060351" ts-tts="25-09-06 03:51:54.937" />
+      <m id="r24130881" t="d" c="31" ts="2509060351" ts-tts="25-09-06 03:51:54.937" />
+      <m id="r24131141" t="f" c="0" ts="2509060407" ts-tts="25-09-06 04:07:26.580" />
+      <m id="r24131796" t="f" c="0" ts="2509060441" ts-tts="25-09-06 04:41:05.292" />
+      <m id="r24131831" t="f" c="0" ts="2509060441" ts-tts="25-09-06 04:41:20.592" />
+      <m id="r24135536" t="f" c="0" ts="2509060623" ts-tts="25-09-06 06:23:43.371" />
+      <m id="r24135550" t="f" c="0" ts="2509060623" ts-tts="25-09-06 06:23:58.749" />
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="698" />
+  </s>
+  <s id="2404255927724191146-2509060700-3" eva="8011113">
+    <ar ct="2509060849" />
+    <dp ct="2509060857" />
+  </s>
+  <s id="1235622964461153188-2509060629-1" eva="8011113">
+    <m id="r2397244" t="h" from="2504021351" to="2509302359" cat="Information" ts="2504021355" ts-tts="25-09-05 23:16:03.503" pr="2" />
+    <m id="r2484847" t="h" from="2509011500" to="2509192359" cat="Information" ts="2509011714" ts-tts="25-09-05 23:16:03.745" pr="2" />
+    <dp ct="2509060629" />
+  </s>
+  <s id="7868177835348917359-2509060607-10" eva="8011113">
+    <m id="r2473869" t="h" from="2508170000" to="2512072359" cat="Information" ts="2508172308" ts-tts="25-09-05 23:16:03.521" pr="2" />
+    <ar ct="2509060702" l="8" />
+    <dp ct="2509060704" l="8" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:48.013" />
+</timetable>

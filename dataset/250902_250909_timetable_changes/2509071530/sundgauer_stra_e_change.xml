@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Sundgauer Str" eva="8089042">
+  <s id="5860084044197407670-2509071438-25" eva="8089042">
+    <m id="r2487795" t="h" from="2509071430" to="2509071700" cat="Störung" ts="2509071525" ts-tts="25-09-07 15:25:55.851" pr="1" />
+    <m id="r2487622" t="h" from="2509070954" to="2509071530" cat="Störung" ts="2509070955" ts-tts="25-09-07 09:55:51.110" pr="2" />
+    <ar cpth="Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West" ct="2509071535" cs="p" clt="2509071517" l="1">
+      <m id="r24283153" t="d" c="2" ts="2509071529" ts-tts="25-09-07 15:29:05.840" />
+      <m id="r24283155" t="d" c="2" ts="2509071529" ts-tts="25-09-07 15:29:05.840" />
+    </ar>
+    <dp cpth="Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2509071535" cs="p" clt="2509071517" l="1">
+      <m id="r24283153" t="d" c="2" ts="2509071529" ts-tts="25-09-07 15:29:05.840" />
+      <m id="r24283155" t="d" c="2" ts="2509071529" ts-tts="25-09-07 15:29:05.840" />
+    </dp>
+  </s>
+  <s id="506556623345286805-2509071614-6" eva="8089042">
+    <m id="r2487795" t="h" from="2509071430" to="2509071700" cat="Störung" ts="2509071525" ts-tts="25-09-07 15:25:55.851" pr="1" />
+    <ar cpth="" cs="c" clt="2509071529" l="1" />
+    <dp cpth="Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" cs="c" clt="2509071529" l="1" />
+  </s>
+  <s id="2014247285822662480-2509071544-6" eva="8089042">
+    <m id="r2487795" t="h" from="2509071430" to="2509071700" cat="Störung" ts="2509071525" ts-tts="25-09-07 15:25:55.851" pr="1" />
+    <ar ct="2509071555" l="1" />
+    <dp ct="2509071555" l="1" />
+  </s>
+</timetable>

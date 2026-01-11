@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Nordbahnhof" eva="8089024">
+  <s id="-377270736863598262-2509032234-20" eva="8089024">
+    <ar ct="2509032314" l="1" />
+    <dp ct="2509032315" l="1" />
+  </s>
+  <s id="7671196735236098106-2509032305-5" eva="8089024">
+    <ar ct="2509032314" l="2" />
+    <dp ct="2509032314" l="2" />
+  </s>
+  <s id="3703891278672929774-2509032248-15" eva="8089024">
+    <ar ct="2509032322" l="2" />
+    <dp ct="2509032322" l="2" />
+  </s>
+  <s id="4172867114873011384-2509032328-13" eva="8089024">
+    <ar cpth="Berlin-Heiligensee|Berlin-Schulzendorf|Berlin-Tegel (S)|Berlin Eichborndamm|Berlin Karl-Bonhoeffer-Nervenklinik|Berlin Alt-Reinickendorf|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain" ct="2509032359" l="25" />
+    <dp cpth="Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende|Berlin-Lankwitz|Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" ct="2509032359" l="25" />
+  </s>
+  <s id="-7642226693790581127-2509032328-15" eva="8089024">
+    <ar ct="2509040001" l="2" />
+    <dp ct="2509040002" l="2" />
+  </s>
+</timetable>

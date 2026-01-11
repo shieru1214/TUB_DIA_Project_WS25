@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Schöneberg" eva="8089474">
+  <s id="-3702026368901009262-2509082216-9" eva="8089474">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.094" pr="2" />
+    <ar ct="2509082230" l="46" />
+    <dp ct="2509082231" l="46" />
+  </s>
+  <s id="8762807470162100001-2509082208-11" eva="8089474">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:29.557" pr="2" />
+    <ar ct="2509082228" l="42" />
+    <dp ct="2509082229" cde="Berlin Greifswalder Str" dc="1" l="42" />
+  </s>
+</timetable>

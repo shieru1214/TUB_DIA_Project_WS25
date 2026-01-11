@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Buch" eva="8089057">
+  <s id="7565508321269040098-2509080743-1" eva="8089057">
+    <m id="r2488011" t="h" from="2509080700" to="2509081230" cat="Störung" ts="2509080717" ts-tts="25-09-08 07:17:52.082" pr="2" />
+    <dp ct="2509080744" l="2" />
+  </s>
+  <s id="-3014393469439562501-2509080743-1" eva="8089057">
+    <dp ppth="Röntgental|Zepernick(Bernau)|Bernau-Friedenstal|Bernau (S)" pp="1" ct="2509080744" pt="2509080743" l="2" />
+    <tl f="S" t="e" o="08" c="S" n="20030" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="2030" />
+    </ref>
+  </s>
+</timetable>

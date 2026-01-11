@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wannsee" eva="8010405">
+  <s id="7251022928272275067-2509052206-15" eva="8010405">
+    <m id="r2486933" t="h" from="2509052300" to="2509060430" cat="Störung" ts="2509051553" ts-tts="25-09-05 15:53:50.621" pr="1" />
+    <ar cpth="Magdeburg Hbf|Magdeburg-Neustadt|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)" ct="2509052345" cs="c" clt="2509051534" l="1">
+      <m id="r24068625" t="d" c="31" ts="2509051534" ts-tts="25-09-05 15:35:01.527" />
+      <m id="r24119391" t="d" c="48" ts="2509052231" ts-tts="25-09-05 22:31:28.687" />
+    </ar>
+    <dp cpth="Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)|Kraftwerk Finkenheerd|Finkenheerd|Wiesenau|Ziltendorf|Eisenhüttenstadt" ct="2509052346" cs="c" clt="2509051534" l="1">
+      <m id="r24068625" t="d" c="31" ts="2509051534" ts-tts="25-09-05 15:35:01.527" />
+      <m id="r24119391" t="d" c="48" ts="2509052231" ts-tts="25-09-05 22:31:28.687" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:45.514" />
+</timetable>

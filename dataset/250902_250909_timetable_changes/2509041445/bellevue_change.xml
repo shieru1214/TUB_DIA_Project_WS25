@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bellevue" eva="8089005">
+  <s id="-1566428683862554339-2509041432-5" eva="8089005">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.940" pr="1" />
+    <ar ct="2509041452" l="3" />
+    <dp ct="2509041453" l="3" />
+  </s>
+  <s id="6432758865687917091-2509041425-18" eva="8089005">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.939" pr="1" />
+    <ar cpth="" ct="2509041522" cs="c" clt="2509041405" l="5" />
+    <dp cpth="" ct="2509041523" cs="c" clt="2509041405" l="5" />
+  </s>
+  <s id="-707446616539756991-2509041410-14" eva="8089005">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.940" pr="1" />
+    <ar cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)" ct="2509041444" cs="p" clt="2509041347" l="3" />
+    <dp cpth="Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" ct="2509041445" cs="p" clt="2509041347" l="3" />
+  </s>
+  <s id="3945460277344418655-2509041525-18" eva="8089005">
+    <ar ct="2509041613" l="5" />
+    <dp ct="2509041613" l="5" />
+  </s>
+  <s id="-1360395510125128421-2509041417-6" eva="8089005">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.940" pr="1" />
+    <ar cpth="" ct="2509041454" cs="c" clt="2509041434" l="5" />
+    <dp cpth="" ct="2509041454" cs="c" clt="2509041434" l="5" />
+  </s>
+</timetable>

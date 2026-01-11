@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hbf" eva="8011160">
+  <s id="6379176454808455117-2509060459-7" eva="8011160">
+    <ar ct="2509060531" l="8" />
+    <dp ct="2509060532" l="8" />
+  </s>
+  <s id="959474257007241311-2509060024-15" eva="8011160">
+    <m id="r2486933" t="h" from="2509052300" to="2509060430" cat="Störung" ts="2509051553" ts-tts="25-09-05 23:16:03.651" pr="1" />
+    <ar cpth="Frankfurt(Oder)|Frankfurt(Oder)-Rosengarten|Pillgram|Jacobsdorf(Mark)|Briesen(Mark)|Berkenbrück|Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße" ct="2509060139" l="1" />
+    <dp cpth="Berlin Zoologischer Garten|Berlin-Charlottenburg|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf" ct="2509060141" l="1" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:45.514" />
+</timetable>

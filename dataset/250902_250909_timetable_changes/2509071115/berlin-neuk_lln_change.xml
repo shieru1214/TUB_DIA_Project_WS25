@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Neukölln" eva="8089077">
+  <s id="-5790248918073219246-2509071056-7" eva="8089077">
+    <ar ppth="Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide" pp="1" ct="2509071114" pt="2509071114" l="46">
+      <m id="r24255122" t="f" c="0" ts="2509071021" ts-tts="25-09-07 10:21:26.918" />
+    </ar>
+    <dp ppth="Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" pp="1" ct="2509071115" pt="2509071115" l="46">
+      <m id="r24255122" t="f" c="0" ts="2509071021" ts-tts="25-09-07 10:21:26.918" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="48358" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="46358" />
+    </ref>
+  </s>
+  <s id="-6169353845985101074-2509071108-4" eva="8089077">
+    <ar ct="2509071115" l="45" />
+    <dp ct="2509071116" l="45" />
+  </s>
+  <s id="7481750935971108451-2509071129-6" eva="8089077">
+    <ar ct="2509071144" l="47" />
+    <dp ct="2509071145" l="47" />
+  </s>
+</timetable>

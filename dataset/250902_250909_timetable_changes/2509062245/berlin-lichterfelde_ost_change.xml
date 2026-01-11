@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde Ost" eva="8011041">
+  <s id="6650457238952290678-2509062033-12" eva="8011041">
+    <ar ppth="Stendal Hbf|Rathenow|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau|Berlin Jungfernheide|Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" pp="3" ct="2509062248" pt="2509062218" l="4">
+      <m id="r24181452" t="q" c="95" ts="2509061425" ts-tts="25-09-06 14:25:19.822" />
+      <m id="r24181458" t="q" c="95" ts="2509061425" ts-tts="25-09-06 14:25:19.822" />
+      <m id="r24228528" t="d" c="43" ts="2509062142" ts-tts="25-09-06 21:42:48.560" />
+      <m id="r24228530" t="d" c="43" ts="2509062142" ts-tts="25-09-06 21:42:48.560" />
+      <m id="r24230979" t="f" c="0" ts="2509062219" ts-tts="25-09-06 22:19:57.693" />
+    </ar>
+    <dp ppth="Ludwigsfelde|Thyrow|Trebbin|Woltersdorf/Nuthe-Urstromtal|Luckenwalde|Jüterbog" pp="3" ct="2509062249" pt="2509062219" l="4">
+      <m id="r24181452" t="q" c="95" ts="2509061425" ts-tts="25-09-06 14:25:19.822" />
+      <m id="r24181458" t="q" c="95" ts="2509061425" ts-tts="25-09-06 14:25:19.822" />
+      <m id="r24228528" t="d" c="43" ts="2509062142" ts-tts="25-09-06 21:42:48.560" />
+      <m id="r24228530" t="d" c="43" ts="2509062142" ts-tts="25-09-06 21:42:48.560" />
+      <m id="r24230979" t="f" c="0" ts="2509062219" ts-tts="25-09-06 22:19:57.693" />
+    </dp>
+    <tl f="N" t="p" o="800158" c="RE" n="3180" />
+  </s>
+</timetable>

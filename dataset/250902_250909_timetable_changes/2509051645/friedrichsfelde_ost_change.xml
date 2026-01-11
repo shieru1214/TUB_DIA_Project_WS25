@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Friedrichsfelde Ost" eva="8089059">
+  <s id="86623699079519081-2509051601-19" eva="8089059">
+    <ar cpth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" ct="2509051644" l="5" />
+    <dp cpth="Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)|Birkenstein|Hoppegarten(Mark)|Neuenhagen(b Berlin)|Fredersdorf(b Berlin)|Petershagen Nord|Strausberg (S)|Strausberg-Hegermühle|Strausberg Stadt|Strausberg Nord" ct="2509051645" l="5" />
+  </s>
+  <s id="-2440800421143143239-2509051631-7" eva="8089059">
+    <ar ct="2509051644" l="7" />
+    <dp ct="2509051645" l="7" />
+  </s>
+  <s id="4813913378936340940-2509051646-5" eva="8089059">
+    <ar ct="2509051656" l="75" />
+    <dp ct="2509051657" l="75" />
+  </s>
+  <s id="732838878254816626-2509051551-7" eva="8089059">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl" ct="2509051604" l="7" />
+    <dp cpth="Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2509051604" l="7" />
+  </s>
+  <s id="1390527141869994091-2509051621-23" eva="8089059">
+    <ar cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" ct="2509051720" cs="p" clt="2509051557" l="7">
+      <m id="r24075285" t="d" c="36" ts="2509051619" ts-tts="25-09-05 16:19:47.698" />
+      <m id="r24075287" t="d" c="36" ts="2509051619" ts-tts="25-09-05 16:19:47.698" />
+      <m id="r24077955" t="d" c="55" ts="2509051643" ts-tts="25-09-05 16:44:04.029" />
+    </ar>
+    <dp cpth="Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2509051721" cs="p" clt="2509051557" l="7">
+      <m id="r24075285" t="d" c="36" ts="2509051619" ts-tts="25-09-05 16:19:47.699" />
+      <m id="r24075287" t="d" c="36" ts="2509051619" ts-tts="25-09-05 16:19:47.699" />
+      <m id="r24077955" t="d" c="55" ts="2509051643" ts-tts="25-09-05 16:44:04.029" />
+    </dp>
+  </s>
+</timetable>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wedding" eva="8089131">
+  <s id="3263875903703732297-2509031715-2" eva="8089131">
+    <ar ct="2509031717" l="42" />
+    <dp ct="2509031718" l="42" />
+  </s>
+  <s id="5465419147661215672-2509031631-24" eva="8089131">
+    <ar ct="2509031738" l="41" />
+    <dp ct="2509031739" l="41" />
+  </s>
+  <s id="-9065876490929463146-2509031751-2" eva="8089131">
+    <ar ct="2509031802" l="42" />
+    <dp ct="2509031803" l="42" />
+  </s>
+  <s id="-8097723217538188344-2509031714-20" eva="8089131">
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen" ct="2509031759" l="41" />
+    <dp cpth="Berlin Gesundbrunnen(S)" ct="2509031801" l="41" />
+  </s>
+  <s id="-4754820297020103258-2509031801-2" eva="8089131">
+    <ar ct="2509031804" l="42">
+      <m id="r23681354" t="f" c="0" ts="2509021503" ts-tts="25-09-02 15:03:58.356" />
+      <m id="r23806382" t="f" c="0" ts="2509031659" ts-tts="25-09-03 16:59:45.259" />
+    </ar>
+    <dp ct="2509031805" l="42">
+      <m id="r23681354" t="f" c="0" ts="2509021503" ts-tts="25-09-02 15:03:58.356" />
+      <m id="r23806382" t="f" c="0" ts="2509031659" ts-tts="25-09-03 16:59:45.259" />
+    </dp>
+  </s>
+  <s id="8897306426563276461-2509031641-24" eva="8089131">
+    <ar ct="2509031740" l="41" />
+    <dp ct="2509031741" l="41" />
+  </s>
+  <s id="-1942514166185122799-2509031614-20" eva="8089131">
+    <ar ct="2509031659" l="41" />
+    <dp ct="2509031701" l="41" />
+  </s>
+  <s id="6576022645946072817-2509031655-2" eva="8089131">
+    <ar ct="2509031658" l="42" />
+    <dp ct="2509031659" l="42" />
+  </s>
+</timetable>

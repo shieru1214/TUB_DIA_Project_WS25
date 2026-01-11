@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Brandenburger Tor" eva="8089044">
+  <s id="32700691120576331-2509051045-8" eva="8089044">
+    <ar ct="2509051059" l="2" />
+    <dp ct="2509051100" l="2" />
+  </s>
+  <s id="-4367313116322938957-2509051015-8" eva="8089044">
+    <ar ct="2509051031" l="2" />
+    <dp ct="2509051031" l="2" />
+  </s>
+  <s id="-3975021974581775657-2509051045-12" eva="8089044">
+    <ar ct="2509051110" l="25" />
+    <dp ct="2509051111" l="25" />
+  </s>
+  <s id="7471292086578022963-2509050954-17" eva="8089044">
+    <m id="r2486700" t="h" from="2509050800" to="2509051300" cat="Störung" ts="2509050857" ts-tts="25-09-05 08:57:43.374" pr="1" />
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)" ct="2509051029" l="1" />
+    <dp cpth="Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust" ct="2509051029" l="1" />
+  </s>
+  <s id="1839465458389801120-2509050955-14" eva="8089044">
+    <ar ct="2509051028" l="1" />
+    <dp ct="2509051029" l="1" />
+  </s>
+  <s id="2797420159025155747-2509051044-17" eva="8089044">
+    <ar ct="2509051118" l="1" />
+    <dp ct="2509051118" l="1" />
+  </s>
+</timetable>

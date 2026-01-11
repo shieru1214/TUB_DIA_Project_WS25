@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bundesplatz" eva="8089107">
+  <s id="7403357673211468522-2509030745-12" eva="8089107">
+    <m id="r2485590" t="h" from="2509030530" to="2509030830" cat="Störung" ts="2509030602" ts-tts="25-09-03 06:02:50.339" pr="2" />
+    <ar ct="2509030809" l="42" />
+    <dp ct="2509030810" l="42" />
+  </s>
+  <s id="874705391058878384-2509030701-14" eva="8089107">
+    <ar ct="2509030730" l="41">
+      <m id="r23641734" t="f" c="0" ts="2509011914" ts-tts="25-09-02 10:22:21.437" />
+      <m id="r23652924" t="f" c="0" ts="2509020151" ts-tts="25-09-02 10:22:21.437" />
+      <m id="r23733902" t="f" c="0" ts="2509030646" ts-tts="25-09-03 06:46:18.584" />
+    </ar>
+    <dp ct="2509030731" l="41">
+      <m id="r23641734" t="f" c="0" ts="2509011914" ts-tts="25-09-02 10:22:21.437" />
+      <m id="r23652924" t="f" c="0" ts="2509020151" ts-tts="25-09-02 10:22:21.437" />
+      <m id="r23733902" t="f" c="0" ts="2509030646" ts-tts="25-09-03 06:46:18.584" />
+    </dp>
+  </s>
+  <s id="7682744379298607047-2509030744-10" eva="8089107">
+    <ar ct="2509030805" l="41" />
+    <dp ct="2509030806" l="41" />
+  </s>
+  <s id="7403835620944616304-2509030705-12" eva="8089107">
+    <m id="r2485590" t="h" from="2509030530" to="2509030830" cat="Störung" ts="2509030602" ts-tts="25-09-03 06:02:50.339" pr="2" />
+    <ar ct="2509030730" l="42" />
+    <dp ct="2509030730" l="42" />
+  </s>
+  <s id="-5023438061491662060-2509030641-17" eva="8089107">
+    <m id="r2485590" t="h" from="2509030530" to="2509030830" cat="Störung" ts="2509030602" ts-tts="25-09-03 06:02:50.339" pr="2" />
+    <ar cpth="Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz" ct="2509030728" l="46" />
+    <dp cpth="Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" ct="2509030729" l="46" />
+  </s>
+  <s id="-7869243726026924213-2509030731-14" eva="8089107">
+    <ar ct="2509030801" l="41" />
+    <dp ct="2509030801" l="41" />
+  </s>
+</timetable>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Adlershof" eva="8089052">
+  <s id="2931075845095281302-2509081003-21" eva="8089052">
+    <ar cpth="Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Schönhauser Allee|Berlin Prenzlauer Allee|Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal" ct="2509081055" l="85" />
+    <dp cpth="Berlin-Grünau" ct="2509081055" l="85" />
+  </s>
+  <s id="-8590858654601352195-2509080957-6" eva="8089052">
+    <ar ct="2509081015" l="45" />
+    <dp ct="2509081015" l="45" />
+  </s>
+  <s id="-8004805706146915263-2509080923-21" eva="8089052">
+    <ar ct="2509081014" l="85" />
+    <dp ct="2509081015" l="85" />
+  </s>
+  <s id="2686034295303383253-2509081029-6" eva="8089052">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-07 23:16:04.237" pr="1" />
+    <ar ct="2509081047" l="9" />
+    <dp ct="2509081047" l="9" />
+  </s>
+  <s id="-1288825324087745150-2509081009-2" eva="8089052">
+    <ar ct="2509081013" l="8" />
+    <dp ct="2509081014" l="8" />
+  </s>
+  <s id="5900691915469397924-2509081029-2" eva="8089052">
+    <ar ct="2509081032" l="8" />
+    <dp ct="2509081032" l="8" />
+  </s>
+</timetable>

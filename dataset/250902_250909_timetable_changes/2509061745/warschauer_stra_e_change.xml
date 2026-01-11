@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="4687798051164091362-2509061715-12" eva="8089045">
+    <ar ct="2509061745" l="3" />
+  </s>
+  <s id="-6408243004757674637-2509061709-12" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.508" pr="1" />
+    <ar ct="2509061745" l="9" />
+    <dp ct="2509061746" l="9" />
+  </s>
+  <s id="-4635456032690953654-2509061730-18" eva="8089045">
+    <ar cpth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf" ct="2509061820" cs="c" clt="2509061745" l="5" />
+    <dp cpth="" ct="2509061821" cs="c" clt="2509061745" l="5" />
+  </s>
+  <s id="8956778994981233518-2509061711-15" eva="8089045">
+    <ar ct="2509061744" l="5" />
+    <dp ct="2509061745" l="5" />
+  </s>
+  <s id="120545437920084882-2509061759-1" eva="8089045">
+    <dp ct="2509061759" l="3" />
+  </s>
+  <s id="-528239092933664475-2509061736-4" eva="8089045">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.746" pr="2" />
+    <ar ct="2509061743" l="7" />
+    <dp ct="2509061744" l="7" />
+  </s>
+</timetable>

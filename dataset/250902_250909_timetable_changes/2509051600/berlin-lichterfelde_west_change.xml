@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde West" eva="8089071">
+  <s id="7996061164632386785-2509051615-24" eva="8089071">
+    <m id="r2486901" t="h" from="2509051400" to="2509051800" cat="Störung" ts="2509051449" ts-tts="25-09-05 14:50:01.528" pr="1" />
+    <ar ct="2509051708" l="1" />
+    <dp ct="2509051708" l="1" />
+  </s>
+  <s id="506556623345286805-2509051614-7" eva="8089071">
+    <m id="r2486901" t="h" from="2509051400" to="2509051800" cat="Störung" ts="2509051449" ts-tts="25-09-05 14:50:01.528" pr="1" />
+    <ar ct="2509051627" l="1" />
+    <dp ct="2509051627" l="1" />
+  </s>
+  <s id="-8899526079612069471-2509051451-29" eva="8089071">
+    <m id="r2486901" t="h" from="2509051400" to="2509051800" cat="Störung" ts="2509051449" ts-tts="25-09-05 14:50:01.528" pr="1" />
+    <m id="r2486799" t="h" from="2509051300" to="2509051600" cat="Störung" ts="2509051216" ts-tts="25-09-05 12:16:22.410" pr="1" />
+    <ar cpth="Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten" ct="2509051558" l="1" />
+    <dp cpth="Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2509051559" l="1" />
+  </s>
+  <s id="2014247285822662480-2509051544-7" eva="8089071">
+    <m id="r2486901" t="h" from="2509051400" to="2509051800" cat="Störung" ts="2509051449" ts-tts="25-09-05 14:50:01.528" pr="1" />
+    <m id="r2486799" t="h" from="2509051300" to="2509051600" cat="Störung" ts="2509051216" ts-tts="25-09-05 12:16:22.410" pr="1" />
+    <ar ct="2509051558" l="1" />
+    <dp ct="2509051558" l="1" />
+  </s>
+</timetable>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Frohnau" eva="8089061">
+  <s id="4160517121698355626-2509052336-8" eva="8089061">
+    <ar ct="2509060014" l="S1A" />
+    <dp ct="2509060014" l="S1A" />
+  </s>
+  <s id="-6719626696348425301-2509052341-100" eva="8089061">
+    <ar cpth="Oranienburg|Lehnitz|Borgsdorf (S), Hohen Neuendorf|Borgsdorf Berliner Chaussee|Kirche, Birkenwerder|Birkenwerder Hauptstraße|Hohen Neuendorf(b Berlin)|Berliner Str., Hohen Neuendorf" ppth="Oranienburg|Lehnitz|Borgsdorf (S), Hohen Neuendorf|Borgsdorf Berliner Chaussee|Kirche, Birkenwerder|Birkenwerder Hauptstraße|Hohen Neuendorf(b Berlin)|Berliner Str., Hohen Neuendorf|Zeltinger Platz/Frohnau (S), Berlin" ct="2509060024" pt="2509060020" ps="a" l="S1A" />
+    <dp cpth="Hohefeldstr., Berlin|Schildower Str., Berlin|Berlin-Waidmannslust|Göschenplatz/Wittenau (S), Berlin|Wittenau [Bus] (U), Berlin|Berlin-Wilhelmsruh|Berlin-Schönholz" ppth="Hohefeldstr., Berlin|Schildower Str., Berlin|Berlin-Waidmannslust|Göschenplatz/Wittenau (S), Berlin|Wittenau [Bus] (U), Berlin|Berlin-Wilhelmsruh|Berlin-Schönholz" ct="2509060024" pt="2509060020" ps="a" l="S1A" />
+    <tl t="p" o="080001" c="Bus" n="11009" />
+  </s>
+  <s id="8565699522517669657-2509052301-100" eva="8089061">
+    <ar cpth="Oranienburg|Lehnitz|Borgsdorf (S), Hohen Neuendorf|Borgsdorf Berliner Chaussee|Kirche, Birkenwerder|Birkenwerder Hauptstraße|Hohen Neuendorf(b Berlin)|Berliner Str., Hohen Neuendorf" ppth="Oranienburg|Lehnitz|Borgsdorf (S), Hohen Neuendorf|Borgsdorf Berliner Chaussee|Kirche, Birkenwerder|Birkenwerder Hauptstraße|Hohen Neuendorf(b Berlin)|Berliner Str., Hohen Neuendorf|Zeltinger Platz/Frohnau (S), Berlin" ct="2509052342" pt="2509052340" ps="a" l="S1A" />
+    <dp cpth="Hohefeldstr., Berlin|Schildower Str., Berlin|Berlin-Waidmannslust|Göschenplatz/Wittenau (S), Berlin|Wittenau [Bus] (U), Berlin|Berlin-Wilhelmsruh|Berlin-Schönholz" ppth="Hohefeldstr., Berlin|Schildower Str., Berlin|Berlin-Waidmannslust|Göschenplatz/Wittenau (S), Berlin|Wittenau [Bus] (U), Berlin|Berlin-Wilhelmsruh|Berlin-Schönholz" ct="2509052343" pt="2509052340" ps="a" l="S1A" />
+    <tl t="p" o="080001" c="Bus" n="11005" />
+  </s>
+  <s id="5334375601550085619-2509052316-8" eva="8089061">
+    <ar ct="2509052355" l="S1A" />
+    <dp ct="2509052355" l="S1A" />
+  </s>
+</timetable>

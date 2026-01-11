@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Adlershof" eva="8089052">
+  <s id="8812994898884157104-2509041106-101" eva="8089052">
+    <ar cpth="Berlin-Grünau" ppth="" pp="4" ct="2509041026" pt="2509041026" ps="a" l="9" />
+    <dp cpth="Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)" ppth="Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" pp="4" pt="2509041027" ps="a" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90068" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9068" />
+    </ref>
+  </s>
+  <s id="-330452985828520485-2509040936-18" eva="8089052">
+    <ar ct="2509041015" l="46" />
+    <dp ct="2509041016" l="46" />
+  </s>
+  <s id="2686034295303383253-2509041029-6" eva="8089052">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.621" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:13.940" pr="1" />
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke" ct="2509041047" l="9" />
+    <dp cpth="Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)" ct="2509041047" l="9" />
+  </s>
+  <s id="2693751594760269275-2509040955-8" eva="8089052">
+    <ar ct="2509041013" l="85" />
+    <dp ct="2509041014" l="85" />
+  </s>
+  <s id="5900691915469397924-2509041029-2" eva="8089052">
+    <ar ct="2509041032" l="8" />
+    <dp ct="2509041032" l="8" />
+  </s>
+</timetable>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Grunewald" eva="8089062">
+  <s id="4057069338159314673-2509050914-9" eva="8089062">
+    <ar ct="2509050932" l="7" />
+    <dp ct="2509050933" l="7" />
+  </s>
+  <s id="-5492751595037293449-2509050854-9" eva="8089062">
+    <ar ct="2509050913" l="7" />
+    <dp ct="2509050914" l="7" />
+  </s>
+  <s id="7475984097148067190-2509050851-6" eva="8089062">
+    <ar ct="2509050913" l="7" />
+    <dp ct="2509050914" l="7" />
+  </s>
+  <s id="1210434999863274708-2509050901-6" eva="8089062">
+    <m id="r2486678" t="h" from="2509050700" to="2509060330" cat="Störung" ts="2509050743" ts-tts="25-09-05 07:43:07.848" pr="2" />
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee" ct="2509050922" cs="p" clt="2509050827" l="7" />
+    <dp cpth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" cs="p" clt="2509050827" l="7" />
+  </s>
+</timetable>

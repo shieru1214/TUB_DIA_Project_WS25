@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Alexanderplatz" eva="8011155">
+  <s id="7388196342613390136-2509031436-9" eva="8011155">
+    <ar ct="2509031559" l="1">
+      <m id="r23796475" t="d" c="43" ts="2509031550" ts-tts="25-09-03 15:50:30.279" />
+    </ar>
+    <dp ct="2509031600" l="1">
+      <m id="r23796475" t="d" c="43" ts="2509031550" ts-tts="25-09-03 15:50:30.279" />
+    </dp>
+  </s>
+  <s id="6071966870883745842-2509031519-12" eva="8011155">
+    <ar ct="2509031623" l="1" />
+    <dp ct="2509031624" l="1" />
+  </s>
+  <s id="-5992899827719703490-2509031412-16" eva="8011155">
+    <ar ct="2509031607" l="1" />
+    <dp ct="2509031608" l="1" />
+  </s>
+  <s id="-4056148757418496437-2509031544-4" eva="8011155">
+    <ar ct="2509031611" l="8" />
+    <dp ct="2509031612" l="8" />
+  </s>
+  <s id="-8217114816724687027-2509031501-12" eva="8011155">
+    <m id="r2485808" t="h" from="2509031501" to="2509031741" cat="Störung" ts="2509031450" ts-tts="25-09-03 14:50:28.091" pr="1" />
+    <ar cpth="Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße" ct="2509031610" l="7">
+      <m id="r23720682" t="f" c="0" ts="2509030207" ts-tts="25-09-03 02:07:31.863" />
+      <m id="r23786341" t="d" c="23" ts="2509031437" ts-tts="25-09-03 14:37:57.234" />
+      <m id="r23786343" t="d" c="23" ts="2509031437" ts-tts="25-09-03 14:37:57.234" />
+    </ar>
+    <dp cpth="Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Calau(Nl)|Luckaitztal|Altdöbern|Großräschen|Sedlitz Ost|Senftenberg" ct="2509031611" l="7">
+      <m id="r23720682" t="f" c="0" ts="2509030207" ts-tts="25-09-03 02:07:31.863" />
+      <m id="r23786341" t="d" c="23" ts="2509031437" ts-tts="25-09-03 14:37:57.234" />
+      <m id="r23786343" t="d" c="23" ts="2509031437" ts-tts="25-09-03 14:37:57.234" />
+    </dp>
+  </s>
+</timetable>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westend" eva="8089111">
+  <s id="6519573300876866058-2509060318-6" eva="8089111">
+    <ar l="42">
+      <m id="r24000383" t="f" c="0" ts="2509050516" ts-tts="25-09-05 05:16:08.197" />
+      <m id="r24000384" t="f" c="0" ts="2509050516" ts-tts="25-09-05 05:16:08.197" />
+    </ar>
+    <dp l="42">
+      <m id="r24000383" t="f" c="0" ts="2509050516" ts-tts="25-09-05 05:16:08.197" />
+      <m id="r24000384" t="f" c="0" ts="2509050516" ts-tts="25-09-05 05:16:08.197" />
+    </dp>
+  </s>
+  <s id="-6895900520694039967-2509060201-20" eva="8089111">
+    <ar l="41">
+      <m id="r23996600" t="f" c="0" ts="2509050358" ts-tts="25-09-05 03:58:48.501" />
+    </ar>
+    <dp l="41">
+      <m id="r23996600" t="f" c="0" ts="2509050358" ts-tts="25-09-05 03:58:48.501" />
+    </dp>
+  </s>
+  <s id="-8819113931152956666-2509051001-6" eva="8089111">
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)" ct="2509051013" l="42">
+      <m id="r23900773" t="f" c="0" ts="2509041159" ts-tts="25-09-04 11:59:45.071" />
+      <m id="r24024229" t="f" c="0" ts="2509050939" ts-tts="25-09-05 09:40:02.732" />
+      <m id="r24024230" t="f" c="0" ts="2509050939" ts-tts="25-09-05 09:40:02.732" />
+    </ar>
+    <dp cpth="Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" ct="2509051014" l="42">
+      <m id="r23900773" t="f" c="0" ts="2509041159" ts-tts="25-09-04 11:59:45.071" />
+      <m id="r24024229" t="f" c="0" ts="2509050939" ts-tts="25-09-05 09:40:02.732" />
+      <m id="r24024230" t="f" c="0" ts="2509050939" ts-tts="25-09-05 09:40:02.732" />
+    </dp>
+  </s>
+</timetable>

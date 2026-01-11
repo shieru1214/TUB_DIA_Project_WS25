@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Halensee" eva="8089109">
+  <s id="-646511571250155821-2509080031-17" eva="8089109">
+    <ar ct="2509080107" l="41" />
+    <dp ct="2509080107" l="41" />
+  </s>
+  <s id="-2079051741317563369-2509080003-12" eva="8089109">
+    <ar cpth="Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee" ppth="Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm" pp="1" pt="2509080029" cs="c" clt="2509072348" l="45">
+      <m id="r24334050" t="f" c="0" ts="2509072348" ts-tts="25-09-07 23:48:10.597" />
+      <m id="r24334054" t="f" c="0" ts="2509072348" ts-tts="25-09-07 23:48:26.038" />
+    </ar>
+    <dp cpth="Berlin Charlottenburg (S)" ppth="Berlin Charlottenburg (S)" pp="1" ct="2509080029" pt="2509080029" cs="c" clt="2509072348" l="45">
+      <m id="r24334050" t="f" c="0" ts="2509072348" ts-tts="25-09-07 23:48:10.597" />
+      <m id="r24334054" t="f" c="0" ts="2509072348" ts-tts="25-09-07 23:48:26.038" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="44130" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="45130" />
+    </ref>
+  </s>
+  <s id="-2079051741317563369-2509080003-107" eva="8089109">
+    <ar cpth="Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm" ppth="Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm" pp="1" ct="2509080029" pt="2509080028" cs="c" ps="a" clt="2509080023" l="45" />
+    <dp cpth="Berlin Charlottenburg (S)" ppth="Berlin-Halensee|Berlin Charlottenburg (S)" pt="2509080028" ps="a" l="45" />
+    <tl f="S" t="e" o="08" c="S" n="44130" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="45130" />
+    </ref>
+  </s>
+  <s id="-6115611500868542275-2509080041-9" eva="8089109">
+    <ar ct="2509080058" l="42" />
+    <dp ct="2509080059" l="42" />
+  </s>
+</timetable>

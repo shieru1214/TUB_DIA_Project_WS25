@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Gesundbrunnen" eva="8011102">
+  <s id="8061355321248795348-2509032133-2" eva="8011102">
+    <m id="r2485568" t="h" from="2509030633" to="2509032258" cat="Information" ts="2509030439" ts-tts="25-09-03 04:39:26.101" pr="2" />
+    <ar cp="10" ct="2509032142" l="3">
+      <m id="r23824043" t="q" c="95" ts="2509031859" ts-tts="25-09-03 18:59:24.874" />
+      <m id="r23824045" t="q" c="95" ts="2509031859" ts-tts="25-09-03 18:59:24.874" />
+      <m id="r23824076" t="q" c="73" ts="2509031859" ts-tts="25-09-03 18:59:40.486" />
+      <m id="r23824078" t="q" c="73" ts="2509031859" ts-tts="25-09-03 18:59:40.486" />
+    </ar>
+    <dp cp="10" ct="2509032144" l="3">
+      <m id="r23824043" t="q" c="95" ts="2509031859" ts-tts="25-09-03 18:59:24.874" />
+      <m id="r23824045" t="q" c="95" ts="2509031859" ts-tts="25-09-03 18:59:24.874" />
+      <m id="r23824076" t="q" c="73" ts="2509031859" ts-tts="25-09-03 18:59:40.486" />
+      <m id="r23824078" t="q" c="73" ts="2509031859" ts-tts="25-09-03 18:59:40.486" />
+    </dp>
+  </s>
+  <s id="5505348089403655832-2509032128-3" eva="8011102">
+    <ar ct="2509032157" />
+    <dp ct="2509032159" />
+  </s>
+  <s id="-4058401902925227636-2509031905-17" eva="8011102">
+    <m id="r2485569" t="h" from="2509030300" to="2509032359" cat="Information" ts="2509030450" ts-tts="25-09-03 04:50:25.156" pr="2" />
+    <ar cpth="Lutherstadt Wittenberg Hbf|Zörnigall|Bülzig|Zahna|Blönsdorf|Niedergörsdorf|Jüterbog|Luckenwalde|Ludwigsfelde|Birkengrund|Großbeeren|Teltow|Berlin-Lichterfelde Ost|Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" cp="8" ct="2509032101" l="3">
+      <m id="r23720589" t="f" c="0" ts="2509030150" ts-tts="25-09-03 01:50:27.193" />
+      <m id="r23748799" t="f" c="0" ts="2509030922" ts-tts="25-09-03 09:22:59.288" />
+      <m id="r23832487" t="d" c="21" ts="2509032006" ts-tts="25-09-03 20:06:39.638" />
+      <m id="r23837682" t="d" c="57" ts="2509032053" ts-tts="25-09-03 20:53:47.286" />
+      <m id="r23837684" t="d" c="57" ts="2509032053" ts-tts="25-09-03 20:53:47.286" />
+    </ar>
+    <dp cpth="Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf|Britz|Chorin|Angermünde|Wilmersdorf(Angerm)|Warnitz(Uckermark)|Seehausen(Uckermark)|Prenzlau|Nechlin|Pasewalk|Jatznick|Ferdinandshof|Ducherow|Anklam|Klein Bünzow|Züssow|Groß Kiesow|Greifswald Süd|Greifswald|Miltzow|Stralsund Hbf" cp="8" ct="2509032103" l="3">
+      <m id="r23720589" t="f" c="0" ts="2509030150" ts-tts="25-09-03 01:50:27.193" />
+      <m id="r23748799" t="f" c="0" ts="2509030922" ts-tts="25-09-03 09:22:59.288" />
+      <m id="r23832487" t="d" c="21" ts="2509032006" ts-tts="25-09-03 20:06:39.638" />
+      <m id="r23837682" t="d" c="57" ts="2509032053" ts-tts="25-09-03 20:53:47.286" />
+      <m id="r23837684" t="d" c="57" ts="2509032053" ts-tts="25-09-03 20:53:47.286" />
+    </dp>
+  </s>
+  <s id="5511449091386928938-2509032035-13" eva="8011102">
+    <ar cp="8" ct="2509032145" l="21" />
+  </s>
+</timetable>

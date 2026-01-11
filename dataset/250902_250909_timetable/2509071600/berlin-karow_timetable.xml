@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Karow">
+  <s id="-2349817574601010895-2509071623-2">
+    <tl t="p" o="NB" c="Bus" n="6044" />
+    <ar pt="2509071640" pp="" l="EV" ppth="Schönerlinde" />
+  </s>
+  <s id="-6102613181283909666-2509071642-1">
+    <tl t="p" o="NB" c="Bus" n="6049" />
+    <dp pt="2509071642" pp="" l="EV" ppth="Schönerlinde" />
+  </s>
+  <s id="-744241845599856059-2509071612-1">
+    <tl t="p" o="NB" c="Bus" n="6047" />
+    <dp pt="2509071612" pp="" l="EV" ppth="Schönerlinde" />
+  </s>
+  <s id="-8771568109571976369-2509071553-2">
+    <tl t="p" o="NB" c="Bus" n="6042" />
+    <ar pt="2509071610" pp="" l="EV" ppth="Schönerlinde" />
+  </s>
+</timetable>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Friedrichstraße" eva="8011306">
+  <s id="3645252224070148387-2509031119-11" eva="8011306">
+    <ar ct="2509031216" l="1" />
+    <dp ct="2509031218" l="1" />
+  </s>
+  <s id="7684207243669488468-2509031212-15" eva="8011306">
+    <ar ct="2509031402" l="1" />
+    <dp ct="2509031403" l="1">
+      <m id="r23696175" t="f" c="1000" ts="2509021900" ts-tts="25-09-02 19:00:42.381" />
+    </dp>
+  </s>
+  <s id="-4129528892956638430-2509031144-5" eva="8011306">
+    <ar cpth="Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" ct="2509031214" l="8" />
+    <dp cpth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal" ct="2509031215" l="8" />
+  </s>
+  <s id="-412309776969860423-2509031201-11" eva="8011306">
+    <ar ct="2509031252" l="7" />
+    <dp ct="2509031253" l="7" />
+  </s>
+</timetable>

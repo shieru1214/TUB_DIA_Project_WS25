@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Frankfurter Allee" eva="8089013">
+  <s id="-2599772409839356948-2509031405-1" eva="8089013">
+    <m id="r2485791" t="h" from="2509031330" to="2509031600" cat="Störung" ts="2509031412" ts-tts="25-09-03 14:12:56.262" pr="1" />
+    <dp cpth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau" ct="2509031405" cs="c" clt="2509031404" l="8">
+      <m id="r23782005" t="d" c="5" ts="2509031404" ts-tts="25-09-03 14:04:54.730" />
+      <m id="r23782007" t="d" c="5" ts="2509031404" ts-tts="25-09-03 14:04:54.730" />
+    </dp>
+  </s>
+  <s id="803824642851326605-2509031321-22" eva="8089013">
+    <ar ct="2509031409" l="42" />
+    <dp ct="2509031413" l="42" />
+  </s>
+  <s id="1209752771190771490-2509031421-4" eva="8089013">
+    <ar ct="2509031429" l="41" />
+    <dp ct="2509031429" l="41" />
+  </s>
+</timetable>

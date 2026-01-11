@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Köllnische Heide" eva="8089104">
+  <s id="-5616040323071051453-2509041249-5" eva="8089104">
+    <ar ct="2509041300" l="47" />
+    <dp ct="2509041302" l="47" />
+  </s>
+  <s id="285887782677793103-2509041248-5" eva="8089104">
+    <m id="r2486210" t="h" from="2509041000" to="2509041300" cat="Störung" ts="2509041020" ts-tts="25-09-04 12:16:03.496" pr="2" />
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln" ct="2509041258" cs="p" clt="2509041133" l="45" />
+    <dp cpth="Berlin Baumschulenweg|Berlin-Schöneweide (S)" ct="2509041259" cs="p" clt="2509041133" l="45" />
+  </s>
+</timetable>

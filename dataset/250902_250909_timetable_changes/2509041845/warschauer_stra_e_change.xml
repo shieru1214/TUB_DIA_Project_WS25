@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="-4342974825664247819-2509041801-19" eva="8089045">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.390" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.278" pr="1" />
+    <ar ct="2509041852" l="7" />
+    <dp ct="2509041852" l="7" />
+  </s>
+  <s id="-1429338850594656444-2509041844-9" eva="8089045">
+    <m id="r2486403" t="h" from="2509041700" to="2509041900" cat="Störung" ts="2509041723" ts-tts="25-09-04 17:23:31.450" pr="1" />
+    <ar ct="2509041907" l="5" />
+    <dp ct="2509041907" l="5" />
+  </s>
+  <s id="5595153246093810767-2509041830-7" eva="8089045">
+    <ar ct="2509041845" l="3" />
+    <dp ct="2509041848" l="3" />
+  </s>
+  <s id="529349638452342774-2509041824-9" eva="8089045">
+    <m id="r2486403" t="h" from="2509041700" to="2509041900" cat="Störung" ts="2509041723" ts-tts="25-09-04 17:23:31.450" pr="1" />
+    <ar ct="2509041844" l="5" />
+    <dp ct="2509041845" l="5" />
+  </s>
+  <s id="5161276944123927794-2509041817-13" eva="8089045">
+    <m id="r2486403" t="h" from="2509041700" to="2509041900" cat="Störung" ts="2509041723" ts-tts="25-09-04 17:23:31.450" pr="1" />
+    <ar ct="2509041845" l="5" />
+    <dp ct="2509041845" l="5" />
+  </s>
+  <s id="996518073467804236-2509041827-13" eva="8089045">
+    <ar ppth="Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)" pp="4" ct="2509041900" pt="2509041900" l="5" />
+    <dp ppth="Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" pp="4" ct="2509041901" pt="2509041901" l="5" />
+    <tl f="S" t="e" o="08" c="S" n="50112" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="5112" />
+    </ref>
+  </s>
+  <s id="4963053874224897817-2509041809-12" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.888" pr="1" />
+    <ar ct="2509041847" l="9" />
+    <dp ct="2509041847" l="9" />
+  </s>
+</timetable>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Treptower Park" eva="8089043">
+  <s id="-893118153366842680-2509031854-2" eva="8089043">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:28:05.098" pr="1" />
+    <ar ct="2509031901" l="41" />
+    <dp ct="2509031902" l="41" />
+  </s>
+  <s id="-3452162838091792106-2509031845-3" eva="8089043">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:28:05.098" pr="1" />
+    <ar cpth="" cp="4" ct="2509031858" cs="c" clt="2509031735" l="8" />
+    <dp cpth="Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" cp="4" ct="2509031900" cs="p" clt="2509031850" l="8" />
+  </s>
+  <s id="3684729521313631842-2509031915-20" eva="8089043">
+    <ar ct="2509031958" l="42" />
+    <dp ct="2509032000" l="42" />
+  </s>
+  <s id="-7729927418364877382-2509031859-7" eva="8089043">
+    <m id="r2485872" t="h" from="2509031630" to="2509032359" cat="Störung" ts="2509031741" ts-tts="25-09-03 17:42:15.382" pr="2" />
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:28:05.099" pr="1" />
+    <ar cpth="" ct="2509031916" cs="c" clt="2509031742" l="85">
+      <m id="r23812366" t="d" c="37" ts="2509031742" ts-tts="25-09-03 17:42:31.375" />
+      <m id="r23812367" t="d" c="37" ts="2509031742" ts-tts="25-09-03 17:42:31.375" />
+    </ar>
+    <dp cpth="" ct="2509031917" cs="c" clt="2509031742" l="85">
+      <m id="r23812366" t="d" c="37" ts="2509031742" ts-tts="25-09-03 17:42:31.375" />
+      <m id="r23812367" t="d" c="37" ts="2509031742" ts-tts="25-09-03 17:42:31.375" />
+    </dp>
+  </s>
+  <s id="7316781776888641498-2509031834-10" eva="8089043">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:28:05.098" pr="1" />
+    <ar cpth="Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald" ct="2509031907" l="8" />
+    <dp cpth="" ct="2509031907" cs="c" clt="2509031848" l="8" />
+  </s>
+  <s id="5770440669246876288-2509031839-7" eva="8089043">
+    <m id="r2485872" t="h" from="2509031630" to="2509032359" cat="Störung" ts="2509031741" ts-tts="25-09-03 17:42:15.382" pr="2" />
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:28:05.099" pr="1" />
+    <ar cpth="" ct="2509031915" cs="c" clt="2509031742" l="85">
+      <m id="r23812297" t="d" c="37" ts="2509031742" ts-tts="25-09-03 17:42:15.614" />
+      <m id="r23812301" t="d" c="37" ts="2509031742" ts-tts="25-09-03 17:42:15.614" />
+    </ar>
+    <dp cpth="" ct="2509031916" cs="c" clt="2509031742" l="85">
+      <m id="r23812297" t="d" c="37" ts="2509031742" ts-tts="25-09-03 17:42:15.614" />
+      <m id="r23812301" t="d" c="37" ts="2509031742" ts-tts="25-09-03 17:42:15.614" />
+    </dp>
+  </s>
+  <s id="-5364265000449810847-2509031914-2" eva="8089043">
+    <ar ct="2509031916" l="41" />
+    <dp ct="2509031917" l="41" />
+  </s>
+  <s id="-2644053306996259691-2509031921-6" eva="8089043">
+    <ar ct="2509031933" l="41" />
+  </s>
+  <s id="-1448510764398849978-2509031821-20" eva="8089043">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:28:05.099" pr="1" />
+    <ar ct="2509031908" l="42" />
+    <dp ct="2509031909" l="42" />
+  </s>
+  <s id="3137983808743053986-2509031929-11" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:03.926" pr="1" />
+    <ar cpth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald" l="9" />
+    <dp cpth="Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" l="9" />
+  </s>
+  <s id="3529272336257423429-2509031817-20" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:03.926" pr="1" />
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:41.107" pr="1" />
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:28:05.098" pr="1" />
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße" ct="2509031904" cs="p" clt="2509031729" l="9" />
+    <dp cpth="Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)" ct="2509031905" cs="p" clt="2509031729" l="9" />
+  </s>
+  <s id="-8682829569901500249-2509031901-6" eva="8089043">
+    <ar ct="2509031911" l="41">
+      <m id="r23681761" t="f" c="0" ts="2509021510" ts-tts="25-09-02 15:10:30.801" />
+      <m id="r23821616" t="f" c="0" ts="2509031841" ts-tts="25-09-03 18:41:31.560" />
+    </ar>
+    <dp ct="2509031912" l="41">
+      <m id="r23681761" t="f" c="0" ts="2509021510" ts-tts="25-09-02 15:10:30.801" />
+      <m id="r23821616" t="f" c="0" ts="2509031841" ts-tts="25-09-03 18:41:31.560" />
+    </dp>
+  </s>
+  <s id="-3532650808845609293-2509031914-10" eva="8089043">
+    <ar cpth="Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald" ct="2509031946" l="8" />
+    <dp cpth="" cs="c" clt="2509031851" l="8" />
+  </s>
+  <s id="-2187702730130877809-2509031857-20" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:03.926" pr="1" />
+    <m id="r2485858" t="h" from="2509031630" to="2509031900" cat="Störung" ts="2509031703" ts-tts="25-09-03 17:03:41.107" pr="1" />
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:28:05.098" pr="1" />
+    <ar ct="2509031942" l="9" />
+    <dp ct="2509031943" l="9" />
+  </s>
+</timetable>

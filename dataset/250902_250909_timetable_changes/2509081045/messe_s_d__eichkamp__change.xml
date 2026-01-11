@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Messe Süd (Eichkamp)" eva="8089328">
+  <s id="5332038598279591037-2509081041-2" eva="8089328">
+    <ar ct="2509081045" l="5" />
+    <dp ct="2509081045" l="5" />
+  </s>
+  <s id="8964939946564790459-2509081018-13" eva="8089328">
+    <ar ppth="Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" pp="2" ct="2509081044" pt="2509081044" l="3" />
+    <dp ppth="Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" pp="2" ct="2509081044" pt="2509081044" l="3" />
+    <tl f="S" t="e" o="08" c="S" n="30082" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="3082" />
+    </ref>
+  </s>
+</timetable>

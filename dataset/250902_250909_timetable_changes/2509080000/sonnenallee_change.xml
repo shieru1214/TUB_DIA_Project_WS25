@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Sonnenallee" eva="8089327">
+  <s id="-6719077218917581860-2509072341-7" eva="8089327">
+    <ar ct="2509080003" l="41" />
+    <dp ct="2509080003" l="41" />
+  </s>
+  <s id="7137176372514041052-2509072358-2" eva="8089327">
+    <ar ppth="Berlin-Neukölln" cp="1" pp="2" ct="2509072359" pt="2509080000" l="42">
+      <m id="r24334221" t="f" c="0" ts="2509072351" ts-tts="25-09-07 23:51:55.783" />
+    </ar>
+    <dp ppth="Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee|Berlin Greifswalder Str" cp="1" pp="2" ct="2509080000" pt="2509080000" l="42">
+      <m id="r24334221" t="f" c="0" ts="2509072351" ts-tts="25-09-07 23:51:55.783" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="43251" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="42251" />
+    </ref>
+  </s>
+</timetable>

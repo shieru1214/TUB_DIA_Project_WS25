@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Friedrichstraße" eva="8011306">
+  <s id="-1517317622695201820-2509030019-103" eva="8011306">
+    <ar cpth="Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf" ppth="Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin Gesundbrunnen" pp="1" ct="2509030119" pt="2509030107" ps="a" l="7">
+      <m id="r23718073" t="f" c="0" ts="2509030030" ts-tts="25-09-03 00:30:29.204" />
+      <m id="r23718074" t="f" c="0" ts="2509030030" ts-tts="25-09-03 00:30:29.204" />
+      <m id="r23718090" t="d" c="48" ts="2509030030" ts-tts="25-09-03 00:30:44.595" />
+      <m id="r23719130" t="f" c="0" ts="2509030114" ts-tts="25-09-03 01:14:39.910" />
+    </ar>
+    <dp cpth="Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz" ppth="Berlin-Lichtenberg" pp="1" ct="2509030120" pt="2509030108" ps="a" l="7">
+      <m id="r23718073" t="f" c="0" ts="2509030030" ts-tts="25-09-03 00:30:29.204" />
+      <m id="r23718074" t="f" c="0" ts="2509030030" ts-tts="25-09-03 00:30:29.204" />
+      <m id="r23718090" t="d" c="48" ts="2509030030" ts-tts="25-09-03 00:30:44.595" />
+      <m id="r23719130" t="f" c="0" ts="2509030114" ts-tts="25-09-03 01:14:39.910" />
+    </dp>
+    <tl f="N" t="p" o="800165" c="RE" n="3742" />
+  </s>
+  <s id="959474257007241311-2509030024-14" eva="8011306">
+    <ar ct="2509030136" l="1">
+      <m id="r23717241" t="d" c="99" ts="2509030004" ts-tts="25-09-03 00:04:24.832" />
+    </ar>
+    <dp ct="2509030137" l="1">
+      <m id="r23717241" t="d" c="99" ts="2509030004" ts-tts="25-09-03 00:04:24.832" />
+    </dp>
+  </s>
+  <s id="58133983524038883-2509022321-23" eva="8011306">
+    <ar ct="2509030126" l="1" />
+    <dp ct="2509030127" l="1" />
+  </s>
+</timetable>

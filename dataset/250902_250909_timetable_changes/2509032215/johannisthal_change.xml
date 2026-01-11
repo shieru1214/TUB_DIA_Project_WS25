@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Johannisthal" eva="8089007">
+  <s id="-4676423176224402078-2509032117-24" eva="8089007">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:04.476" pr="1" />
+    <m id="r2485858" t="h" from="2509031630" to="2509032230" cat="Störung" ts="2509031703" ts-tts="25-09-03 20:16:04.992" pr="1" />
+    <m id="r2485869" t="h" from="2509031700" to="2509032230" cat="Störung" ts="2509031727" ts-tts="25-09-03 20:16:04.993" pr="1" />
+    <ar ct="2509032215" l="9" />
+    <dp ct="2509032216" l="9" />
+  </s>
+  <s id="-1448159960115069506-2509032209-3" eva="8089007">
+    <m id="r2485869" t="h" from="2509031700" to="2509032230" cat="Störung" ts="2509031727" ts-tts="25-09-03 20:16:04.994" pr="1" />
+    <ar cpth="Berlin-Grünau|Berlin-Adlershof" ct="2509032215" l="8" />
+    <dp cpth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee" ct="2509032215" l="8" />
+  </s>
+  <s id="935189708447427529-2509032229-7" eva="8089007">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:04.476" pr="1" />
+    <m id="r2485858" t="h" from="2509031630" to="2509032230" cat="Störung" ts="2509031703" ts-tts="25-09-03 20:16:04.991" pr="1" />
+    <m id="r2485869" t="h" from="2509031700" to="2509032230" cat="Störung" ts="2509031727" ts-tts="25-09-03 20:16:04.993" pr="1" />
+    <ar ct="2509032249" l="9" />
+    <dp ct="2509032250" l="9" />
+  </s>
+  <s id="-484076348877415336-2509032229-3" eva="8089007">
+    <m id="r2485869" t="h" from="2509031700" to="2509032230" cat="Störung" ts="2509031727" ts-tts="25-09-03 20:16:04.994" pr="1" />
+    <ar ct="2509032234" l="8" />
+    <dp ct="2509032235" l="8" />
+  </s>
+  <s id="-1982155264711464200-2509032136-17" eva="8089007">
+    <ar ct="2509032213" l="46" />
+    <dp ct="2509032214" l="46" />
+  </s>
+</timetable>

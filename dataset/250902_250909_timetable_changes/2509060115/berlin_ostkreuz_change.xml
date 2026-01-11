@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostkreuz" eva="8011162">
+  <s id="-5814746695919232751-2509061740-2" eva="8011162">
+    <ar cpth="Werneuchen|Seefeld(Mark)|Blumberg(b Berlin)|Blumberg-Rehhahn|Ahrensfelde Nord|Ahrensfelde Friedhof|Berlin-Lichtenberg" l="25" />
+  </s>
+  <s id="-8122498676978546911-2509061722-1" eva="8011162">
+    <dp cpth="Berlin-Lichtenberg|Ahrensfelde Friedhof|Ahrensfelde Nord|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark)|Werneuchen" l="25">
+      <m id="r24111769" t="f" c="1000" ts="2509052055" ts-tts="25-09-05 20:55:49.800" />
+      <m id="r24111790" t="f" c="0" ts="2509052055" ts-tts="25-09-05 20:56:05.791" />
+      <m id="r24111791" t="f" c="0" ts="2509052055" ts-tts="25-09-05 20:56:05.791" />
+    </dp>
+  </s>
+  <s id="-5175416135645555430-2509061713-6" eva="8011162">
+    <ar l="2">
+      <m id="r24124104" t="f" c="0" ts="2509060003" ts-tts="25-09-06 00:03:10.564" />
+    </ar>
+    <dp l="2">
+      <m id="r24124104" t="f" c="0" ts="2509060003" ts-tts="25-09-06 00:03:10.564" />
+    </dp>
+  </s>
+  <s id="-1036450421401963316-2509061749-3" eva="8011162">
+    <ar l="24">
+      <m id="r24104483" t="f" c="0" ts="2509051948" ts-tts="25-09-05 19:49:11.173" />
+    </ar>
+    <dp l="24">
+      <m id="r24104483" t="f" c="0" ts="2509051948" ts-tts="25-09-05 19:49:11.173" />
+    </dp>
+  </s>
+  <s id="-6025304145799063279-2509061714-2" eva="8011162">
+    <ar l="32">
+      <m id="r24099633" t="f" c="0" ts="2509051912" ts-tts="25-09-05 19:12:51.125" />
+    </ar>
+    <dp l="32">
+      <m id="r24099633" t="f" c="0" ts="2509051912" ts-tts="25-09-05 19:12:51.125" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

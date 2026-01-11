@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bundesplatz" eva="8089107">
+  <s id="9015801011933382798-2509021601-14" eva="8089107">
+    <ar ct="2509021631" l="41">
+      <m id="r23631354" t="f" c="0" ts="2509011624" ts-tts="25-09-02 11:22:05.469" />
+      <m id="r23639854" t="f" c="0" ts="2509011842" ts-tts="25-09-02 11:22:05.469" />
+      <m id="r23639855" t="f" c="0" ts="2509011842" ts-tts="25-09-02 11:22:05.469" />
+    </ar>
+    <dp ct="2509021632" l="41">
+      <m id="r23631354" t="f" c="0" ts="2509011624" ts-tts="25-09-02 11:22:05.469" />
+      <m id="r23639854" t="f" c="0" ts="2509011842" ts-tts="25-09-02 11:22:05.469" />
+      <m id="r23639855" t="f" c="0" ts="2509011842" ts-tts="25-09-02 11:22:05.469" />
+    </dp>
+  </s>
+  <s id="-4364403807034326592-2509021605-12" eva="8089107">
+    <ar ct="2509021629" l="42" />
+    <dp ct="2509021630" l="42" />
+  </s>
+  <s id="494555846565758058-2509021645-12" eva="8089107">
+    <ar ct="2509021709" l="42" />
+    <dp ct="2509021710" l="42" />
+  </s>
+  <s id="-1700676340736539869-2509021541-17" eva="8089107">
+    <m id="r2485131" t="h" from="2509020952" to="2509021600" cat="Störung" ts="2509020953" ts-tts="25-09-02 11:21:16.411" pr="2" />
+    <ar ct="2509021629" l="46" />
+    <dp ct="2509021630" l="46" />
+  </s>
+  <s id="7433705684187241900-2509021541-12" eva="8089107">
+    <m id="r2485131" t="h" from="2509020952" to="2509021600" cat="Störung" ts="2509020953" ts-tts="25-09-02 11:21:16.411" pr="2" />
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz" ct="2509021607" l="42" />
+    <dp cpth="Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee" ct="2509021608" l="42" />
+  </s>
+  <s id="4862017594441901856-2509021644-10" eva="8089107">
+    <ar ct="2509021705" l="41" />
+    <dp ct="2509021706" l="41" />
+  </s>
+</timetable>

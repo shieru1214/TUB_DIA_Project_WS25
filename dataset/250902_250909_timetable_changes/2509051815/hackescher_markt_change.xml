@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hackescher Markt" eva="8089017">
+  <s id="5595153246093810767-2509051830-11" eva="8089017">
+    <ar ct="2509051856" l="3" />
+    <dp ct="2509051857" l="3" />
+  </s>
+  <s id="-6354117395354935521-2509051751-11" eva="8089017">
+    <ar ct="2509051816" l="5" />
+    <dp ct="2509051815" l="5" />
+  </s>
+  <s id="5306577613044590016-2509051729-16" eva="8089017">
+    <ar cpth="Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)" ct="2509051814" l="9" />
+    <dp cpth="Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" ct="2509051815" l="9" />
+  </s>
+  <s id="1383733975399778773-2509051830-22" eva="8089017">
+    <ar ct="2509051929" l="5" />
+    <dp ct="2509051929" l="5" />
+  </s>
+  <s id="-5955654750326801968-2509051829-16" eva="8089017">
+    <ar ct="2509051914" l="9" />
+    <dp ct="2509051914" l="9" />
+  </s>
+  <s id="842729966120304805-2509051604-13" eva="8089017">
+    <ar ct="2509051632" l="5" />
+    <dp ct="2509051633" cde="Berlin-Grunewald" dc="1" l="5" />
+  </s>
+</timetable>

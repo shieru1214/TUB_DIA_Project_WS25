@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hohenzollerndamm" eva="8089108">
+  <s id="-4574763250641606928-2509031634-12" eva="8089108">
+    <ar ct="2509031659" l="41" />
+    <dp ct="2509031700" l="41" />
+  </s>
+  <s id="3263875903703732297-2509031715-10" eva="8089108">
+    <ar ct="2509031735" l="42" />
+    <dp ct="2509031736" l="42" />
+  </s>
+  <s id="-1112041079445511666-2509031641-10" eva="8089108">
+    <ar ct="2509031700" l="42" />
+    <dp ct="2509031701" l="42" />
+  </s>
+  <s id="621212000705644498-2509031811-10" eva="8089108">
+    <ar ct="2509031842" l="42" />
+    <dp ct="2509031842" l="42" />
+  </s>
+  <s id="5465419147661215672-2509031631-16" eva="8089108">
+    <ar ct="2509031722" l="41" />
+    <dp ct="2509031723" l="41" />
+  </s>
+  <s id="-9065876490929463146-2509031751-10" eva="8089108">
+    <ar ct="2509031818" l="42" />
+    <dp ct="2509031819" l="42" />
+  </s>
+  <s id="-8634782990342119502-2509031651-16" eva="8089108">
+    <ar ct="2509031746" l="41" />
+    <dp ct="2509031746" l="41" />
+  </s>
+  <s id="-8097723217538188344-2509031714-12" eva="8089108">
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz" ct="2509031739" l="41" />
+    <dp cpth="Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ct="2509031740" l="41" />
+  </s>
+  <s id="-4754820297020103258-2509031801-10" eva="8089108">
+    <ar l="42">
+      <m id="r23681354" t="f" c="0" ts="2509021503" ts-tts="25-09-02 15:03:58.356" />
+      <m id="r23806382" t="f" c="0" ts="2509031659" ts-tts="25-09-03 16:59:45.259" />
+    </ar>
+    <dp l="42">
+      <m id="r23681354" t="f" c="0" ts="2509021503" ts-tts="25-09-02 15:03:58.356" />
+      <m id="r23806382" t="f" c="0" ts="2509031659" ts-tts="25-09-03 16:59:45.259" />
+    </dp>
+  </s>
+  <s id="8897306426563276461-2509031641-16" eva="8089108">
+    <ar ct="2509031724" l="41" />
+    <dp ct="2509031725" l="41" />
+  </s>
+</timetable>

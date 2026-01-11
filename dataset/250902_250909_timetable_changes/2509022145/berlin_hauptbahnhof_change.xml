@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hbf" eva="8011160">
+  <s id="-130190603183544299-2509021600-13" eva="8011160">
+    <ar ppth="Amsterdam Centraal|Hilversum|Amersfoort Centraal|Apeldoorn|Deventer|Hengelo|Bad Bentheim|Rheine|Osnabrück Hbf|Bünde(Westf)|Hannover Hbf|Berlin-Spandau" pp="12" ct="2509022233" pt="2509022149">
+      <m id="r23693171" t="d" c="51" ts="2509021807" ts-tts="25-09-02 18:07:18.084" />
+      <m id="r23703283" t="d" c="31" ts="2509022145" ts-tts="25-09-02 21:45:54.077" />
+    </ar>
+    <dp ppth="Berlin Ostbahnhof" pp="12" ct="2509022236" pt="2509022153" hi="1">
+      <m id="r23693171" t="d" c="51" ts="2509021807" ts-tts="25-09-02 18:07:18.084" />
+      <m id="r23703283" t="d" c="31" ts="2509022145" ts-tts="25-09-02 21:45:54.077" />
+    </dp>
+    <tl f="F" t="p" o="84" c="IC" n="241" />
+  </s>
+  <s id="8303865692043475120-2509022012-14" eva="8011160">
+    <m id="r2479284" t="h" from="2508310000" to="2509042359" cat="Bauarbeiten" ts="2509012309" ts-tts="25-09-02 10:20:35.263" pr="2" />
+    <ar ct="2509022202" l="1" />
+    <dp ct="2509022204" l="1" />
+  </s>
+  <s id="6891407687717538498-2509022124-15" eva="8011160">
+    <ar ct="2509022251" l="1" />
+    <dp ct="2509022253" l="1" />
+  </s>
+  <s id="-4125508770659859216-2509021802-6" eva="8011160">
+    <ar ppth="Praha hl.n.|Decin hl.n.|Bad Schandau|Dresden Hbf|Berlin Ostbahnhof" pp="14" ct="2509030044" pt="2509022252">
+      <m id="r23698581" t="d" c="24" ts="2509021947" ts-tts="25-09-02 19:47:49.473" />
+    </ar>
+    <dp ppth="Deventer|Amersfoort Centraal|Amsterdam Centraal|Den Haag HS|Rotterdam Centraal|Roosendaal|Antwerpen Centraal|Bruxelles Midi" pp="14" ct="2509030047" pt="2509022256">
+      <m id="r23698581" t="d" c="24" ts="2509021947" ts-tts="25-09-02 19:47:49.473" />
+    </dp>
+    <tl t="p" o="5188" c="ES" n="452" />
+  </s>
+  <s id="8510220935223586141-2509022014-22" eva="8011160">
+    <ar ct="2509022218" l="7" />
+    <dp ct="2509022219" l="7" />
+  </s>
+</timetable>

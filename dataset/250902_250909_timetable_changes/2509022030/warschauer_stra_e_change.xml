@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="4653554903060176666-2509021947-19" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 10:48:50.549" pr="1" />
+    <ar ct="2509022030" l="3" />
+    <dp ct="2509022030" l="3" />
+  </s>
+  <s id="1605975111611790114-2509022011-9" eva="8089045">
+    <ar ct="2509022030" l="5" />
+    <dp ct="2509022031" l="5" />
+  </s>
+  <s id="1265749905633546470-2509022016-4" eva="8089045">
+    <m id="r2485165" t="h" from="2509021000" to="2509031800" cat="Störung" ts="2509021056" ts-tts="25-09-02 10:56:17.558" pr="2" />
+    <ar cpth="" cp="3" ct="2509022025" cs="c" clt="2509022012" l="7" />
+    <dp cpth="Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee|Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" cp="3" ct="2509022029" l="7" />
+  </s>
+</timetable>

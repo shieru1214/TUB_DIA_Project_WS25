@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tiergarten" eva="8089091">
+  <s id="4278920179134745262-2509040910-15" eva="8089091">
+    <ar cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue" ct="2509040946" cs="p" clt="2509040757" l="3" />
+    <dp cpth="Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2509040946" cs="p" clt="2509040757" l="3" />
+  </s>
+  <s id="4986941560409689428-2509040916-12" eva="8089091">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.390" pr="2" />
+    <ar ct="2509040944" l="7" />
+    <dp ct="2509040944" l="7" />
+  </s>
+  <s id="-2164922119900918067-2509040850-15" eva="8089091">
+    <ar ct="2509040929" l="3" />
+    <dp ct="2509040930" l="3" />
+  </s>
+</timetable>

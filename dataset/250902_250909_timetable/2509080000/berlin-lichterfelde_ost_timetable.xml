@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde Ost">
+  <s id="4017972157379463891-2509080042-4">
+    <tl f="N" t="p" o="800158" c="RE" n="3363" />
+    <ar pt="2509080056" pp="3" l="3" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" />
+    <dp pt="2509080057" pp="3" l="3" ppth="Teltow|Großbeeren|Birkengrund|Ludwigsfelde|Thyrow|Trebbin|Woltersdorf/Nuthe-Urstromtal|Luckenwalde|Jüterbog" />
+  </s>
+  <s id="-4398534199326013641-2509080007-9">
+    <tl f="N" t="p" o="OWRE" c="RE" n="62089" />
+    <ar pt="2509080056" pp="4" l="8" ppth="Baruth(Mark)|Neuhof(b Zossen)|Wünsdorf-Waldstadt|Zossen|Dabendorf|Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)" />
+    <dp pt="2509080057" pp="4" l="8" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" />
+  </s>
+  <s id="7022789033164733279-2509072300-16">
+    <tl f="N" t="p" o="800158" c="RE" n="3366" />
+    <ar pt="2509080020" pp="4" l="3" ppth="Lutherstadt Wittenberg Hbf|Zörnigall|Bülzig|Zahna|Blönsdorf|Niedergörsdorf|Jüterbog|Luckenwalde|Woltersdorf/Nuthe-Urstromtal|Trebbin|Thyrow|Ludwigsfelde|Birkengrund|Großbeeren|Teltow" />
+    <dp pt="2509080021" pp="4" l="3" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf|Berlin Gesundbrunnen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf" />
+  </s>
+</timetable>

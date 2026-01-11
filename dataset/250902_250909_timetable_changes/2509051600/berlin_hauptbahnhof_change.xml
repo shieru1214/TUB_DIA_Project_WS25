@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hbf" eva="8011160">
+  <s id="-8217114816724687027-2509051501-10" eva="8011160">
+    <m id="r2486874" t="h" from="2509051501" to="2509051741" cat="Störung" ts="2509051406" ts-tts="25-09-05 14:06:18.891" pr="1" />
+    <ar cpth="Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten" ppth="Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten" pp="12" ct="2509051615" pt="2509051544" l="7">
+      <m id="r24052410" t="d" c="23" ts="2509051353" ts-tts="25-09-05 13:53:30.837" />
+    </ar>
+    <dp cpth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Calau(Nl)|Luckaitztal|Altdöbern|Großräschen|Sedlitz Ost|Senftenberg" ppth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Calau(Nl)|Luckaitztal|Altdöbern|Großräschen|Sedlitz Ost|Senftenberg" pp="12" ct="2509051617" pt="2509051546" l="7">
+      <m id="r24052410" t="d" c="23" ts="2509051353" ts-tts="25-09-05 13:53:30.837" />
+    </dp>
+    <tl f="N" t="p" o="800165" c="RE" n="3724" />
+  </s>
+  <s id="3734400738937518806-2509051000-13" eva="8011160">
+    <m id="r2486830" t="h" from="2509051000" to="2509051602" cat="Information" ts="2509051250" ts-tts="25-09-05 12:50:29.550" pr="2" />
+    <m id="r975580149" t="c" ts="2509051545" ts-tts="25-09-05 15:45:20.508" />
+    <m id="r975580151" t="c" ts="2509051545" ts-tts="25-09-05 15:45:20.508" />
+    <m id="r975580152" t="c" ts="2509051545" ts-tts="25-09-05 15:45:20.508" />
+    <ar ct="2509051603">
+      <m id="r24045179" t="f" c="0" ts="2509051250" ts-tts="25-09-05 12:50:29.880" />
+      <m id="r24059222" t="d" c="43" ts="2509051435" ts-tts="25-09-05 14:36:03.096" />
+      <m id="r24059224" t="d" c="43" ts="2509051435" ts-tts="25-09-05 14:36:03.096" />
+      <m id="r24059226" t="d" c="43" ts="2509051435" ts-tts="25-09-05 14:36:03.096" />
+      <m id="r24069465" t="f" c="0" ts="2509051539" ts-tts="25-09-05 15:39:56.929" />
+      <m id="r24069466" t="f" c="0" ts="2509051539" ts-tts="25-09-05 15:39:56.929" />
+    </ar>
+    <dp ct="2509051606">
+      <m id="r24045179" t="f" c="0" ts="2509051250" ts-tts="25-09-05 12:50:29.880" />
+      <m id="r24059222" t="d" c="43" ts="2509051435" ts-tts="25-09-05 14:36:03.096" />
+      <m id="r24059224" t="d" c="43" ts="2509051435" ts-tts="25-09-05 14:36:03.096" />
+      <m id="r24059226" t="d" c="43" ts="2509051435" ts-tts="25-09-05 14:36:03.096" />
+      <m id="r24069465" t="f" c="0" ts="2509051539" ts-tts="25-09-05 15:39:56.929" />
+      <m id="r24069466" t="f" c="0" ts="2509051539" ts-tts="25-09-05 15:39:56.929" />
+    </dp>
+  </s>
+  <s id="8735333063408268302-2509051512-14" eva="8011160">
+    <ar ct="2509051658" l="1" />
+    <dp ct="2509051700" l="1" />
+  </s>
+  <s id="6071966870883745842-2509051519-10" eva="8011160">
+    <ar ct="2509051615" l="1" />
+    <dp ct="2509051617" l="1" />
+  </s>
+  <s id="-5992899827719703490-2509051412-14" eva="8011160">
+    <ar ct="2509051559" l="1" />
+    <dp ct="2509051601" l="1">
+      <m id="r24070245" t="f" c="0" ts="2509051545" ts-tts="25-09-05 15:45:20.650" />
+    </dp>
+  </s>
+  <s id="-561089680166663487-2509051955-10" eva="8011160">
+    <ar ct="2509052058" l="1" />
+    <dp ct="2509052100" l="1" />
+  </s>
+  <s id="-1869923735659366107-2509051526-14" eva="8011160">
+    <ar ct="2509051641" l="1">
+      <m id="r24052911" t="d" c="51" ts="2509051358" ts-tts="25-09-05 13:58:18.132" />
+    </ar>
+    <dp ct="2509051643" l="1">
+      <m id="r24052911" t="d" c="51" ts="2509051358" ts-tts="25-09-05 13:58:18.132" />
+    </dp>
+  </s>
+  <s id="8131002448481819974-2509051553-2" eva="8011160">
+    <m id="r2486597" t="h" from="2509050800" to="2509052159" cat="Information" ts="2509050339" ts-tts="25-09-05 03:39:58.551" pr="2" />
+    <ar ct="2509051603">
+      <m id="r23996171" t="q" c="95" ts="2509050346" ts-tts="25-09-05 03:46:52.477" />
+      <m id="r23996173" t="q" c="95" ts="2509050346" ts-tts="25-09-05 03:46:52.477" />
+    </ar>
+    <dp ct="2509051608">
+      <m id="r23996171" t="q" c="95" ts="2509050346" ts-tts="25-09-05 03:46:52.477" />
+      <m id="r23996173" t="q" c="95" ts="2509050346" ts-tts="25-09-05 03:46:52.477" />
+      <m id="r24068510" t="f" c="0" ts="2509051534" ts-tts="25-09-05 15:34:33.891" />
+    </dp>
+  </s>
+</timetable>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="-7089612252540881345-2509042347-13" eva="8089045">
+    <ar cpth="Berlin Ostbahnhof (S)" ct="2509050002" cs="p" clt="2509042307" l="5" />
+    <dp cpth="Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)|Birkenstein|Hoppegarten(Mark)|Neuenhagen(b Berlin)|Fredersdorf(b Berlin)|Petershagen Nord|Strausberg (S)|Strausberg-Hegermühle|Strausberg Stadt|Strausberg Nord" ct="2509050015" l="5" />
+  </s>
+  <s id="3332264459580462531-2509042321-19" eva="8089045">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.182" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.075" pr="1" />
+    <ar ct="2509050017" l="7" />
+    <dp ct="2509050018" l="7" />
+  </s>
+  <s id="8253464076549036480-2509050029-12" eva="8089045">
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park" ct="2509050105" cs="c" clt="2509041632" l="9">
+      <m id="r23962485" t="f" c="0" ts="2509041911" ts-tts="25-09-04 19:11:53.838" />
+    </ar>
+    <dp cpth="" cs="c" clt="2509041632" l="9">
+      <m id="r23962485" t="f" c="0" ts="2509041911" ts-tts="25-09-04 19:11:53.838" />
+    </dp>
+  </s>
+  <s id="2764261752792737355-2509042347-19" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.620" pr="1" />
+    <ar ct="2509050030" l="3" />
+    <dp ct="2509050030" l="3" />
+  </s>
+  <s id="8783116678913773719-2509042351-11" eva="8089045">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.182" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.075" pr="1" />
+    <ar ct="2509050013" l="7" />
+    <dp ct="2509050014" l="7" />
+  </s>
+</timetable>

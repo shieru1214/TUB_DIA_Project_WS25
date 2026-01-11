@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Zoologischer Garten" eva="8010406">
+  <s id="8510220935223586141-2509042014-23" eva="8010406">
+    <m id="r2486445" t="h" from="2509042014" to="2509042300" cat="Störung" ts="2509041845" ts-tts="25-09-04 18:45:27.926" pr="1" />
+    <ar cpth="Calau(Nl)|Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf" ct="2509042221" l="7">
+      <m id="r23957658" t="d" c="23" ts="2509041839" ts-tts="25-09-04 18:39:41.903" />
+      <m id="r23957662" t="d" c="23" ts="2509041839" ts-tts="25-09-04 18:39:41.903" />
+      <m id="r23975539" t="d" c="48" ts="2509042050" ts-tts="25-09-04 20:50:15.573" />
+      <m id="r23975541" t="d" c="48" ts="2509042050" ts-tts="25-09-04 20:50:15.573" />
+      <m id="r23975543" t="d" c="48" ts="2509042050" ts-tts="25-09-04 20:50:15.573" />
+    </ar>
+    <dp cpth="Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Wilhelmshorst|Michendorf|Seddin|Beelitz-Heilstätten" ct="2509042222" l="7">
+      <m id="r23957658" t="d" c="23" ts="2509041839" ts-tts="25-09-04 18:39:41.903" />
+      <m id="r23957662" t="d" c="23" ts="2509041839" ts-tts="25-09-04 18:39:41.903" />
+      <m id="r23975539" t="d" c="48" ts="2509042050" ts-tts="25-09-04 20:50:15.573" />
+      <m id="r23975541" t="d" c="48" ts="2509042050" ts-tts="25-09-04 20:50:15.573" />
+      <m id="r23975543" t="d" c="48" ts="2509042050" ts-tts="25-09-04 20:50:15.573" />
+    </dp>
+  </s>
+  <s id="5286052860398430851-2509042027-10" eva="8010406">
+    <ar ct="2509042142" l="2" />
+    <dp ct="2509042144" l="2" />
+  </s>
+  <s id="-9002286632978644068-2509042119-9" eva="8010406">
+    <ar ct="2509042207" l="1" />
+    <dp ct="2509042208" l="1" />
+  </s>
+  <s id="-2623994358177268110-2509042201-9" eva="8010406">
+    <ar ct="2509042245" l="7" />
+    <dp ct="2509042246" l="7" />
+  </s>
+</timetable>

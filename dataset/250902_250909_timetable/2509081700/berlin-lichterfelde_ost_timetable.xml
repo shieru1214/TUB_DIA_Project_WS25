@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde Ost">
+  <s id="5010526028320168631-2509081703-6">
+    <tl f="N" t="p" o="800158" c="RE" n="3179" />
+    <ar pt="2509081736" pp="4" l="4" ppth="Jüterbog|Luckenwalde|Trebbin|Thyrow|Ludwigsfelde" />
+    <dp pt="2509081737" pp="4" l="4" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow|Stendal Hbf" />
+  </s>
+  <s id="7046067404449160463-2509081633-7">
+    <tl f="N" t="p" o="800158" c="RE" n="3352" />
+    <ar pt="2509081713" pp="4" l="3" ppth="Jüterbog|Luckenwalde|Ludwigsfelde|Birkengrund|Großbeeren|Teltow" />
+    <dp pt="2509081714" pp="4" l="3" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf|Berlin Gesundbrunnen|Bernau(b Berlin)|Eberswalde Hbf|Britz|Chorin|Angermünde|Pinnow(Uckermark)|Schwedt(Oder)Mitte|Schwedt(Oder)" />
+  </s>
+  <s id="5331492881021832780-2509081612-18">
+    <tl f="N" t="p" o="OWRE" c="RE" n="62077" />
+    <ar pt="2509081753" pp="4" l="8" ppth="Elsterwerda|Hohenleipisch|Rückersdorf|Doberlug-Kirchhain|Walddrehna|Luckau-Uckro|Drahnsdorf|Golßen(Niederlausitz)|Klasdorf Glashütte|Baruth(Mark)|Neuhof(b Zossen)|Wünsdorf-Waldstadt|Zossen|Dabendorf|Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)" />
+    <dp pt="2509081754" pp="4" l="8" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" />
+  </s>
+  <s id="277859891258251921-2509081742-4">
+    <tl f="N" t="p" o="OWRE" c="RE" n="62078" />
+    <ar pt="2509081757" pp="3" l="8" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" />
+    <dp pt="2509081758" pp="3" l="8" ppth="Blankenfelde(Teltow-Fläming)|Dahlewitz|Rangsdorf|Dabendorf|Zossen|Wünsdorf-Waldstadt|Neuhof(b Zossen)|Baruth(Mark)|Klasdorf Glashütte|Golßen(Niederlausitz)|Drahnsdorf|Luckau-Uckro|Walddrehna|Doberlug-Kirchhain|Rückersdorf|Hohenleipisch|Elsterwerda" />
+  </s>
+  <s id="-2009936658125021230-2509081602-13">
+    <tl f="N" t="p" o="800158" c="RE" n="3156" />
+    <ar pt="2509081718" pp="3" l="4" ppth="Rathenow|Nennhausen|Buschow|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau|Berlin Jungfernheide|Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" />
+    <dp pt="2509081719" pp="3" l="4" ppth="Ludwigsfelde|Thyrow|Trebbin|Luckenwalde|Jüterbog|Oehna|Zellendorf|Linda(Elster)|Holzdorf(Elster)|Herzberg(Elster)|Falkenberg(Elster)" />
+  </s>
+  <s id="-3328953150323105848-2509081645-4">
+    <tl f="N" t="p" o="OWRE" c="RE" n="62076" />
+    <ar pt="2509081700" pp="3" l="8" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" />
+    <dp pt="2509081701" pp="3" l="8" ppth="Blankenfelde(Teltow-Fläming)|Dahlewitz|Rangsdorf|Dabendorf|Zossen|Wünsdorf-Waldstadt|Neuhof(b Zossen)|Baruth(Mark)|Golßen(Niederlausitz)|Luckau-Uckro" />
+  </s>
+  <s id="-1325035297184672827-2509081416-27">
+    <tl f="N" t="p" o="800158" c="RE" n="3313" />
+    <ar pt="2509081749" pp="3" l="3" ppth="Stralsund Hbf|Miltzow|Greifswald|Greifswald Süd|Groß Kiesow|Züssow|Klein Bünzow|Anklam|Ducherow|Ferdinandshof|Jatznick|Pasewalk|Nechlin|Prenzlau|Seehausen(Uckermark)|Warnitz(Uckermark)|Wilmersdorf(Angerm)|Angermünde|Chorin|Britz|Eberswalde Hbf|Bernau(b Berlin)|Berlin Gesundbrunnen|Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" />
+    <dp pt="2509081749" pp="3" l="3" ppth="Teltow|Großbeeren|Birkengrund|Ludwigsfelde|Luckenwalde|Jüterbog" />
+  </s>
+</timetable>

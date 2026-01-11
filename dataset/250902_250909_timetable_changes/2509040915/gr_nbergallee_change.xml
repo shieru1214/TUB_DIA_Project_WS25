@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Grünbergallee" eva="8089016">
+  <s id="7701928420648413471-2509040848-11" eva="8089016">
+    <ar ct="2509040915" l="45" />
+    <dp ct="2509040915" l="45" />
+  </s>
+  <s id="-6019683280205975201-2509040929-4" eva="8089016">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.888" pr="1" />
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)" ct="2509040940" l="9" />
+    <dp cpth="Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)" ct="2509040941" l="9" />
+  </s>
+</timetable>

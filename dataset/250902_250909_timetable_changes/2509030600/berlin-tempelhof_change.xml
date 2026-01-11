@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tempelhof" eva="8089090">
+  <s id="-3019498639350273566-2509030545-16" eva="8089090">
+    <ar ct="2509030619" l="42" />
+    <dp ct="2509030619" l="42" />
+  </s>
+  <s id="-2444957273461574662-2509030515-16" eva="8089090">
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz" ct="2509030547" cs="c" clt="2509030547" l="42" />
+    <dp cpth="" ct="2509030600" cs="c" clt="2509030547" l="42" />
+  </s>
+  <s id="-3292124869644948415-2509030615-16" eva="8089090">
+    <ar ct="2509030647" l="42" />
+    <dp ct="2509030648" l="42" />
+  </s>
+  <s id="6142042396263689567-2509030521-13" eva="8089090">
+    <ar ct="2509030600" l="46" />
+    <dp ct="2509030600" l="46" />
+  </s>
+  <s id="-3621740344997980442-2509030634-6" eva="8089090">
+    <ar cpth="" cs="c" clt="2509030559" l="41" />
+    <dp cpth="Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" cs="c" clt="2509030559" l="41" />
+  </s>
+  <s id="6140040641363728959-2509030556-11" eva="8089090">
+    <ar ct="2509030616" l="46" />
+    <dp ct="2509030616" l="46" />
+  </s>
+</timetable>

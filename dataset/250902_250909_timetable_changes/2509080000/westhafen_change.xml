@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westhafen" eva="8089116">
+  <s id="-6719077218917581860-2509072341-23" eva="8089116">
+    <ar ct="2509080035" l="41" />
+    <dp ct="2509080035" l="41" />
+  </s>
+  <s id="-8505691472837027427-2509072353-14" eva="8089116">
+    <ar ppth="Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße" pp="1" ct="2509080025" pt="2509080019" l="41" />
+    <dp ppth="Berlin-Wedding|Berlin Gesundbrunnen(S)" pp="1" ct="2509080025" pt="2509080021" l="41" />
+    <tl f="S" t="e" o="08" c="S" n="40244" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="41244" />
+    </ref>
+  </s>
+  <s id="-3362428485399975220-2509072311-23" eva="8089116">
+    <ar ct="2509080000" l="41" />
+    <dp ct="2509080001" l="41" />
+  </s>
+</timetable>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tempelhof" eva="8089090">
+  <s id="-9142387668131414717-2509081908-16" eva="8089090">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:40.977" pr="2" />
+    <ar cpth="Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)|Berlin Schönhauser Allee|Berlin Prenzlauer Allee|Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park" ct="2509082009" cs="c" clt="2509081937" l="41" />
+    <dp cpth="" ct="2509082010" cs="c" clt="2509081937" l="41" />
+  </s>
+  <s id="-7500908397529856017-2509081933-16" eva="8089090">
+    <ar cpth="" ct="2509082032" cs="c" clt="2509081952" l="41" />
+    <dp cpth="" ct="2509082032" cs="c" clt="2509081952" l="41" />
+  </s>
+  <s id="-4039610696057442525-2509081921-13" eva="8089090">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.271" pr="2" />
+    <ar ct="2509082000" l="46" />
+    <dp ct="2509082000" l="46" />
+  </s>
+  <s id="2083850143317304381-2509081936-11" eva="8089090">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.271" pr="2" />
+    <ar ct="2509082000" l="46" />
+    <dp ct="2509082000" l="46" />
+  </s>
+  <s id="503586735705071123-2509081928-13" eva="8089090">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:40.977" pr="2" />
+    <ar cpth="Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)" ct="2509081958" l="42" />
+    <dp cpth="Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee|Berlin Greifswalder Str|Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße" ct="2509081959" l="42" />
+  </s>
+</timetable>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostbahnhof" eva="8010255">
+  <s id="6047330944616926633-2509050816-1" eva="8010255">
+    <dp ppth="Berlin Hbf|Berlin-Spandau|Wolfsburg Hbf|Braunschweig Hbf|Hildesheim Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda|Hanau Hbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB" pp="6" pt="2509050816">
+      <m id="r23996058" t="f" c="0" ts="2509050344" ts-tts="25-09-05 03:44:49.961" />
+      <m id="r23996110" t="f" c="0" ts="2509050345" ts-tts="25-09-05 03:45:35.943" />
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2879" />
+  </s>
+  <s id="3879179377796470480-2509050744-3" eva="8010255">
+    <ar ct="2509050806" l="8" />
+    <dp ct="2509050807" l="8" />
+  </s>
+  <s id="700156942723660705-2509050336-6" eva="8010255">
+    <ar ct="2509050357" l="8" />
+    <dp ct="2509050358" l="8" />
+  </s>
+  <s id="-1148487310983463931-2509051613-18" eva="8010255">
+    <ar ppth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Hanau Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf" pp="2" pt="2509052342">
+      <m id="r23996027" t="f" c="0" ts="2509050343" ts-tts="25-09-05 03:44:04.077" />
+    </ar>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2874" />
+  </s>
+</timetable>

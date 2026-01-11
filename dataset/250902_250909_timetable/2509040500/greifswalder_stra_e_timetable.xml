@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Greifswalder Str">
+  <s id="1134770387784459528-2509040451-25">
+    <tl f="S" t="p" o="08" c="S" n="42029" />
+    <ar pt="2509040549" pp="2" l="42" pde="Berlin-Pankow" ppth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee" />
+  </s>
+  <s id="-5936659572851856560-2509040541-1">
+    <tl f="S" t="p" o="08" c="S" n="41030" />
+    <dp pt="2509040541" pp="2" l="41" pde="Berlin-Pankow" ppth="Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" />
+  </s>
+  <s id="5691964330365559484-2509040515-1">
+    <tl t="p" o="080001" c="Bus" n="42119" />
+    <dp pt="2509040515" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="-8100886502690095232-2509040541-4">
+    <tl t="p" o="080001" c="Bus" n="41134" />
+    <ar pt="2509040558" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+  </s>
+  <s id="2157437294902529507-2509040431-25">
+    <tl f="S" t="p" o="08" c="S" n="42025" />
+    <ar pt="2509040529" pp="2" l="42" pde="Berlin-Pankow" ppth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee" />
+  </s>
+  <s id="-2283944472227373919-2509040538-4">
+    <tl t="p" o="080001" c="Bus" n="41132" />
+    <ar pt="2509040555" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+  </s>
+  <s id="-9116304643700898743-2509040458-4">
+    <tl t="p" o="080001" c="Bus" n="41112" />
+    <ar pt="2509040515" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+  </s>
+  <s id="8569104336770404627-2509040530-1">
+    <tl t="p" o="080001" c="Bus" n="42125" />
+    <dp pt="2509040530" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="900379685940498565-2509040503-4">
+    <tl t="p" o="080001" c="Bus" n="41114" />
+    <ar pt="2509040520" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+  </s>
+  <s id="6349512553976843313-2509040501-25">
+    <tl f="S" t="p" o="08" c="S" n="42031" />
+    <ar pt="2509040559" pp="2" l="42" ppth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee" />
+  </s>
+  <s id="2261447902108826241-2509040532-4">
+    <tl t="p" o="080001" c="Bus" n="41128" />
+    <ar pt="2509040549" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+  </s>
+  <s id="1751197196177293692-2509040421-25">
+    <tl f="S" t="p" o="08" c="S" n="42023" />
+    <ar pt="2509040519" pp="2" l="42" pde="Berlin-Pankow" ppth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee" />
+  </s>
+  <s id="-6034324646087011637-2509040536-1">
+    <tl t="p" o="080001" c="Bus" n="42129" />
+    <dp pt="2509040536" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="473745571794324261-2509040518-4">
+    <tl t="p" o="080001" c="Bus" n="41120" />
+    <ar pt="2509040535" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+  </s>
+  <s id="7773620951285751539-2509040453-4">
+    <tl t="p" o="080001" c="Bus" n="41110" />
+    <ar pt="2509040510" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+  </s>
+  <s id="-4335810696147139025-2509040551-1">
+    <tl f="S" t="p" o="08" c="S" n="41032" />
+    <dp pt="2509040551" pp="2" l="41" pde="Berlin-Pankow" ppth="Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" />
+  </s>
+  <s id="661628181007212436-2509040533-1">
+    <tl t="p" o="080001" c="Bus" n="42127" />
+    <dp pt="2509040533" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="1756687800343352635-2509040501-1">
+    <tl f="S" t="p" o="08" c="S" n="41022" />
+    <dp pt="2509040501" pp="2" l="41" pde="Berlin-Pankow" ppth="Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" />
+  </s>
+  <s id="8857839021148154569-2509040443-4">
+    <tl t="p" o="080001" c="Bus" n="41106" />
+    <ar pt="2509040500" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+  </s>
+  <s id="9213219965423640418-2509040505-1">
+    <tl t="p" o="080001" c="Bus" n="42115" />
+    <dp pt="2509040505" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="-5774436091397725149-2509040554-1">
+    <tl t="p" o="080001" c="Bus" n="42141" />
+    <dp pt="2509040554" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="1242079803922602708-2509040539-1">
+    <tl t="p" o="080001" c="Bus" n="42131" />
+    <dp pt="2509040539" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="-681450840821605762-2509040448-4">
+    <tl t="p" o="080001" c="Bus" n="41108" />
+    <ar pt="2509040505" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+  </s>
+  <s id="-3276528536432477514-2509040411-25">
+    <tl f="S" t="p" o="08" c="S" n="42021" />
+    <ar pt="2509040509" pp="2" l="42" pde="Berlin-Pankow" ppth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee" />
+  </s>
+  <s id="1636796432296665810-2509040526-4">
+    <tl t="p" o="080001" c="Bus" n="41124" />
+    <ar pt="2509040543" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+  </s>
+  <s id="-3520216030099624936-2509040521-1">
+    <tl f="S" t="p" o="08" c="S" n="41026" />
+    <dp pt="2509040521" pp="2" l="41" pde="Berlin-Pankow" ppth="Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" />
+  </s>
+  <s id="8135953597085099886-2509040542-1">
+    <tl t="p" o="080001" c="Bus" n="42133" />
+    <dp pt="2509040542" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="-1566711547889299765-2509040441-25">
+    <tl f="S" t="p" o="08" c="S" n="42027" />
+    <ar pt="2509040539" pp="2" l="42" pde="Berlin-Pankow" ppth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee" />
+  </s>
+  <s id="-3442846771289399488-2509040548-1">
+    <tl t="p" o="080001" c="Bus" n="42137" />
+    <dp pt="2509040548" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="8182248687251005834-2509040535-4">
+    <tl t="p" o="080001" c="Bus" n="41130" />
+    <ar pt="2509040552" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+  </s>
+  <s id="-4459913346232517613-2509040529-4">
+    <tl t="p" o="080001" c="Bus" n="41126" />
+    <ar pt="2509040546" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+  </s>
+  <s id="1291881649727568957-2509040531-1">
+    <tl f="S" t="p" o="08" c="S" n="41028" />
+    <dp pt="2509040531" pp="2" l="41" pde="Berlin-Pankow" ppth="Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" />
+  </s>
+  <s id="8921670171967341030-2509040500-1">
+    <tl t="p" o="080001" c="Bus" n="42113" />
+    <dp pt="2509040500" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="-811550262330141285-2509040525-1">
+    <tl t="p" o="080001" c="Bus" n="42123" />
+    <dp pt="2509040525" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="1779742233351231988-2509040520-1">
+    <tl t="p" o="080001" c="Bus" n="42121" />
+    <dp pt="2509040520" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="7608031122185667669-2509040511-1">
+    <tl f="S" t="p" o="08" c="S" n="41024" />
+    <dp pt="2509040511" pp="2" l="41" pde="Berlin-Pankow" ppth="Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" />
+  </s>
+  <s id="-4618214774754709061-2509040557-1">
+    <tl t="p" o="080001" c="Bus" n="42143" />
+    <dp pt="2509040557" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="3109384510306338471-2509040508-4">
+    <tl t="p" o="080001" c="Bus" n="41116" />
+    <ar pt="2509040525" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+  </s>
+  <s id="-4634884294580787183-2509040545-1">
+    <tl t="p" o="080001" c="Bus" n="42135" />
+    <dp pt="2509040545" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="-3084033827360405314-2509040510-1">
+    <tl t="p" o="080001" c="Bus" n="42117" />
+    <dp pt="2509040510" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="-932136799515683175-2509040513-4">
+    <tl t="p" o="080001" c="Bus" n="41118" />
+    <ar pt="2509040530" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+  </s>
+  <s id="-6807087446589887859-2509040523-4">
+    <tl t="p" o="080001" c="Bus" n="41122" />
+    <ar pt="2509040540" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+  </s>
+  <s id="-5696402722289457466-2509040551-1">
+    <tl t="p" o="080001" c="Bus" n="42139" />
+    <dp pt="2509040551" pp="" l="S42" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+</timetable>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Pankow" eva="8089080">
+  <s id="-6987767707760135858-2509081354-3" eva="8089080">
+    <m id="r2488181" t="h" from="2509081030" to="2509081300" cat="Störung" ts="2509081114" ts-tts="25-09-08 12:16:03.813" pr="2" />
+    <m id="r2488182" t="h" from="2509081030" to="2509082030" cat="Störung" ts="2509081116" ts-tts="25-09-08 11:17:03.465" pr="2" />
+    <ar ct="2509081359" l="26" />
+    <dp ct="2509081400" l="26" />
+  </s>
+  <s id="3248998018641870597-2509081322-18" eva="8089080">
+    <ar ct="2509081400" l="2" />
+    <dp ct="2509081401" l="2" />
+  </s>
+  <s id="-6273811174645192051-2509081415-19" eva="8089080">
+    <m id="r2488181" t="h" from="2509081030" to="2509081300" cat="Störung" ts="2509081114" ts-tts="25-09-08 12:16:03.813" pr="2" />
+    <m id="r2488182" t="h" from="2509081030" to="2509082030" cat="Störung" ts="2509081116" ts-tts="25-09-08 11:17:03.465" pr="2" />
+    <ar ct="2509081457" l="26" />
+    <dp ct="2509081457" l="26" />
+  </s>
+  <s id="-34638345912819589-2509081414-19" eva="8089080">
+    <m id="r2488245" t="h" from="2509081330" to="2509082359" cat="Störung" ts="2509081337" ts-tts="25-09-08 13:37:22.285" pr="2" />
+    <ar cpth="Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee|Berlin Greifswalder Str|Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Berlin Bornholmer Str." ct="2509081507" l="8" />
+    <dp cpth="Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2509081507" l="8" />
+  </s>
+  <s id="-9031231593525407702-2509081414-3" eva="8089080">
+    <m id="r2488181" t="h" from="2509081030" to="2509081300" cat="Störung" ts="2509081114" ts-tts="25-09-08 12:16:03.813" pr="2" />
+    <m id="r2488182" t="h" from="2509081030" to="2509082030" cat="Störung" ts="2509081116" ts-tts="25-09-08 11:17:03.465" pr="2" />
+    <ar ct="2509081419" l="26" />
+    <dp ct="2509081420" l="26" />
+  </s>
+</timetable>

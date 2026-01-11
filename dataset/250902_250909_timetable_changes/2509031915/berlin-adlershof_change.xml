@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Adlershof" eva="8089052">
+  <s id="-3452162838091792106-2509031845-8" eva="8089052">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:54.859" pr="1" />
+    <ar cpth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal" ct="2509031928" cs="p" clt="2509031850" l="8" />
+    <dp cpth="Berlin-Grünau" ct="2509031928" cs="p" clt="2509031850" l="8" />
+  </s>
+  <s id="-9093213910137041821-2509031848-9" eva="8089052">
+    <ar ct="2509031914" l="45" />
+    <dp ct="2509031915" l="45" />
+  </s>
+  <s id="-1273495057155456096-2509031857-6" eva="8089052">
+    <ar ct="2509031915" l="45" />
+    <dp ct="2509031915" l="45" />
+  </s>
+</timetable>

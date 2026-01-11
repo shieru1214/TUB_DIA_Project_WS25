@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Nordbahnhof" eva="8089024">
+  <s id="2521186996682526744-2509080408-15" eva="8089024">
+    <ar ct="2509080446" l="2" />
+    <dp ct="2509080446" l="2" />
+  </s>
+  <s id="-1753987334077969698-2509080357-9" eva="8089024">
+    <ar cpth="Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße" ct="2509080414" l="1">
+      <m id="r24336954" t="f" c="0" ts="2509080138" ts-tts="25-09-08 01:38:15.330" />
+    </ar>
+    <dp cpth="Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)" ct="2509080414" l="1">
+      <m id="r24336954" t="f" c="0" ts="2509080138" ts-tts="25-09-08 01:38:15.330" />
+    </dp>
+  </s>
+</timetable>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jannowitzbrücke" eva="8089019">
+  <s id="4886675896764328242-2509071656-6" eva="8089019">
+    <ar ct="2509071709" l="7" />
+    <dp ct="2509071710" l="7" />
+  </s>
+  <s id="2669617879047159482-2509071651-13" eva="8089019">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 16:16:04.314" pr="1" />
+    <ar ct="2509071719" l="7" />
+    <dp ct="2509071719" l="7" />
+  </s>
+  <s id="-914120619767525569-2509071631-13" eva="8089019">
+    <ar cpth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" ct="2509071700" l="5" />
+    <dp cpth="Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)" ct="2509071701" l="5" />
+  </s>
+  <s id="2217815356718811581-2509071625-14" eva="8089019">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:02.816" pr="1" />
+    <ar ct="2509071700" l="3" />
+    <dp ct="2509071700" l="3" />
+  </s>
+  <s id="4470961940831818531-2509071611-17" eva="8089019">
+    <ar ct="2509071658" l="7" />
+    <dp ct="2509071659" l="7" />
+  </s>
+</timetable>

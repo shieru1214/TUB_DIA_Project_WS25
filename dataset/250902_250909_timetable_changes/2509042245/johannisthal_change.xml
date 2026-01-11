@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Johannisthal" eva="8089007">
+  <s id="430714294355238293-2509042236-3" eva="8089007">
+    <ar ppth="Berlin-Grünau|Berlin-Adlershof" pp="4" ct="2509042244" pt="2509042242" l="46" />
+    <dp ppth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" pp="4" ct="2509042244" pt="2509042242" l="46" />
+    <tl f="S" t="e" o="08" c="S" n="48128" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="46128" />
+    </ref>
+  </s>
+</timetable>

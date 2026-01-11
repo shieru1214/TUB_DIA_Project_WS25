@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Oberspree">
+  <s id="7024745100365790866-2509060350-2">
+    <tl f="S" t="p" o="08" c="S" n="47223" />
+    <ar pt="2509060353" pp="1" l="47" ppth="Berlin-Schöneweide (S)" />
+    <dp pt="2509060353" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+  </s>
+  <s id="-6550698276262548918-2509060306-2">
+    <tl f="S" t="p" o="08" c="S" n="47220" />
+    <ar pt="2509060308" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+    <dp pt="2509060308" pp="1" l="47" ppth="Berlin-Schöneweide (S)" />
+  </s>
+  <s id="-1330331009133640847-2509060336-2">
+    <tl f="S" t="p" o="08" c="S" n="47222" />
+    <ar pt="2509060338" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+    <dp pt="2509060338" pp="1" l="47" ppth="Berlin-Schöneweide (S)" />
+  </s>
+  <s id="5707177134106121642-2509060320-2">
+    <tl f="S" t="p" o="08" c="S" n="47221" />
+    <ar pt="2509060323" pp="1" l="47" ppth="Berlin-Schöneweide (S)" />
+    <dp pt="2509060323" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+  </s>
+</timetable>

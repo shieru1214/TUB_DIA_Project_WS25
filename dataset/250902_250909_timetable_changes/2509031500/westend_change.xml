@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westend" eva="8089111">
+  <s id="8814852253708732052-2509031401-23" eva="8089111">
+    <m id="r2485791" t="h" from="2509031330" to="2509031600" cat="Störung" ts="2509031412" ts-tts="25-09-03 14:12:56.262" pr="1" />
+    <ar cpth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)" ct="2509031500" l="46" />
+  </s>
+  <s id="6074853679075696053-2509031515-6" eva="8089111">
+    <ar ct="2509031528" l="42" />
+    <dp ct="2509031528" l="42" />
+  </s>
+  <s id="-9300433164885773-2509031444-16" eva="8089111">
+    <ar ct="2509031518" l="41" />
+    <dp ct="2509031517" l="41" />
+  </s>
+  <s id="-1297608564746874976-2509031445-6" eva="8089111">
+    <ar ct="2509031500" l="42" />
+    <dp ct="2509031459" l="42" />
+  </s>
+  <s id="-6601091048588303485-2509031514-16" eva="8089111">
+    <ar ct="2509031547" l="41" />
+    <dp ct="2509031547" l="41" />
+  </s>
+  <s id="251447669161192216-2509031424-16" eva="8089111">
+    <ar ct="2509031457" l="41" />
+    <dp ct="2509031459" l="41" />
+  </s>
+  <s id="-1593749628335191992-2509031456-1" eva="8089111">
+    <m id="r2485791" t="h" from="2509031330" to="2509031600" cat="Störung" ts="2509031412" ts-tts="25-09-03 14:12:56.262" pr="1" />
+    <dp ct="2509031459" l="46" />
+  </s>
+</timetable>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wannsee" eva="8010405">
+  <s id="6154852757864444757-2509021539-6" eva="8010405">
+    <ar ct="2509021615" l="37">
+      <m id="r23686657" t="d" c="48" ts="2509021630" ts-tts="25-09-02 16:30:59.965" />
+    </ar>
+  </s>
+  <s id="7388196342613390136-2509021436-14" eva="8010405">
+    <ar ct="2509021646" l="1">
+      <m id="r23677901" t="d" c="48" ts="2509021403" ts-tts="25-09-02 14:03:57.699" />
+    </ar>
+    <dp ct="2509021648" l="1">
+      <m id="r23677901" t="d" c="48" ts="2509021403" ts-tts="25-09-02 14:03:57.699" />
+    </dp>
+  </s>
+  <s id="4396219182070181868-2509021612-11" eva="8010405">
+    <ar ct="2509021739" l="1" />
+    <dp ct="2509021741" l="1" />
+  </s>
+  <s id="-1869923735659366107-2509021526-16" eva="8010405">
+    <ar ct="2509021702" l="1" />
+    <dp ct="2509021703" l="1" />
+  </s>
+  <s id="3889310201134315391-2509021514-25" eva="8010405">
+    <ar ct="2509021735" l="7">
+      <m id="r23683056" t="d" c="44" ts="2509021532" ts-tts="25-09-02 15:32:24.898" />
+    </ar>
+    <dp ct="2509021736" l="7">
+      <m id="r23683056" t="d" c="44" ts="2509021532" ts-tts="25-09-02 15:32:24.898" />
+    </dp>
+  </s>
+  <s id="6927368918735974093-2509021626-16" eva="8010405">
+    <ar ct="2509021800" l="1" />
+    <dp ct="2509021801" l="1" />
+  </s>
+  <s id="-1561346117191090690-2509021426-16" eva="8010405">
+    <ar ppth="Frankfurt(Oder)|Frankfurt(Oder)-Rosengarten|Pillgram|Jacobsdorf(Mark)|Briesen(Mark)|Berkenbrück|Fürstenwalde(Spree)|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten" pp="5" ct="2509021637" pt="2509021558" l="1">
+      <m id="r23680910" t="d" c="43" ts="2509021456" ts-tts="25-09-02 14:56:55.761" />
+    </ar>
+    <dp ppth="Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf" pp="5" ct="2509021638" pt="2509021559" l="1">
+      <m id="r23680910" t="d" c="43" ts="2509021456" ts-tts="25-09-02 14:56:55.761" />
+    </dp>
+    <tl f="N" t="p" o="OWRE" c="RE" n="73779" />
+  </s>
+</timetable>

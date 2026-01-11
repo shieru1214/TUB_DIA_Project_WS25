@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Heidelberger Platz" eva="8089112">
+  <s id="-1982155264711464200-2509032136-6" eva="8089112">
+    <ar ct="2509032145" l="46" />
+    <dp ct="2509032145" l="46" />
+  </s>
+  <s id="-4112016639672971874-2509032121-11" eva="8089112">
+    <m id="r2485869" t="h" from="2509031700" to="2509032230" cat="Störung" ts="2509031727" ts-tts="25-09-03 20:16:04.109" pr="1" />
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm" ct="2509032143" l="42" />
+    <dp cpth="Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park" ct="2509032144" l="42" />
+  </s>
+  <s id="9126751459475439031-2509032111-15" eva="8089112">
+    <m id="r2485869" t="h" from="2509031700" to="2509032230" cat="Störung" ts="2509031727" ts-tts="25-09-03 20:16:04.109" pr="1" />
+    <ar ct="2509032143" l="41" />
+    <dp ct="2509032143" l="41" />
+  </s>
+</timetable>

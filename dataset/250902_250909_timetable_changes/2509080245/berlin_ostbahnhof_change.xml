@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostbahnhof" eva="8010255">
+  <s id="-1041981254056107115-2509080644-3" eva="8010255">
+    <ar ct="2509080706" l="8" />
+    <dp ct="2509080707" l="8" />
+  </s>
+  <s id="4757722904942764530-2509071957-13" eva="8010255">
+    <ar cpth="Aachen Hbf|Düren|Köln Hbf|Wuppertal Hbf|Hagen Hbf|Hamm(Westf)Hbf|Bielefeld Hbf|Hannover Hbf|Braunschweig Hbf|Magdeburg Hbf|Berlin Zoologischer Garten" cp="2" ct="2509080246">
+      <m id="r24331288" t="d" c="43" ts="2509072251" ts-tts="25-09-07 22:51:40.777" />
+      <m id="r24331290" t="d" c="43" ts="2509072251" ts-tts="25-09-07 22:51:40.777" />
+      <m id="r24333607" t="d" c="31" ts="2509072336" ts-tts="25-09-07 23:36:38.685" />
+      <m id="r24333611" t="d" c="31" ts="2509072336" ts-tts="25-09-07 23:36:38.685" />
+    </ar>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

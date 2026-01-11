@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Hohenschönhausen">
+  <s id="761102104611099188-2509072248-3">
+    <tl f="N" t="p" o="NBRB12" c="RB" n="61147" />
+    <ar pt="2509072301" pp="3" l="12" ppth="Berlin Ostkreuz|Berlin-Lichtenberg" />
+    <dp pt="2509072302" pp="3" l="12" ppth="Oranienburg|Sachsenhausen(Nordb)|Nassenheide|Grüneberg|Löwenberg(Mark)|Bergsdorf|Zehdenick(Mark)|Zehdenick-Neuhof|Vogelsang(Kr Oberhavel)|Hammelspring|Templin|Templin Stadt" />
+  </s>
+  <s id="-4192429432337078694-2509072233-13">
+    <tl f="N" t="p" o="NBRB12" c="RB" n="61148" />
+    <ar pt="2509072348" pp="4" l="12" ppth="Templin Stadt|Templin|Hammelspring|Vogelsang(Kr Oberhavel)|Zehdenick-Neuhof|Zehdenick(Mark)|Bergsdorf|Löwenberg(Mark)|Grüneberg|Nassenheide|Sachsenhausen(Nordb)|Oranienburg" />
+    <dp pt="2509072349" pp="4" l="12" ppth="Berlin-Lichtenberg|Berlin Ostkreuz" />
+  </s>
+</timetable>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="8775198991571913947-2509062124-1" eva="8089045">
+    <dp cp="3" ct="2509062124" l="5" />
+  </s>
+  <s id="6587607968151406969-2509062045-12" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.507" pr="1" />
+    <ar ct="2509062115" l="3" />
+    <dp ct="2509062116" l="3" />
+  </s>
+  <s id="-5314760361065860586-2509062129-12" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.508" pr="1" />
+    <ar ct="2509062205" l="9" />
+    <dp ct="2509062206" l="9" />
+  </s>
+  <s id="4112066989692176344-2509062058-9" eva="8089045">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.420" pr="1" />
+    <m id="r2487504" t="h" from="2509061900" to="2509062200" cat="Störung" ts="2509061943" ts-tts="25-09-06 19:43:36.923" pr="2" />
+    <ar cpth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)" ct="2509062122" l="75" />
+  </s>
+  <s id="8360923427257028944-2509062051-11" eva="8089045">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.746" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.420" pr="1" />
+    <m id="r2487504" t="h" from="2509061900" to="2509062200" cat="Störung" ts="2509061943" ts-tts="25-09-06 19:43:36.923" pr="2" />
+    <ar ct="2509062113" l="7" />
+    <dp ct="2509062114" l="7" />
+  </s>
+  <s id="-560549437197047602-2509062041-15" eva="8089045">
+    <ar ct="2509062121" l="5" />
+    <dp ct="2509062121" l="5" />
+  </s>
+</timetable>

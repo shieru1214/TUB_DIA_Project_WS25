@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Yorckstr.(S2)" eva="8089050">
+  <s id="7690455707054635567-2509061314-7" eva="8089050">
+    <ar ppth="Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf" pp="1" ct="2509061330" pt="2509061326" l="2" />
+    <dp ppth="Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee|Berlin Schichauweg|Berlin-Lichtenrade|Mahlow" pp="1" ct="2509061330" pt="2509061327" l="2" />
+    <tl f="S" t="e" o="08" c="S" n="20067" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="2067" />
+    </ref>
+  </s>
+  <s id="-674575714969448472-2509061345-11" eva="8089050">
+    <ar ct="2509061406" l="2" />
+    <dp ct="2509061407" l="2" />
+  </s>
+  <s id="213374991361832744-2509061308-9" eva="8089050">
+    <ar ct="2509061331" l="2" />
+    <dp ct="2509061332" l="2" />
+  </s>
+  <s id="-6944197438870840303-2509061345-9" eva="8089050">
+    <ar ct="2509061404" l="25" />
+    <dp ct="2509061404" l="25" />
+  </s>
+</timetable>

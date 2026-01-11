@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Grünau" eva="8089063">
+  <s id="242682707423254408-2509031835-9" eva="8089063">
+    <m id="r2485872" t="h" from="2509031630" to="2509032359" cat="Störung" ts="2509031741" ts-tts="25-09-03 17:42:06.509" pr="2" />
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar cpth="" ct="2509031901" cs="c" clt="2509031742" l="85">
+      <m id="r23812359" t="d" c="37" ts="2509031742" ts-tts="25-09-03 17:42:23.104" />
+    </ar>
+  </s>
+  <s id="8739190780580828588-2509031815-9" eva="8089063">
+    <m id="r2485872" t="h" from="2509031630" to="2509032359" cat="Störung" ts="2509031741" ts-tts="25-09-03 17:42:06.509" pr="2" />
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar cpth="" ct="2509031850" cs="c" clt="2509031742" l="85">
+      <m id="r23812358" t="d" c="37" ts="2509031742" ts-tts="25-09-03 17:42:23.104" />
+    </ar>
+  </s>
+  <s id="-3452162838091792106-2509031845-9" eva="8089063">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar cpth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" ct="2509031907" l="8" />
+  </s>
+  <s id="690624431283418513-2509031825-9" eva="8089063">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar cpth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" ct="2509031850" l="8" />
+    <dp cpth="Eichwalde|Zeuthen|Wildau" ct="2509031850" l="8" />
+  </s>
+  <s id="-8170986319372357060-2509031805-9" eva="8089063">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar cpth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" ct="2509031830" l="8" />
+    <dp cpth="Eichwalde|Zeuthen|Wildau" ct="2509031830" l="8" />
+  </s>
+</timetable>

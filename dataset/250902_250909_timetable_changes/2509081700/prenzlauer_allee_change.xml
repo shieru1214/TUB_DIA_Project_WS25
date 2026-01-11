@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Prenzlauer Allee" eva="8089033">
+  <s id="-6881132547221969494-2509081613-23" eva="8089033">
+    <ar ct="2509081701" l="42" />
+    <dp ct="2509081701" l="42" />
+  </s>
+  <s id="8460097224387829774-2509081614-16" eva="8089033">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.451" pr="2" />
+    <ar cpth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee|Berlin Greifswalder Str" ct="2509081659" l="8" />
+    <dp cpth="Berlin Schönhauser Allee|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2509081659" l="8" />
+  </s>
+  <s id="-7345442869346298799-2509081714-16" eva="8089033">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.451" pr="2" />
+    <ar ct="2509081759" l="8" />
+    <dp ct="2509081759" l="8" />
+  </s>
+</timetable>

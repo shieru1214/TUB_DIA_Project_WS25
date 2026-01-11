@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Feuerbachstr." eva="8089012">
+  <s id="-3486310083662654682-2509051024-10" eva="8089012">
+    <ar ct="2509051043" l="1" />
+    <dp ct="2509051044" l="1" />
+  </s>
+  <s id="6470517583049106590-2509050951-26" eva="8089012">
+    <m id="r2486700" t="h" from="2509050800" to="2509051300" cat="Störung" ts="2509050857" ts-tts="25-09-05 08:57:43.374" pr="1" />
+    <ar cpth="Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau" ct="2509051053" l="1" />
+    <dp cpth="Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2509051052" l="1" />
+  </s>
+  <s id="1839465458389801120-2509050955-21" eva="8089012">
+    <ar ct="2509051043" l="1" />
+    <dp ct="2509051043" l="1" />
+  </s>
+</timetable>

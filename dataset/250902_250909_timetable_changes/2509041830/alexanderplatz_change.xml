@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Alexanderplatz" eva="8011155">
+  <s id="5840998983065524523-2509041727-7" eva="8011155">
+    <m id="r2479739" t="h" from="2509010000" to="2509042100" cat="Information" ts="2508312308" ts-tts="25-09-03 23:16:04.967" pr="2" />
+    <ar ct="2509041829" l="2">
+      <m id="r23827735" t="f" c="0" ts="2509031925" ts-tts="25-09-03 19:25:07.356" />
+    </ar>
+    <dp ct="2509041830" l="2">
+      <m id="r23827735" t="f" c="0" ts="2509031925" ts-tts="25-09-03 19:25:07.356" />
+    </dp>
+  </s>
+  <s id="3433559710760088836-2509041719-12" eva="8011155">
+    <ar ct="2509041831" l="1" />
+    <dp ct="2509041832" l="1" />
+  </s>
+  <s id="2536661623828971725-2509041807-8" eva="8011155">
+    <ar ct="2509041847" l="8" />
+    <dp ct="2509041848" l="8" />
+  </s>
+  <s id="-8117698018396659816-2509041712-16" eva="8011155">
+    <ar ct="2509041905" l="1" />
+    <dp ct="2509041906" l="1" />
+  </s>
+  <s id="-5950036834935396817-2509041734-8" eva="8011155">
+    <m id="r2479739" t="h" from="2509010000" to="2509042100" cat="Information" ts="2508312308" ts-tts="25-09-03 23:16:04.967" pr="2" />
+    <ar ct="2509041834" l="2">
+      <m id="r23936770" t="f" c="0" ts="2509041625" ts-tts="25-09-04 16:25:31.054" />
+    </ar>
+    <dp ct="2509041835" l="2">
+      <m id="r23936770" t="f" c="0" ts="2509041625" ts-tts="25-09-04 16:25:31.054" />
+    </dp>
+  </s>
+  <s id="-3594609905266768095-2509041701-12" eva="8011155">
+    <ar ppth="Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße" pp="1" ct="2509041828" pt="2509041752" l="7">
+      <m id="r23942583" t="d" c="48" ts="2509041659" ts-tts="25-09-04 16:59:24.515" />
+    </ar>
+    <dp ppth="Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Calau(Nl)|Luckaitztal|Altdöbern|Großräschen|Sedlitz Ost|Senftenberg" pp="1" ct="2509041830" pt="2509041753" l="7">
+      <m id="r23942583" t="d" c="48" ts="2509041659" ts-tts="25-09-04 16:59:24.515" />
+    </dp>
+    <tl f="N" t="p" o="800165" c="RE" n="3728" />
+  </s>
+  <s id="-6887958024916358777-2509041801-12" eva="8011155">
+    <ar ct="2509041904" l="7" />
+    <dp ct="2509041905" l="7" />
+  </s>
+  <s id="-2942161387715080007-2509041827-7" eva="8011155">
+    <m id="r2479739" t="h" from="2509010000" to="2509042100" cat="Information" ts="2508312308" ts-tts="25-09-03 23:16:04.967" pr="2" />
+    <ar ct="2509041928" l="2">
+      <m id="r23953746" t="f" c="0" ts="2509041815" ts-tts="25-09-04 18:15:44.680" />
+      <m id="r23955814" t="f" c="0" ts="2509041828" ts-tts="25-09-04 18:29:00.289" />
+    </ar>
+    <dp ct="2509041929" l="2">
+      <m id="r23953746" t="f" c="0" ts="2509041815" ts-tts="25-09-04 18:15:44.680" />
+      <m id="r23955814" t="f" c="0" ts="2509041828" ts-tts="25-09-04 18:29:00.289" />
+    </dp>
+  </s>
+  <s id="3106760861834530505-2509041726-12" eva="8011155">
+    <ar ct="2509041834" l="1" />
+    <dp ct="2509041835" l="1" />
+  </s>
+  <s id="-3664826778399093529-2509041812-16" eva="8011155">
+    <ar ct="2509042006" l="1" />
+    <dp ct="2509042007" l="1" />
+  </s>
+</timetable>

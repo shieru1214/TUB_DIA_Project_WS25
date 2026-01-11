@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Gesundbrunnen" eva="8011102">
+  <s id="4290595421142840906-2509031618-2" eva="8011102">
+    <ar ct="2509031625" />
+    <dp ct="2509031629" />
+  </s>
+  <s id="-4488002640658646330-2509031403-13" eva="8011102">
+    <ar cp="6" ct="2509031631" l="6" />
+  </s>
+  <s id="-6400209055042475724-2509031700-17" eva="8011102">
+    <ar ct="2509031838" l="3" />
+    <dp ct="2509031840" l="3" />
+  </s>
+  <s id="-5055283992035375388-2509031714-1" eva="8011102">
+    <dp cp="5" l="21" />
+  </s>
+  <s id="-891052522545827586-2509031613-6" eva="8011102">
+    <ar ct="2509031839" l="85" />
+    <dp ct="2509031841" l="85" />
+  </s>
+  <s id="-6523479487059033919-2509031301-21" eva="8011102">
+    <m id="r2333137" t="h" from="2412150000" to="2510242358" cat="Information" ts="2412142302" ts-tts="25-09-02 23:16:03.826" pr="2" />
+    <ar cpth="Stralsund Hbf|Zarrendorf|Elmenhorst|Wittenhagen|Grimmen|Rakow|Demmin|Utzedel|Sternfeld|Gnevkow|Altentreptow|Neubrandenburg|Burg Stargard(Meckl)|Cammin(Meckl)|Blankensee(Meckl)|Neustrelitz Hbf|Fürstenberg(Havel)|Gransee|Löwenberg(Mark)|Oranienburg" ppth="Stralsund Hbf|Zarrendorf|Elmenhorst|Wittenhagen|Grimmen|Rakow|Demmin|Utzedel|Sternfeld|Gnevkow|Altentreptow|Neubrandenburg|Burg Stargard(Meckl)|Cammin(Meckl)|Blankensee(Meckl)|Neustrelitz Hbf|Fürstenberg(Havel)|Gransee|Löwenberg(Mark)|Oranienburg" cp="7" pp="5" ct="2509031713" pt="2509031604" l="5">
+      <m id="r23767332" t="d" c="48" ts="2509031202" ts-tts="25-09-03 12:02:14.392" />
+      <m id="r23767334" t="d" c="48" ts="2509031202" ts-tts="25-09-03 12:02:14.392" />
+      <m id="r23773959" t="d" c="34" ts="2509031302" ts-tts="25-09-03 13:02:17.448" />
+      <m id="r23774009" t="d" c="38" ts="2509031302" ts-tts="25-09-03 13:03:04.291" />
+      <m id="r23801947" t="f" c="0" ts="2509031628" ts-tts="25-09-03 16:28:55.049" />
+      <m id="r23801948" t="f" c="0" ts="2509031628" ts-tts="25-09-03 16:28:55.049" />
+    </ar>
+    <dp cpth="Berlin Hbf" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" cp="7" pp="5" ct="2509031714" pt="2509031608" l="5">
+      <m id="r23767332" t="d" c="48" ts="2509031202" ts-tts="25-09-03 12:02:14.392" />
+      <m id="r23767334" t="d" c="48" ts="2509031202" ts-tts="25-09-03 12:02:14.392" />
+      <m id="r23773959" t="d" c="34" ts="2509031302" ts-tts="25-09-03 13:02:17.448" />
+      <m id="r23774009" t="d" c="38" ts="2509031302" ts-tts="25-09-03 13:03:04.291" />
+      <m id="r23801947" t="f" c="0" ts="2509031628" ts-tts="25-09-03 16:28:55.049" />
+      <m id="r23801948" t="f" c="0" ts="2509031628" ts-tts="25-09-03 16:28:55.049" />
+    </dp>
+    <tl f="N" t="p" o="800158" c="RE" n="3513" />
+  </s>
+  <s id="-2171708564312970864-2509031413-6" eva="8011102">
+    <ar cpth="Schwerin Hbf|Bad Kleinen|Güstrow|Waren(Müritz)|Oranienburg" cp="5" ct="2509031659" l="85" />
+    <dp cpth="Berlin Hbf" cp="5" ct="2509031701" l="85" />
+  </s>
+  <s id="-5743683262705851216-2509031723-1" eva="8011102">
+    <dp cp="6" l="6" />
+  </s>
+  <s id="-3109692841923124861-2509031649-1" eva="8011102">
+    <dp cp="8" ct="2509031649" l="27" />
+  </s>
+  <s id="-2044348715012187062-2509031627-3" eva="8011102">
+    <ar cp="8" ct="2509031644" l="27" />
+  </s>
+  <s id="-1325035297184672827-2509031416-23" eva="8011102">
+    <ar cp="5" ct="2509031722" l="3">
+      <m id="r23794625" t="d" c="21" ts="2509031538" ts-tts="25-09-03 15:38:44.404" />
+    </ar>
+    <dp cp="5" ct="2509031724" l="3">
+      <m id="r23794625" t="d" c="21" ts="2509031538" ts-tts="25-09-03 15:38:44.404" />
+    </dp>
+  </s>
+  <s id="-2543008509222161707-2509030846-15" eva="8011102">
+    <ar cpth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Süd|Fulda|Eisenach Hbf|Erfurt Hbf|Leipzig Hbf|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf" ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Fulda|Eisenach Hbf|Erfurt Hbf|Leipzig Hbf|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf" pp="8" ct="2509031731" pt="2509031641">
+      <m id="r23755849" t="d" c="43" ts="2509031028" ts-tts="25-09-03 10:28:16.665" />
+      <m id="r23755851" t="d" c="43" ts="2509031028" ts-tts="25-09-03 10:28:16.665" />
+      <m id="r23756503" t="d" c="36" ts="2509031034" ts-tts="25-09-03 10:34:14.340" />
+      <m id="r23756505" t="d" c="36" ts="2509031034" ts-tts="25-09-03 10:34:14.340" />
+      <m id="r23758692" t="f" c="0" ts="2509031049" ts-tts="25-09-03 10:49:48.387" />
+      <m id="r23758753" t="f" c="0" ts="2509031050" ts-tts="25-09-03 10:50:35.075" />
+      <m id="r23759810" t="f" c="0" ts="2509031058" ts-tts="25-09-03 10:58:37.275" />
+      <m id="r23759862" t="f" c="0" ts="2509031059" ts-tts="25-09-03 10:59:23.751" />
+      <m id="r23760527" t="f" c="0" ts="2509031107" ts-tts="25-09-03 11:07:26.220" />
+      <m id="r23765681" t="f" c="0" ts="2509031149" ts-tts="25-09-03 11:49:30.460" />
+      <m id="r23765682" t="f" c="0" ts="2509031149" ts-tts="25-09-03 11:49:30.460" />
+      <m id="r23768170" t="f" c="0" ts="2509031210" ts-tts="25-09-03 12:10:49.146" />
+      <m id="r23768171" t="f" c="0" ts="2509031210" ts-tts="25-09-03 12:10:49.146" />
+      <m id="r23768247" t="f" c="0" ts="2509031211" ts-tts="25-09-03 12:11:35.939" />
+      <m id="r23768816" t="f" c="0" ts="2509031215" ts-tts="25-09-03 12:16:03.069" />
+      <m id="r23795072" t="d" c="34" ts="2509031541" ts-tts="25-09-03 15:41:21.326" />
+      <m id="r23795074" t="d" c="34" ts="2509031541" ts-tts="25-09-03 15:41:21.326" />
+    </ar>
+    <dp cpth="Waren(Müritz)|Rostock Hbf" ppth="Waren(Müritz)|Rostock Hbf" pp="8" ct="2509031732" pt="2509031643">
+      <m id="r23755849" t="d" c="43" ts="2509031028" ts-tts="25-09-03 10:28:16.665" />
+      <m id="r23755851" t="d" c="43" ts="2509031028" ts-tts="25-09-03 10:28:16.665" />
+      <m id="r23756503" t="d" c="36" ts="2509031034" ts-tts="25-09-03 10:34:14.340" />
+      <m id="r23756505" t="d" c="36" ts="2509031034" ts-tts="25-09-03 10:34:14.340" />
+      <m id="r23758692" t="f" c="0" ts="2509031049" ts-tts="25-09-03 10:49:48.387" />
+      <m id="r23758753" t="f" c="0" ts="2509031050" ts-tts="25-09-03 10:50:35.075" />
+      <m id="r23759810" t="f" c="0" ts="2509031058" ts-tts="25-09-03 10:58:37.275" />
+      <m id="r23759862" t="f" c="0" ts="2509031059" ts-tts="25-09-03 10:59:23.751" />
+      <m id="r23760527" t="f" c="0" ts="2509031107" ts-tts="25-09-03 11:07:26.220" />
+      <m id="r23765681" t="f" c="0" ts="2509031149" ts-tts="25-09-03 11:49:30.460" />
+      <m id="r23765682" t="f" c="0" ts="2509031149" ts-tts="25-09-03 11:49:30.461" />
+      <m id="r23768170" t="f" c="0" ts="2509031210" ts-tts="25-09-03 12:10:49.146" />
+      <m id="r23768171" t="f" c="0" ts="2509031210" ts-tts="25-09-03 12:10:49.146" />
+      <m id="r23768247" t="f" c="0" ts="2509031211" ts-tts="25-09-03 12:11:35.939" />
+      <m id="r23768816" t="f" c="0" ts="2509031215" ts-tts="25-09-03 12:16:03.069" />
+      <m id="r23795072" t="d" c="34" ts="2509031541" ts-tts="25-09-03 15:41:21.326" />
+      <m id="r23795074" t="d" c="34" ts="2509031541" ts-tts="25-09-03 15:41:21.326" />
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="690" />
+  </s>
+  <s id="-42808539263809878-2509031636-4" eva="8011102">
+    <ar cpth="Berlin Hbf" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" pp="8" ct="2509031729" pt="2509031653" l="5">
+      <m id="r23788132" t="d" c="38" ts="2509031449" ts-tts="25-09-03 14:49:57.052" />
+      <m id="r23788134" t="d" c="38" ts="2509031449" ts-tts="25-09-03 14:49:57.052" />
+      <m id="r23788136" t="d" c="38" ts="2509031449" ts-tts="25-09-03 14:49:57.052" />
+      <m id="r23788809" t="f" c="0" ts="2509031454" ts-tts="25-09-03 14:54:54.059" />
+      <m id="r23801893" t="f" c="0" ts="2509031628" ts-tts="25-09-03 16:28:23.709" />
+      <m id="r23801946" t="f" c="0" ts="2509031628" ts-tts="25-09-03 16:28:55.049" />
+    </ar>
+    <dp cpth="Oranienburg|Gransee|Dannenwalde(Gransee)|Fürstenberg(Havel)|Neustrelitz Hbf|Kratzeburg|Waren(Müritz)|Langhagen|Rostock Hbf" ppth="Oranienburg|Gransee|Dannenwalde(Gransee)|Fürstenberg(Havel)|Neustrelitz Hbf|Kratzeburg|Waren(Müritz)|Langhagen|Rostock Hbf" pp="8" ct="2509031730" pt="2509031655" l="5">
+      <m id="r23788132" t="d" c="38" ts="2509031449" ts-tts="25-09-03 14:49:57.052" />
+      <m id="r23788134" t="d" c="38" ts="2509031449" ts-tts="25-09-03 14:49:57.052" />
+      <m id="r23788136" t="d" c="38" ts="2509031449" ts-tts="25-09-03 14:49:57.052" />
+      <m id="r23788809" t="f" c="0" ts="2509031454" ts-tts="25-09-03 14:54:54.059" />
+      <m id="r23801893" t="f" c="0" ts="2509031628" ts-tts="25-09-03 16:28:23.709" />
+      <m id="r23801946" t="f" c="0" ts="2509031628" ts-tts="25-09-03 16:28:55.049" />
+    </dp>
+    <tl f="N" t="p" o="800158" c="RE" n="4362" />
+  </s>
+</timetable>

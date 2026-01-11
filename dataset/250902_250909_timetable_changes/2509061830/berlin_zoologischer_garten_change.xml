@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Zoologischer Garten" eva="8010406">
+  <s id="-3664826778399093529-2509061812-13" eva="8010406">
+    <ar ct="2509061953" l="1" />
+    <dp ct="2509061954" l="1" />
+  </s>
+  <s id="1131574480602817578-2509061744-7" eva="8010406">
+    <ar ct="2509061830" l="8" />
+    <dp ct="2509061832" l="8" />
+  </s>
+  <s id="-6887958024916358777-2509061801-9" eva="8010406">
+    <ar ct="2509061843" l="7" />
+    <dp ct="2509061844" l="7" />
+  </s>
+  <s id="2536661623828971725-2509061807-5" eva="8010406">
+    <ar ct="2509061831" l="8" />
+    <dp ct="2509061833" l="8" />
+  </s>
+  <s id="3410947352693819559-2509062026-15" eva="8010406">
+    <ar ct="2509062146" l="1" />
+    <dp ct="2509062147" l="1" />
+  </s>
+  <s id="-8117698018396659816-2509061712-13" eva="8010406">
+    <ar ct="2509061917" l="1">
+      <m id="r24206088" t="d" c="48" ts="2509061753" ts-tts="25-09-06 17:54:05.672" />
+    </ar>
+    <dp ct="2509061918" l="1">
+      <m id="r24206088" t="d" c="48" ts="2509061753" ts-tts="25-09-06 17:54:05.672" />
+    </dp>
+  </s>
+  <s id="-4274858682271669191-2509061755-11" eva="8010406">
+    <ar cpth="Frankfurt(Oder)|Frankfurt(Oder)-Rosengarten|Pillgram|Jacobsdorf(Mark)|Briesen(Mark)|Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf" ct="2509061910" l="1" />
+    <dp cpth="Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Hbf|Werder(Havel)|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Magdeburg-Neustadt|Magdeburg Hbf" ct="2509061911" l="1">
+      <m id="r24207508" t="f" c="0" ts="2509061807" ts-tts="25-09-06 18:07:19.559" />
+      <m id="r24207509" t="f" c="0" ts="2509061807" ts-tts="25-09-06 18:07:19.559" />
+      <m id="r24207510" t="f" c="0" ts="2509061807" ts-tts="25-09-06 18:07:19.559" />
+      <m id="r24207511" t="f" c="0" ts="2509061807" ts-tts="25-09-06 18:07:19.559" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

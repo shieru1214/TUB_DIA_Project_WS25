@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Priesterweg" eva="8089034">
+  <s id="2098691922786645285-2509021728-7" eva="8089034">
+    <ar ct="2509021746" l="2" />
+    <dp ct="2509021746" l="2" />
+  </s>
+  <s id="-8654037606735840084-2509021735-7" eva="8089034">
+    <ar ct="2509021750" l="26" />
+    <dp ct="2509021751" l="26" />
+  </s>
+  <s id="-7029401716802034501-2509021715-13" eva="8089034">
+    <ar ct="2509021743" l="2" />
+    <dp ct="2509021743" l="2" />
+  </s>
+  <s id="-4479418734354170096-2509021758-3" eva="8089034">
+    <ar ppth="Berlin-Marienfelde|Berlin Attilastr." pp="2" ct="2509021803" pt="2509021803" l="2" />
+    <dp ppth="Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow" pp="2" ct="2509021804" pt="2509021804" l="2" />
+    <tl f="S" t="e" o="08" c="S" n="20096" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="2096" />
+    </ref>
+  </s>
+</timetable>

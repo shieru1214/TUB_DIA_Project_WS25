@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Schlachtensee" eva="8089085">
+  <s id="4462983284372307399-2509041411-33" eva="8089085">
+    <m id="r2486148" t="h" from="2509040800" to="2509041230" cat="Störung" ts="2509040802" ts-tts="25-09-04 12:16:03.474" pr="2" />
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz" ct="2509041529" cs="p" clt="2509040717" l="1" />
+    <dp cpth="Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2509041530" cs="p" clt="2509040717" l="1" />
+  </s>
+  <s id="-7491087940757279516-2509041524-3" eva="8089085">
+    <ar ct="2509041529" l="1" />
+    <dp ct="2509041529" l="1" />
+  </s>
+  <s id="2014247285822662480-2509041544-3" eva="8089085">
+    <ar ct="2509041548" l="1" />
+    <dp ct="2509041548" l="1" />
+  </s>
+</timetable>

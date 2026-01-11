@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Gesundbrunnen" eva="8011102">
+  <s id="-5468902705688046790-2509050603-15" eva="8011102">
+    <m id="r2486625" t="h" from="2509050603" to="2509050834" cat="Störung" ts="2509050510" ts-tts="25-09-05 05:10:14.371" pr="1" />
+    <ar cpth="Neuruppin West|Neuruppin Rheinsberger Tor|Löwenberg(Mark)|Oranienburg" cp="6" ct="2509050833" l="6">
+      <m id="r23999444" t="d" c="36" ts="2509050459" ts-tts="25-09-05 04:59:29.014" />
+      <m id="r23999446" t="d" c="36" ts="2509050459" ts-tts="25-09-05 04:59:29.014" />
+    </ar>
+  </s>
+  <s id="4750786041615116600-2509050701-21" eva="8011102">
+    <ar ct="2509051007" l="5">
+      <m id="r24015608" t="d" c="43" ts="2509050815" ts-tts="25-09-05 08:15:12.796" />
+      <m id="r24015610" t="d" c="43" ts="2509050815" ts-tts="25-09-05 08:15:12.796" />
+    </ar>
+    <dp ct="2509051009" l="5">
+      <m id="r24015608" t="d" c="43" ts="2509050815" ts-tts="25-09-05 08:15:12.796" />
+      <m id="r24015610" t="d" c="43" ts="2509050815" ts-tts="25-09-05 08:15:12.796" />
+    </dp>
+  </s>
+  <s id="-2045143758051766717-2509050621-5" eva="8011102">
+    <ar cp="8" ct="2509050816" />
+    <dp cp="8" ct="2509050819" />
+  </s>
+  <s id="-8796593196277190999-2509050613-6" eva="8011102">
+    <ar cp="5" ct="2509050843" l="85">
+      <m id="r24013485" t="d" c="43" ts="2509050753" ts-tts="25-09-05 07:53:13.274" />
+    </ar>
+    <dp cp="5" ct="2509050845" l="85">
+      <m id="r24013485" t="d" c="43" ts="2509050753" ts-tts="25-09-05 07:53:13.274" />
+    </dp>
+  </s>
+  <s id="-8242287713313171954-2509051213-6" eva="8011102">
+    <ar ct="2509051438" l="85" />
+    <dp ct="2509051440" l="85" />
+  </s>
+  <s id="7346019818747424630-2509050813-1" eva="8011102">
+    <dp cpth="Berlin Jungfernheide|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Priort|Marquardt|Golm|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf" ct="2509050813" l="21">
+      <m id="r24014748" t="d" c="31" ts="2509050806" ts-tts="25-09-05 08:06:09.024" />
+    </dp>
+  </s>
+</timetable>

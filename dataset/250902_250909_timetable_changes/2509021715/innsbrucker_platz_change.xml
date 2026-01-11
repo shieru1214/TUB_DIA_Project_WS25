@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Innsbrucker Platz" eva="8089106">
+  <s id="-8819113931152956666-2509031001-13" eva="8089106">
+    <ar l="42">
+      <m id="r23679279" t="f" c="0" ts="2509021431" ts-tts="25-09-02 14:31:56.815" />
+    </ar>
+    <dp l="42">
+      <m id="r23679279" t="f" c="0" ts="2509021431" ts-tts="25-09-02 14:31:56.815" />
+    </dp>
+  </s>
+  <s id="5668190876533071758-2509030901-13" eva="8089106">
+    <ar l="41">
+      <m id="r23679236" t="f" c="0" ts="2509021430" ts-tts="25-09-02 14:30:36.936" />
+    </ar>
+    <dp l="41">
+      <m id="r23679236" t="f" c="0" ts="2509021430" ts-tts="25-09-02 14:30:36.936" />
+    </dp>
+  </s>
+  <s id="5241224512675213644-2509021701-13" eva="8089106">
+    <ar ct="2509021732" l="41">
+      <m id="r23631753" t="f" c="0" ts="2509011629" ts-tts="25-09-02 11:22:05.469" />
+    </ar>
+    <dp ct="2509021732" l="41">
+      <m id="r23631753" t="f" c="0" ts="2509011629" ts-tts="25-09-02 11:22:05.469" />
+    </dp>
+  </s>
+  <s id="8978566633539968098-2509021704-9" eva="8089106">
+    <ar ct="2509021730" l="41" />
+    <dp ct="2509021730" l="41" />
+  </s>
+  <s id="3108140191023162057-2509021721-13" eva="8089106">
+    <ar ct="2509021750" l="41" />
+    <dp ct="2509021750" l="41" />
+  </s>
+  <s id="1520903307900415333-2509021712-6" eva="8089106">
+    <ar ppth="Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg" pp="1" pt="2509021723" l="41" />
+    <dp ppth="Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" pp="1" pt="2509021723" l="41" />
+    <tl f="S" t="s" o="08" c="S" n="40680" />
+  </s>
+  <s id="-3057792255553469410-2509021654-9" eva="8089106">
+    <ar cpth="Berlin-Neukölln|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg" ct="2509021713" l="41" />
+    <dp cpth="Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ct="2509021714" l="41" />
+  </s>
+  <s id="6788934868271003721-2509021711-13" eva="8089106">
+    <ar ct="2509021739" l="41" />
+    <dp ct="2509021740" l="41" />
+  </s>
+</timetable>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Hohenschönhausen">
+  <s id="1345298703947082418-2509061808-6">
+    <tl f="N" t="p" o="800165" c="RB" n="18329" />
+    <ar pt="2509061839" pp="4" l="24" ppth="Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)" />
+    <dp pt="2509061840" pp="4" l="24" ppth="Berlin-Lichtenberg|Berlin Ostkreuz|Berlin-Schöneweide|Schönefeld(bei Berlin)" />
+  </s>
+  <s id="-7837546918413729003-2509061748-3">
+    <tl f="N" t="p" o="NBRB12" c="RB" n="61137" />
+    <ar pt="2509061801" pp="3" l="12" ppth="Berlin Ostkreuz|Berlin-Lichtenberg" />
+    <dp pt="2509061802" pp="3" l="12" ppth="Oranienburg|Sachsenhausen(Nordb)|Nassenheide|Grüneberg|Löwenberg(Mark)|Bergsdorf|Zehdenick(Mark)|Zehdenick-Neuhof|Vogelsang(Kr Oberhavel)|Hammelspring|Templin|Templin Stadt" />
+  </s>
+  <s id="-1036450421401963316-2509061749-5">
+    <tl f="N" t="p" o="800165" c="RB" n="18326" />
+    <ar pt="2509061821" pp="3" l="24" ppth="Schönefeld(bei Berlin)|Berlin-Schöneweide|Berlin Ostkreuz|Berlin-Lichtenberg" />
+    <dp pt="2509061822" pp="3" l="24" ppth="Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf" />
+  </s>
+  <s id="-3688437143679647143-2509061733-13">
+    <tl f="N" t="p" o="NBRB12" c="RB" n="61138" />
+    <ar pt="2509061848" pp="4" l="12" ppth="Templin Stadt|Templin|Hammelspring|Vogelsang(Kr Oberhavel)|Zehdenick-Neuhof|Zehdenick(Mark)|Bergsdorf|Löwenberg(Mark)|Grüneberg|Nassenheide|Sachsenhausen(Nordb)|Oranienburg" />
+    <dp pt="2509061849" pp="4" l="12" ppth="Berlin-Lichtenberg|Berlin Ostkreuz" />
+  </s>
+</timetable>

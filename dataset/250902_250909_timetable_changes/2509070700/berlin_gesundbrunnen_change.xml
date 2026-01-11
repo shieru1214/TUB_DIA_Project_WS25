@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Gesundbrunnen" eva="8011102">
+  <s id="-8796593196277190999-2509070613-6" eva="8011102">
+    <m id="r2458360" t="h" from="2508020000" to="2512132359" cat="Information" ts="2508022307" ts-tts="25-09-06 23:16:03.806" pr="1" />
+    <ar ct="2509070840" l="85" />
+    <dp ct="2509070842" l="85" />
+  </s>
+  <s id="-5438291664424141788-2509070656-2" eva="8011102">
+    <ar cpth="Berlin-Lichtenberg" cp="7" ct="2509070707" l="HBX" />
+    <dp cpth="Berlin-Wannsee|Potsdam Hbf|Brandenburg Hbf|Genthin|Burg(Magdeburg)|Magdeburg Hbf|Magdeburg-Buckau|Osterweddingen|Oschersleben(Bode)|Nienhagen(Halberst)|Halberstadt Hbf" cp="7" ct="2509070709" l="HBX" />
+  </s>
+  <s id="-4735216753099942144-2509070656-2" eva="8011102">
+    <ar cp="7" ct="2509070707" l="HBX" />
+    <dp cp="7" ct="2509070709" l="HBX" />
+  </s>
+  <s id="915797680906928976-2509070600-6" eva="8011102">
+    <ar cp="6" ct="2509070704" l="5" />
+    <dp cp="6" ct="2509070706" l="5" />
+  </s>
+  <s id="1397176287318446275-2509070550-10" eva="8011102">
+    <ar ct="2509070733" l="6" />
+  </s>
+  <s id="-1419164028204496811-2509070628-3" eva="8011102">
+    <ar ct="2509070657" cde="Rangsdorf" dc="1" />
+    <dp ct="2509070658" />
+  </s>
+</timetable>

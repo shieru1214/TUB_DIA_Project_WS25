@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Brandenburger Tor" eva="8089044">
+  <s id="-7386637189482012776-2509051615-8" eva="8089044">
+    <ar ct="2509051629" l="2" />
+    <dp ct="2509051630" l="2" />
+  </s>
+  <s id="-6816177093487173188-2509051535-12" eva="8089044">
+    <ar ct="2509051601" l="26" />
+    <dp ct="2509051601" l="26" />
+  </s>
+  <s id="-5773777518053703814-2509051545-8" eva="8089044">
+    <ar ct="2509051600" l="2" />
+    <dp ct="2509051600" l="2" />
+  </s>
+  <s id="7996061164632386785-2509051615-14" eva="8089044">
+    <m id="r2486901" t="h" from="2509051400" to="2509051800" cat="Störung" ts="2509051449" ts-tts="25-09-05 14:50:09.300" pr="1" />
+    <ar ct="2509051647" l="1" />
+    <dp ct="2509051647" l="1" />
+  </s>
+  <s id="-1851985454215582007-2509051548-16" eva="8089044">
+    <ar ct="2509051629" l="25" />
+    <dp ct="2509051630" l="25" />
+  </s>
+  <s id="-1665947848871267430-2509051615-12" eva="8089044">
+    <ar ct="2509051640" l="26" />
+    <dp ct="2509051641" l="26" />
+  </s>
+  <s id="1915193233430477177-2509051555-8" eva="8089044">
+    <ar ct="2509051611" l="2" />
+    <dp ct="2509051611" l="2" />
+  </s>
+  <s id="-7491087940757279516-2509051524-17" eva="8089044">
+    <m id="r2486901" t="h" from="2509051400" to="2509051800" cat="Störung" ts="2509051449" ts-tts="25-09-05 14:50:09.300" pr="1" />
+    <m id="r2486799" t="h" from="2509051300" to="2509051600" cat="Störung" ts="2509051216" ts-tts="25-09-05 12:16:13.376" pr="1" />
+    <ar cpth="Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)" ct="2509051558" l="1" />
+    <dp cpth="Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2509051559" l="1" />
+  </s>
+  <s id="506556623345286805-2509051614-17" eva="8089044">
+    <m id="r2486901" t="h" from="2509051400" to="2509051800" cat="Störung" ts="2509051449" ts-tts="25-09-05 14:50:09.300" pr="1" />
+    <ar ct="2509051648" l="1" />
+    <dp ct="2509051648" l="1" />
+  </s>
+</timetable>

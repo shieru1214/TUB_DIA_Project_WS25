@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Wollankstraße" eva="8089048">
+  <s id="3515829858472750844-2509041130-5" eva="8089048">
+    <ar ppth="Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz" pp="4" ct="2509041139" pt="2509041139" l="26" />
+    <dp ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende|Berlin-Lankwitz|Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" pp="4" ct="2509041140" pt="2509041140" l="26" />
+    <tl f="S" t="e" o="08" c="S" n="28561" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="26561" />
+    </ref>
+  </s>
+  <s id="4252996639138252924-2509041108-9" eva="8089048">
+    <ar ct="2509041131" l="25" />
+    <dp ct="2509041131" l="25" />
+  </s>
+</timetable>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Südkreuz" eva="8011113">
+  <s id="8930734303365215950-2509052036-1" eva="8011113">
+    <m id="r2486717" t="h" from="2509051336" to="2509052321" cat="Information" ts="2509050927" ts-tts="25-09-05 09:28:08.445" pr="2" />
+    <dp ppth="Berlin Potsdamer Platz|Berlin Hbf|Berlin Gesundbrunnen|Oranienburg|Gransee|Dannenwalde(Gransee)|Fürstenberg(Havel)|Neustrelitz Hbf|Kratzeburg|Waren(Müritz)|Langhagen|Rostock Hbf" pp="4" ct="2509052108" pt="2509052036" l="5">
+      <m id="r24040373" t="q" c="73" ts="2509051204" ts-tts="25-09-05 12:04:17.896" />
+      <m id="r24040375" t="q" c="73" ts="2509051204" ts-tts="25-09-05 12:04:17.896" />
+      <m id="r24108327" t="f" c="0" ts="2509052023" ts-tts="25-09-05 20:23:35.127" />
+    </dp>
+    <tl f="N" t="p" o="800158" c="RE" n="4366" />
+  </s>
+  <s id="8691778266180455341-2509051837-13" eva="8011113">
+    <ar ct="2509052122" l="5">
+      <m id="r24097173" t="d" c="44" ts="2509051854" ts-tts="25-09-05 18:54:46.189" />
+      <m id="r24097175" t="d" c="44" ts="2509051854" ts-tts="25-09-05 18:54:46.189" />
+    </ar>
+  </s>
+  <s id="-979463545696935694-2509051920-16" eva="8011113">
+    <ar ct="2509060757" />
+    <dp ct="2509060809" />
+  </s>
+  <s id="-5698565967924214055-2509051930-17" eva="8011113">
+    <ar ct="2509060757" />
+    <dp ct="2509060809" />
+  </s>
+  <s id="-7138074359361066746-2509051836-8" eva="8011113">
+    <m id="r2487041" t="h" from="2509051830" to="2509052359" cat="Störung" ts="2509052050" ts-tts="25-09-05 20:51:08.490" pr="1" />
+    <ar ct="2509052135">
+      <m id="r24059887" t="f" c="0" ts="2509051438" ts-tts="25-09-05 14:38:24.973" />
+      <m id="r24098360" t="f" c="0" ts="2509051903" ts-tts="25-09-05 19:03:38.082" />
+    </ar>
+    <dp ct="2509052137">
+      <m id="r24059887" t="f" c="0" ts="2509051438" ts-tts="25-09-05 14:38:24.973" />
+      <m id="r24098360" t="f" c="0" ts="2509051903" ts-tts="25-09-05 19:03:38.082" />
+    </dp>
+  </s>
+  <s id="-4831004071712342153-2509051701-24" eva="8011113">
+    <m id="r2486716" t="h" from="2509051037" to="2509060052" cat="Information" ts="2509050926" ts-tts="25-09-05 09:26:51.028" pr="2" />
+    <ar ppth="Stralsund Hbf|Zarrendorf|Elmenhorst|Wittenhagen|Grimmen|Rakow|Demmin|Utzedel|Sternfeld|Gnevkow|Altentreptow|Neubrandenburg|Burg Stargard(Meckl)|Cammin(Meckl)|Blankensee(Meckl)|Neustrelitz Hbf|Fürstenberg(Havel)|Gransee|Löwenberg(Mark)|Oranienburg|Berlin Gesundbrunnen|Berlin Hbf|Berlin Potsdamer Platz" pp="4" ct="2509052101" pt="2509052020" l="5">
+      <m id="r24040346" t="q" c="74" ts="2509051203" ts-tts="25-09-05 12:04:02.328" />
+    </ar>
+    <tl f="N" t="p" o="800158" c="RE" n="3517" />
+  </s>
+  <s id="7389501989890790418-2509052002-12" eva="8011113">
+    <ar ct="2509052115" l="4" />
+    <dp ct="2509052116" l="4" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:45.514" />
+</timetable>

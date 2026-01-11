@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Alexanderplatz" eva="8011155">
+  <s id="-8216432252539745291-2509031514-4" eva="8011155">
+    <ar ct="2509031541" l="23" />
+    <dp ct="2509031543" l="23" />
+  </s>
+  <s id="-190671482506636857-2509031427-7" eva="8011155">
+    <m id="r2479739" t="h" from="2509010000" to="2509042100" cat="Information" ts="2508312308" ts-tts="25-09-02 23:16:04.291" pr="2" />
+    <ar ct="2509031530" l="2">
+      <m id="r23753797" t="f" c="0" ts="2509031009" ts-tts="25-09-03 10:10:08.123" />
+      <m id="r23792314" t="d" c="43" ts="2509031523" ts-tts="25-09-03 15:23:35.895" />
+      <m id="r23792316" t="d" c="43" ts="2509031523" ts-tts="25-09-03 15:23:35.895" />
+    </ar>
+    <dp ct="2509031531" l="2">
+      <m id="r23753797" t="f" c="0" ts="2509031009" ts-tts="25-09-03 10:10:08.123" />
+      <m id="r23792314" t="d" c="43" ts="2509031523" ts-tts="25-09-03 15:23:35.895" />
+      <m id="r23792316" t="d" c="43" ts="2509031523" ts-tts="25-09-03 15:23:35.895" />
+    </dp>
+  </s>
+  <s id="-5098126381041339518-2509031401-12" eva="8011155">
+    <ar ppth="Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße" pp="1" ct="2509031526" pt="2509031452" l="7">
+      <m id="r23783661" t="d" c="48" ts="2509031418" ts-tts="25-09-03 14:19:10.043" />
+      <m id="r23783663" t="d" c="48" ts="2509031418" ts-tts="25-09-03 14:19:10.043" />
+      <m id="r23791302" t="d" c="5" ts="2509031516" ts-tts="25-09-03 15:16:33.944" />
+    </ar>
+    <dp ppth="Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Calau(Nl)|Luckaitztal|Altdöbern|Großräschen|Sedlitz Ost|Senftenberg" pp="1" ct="2509031529" pt="2509031453" l="7">
+      <m id="r23783661" t="d" c="48" ts="2509031418" ts-tts="25-09-03 14:19:10.043" />
+      <m id="r23783663" t="d" c="48" ts="2509031418" ts-tts="25-09-03 14:19:10.043" />
+      <m id="r23791302" t="d" c="5" ts="2509031516" ts-tts="25-09-03 15:16:33.944" />
+    </dp>
+    <tl f="N" t="p" o="800165" c="RE" n="3722" />
+  </s>
+</timetable>

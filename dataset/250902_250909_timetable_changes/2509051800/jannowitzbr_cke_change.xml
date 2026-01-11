@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jannowitzbrücke" eva="8089019">
+  <s id="4607710741670844106-2509051751-4" eva="8089019">
+    <ar ct="2509051759" l="5" />
+    <dp ct="2509051800" l="5" />
+  </s>
+  <s id="8427181902272506458-2509051731-4" eva="8089019">
+    <ar cpth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" ct="2509051741" l="5" />
+    <dp cpth="Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf" ct="2509051742" l="5" />
+  </s>
+  <s id="-6642586829647461034-2509051731-13" eva="8089019">
+    <ar ct="2509051758" l="7" />
+    <dp ct="2509051758" l="7" />
+  </s>
+</timetable>

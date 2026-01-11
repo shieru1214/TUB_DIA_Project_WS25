@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Grünau" eva="8089063">
+  <s id="-5016423122386993955-2509072329-1" eva="8089063">
+    <dp cpth="Berlin-Adlershof" ct="2509072330" l="8" />
+  </s>
+  <s id="-8189148788276870459-2509072341-5" eva="8089063">
+    <ar ct="2509072356" l="46" />
+    <dp ct="2509080000" l="46" />
+  </s>
+  <s id="-5839923265237540965-2509080000-1" eva="8089063">
+    <dp ppth="Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" pp="1" ct="2509080000" pt="2509080000" l="46">
+      <m id="r24333882" t="f" c="0" ts="2509072343" ts-tts="25-09-07 23:43:55.944" />
+    </dp>
+    <tl f="S" t="s" o="08" c="S" n="48433" />
+  </s>
+  <s id="6514326782731112305-2509072338-19" eva="8089063">
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)" ct="2509080022" cs="c" clt="2509072357" l="46" />
+    <dp cpth="" ct="2509080023" cs="c" clt="2509072357" l="46" />
+  </s>
+  <s id="1911302061839635851-2509080041-5" eva="8089063">
+    <ar ct="2509080057" l="46" />
+    <dp ct="2509080057" l="46" />
+  </s>
+</timetable>

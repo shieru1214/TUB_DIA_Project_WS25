@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Adlershof" eva="8089052">
+  <s id="8263754980513981064-2509051136-18" eva="8089052">
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal" ct="2509051215" l="46" />
+    <dp cpth="Berlin-Grünau" ct="2509051216" l="46" />
+  </s>
+  <s id="-9205158869388406668-2509051157-6" eva="8089052">
+    <ar ct="2509051215" l="45" />
+    <dp ct="2509051215" l="45" />
+  </s>
+  <s id="5066896970256571775-2509051204-104" eva="8089052">
+    <ar cpth="Berlin Ostkreuz (S)|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal" ppth="Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof" pp="3" ct="2509051224" pt="2509051219" cs="a" ps="a" clt="2509051209" l="41">
+      <m id="r24041560" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:19.029" />
+      <m id="r24041562" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:19.029" />
+      <m id="r24041564" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:19.029" />
+    </ar>
+    <dp cpth="Berlin-Grünau" ppth="Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" pp="3" ct="2509051225" pt="2509051220" cs="a" ps="a" clt="2509051209" l="41">
+      <m id="r24041560" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:19.029" />
+      <m id="r24041562" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:19.029" />
+      <m id="r24041564" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:19.029" />
+    </dp>
+    <tl f="S" t="p" o="08" c="S" n="41620" />
+  </s>
+  <s id="-5365976065096125856-2509051229-6" eva="8089052">
+    <ar ct="2509051247" l="9" />
+    <dp ct="2509051247" l="9" />
+  </s>
+  <s id="-8905484468511926084-2509051155-8" eva="8089052">
+    <ar ct="2509051213" l="85" />
+    <dp ct="2509051214" l="85" />
+  </s>
+  <s id="-6489245693699585350-2509051229-2" eva="8089052">
+    <ar ct="2509051232" l="8" />
+    <dp ct="2509051232" l="8" />
+  </s>
+</timetable>

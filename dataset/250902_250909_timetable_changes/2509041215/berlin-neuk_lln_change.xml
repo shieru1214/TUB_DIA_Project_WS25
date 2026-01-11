@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Neukölln" eva="8089077">
+  <s id="6349512553976843313-2509050501-18" eva="8089077">
+    <ar l="42">
+      <m id="r23867358" t="f" c="0" ts="2509040659" ts-tts="25-09-04 06:59:30.759" />
+      <m id="r23867359" t="f" c="0" ts="2509040659" ts-tts="25-09-04 06:59:30.759" />
+    </ar>
+    <dp l="42">
+      <m id="r23867358" t="f" c="0" ts="2509040659" ts-tts="25-09-04 06:59:30.759" />
+      <m id="r23867359" t="f" c="0" ts="2509040659" ts-tts="25-09-04 06:59:30.759" />
+    </dp>
+  </s>
+  <s id="4154446247441422917-2509041141-11" eva="8089077">
+    <ar ct="2509041216" l="46" />
+    <dp ct="2509041216" l="46" />
+  </s>
+  <s id="5066896970256571775-2509041204-4" eva="8089077">
+    <ar ct="2509041214" l="41" />
+    <dp ct="2509041215" l="41" />
+  </s>
+  <s id="1853750788518063853-2509041208-4" eva="8089077">
+    <m id="r2486210" t="h" from="2509041000" to="2509041500" cat="Störung" ts="2509041020" ts-tts="25-09-04 10:20:34.743" pr="2" />
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße" ct="2509041215" l="45" />
+    <dp cpth="Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ct="2509041216" l="45" />
+  </s>
+  <s id="7265696735114527347-2509041229-6" eva="8089077">
+    <ar ct="2509041244" l="47" />
+    <dp ct="2509041245" l="47" />
+  </s>
+</timetable>

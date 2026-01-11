@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Betriebsbf Rummelsburg" eva="8089006">
+  <s id="3008833675068366225-2509041059-4" eva="8089006">
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.257" pr="1" />
+    <ar ct="2509041105" l="3" />
+    <dp ct="2509041106" l="3" />
+  </s>
+  <s id="519505132451559714-2509041027-8" eva="8089006">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.258" pr="1" />
+    <ar cpth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)" ct="2509041053" l="3" />
+    <dp cpth="Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)" ct="2509041054" l="3" />
+  </s>
+  <s id="-4426122303285947486-2509041058-9" eva="8089006">
+    <ar ppth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg" pp="2" ct="2509041115" pt="2509041115" l="3" />
+    <dp ppth="Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick|Berlin-Friedrichshagen|Berlin-Rahnsdorf|Berlin-Wilhelmshagen|Erkner (S)" pp="2" ct="2509041115" pt="2509041115" l="3" />
+    <tl f="S" t="e" o="08" c="S" n="30087" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="3087" />
+    </ref>
+  </s>
+</timetable>

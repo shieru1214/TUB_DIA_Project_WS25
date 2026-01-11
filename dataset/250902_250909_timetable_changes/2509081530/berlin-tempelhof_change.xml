@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tempelhof" eva="8089090">
+  <s id="9129007697119134005-2509081458-16" eva="8089090">
+    <ar ct="2509081534" l="41" />
+    <dp ct="2509081534" l="41" />
+  </s>
+  <s id="-640554582970682000-2509081508-16" eva="8089090">
+    <ar ct="2509081543" l="41" />
+    <dp ct="2509081544" l="41" />
+  </s>
+  <s id="-8252081376697652383-2509081528-2" eva="8089090">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.273" pr="2" />
+    <ar ct="2509081531" l="45" />
+    <dp ct="2509081532" l="45" />
+  </s>
+  <s id="5607666004607282394-2509081516-11" eva="8089090">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.273" pr="2" />
+    <ar cpth="Berlin Charlottenburg (S)|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)" ct="2509081544" l="46" />
+    <dp cpth="Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" ct="2509081545" l="46" />
+  </s>
+  <s id="-6939321751395319139-2509081621-13" eva="8089090">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.273" pr="2" />
+    <ar ct="2509081702" l="46" />
+    <dp ct="2509081702" l="46" />
+  </s>
+  <s id="-7675560947449891918-2509081453-16" eva="8089090">
+    <ar ct="2509081528" l="41" />
+    <dp ct="2509081529" l="41" />
+  </s>
+  <s id="1657911307453195329-2509081503-13" eva="8089090">
+    <ar ct="2509081528" l="42" />
+    <dp ct="2509081528" l="42" />
+  </s>
+</timetable>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wannsee" eva="8010405">
+  <s id="-561089680166663487-2509061955-13" eva="8010405">
+    <ar cpth="Frankfurt(Oder)|Frankfurt(Oder)-Rosengarten|Pillgram|Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg" ct="2509062131" l="1">
+      <m id="r24221115" t="d" c="43" ts="2509062016" ts-tts="25-09-06 20:16:10.854" />
+      <m id="r24221117" t="d" c="43" ts="2509062016" ts-tts="25-09-06 20:16:10.854" />
+      <m id="r24226525" t="d" c="2" ts="2509062116" ts-tts="25-09-06 21:16:10.970" />
+    </ar>
+    <dp cpth="Potsdam Hbf|Werder(Havel)|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Magdeburg-Neustadt|Magdeburg Hbf" ct="2509062133" l="1">
+      <m id="r24221115" t="d" c="43" ts="2509062016" ts-tts="25-09-06 20:16:10.854" />
+      <m id="r24221117" t="d" c="43" ts="2509062016" ts-tts="25-09-06 20:16:10.854" />
+      <m id="r24226525" t="d" c="2" ts="2509062116" ts-tts="25-09-06 21:16:10.970" />
+    </dp>
+  </s>
+  <s id="8303865692043475120-2509062012-11" eva="8010405">
+    <ar ct="2509062142" l="1">
+      <m id="r24224655" t="d" c="47" ts="2509062053" ts-tts="25-09-06 20:53:13.745" />
+      <m id="r24224658" t="d" c="47" ts="2509062053" ts-tts="25-09-06 20:53:13.745" />
+      <m id="r24224660" t="d" c="47" ts="2509062053" ts-tts="25-09-06 20:53:13.745" />
+    </ar>
+    <dp ct="2509062144" l="1">
+      <m id="r24224655" t="d" c="47" ts="2509062053" ts-tts="25-09-06 20:53:13.745" />
+      <m id="r24224658" t="d" c="47" ts="2509062053" ts-tts="25-09-06 20:53:13.745" />
+      <m id="r24224660" t="d" c="47" ts="2509062053" ts-tts="25-09-06 20:53:13.745" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

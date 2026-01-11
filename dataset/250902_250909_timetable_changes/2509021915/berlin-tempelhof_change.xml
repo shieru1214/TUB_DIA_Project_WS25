@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tempelhof" eva="8089090">
+  <s id="-9147533488436248374-2509022126-16" eva="8089090">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:09.608" pr="1" />
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)" cs="p" clt="2509021907" l="42" />
+    <dp cpth="Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" cs="p" clt="2509021907" l="42" />
+  </s>
+  <s id="-8178395365443570460-2509021837-13" eva="8089090">
+    <ar cpth="Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße" ct="2509021916" l="45" />
+    <dp cpth="Berlin Südkreuz (S)" ct="2509021916" l="45" />
+  </s>
+  <s id="7900906661958352946-2509031101-10" eva="8089090">
+    <ar l="41">
+      <m id="r23679719" t="f" c="0" ts="2509021441" ts-tts="25-09-02 14:41:15.726" />
+    </ar>
+    <dp l="41">
+      <m id="r23679719" t="f" c="0" ts="2509021441" ts-tts="25-09-02 14:41:15.726" />
+    </dp>
+  </s>
+  <s id="-6584340043863317278-2509031201-16" eva="8089090">
+    <ar l="42">
+      <m id="r23679689" t="f" c="0" ts="2509021440" ts-tts="25-09-02 14:40:28.931" />
+    </ar>
+    <dp l="42">
+      <m id="r23679689" t="f" c="0" ts="2509021440" ts-tts="25-09-02 14:40:28.931" />
+    </dp>
+  </s>
+  <s id="-4353035827079684813-2509021856-11" eva="8089090">
+    <ar ct="2509021915" l="46" />
+    <dp ct="2509021915" l="46" />
+  </s>
+  <s id="-8965910514656471641-2509021841-16" eva="8089090">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:09.607" pr="1" />
+    <ar ct="2509021913" l="42" />
+    <dp ct="2509021914" l="42" />
+  </s>
+</timetable>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Messe Nord/ZOB (Witzleben)" eva="8089110">
+  <s id="494555846565758058-2509021645-7" eva="8089110">
+    <ar ct="2509021700" l="42" />
+    <dp ct="2509021700" l="42" />
+  </s>
+  <s id="-6651649733975822183-2509021551-19" eva="8089110">
+    <m id="r2485131" t="h" from="2509020952" to="2509021600" cat="Störung" ts="2509020953" ts-tts="25-09-02 10:48:51.350" pr="2" />
+    <ar ct="2509021630" l="41" />
+    <dp ct="2509021630" l="41" />
+  </s>
+  <s id="7433705684187241900-2509021541-7" eva="8089110">
+    <m id="r2485131" t="h" from="2509020952" to="2509021600" cat="Störung" ts="2509020953" ts-tts="25-09-02 10:48:51.350" pr="2" />
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend" ct="2509021555" l="42" />
+    <dp cpth="Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee" ct="2509021559" l="42" />
+  </s>
+  <s id="4862017594441901856-2509021644-15" eva="8089110">
+    <ar ct="2509021715" l="41" />
+    <dp ct="2509021715" l="41" />
+  </s>
+  <s id="-3125616620737901950-2509021615-7" eva="8089110">
+    <ar ct="2509021630" l="42" />
+    <dp ct="2509021630" l="42" />
+  </s>
+</timetable>

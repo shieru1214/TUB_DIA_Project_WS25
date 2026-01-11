@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Charlottenburg">
+  <s id="-8084248573434942668-2509060315-9">
+    <tl f="N" t="p" o="OWRE" c="RE" n="73752" />
+    <ar pt="2509060400" pp="1" l="1" ppth="Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Berlin-Wannsee" />
+    <dp pt="2509060401" pp="1" l="1" ppth="Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)" />
+  </s>
+  <s id="-8033944623099636092-2509060423-1">
+    <tl f="N" t="p" o="OWRE" c="RE" n="73800" />
+    <dp pt="2509060423" pp="1" l="1" ppth="Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Fürstenwalde(Spree)|Frankfurt(Oder)" />
+  </s>
+  <s id="7466508975589297015-2509060407-6">
+    <tl f="N" t="p" o="OWRE" c="RE" n="62048" />
+    <ar pt="2509060430" pp="2" l="8" ppth="Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau" />
+    <dp pt="2509060431" pp="2" l="8" ppth="Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Flughafen BER" />
+  </s>
+</timetable>

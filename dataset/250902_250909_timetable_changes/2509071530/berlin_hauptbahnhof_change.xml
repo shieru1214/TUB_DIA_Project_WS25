@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hbf" eva="8011160">
+  <s id="8054547070521763430-2509070559-23" eva="8011160">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-06 23:16:02.808" pr="3" />
+    <m id="r2444960" t="h" from="2508270600" to="2509272359" cat="Information" ts="2508262309" ts-tts="25-09-06 23:16:02.819" pr="2" />
+    <m id="r2487674" t="h" from="2509071120" to="2509071330" cat="Störung" ts="2509071131" ts-tts="25-09-07 11:31:44.833" pr="2" />
+    <m id="r2487533" t="h" from="2509070331" to="2509080221" cat="Information" ts="2509070241" ts-tts="25-09-07 02:41:11.113" pr="3" />
+    <m id="r2297275" t="h" from="2412150000" to="2512132359" cat="Information" ts="2412142300" ts-tts="25-09-06 23:16:02.787" pr="2" />
+    <m id="r2487614" t="h" from="2509071108" to="2509071114" cat="Information" ts="2509070936" ts-tts="25-09-07 09:36:27.134" pr="2" />
+    <m id="r980203034" t="c" ts="2509071519" ts-tts="25-09-07 15:19:18.522" />
+    <m id="r980203034alt" t="c" ts="2509071519" ts-tts="25-09-07 15:19:18.634" />
+    <ar cpth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Hanau Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf|Berlin-Spandau" ct="2509071534">
+      <m id="r24253675" t="d" c="68" ts="2509071001" ts-tts="25-09-07 10:01:38.031" />
+      <m id="r24253677" t="d" c="68" ts="2509071001" ts-tts="25-09-07 10:01:38.031" />
+      <m id="r24281922" t="f" c="0" ts="2509071519" ts-tts="25-09-07 15:19:18.612" />
+    </ar>
+    <dp cpth="Berlin Ostbahnhof" ct="2509071537">
+      <m id="r24253675" t="d" c="68" ts="2509071001" ts-tts="25-09-07 10:01:38.031" />
+      <m id="r24253677" t="d" c="68" ts="2509071001" ts-tts="25-09-07 10:01:38.031" />
+    </dp>
+  </s>
+  <s id="-4020550040361167307-2509071345-8" eva="8011160">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-06 23:16:02.808" pr="3" />
+    <ar ct="2509071826">
+      <m id="r24280468" t="d" c="55" ts="2509071510" ts-tts="25-09-07 15:10:15.012" />
+      <m id="r24280471" t="d" c="55" ts="2509071510" ts-tts="25-09-07 15:10:15.012" />
+      <m id="r24280473" t="d" c="55" ts="2509071510" ts-tts="25-09-07 15:10:15.012" />
+    </ar>
+    <dp ct="2509071829">
+      <m id="r24280468" t="d" c="55" ts="2509071510" ts-tts="25-09-07 15:10:15.012" />
+      <m id="r24280471" t="d" c="55" ts="2509071510" ts-tts="25-09-07 15:10:15.012" />
+      <m id="r24280473" t="d" c="55" ts="2509071510" ts-tts="25-09-07 15:10:15.012" />
+    </dp>
+  </s>
+  <s id="-2479098462107978368-2509071507-6" eva="8011160">
+    <ar ct="2509071542" l="8" />
+    <dp ct="2509071544" l="8">
+      <m id="r24282524" t="f" c="0" ts="2509071523" ts-tts="25-09-07 15:23:11.040" />
+    </dp>
+  </s>
+  <s id="-1360629902197387952-2509071343-10" eva="8011160">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-06 23:16:02.808" pr="3" />
+    <ar ct="2509071826">
+      <m id="r24274895" t="d" c="64" ts="2509071415" ts-tts="25-09-07 14:15:57.713" />
+      <m id="r24274897" t="d" c="64" ts="2509071415" ts-tts="25-09-07 14:15:57.713" />
+      <m id="r24280475" t="d" c="55" ts="2509071510" ts-tts="25-09-07 15:10:15.011" />
+    </ar>
+    <dp ct="2509071829">
+      <m id="r24274895" t="d" c="64" ts="2509071415" ts-tts="25-09-07 14:15:57.713" />
+      <m id="r24274897" t="d" c="64" ts="2509071415" ts-tts="25-09-07 14:15:57.713" />
+      <m id="r24280475" t="d" c="55" ts="2509071510" ts-tts="25-09-07 15:10:15.011" />
+    </dp>
+  </s>
+  <s id="3734400738937518806-2509071000-13" eva="8011160">
+    <ar cpth="Amsterdam Centraal|Hilversum|Amersfoort Centraal|Apeldoorn|Deventer|Almelo|Hengelo|Bad Bentheim|Rheine|Osnabrück Hbf|Bünde(Westf)|Hannover Hbf|Berlin-Spandau" ppth="Amsterdam Centraal|Hilversum|Amersfoort Centraal|Apeldoorn|Deventer|Hengelo|Bad Bentheim|Rheine|Osnabrück Hbf|Bünde(Westf)|Hannover Hbf|Berlin-Spandau" pp="12" ct="2509071646" pt="2509071549">
+      <m id="r24260771" t="d" c="5" ts="2509071138" ts-tts="25-09-07 11:38:42.854" />
+      <m id="r24266563" t="d" c="55" ts="2509071249" ts-tts="25-09-07 12:49:41.148" />
+      <m id="r24266565" t="d" c="55" ts="2509071249" ts-tts="25-09-07 12:49:41.148" />
+    </ar>
+    <dp cpth="Berlin Ostbahnhof" ppth="Berlin Ostbahnhof" pp="12" ct="2509071649" pt="2509071553" hi="1">
+      <m id="r24260771" t="d" c="5" ts="2509071138" ts-tts="25-09-07 11:38:42.854" />
+      <m id="r24266563" t="d" c="55" ts="2509071249" ts-tts="25-09-07 12:49:41.148" />
+      <m id="r24266565" t="d" c="55" ts="2509071249" ts-tts="25-09-07 12:49:41.148" />
+    </dp>
+    <tl f="F" t="p" o="84" c="IC" n="145" />
+  </s>
+  <s id="-8217114816724687027-2509071501-10" eva="8011160">
+    <ar ct="2509071547" l="7" />
+    <dp ct="2509071548" l="7">
+      <m id="r24281791" t="f" c="0" ts="2509071518" ts-tts="25-09-07 15:18:16.347" />
+      <m id="r24282530" t="f" c="0" ts="2509071523" ts-tts="25-09-07 15:23:11.040" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:45.514" />
+</timetable>

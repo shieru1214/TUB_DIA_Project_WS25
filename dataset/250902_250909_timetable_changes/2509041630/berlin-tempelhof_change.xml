@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tempelhof" eva="8089090">
+  <s id="6576022645946072817-2509041655-16" eva="8089090">
+    <ar cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)" l="42" />
+    <dp cpth="Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)" l="42" />
+  </s>
+  <s id="494555846565758058-2509041645-16" eva="8089090">
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)" ct="2509041717" l="42" />
+    <dp cpth="Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)" ct="2509041718" l="42" />
+  </s>
+  <s id="3534185430669820111-2509041628-2" eva="8089090">
+    <ar ct="2509041630" l="45" />
+    <dp ct="2509041630" l="45" />
+  </s>
+  <s id="2071378469913084794-2509041625-16" eva="8089090">
+    <ar ct="2509041659" l="42" />
+    <dp ct="2509041659" l="42" />
+  </s>
+  <s id="6192512728991621758-2509041616-11" eva="8089090">
+    <ar ct="2509041636" l="46" />
+    <dp ct="2509041637" l="46" />
+  </s>
+  <s id="4862017594441901856-2509041644-6" eva="8089090">
+    <ar ct="2509041657" l="41" />
+    <dp ct="2509041658" l="41" />
+  </s>
+  <s id="1621608147827189567-2509041555-16" eva="8089090">
+    <ar ct="2509041628" l="42" />
+    <dp ct="2509041628" l="42" />
+  </s>
+</timetable>

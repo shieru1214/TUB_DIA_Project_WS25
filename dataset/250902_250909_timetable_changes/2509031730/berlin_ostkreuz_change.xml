@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostkreuz" eva="8011162">
+  <s id="8735333063408268302-2509031512-18" eva="8011162">
+    <ar ct="2509031728" l="1">
+      <m id="r23805111" t="d" c="43" ts="2509031649" ts-tts="25-09-03 16:49:48.323" />
+    </ar>
+    <dp ct="2509031730" l="1">
+      <m id="r23805111" t="d" c="43" ts="2509031649" ts-tts="25-09-03 16:49:48.323" />
+    </dp>
+  </s>
+  <s id="-7039966718930086233-2509031635-9" eva="8011162">
+    <m id="r2479739" t="h" from="2509010000" to="2509042100" cat="Information" ts="2508312308" ts-tts="25-09-02 23:16:04.368" pr="2" />
+    <ar ct="2509031739" l="2">
+      <m id="r23753805" t="f" c="0" ts="2509031010" ts-tts="25-09-03 10:10:13.672" />
+    </ar>
+    <dp ct="2509031740" l="2">
+      <m id="r23753805" t="f" c="0" ts="2509031010" ts-tts="25-09-03 10:10:13.672" />
+    </dp>
+  </s>
+  <s id="3866180571503560602-2509031646-4" eva="8011162">
+    <ar ct="2509031735" l="2" />
+    <dp ct="2509031741" l="2" />
+  </s>
+  <s id="-2910442641180816478-2509031759-100" eva="8011162">
+    <dp cpth="Berlin-Lichtenberg|Ahrensfelde Friedhof|Ahrensfelde Nord|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark)|Werneuchen" ppth="Berlin-Lichtenberg|Ahrensfelde Friedhof|Ahrensfelde Nord|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark)|Werneuchen" pp="7" ct="2509031752" pt="2509031752" ps="a" l="25">
+      <m id="r23796665" t="d" c="1" ts="2509031551" ts-tts="25-09-03 15:51:40.189" />
+      <m id="r23796667" t="d" c="1" ts="2509031551" ts-tts="25-09-03 15:51:40.189" />
+    </dp>
+    <tl f="N" t="p" o="NBRB25" c="RB" n="61211" />
+  </s>
+  <s id="3106760861834530505-2509031726-10" eva="8011162">
+    <ar ct="2509031825" l="1" />
+    <dp ct="2509031827" l="1" />
+  </s>
+</timetable>

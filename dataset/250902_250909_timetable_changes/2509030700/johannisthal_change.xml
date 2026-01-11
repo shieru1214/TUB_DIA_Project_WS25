@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Johannisthal" eva="8089007">
+  <s id="579060298813044905-2509030645-7" eva="8089007">
+    <ar ct="2509030700" l="8" />
+    <dp ct="2509030701" l="8" />
+  </s>
+  <s id="6894402840890385655-2509030715-102" eva="8089007">
+    <m id="r2485590" t="h" from="2509030530" to="2509030830" cat="Störung" ts="2509030602" ts-tts="25-09-03 06:02:50.339" pr="2" />
+    <ar cpth="Berlin-Grünau|Berlin-Adlershof" ppth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)" pp="4" ct="2509030746" pt="2509030746" ps="a" l="42" />
+    <dp cpth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)" ppth="Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)" pp="4" ct="2509030746" pt="2509030746" ps="a" l="42" />
+    <tl f="S" t="p" o="08" c="S" n="42565" />
+  </s>
+  <s id="-717989684430484605-2509030659-3" eva="8089007">
+    <ar ct="2509030705" l="85" />
+    <dp ct="2509030705" l="85" />
+  </s>
+  <s id="-7526344709355974670-2509030715-7" eva="8089007">
+    <ar ct="2509030730" l="85" />
+    <dp ct="2509030731" l="85" />
+  </s>
+  <s id="3618988314481372825-2509030714-6" eva="8089007">
+    <ar ct="2509030734" l="8" />
+    <dp ct="2509030735" l="8" />
+  </s>
+</timetable>

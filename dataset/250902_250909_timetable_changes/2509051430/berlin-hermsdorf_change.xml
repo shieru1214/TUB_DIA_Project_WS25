@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Hermsdorf" eva="8089064">
+  <s id="8954708290445672037-2509051435-2" eva="8089064">
+    <m id="r2486799" t="h" from="2509051300" to="2509051600" cat="Störung" ts="2509051216" ts-tts="25-09-05 12:16:13.376" pr="1" />
+    <ar ct="2509051439" l="1" />
+    <dp ct="2509051439" l="1" />
+  </s>
+  <s id="4415611691318672133-2509051335-23" eva="8089064">
+    <ar ct="2509051432" l="26" />
+    <dp ct="2509051432" l="26" />
+  </s>
+  <s id="5939993262368712436-2509051324-28" eva="8089064">
+    <m id="r2486799" t="h" from="2509051300" to="2509051600" cat="Störung" ts="2509051216" ts-tts="25-09-05 12:16:13.376" pr="1" />
+    <ar cpth="Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust" ct="2509051429" l="1" />
+    <dp cpth="Berlin-Frohnau" ct="2509051430" l="1" />
+  </s>
+  <s id="4047447711048277920-2509051423-2" eva="8089064">
+    <ar ct="2509051430" l="26" />
+    <dp ct="2509051431" l="26" />
+  </s>
+  <s id="-5432943118452726032-2509051444-28" eva="8089064">
+    <m id="r2486799" t="h" from="2509051300" to="2509051600" cat="Störung" ts="2509051216" ts-tts="25-09-05 12:16:13.376" pr="1" />
+    <ar ct="2509051545" l="1" />
+  </s>
+</timetable>

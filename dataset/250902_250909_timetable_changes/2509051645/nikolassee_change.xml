@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Nikolassee" eva="8089078">
+  <s id="-1551521545160298502-2509051614-10" eva="8089078">
+    <ar ct="2509051646" l="7" />
+    <dp ct="2509051646" l="7" />
+  </s>
+  <s id="-7257278113347358399-2509051551-34" eva="8089078">
+    <m id="r2486901" t="h" from="2509051400" to="2509051800" cat="Störung" ts="2509051449" ts-tts="25-09-05 14:50:01.528" pr="1" />
+    <m id="r2486799" t="h" from="2509051300" to="2509051600" cat="Störung" ts="2509051216" ts-tts="25-09-05 12:16:22.410" pr="1" />
+    <ar ct="2509051712" l="1" />
+    <dp ct="2509051712" l="1" />
+  </s>
+  <s id="732838878254816626-2509051551-25" eva="8089078">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2509051650" cs="c" clt="2509051644" l="7" />
+    <dp cpth="" ct="2509051650" cs="c" clt="2509051644" l="7" />
+  </s>
+  <s id="1390527141869994091-2509051621-5" eva="8089078">
+    <ar cpth="" ct="2509051654" cs="c" clt="2509051606" l="7">
+      <m id="r24074376" t="d" c="55" ts="2509051612" ts-tts="25-09-05 16:13:03.742" />
+      <m id="r24074382" t="d" c="55" ts="2509051612" ts-tts="25-09-05 16:13:03.742" />
+    </ar>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2509051655" cs="c" clt="2509051606" l="7">
+      <m id="r24074376" t="d" c="55" ts="2509051612" ts-tts="25-09-05 16:13:03.742" />
+      <m id="r24074382" t="d" c="55" ts="2509051612" ts-tts="25-09-05 16:13:03.742" />
+    </dp>
+  </s>
+</timetable>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="-8331924887006766616-2509041006-4" eva="8089047">
+    <ar ppth="Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" pp="1" ct="2509041015" pt="2509041012" l="9" />
+    <dp ppth="Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" pp="1" ct="2509041015" pt="2509041012" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90362" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9362" />
+    </ref>
+  </s>
+  <s id="3138140669512233907-2509041011-7" eva="8089047">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.390" pr="2" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:32:10.735" pr="1" />
+    <m id="r2486202" t="h" from="2509040930" to="2509041500" cat="Störung" ts="2509041000" ts-tts="25-09-04 10:00:17.675" pr="2" />
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald" ct="2509041037" l="7" />
+    <dp cpth="Berlin Charlottenburg (S)" ct="2509041037" l="7" />
+  </s>
+  <s id="-3891020619417499911-2509040944-14" eva="8089047">
+    <ar ct="2509041013" l="41" />
+    <dp ct="2509041014" l="41" />
+  </s>
+</timetable>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Karow">
+  <s id="4393439593179345593-2509061153-2">
+    <tl t="p" o="NB" c="Bus" n="6026" />
+    <ar pt="2509061210" pp="" l="EV" ppth="Schönerlinde" />
+  </s>
+  <s id="-832501339664272611-2509061242-1">
+    <tl t="p" o="NB" c="Bus" n="6033" />
+    <dp pt="2509061242" pp="" l="EV" ppth="Schönerlinde" />
+  </s>
+  <s id="-4366357625762306188-2509061223-2">
+    <tl t="p" o="NB" c="Bus" n="6028" />
+    <ar pt="2509061240" pp="" l="EV" ppth="Schönerlinde" />
+  </s>
+  <s id="-746857946885021678-2509061257-1">
+    <tl f="N" t="p" o="NBRB27" c="RB" n="61059" />
+    <dp pt="2509061257" pp="1" l="27" ppth="Schönerlinde|Schönwalde(Barnim)|Basdorf|Zühlsdorf|Wensickendorf|Schmachtenhagen" />
+  </s>
+  <s id="-601445759867366651-2509061212-1">
+    <tl t="p" o="NB" c="Bus" n="6031" />
+    <dp pt="2509061212" pp="" l="EV" ppth="Schönerlinde" />
+  </s>
+</timetable>

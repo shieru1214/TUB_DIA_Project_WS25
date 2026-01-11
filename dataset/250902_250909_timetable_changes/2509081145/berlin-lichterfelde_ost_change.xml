@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde Ost" eva="8011041">
+  <s id="4481015520823907215-2509081002-13" eva="8011041">
+    <m id="r2487941" t="h" from="2509080400" to="2509082359" cat="Information" ts="2509080409" ts-tts="25-09-08 04:09:05.967" pr="2" />
+    <ar ppth="Rathenow|Nennhausen|Buschow|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau|Berlin Jungfernheide|Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" pp="3" ct="2509081148" pt="2509081118" l="4">
+      <m id="r24336421" t="q" c="95" ts="2509080104" ts-tts="25-09-08 01:04:10.454" />
+      <m id="r24336423" t="q" c="95" ts="2509080104" ts-tts="25-09-08 01:04:10.454" />
+      <m id="r24336646" t="f" c="0" ts="2509080115" ts-tts="25-09-08 01:15:57.589" />
+      <m id="r24336657" t="f" c="0" ts="2509080116" ts-tts="25-09-08 01:16:12.899" />
+      <m id="r24378038" t="d" c="48" ts="2509081008" ts-tts="25-09-08 10:08:46.470" />
+      <m id="r24378040" t="d" c="48" ts="2509081008" ts-tts="25-09-08 10:08:46.470" />
+    </ar>
+    <dp ppth="Ludwigsfelde|Thyrow|Trebbin|Luckenwalde|Jüterbog|Oehna|Zellendorf|Linda(Elster)|Holzdorf(Elster)|Herzberg(Elster)|Falkenberg(Elster)" pp="3" ct="2509081149" pt="2509081119" l="4">
+      <m id="r24336421" t="q" c="95" ts="2509080104" ts-tts="25-09-08 01:04:10.454" />
+      <m id="r24336423" t="q" c="95" ts="2509080104" ts-tts="25-09-08 01:04:10.454" />
+      <m id="r24336646" t="f" c="0" ts="2509080115" ts-tts="25-09-08 01:15:57.589" />
+      <m id="r24336657" t="f" c="0" ts="2509080116" ts-tts="25-09-08 01:16:12.899" />
+      <m id="r24378038" t="d" c="48" ts="2509081008" ts-tts="25-09-08 10:08:46.470" />
+      <m id="r24378040" t="d" c="48" ts="2509081008" ts-tts="25-09-08 10:08:46.470" />
+    </dp>
+    <tl f="N" t="p" o="800158" c="RE" n="3150" />
+  </s>
+  <s id="3555623186981678054-2509081103-6" eva="8011041">
+    <ar ct="2509081143" l="4" />
+    <dp ct="2509081144" l="4" />
+  </s>
+</timetable>

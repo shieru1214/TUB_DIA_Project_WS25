@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Savignyplatz" eva="8089037">
+  <s id="1210434999863274708-2509060901-9" eva="8089037">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.627" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-05 23:16:03.616" pr="1" />
+    <ar ct="2509060930" l="7" />
+    <dp ct="2509060931" l="7" />
+  </s>
+  <s id="-5821242535586450988-2509060830-28" eva="8089037">
+    <ar ct="2509060943" l="5" />
+    <dp ct="2509060943" l="5" />
+  </s>
+  <s id="5711699968614096923-2509060945-22" eva="8089037">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.414" pr="1" />
+    <ar ct="2509061037" l="3" />
+    <dp ct="2509061038" l="3" />
+  </s>
+  <s id="9138971192133749603-2509060829-22" eva="8089037">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.414" pr="1" />
+    <ar ct="2509060928" l="9" />
+    <dp ct="2509060929" l="9" />
+  </s>
+  <s id="4922474208994257762-2509060909-22" eva="8089037">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.415" pr="1" />
+    <ar ct="2509061009" l="9" />
+    <dp ct="2509061009" l="9" />
+  </s>
+  <s id="-3249051987203305970-2509060921-5" eva="8089037">
+    <ar cpth="Berlin Westkreuz|Berlin Charlottenburg (S)" ct="2509060932" l="5" />
+    <dp cpth="Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)|Birkenstein|Hoppegarten(Mark)|Neuenhagen(b Berlin)|Fredersdorf(b Berlin)|Petershagen Nord|Strausberg (S)|Strausberg-Hegermühle|Strausberg Stadt|Strausberg Nord" ct="2509060933" l="5" />
+  </s>
+</timetable>

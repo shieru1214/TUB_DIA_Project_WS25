@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Neukölln" eva="8089077">
+  <s id="-338050820842531463-2509031237-11" eva="8089077">
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide" cs="p" clt="2509031129" l="45" />
+    <dp cpth="Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)" cs="p" clt="2509031129" l="45" />
+  </s>
+  <s id="1393475249458813068-2509031105-18" eva="8089077">
+    <ar ct="2509031146" l="42" />
+    <dp ct="2509031145" l="42" />
+  </s>
+  <s id="-8879419934362369035-2509031116-13" eva="8089077">
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße" ct="2509031143" l="46" />
+    <dp cpth="Berlin Köllnische Heide|Berlin Baumschulenweg" ct="2509031144" l="46" />
+  </s>
+  <s id="-8330413065028972171-2509031117-11" eva="8089077">
+    <ar ct="2509031150" l="45" />
+    <dp ct="2509031151" l="45" />
+  </s>
+</timetable>

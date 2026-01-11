@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wittenau (Wilhelmsruher Damm)" eva="8089096">
+  <s id="-1654285359393140584-2509051104-26" eva="8089096">
+    <ar ct="2509051200" l="1" />
+    <dp ct="2509051201" l="1" />
+  </s>
+  <s id="2226027283471872018-2509051215-21" eva="8089096">
+    <ar ct="2509051303" l="26" />
+    <dp ct="2509051304" l="26" />
+  </s>
+  <s id="1526507198905727989-2509051215-4" eva="8089096">
+    <ar ct="2509051225" l="1" />
+    <dp ct="2509051225" l="1" />
+  </s>
+  <s id="2180902073299215923-2509051235-21" eva="8089096">
+    <ar cpth="Teltow Stadt|Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)|Berlin-Lankwitz|Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof" cs="c" clt="2509051200" l="26" />
+    <dp cpth="" cs="c" clt="2509051200" l="26" />
+  </s>
+  <s id="1249006753985684559-2509051131-9" eva="8089096">
+    <m id="r2486700" t="h" from="2509050800" to="2509051300" cat="Störung" ts="2509050857" ts-tts="25-09-05 08:57:43.374" pr="1" />
+    <ar ct="2509051207" l="1" />
+    <dp ct="2509051207" l="1" />
+  </s>
+  <s id="1555138346406256057-2509051214-26" eva="8089096">
+    <ar ct="2509051310" l="1" />
+    <dp ct="2509051311" l="1" />
+  </s>
+</timetable>

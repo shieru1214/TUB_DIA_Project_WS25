@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Greifswalder Str" eva="8089011">
+  <s id="1384774326815339337-2509031756-4" eva="8089011">
+    <ar ct="2509031825" l="S41" />
+  </s>
+  <s id="-9065876490929463146-2509031751-25" eva="8089011">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:54.860" pr="1" />
+    <ar cpth="" ct="2509031904" cs="c" clt="2509031749" dc="1" l="42" />
+  </s>
+  <s id="-5321171711227584217-2509031747-4" eva="8089011">
+    <ar ct="2509031802" l="S41" />
+  </s>
+  <s id="5931541545122813702-2509031711-25" eva="8089011">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:54.860" pr="1" />
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee" cs="c" clt="2509031757" dc="1" l="42" />
+  </s>
+  <s id="6981593529691823949-2509031750-4" eva="8089011">
+    <ar ct="2509031807" l="S41" />
+  </s>
+  <s id="-1516075575371400899-2509031830-1" eva="8089011">
+    <dp ct="2509031830" l="S42" />
+  </s>
+  <s id="3462875326757212916-2509031754-1" eva="8089011">
+    <dp ct="2509031759" l="S42" />
+  </s>
+</timetable>

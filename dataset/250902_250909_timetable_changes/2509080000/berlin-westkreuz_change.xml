@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="6786112085151129871-2509072311-23" eva="8089047">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 16:16:04.315" pr="1" />
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" ct="2509072359" l="7" />
+    <dp cpth="Berlin-Grunewald|Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2509080000" l="7" />
+  </s>
+  <s id="-6719077218917581860-2509072341-18" eva="8089047">
+    <ar ct="2509080025" l="41" />
+    <dp ct="2509080025" l="41" />
+  </s>
+  <s id="-8505691472837027427-2509072353-9" eva="8089047">
+    <ar ppth="Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee" pp="11" ct="2509080014" pt="2509080008" l="41" />
+    <dp ppth="Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" pp="11" ct="2509080015" pt="2509080009" l="41" />
+    <tl f="S" t="e" o="08" c="S" n="40244" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="41244" />
+    </ref>
+  </s>
+  <s id="-8189148788276870459-2509072341-21" eva="8089047">
+    <ar ct="2509080036" l="46" />
+    <dp ct="2509080036" l="46" />
+  </s>
+  <s id="-7925159838019797805-2509072329-24" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:02.815" pr="1" />
+    <ar ct="2509080043" l="9" />
+    <dp ct="2509080044" l="9" />
+  </s>
+  <s id="7133943371670387554-2509072321-18" eva="8089047">
+    <ar ct="2509072358" l="41" />
+    <dp ct="2509072359" l="41" />
+  </s>
+  <s id="-2456133143939163618-2509072348-13" eva="8089047">
+    <ar cpth="" ppth="Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee" pp="11" ct="2509080021" pt="2509080013" cs="c" clt="2509072344" l="46">
+      <m id="r24333870" t="f" c="0" ts="2509072343" ts-tts="25-09-07 23:43:40.566" />
+    </ar>
+    <dp cpth="" ppth="Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" pp="11" ct="2509080021" pt="2509080014" cs="c" clt="2509072344" l="46">
+      <m id="r24333870" t="f" c="0" ts="2509072343" ts-tts="25-09-07 23:43:40.566" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="48434" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="46434" />
+    </ref>
+  </s>
+</timetable>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westend" eva="8089111">
+  <s id="6788934868271003721-2509031711-20" eva="8089111">
+    <ar cpth="Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee" ct="2509031752" cs="c" clt="2509031707" l="41" />
+    <dp cpth="" ct="2509031752" cs="c" clt="2509031707" l="41" />
+  </s>
+  <s id="-8819113931152956666-2509041001-6" eva="8089111">
+    <ar l="42">
+      <m id="r23685320" t="f" c="0" ts="2509021610" ts-tts="25-09-02 16:11:06.318" />
+      <m id="r23767199" t="f" c="0" ts="2509031200" ts-tts="25-09-03 12:00:26.500" />
+      <m id="r23767201" t="f" c="0" ts="2509031200" ts-tts="25-09-03 12:00:26.500" />
+    </ar>
+    <dp l="42">
+      <m id="r23685320" t="f" c="0" ts="2509021610" ts-tts="25-09-02 16:11:06.318" />
+      <m id="r23767199" t="f" c="0" ts="2509031200" ts-tts="25-09-03 12:00:26.500" />
+      <m id="r23767201" t="f" c="0" ts="2509031200" ts-tts="25-09-03 12:00:26.500" />
+    </dp>
+  </s>
+  <s id="5668190876533071758-2509040901-20" eva="8089111">
+    <ar l="41">
+      <m id="r23685376" t="f" c="0" ts="2509021611" ts-tts="25-09-02 16:11:38.807" />
+      <m id="r23759882" t="f" c="0" ts="2509031059" ts-tts="25-09-03 10:59:59.571" />
+    </ar>
+    <dp l="41">
+      <m id="r23685376" t="f" c="0" ts="2509021611" ts-tts="25-09-02 16:11:38.807" />
+      <m id="r23759882" t="f" c="0" ts="2509031059" ts-tts="25-09-03 10:59:59.571" />
+    </dp>
+  </s>
+  <s id="5465419147661215672-2509031631-20" eva="8089111">
+    <ar cpth="Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park" ppth="Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)" pp="1" ct="2509031744" pt="2509031712" cs="c" clt="2509031705" l="41" />
+    <dp cpth="" ppth="Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" pp="1" ct="2509031744" pt="2509031712" cs="c" clt="2509031705" pde="Berlin-Pankow" l="41" />
+    <tl f="S" t="p" o="08" c="S" n="41160" />
+  </s>
+  <s id="-9065876490929463146-2509031751-6" eva="8089111">
+    <ar ct="2509031826" l="42" />
+    <dp ct="2509031827" l="42" />
+  </s>
+  <s id="5241224512675213644-2509031701-20" eva="8089111">
+    <ar ct="2509031753" l="41">
+      <m id="r23681371" t="f" c="0" ts="2509021504" ts-tts="25-09-02 15:04:18.406" />
+      <m id="r23804520" t="f" c="0" ts="2509031646" ts-tts="25-09-03 16:46:17.857" />
+    </ar>
+    <dp ct="2509031754" l="41">
+      <m id="r23681371" t="f" c="0" ts="2509021504" ts-tts="25-09-02 15:04:18.406" />
+      <m id="r23804520" t="f" c="0" ts="2509031646" ts-tts="25-09-03 16:46:17.857" />
+    </dp>
+  </s>
+  <s id="-3057792255553469410-2509031654-16" eva="8089111">
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)" ct="2509031729" l="41" />
+    <dp cpth="Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ct="2509031730" l="41" />
+  </s>
+  <s id="8326091230092313572-2509031701-6" eva="8089111">
+    <ar ct="2509031713" l="42">
+      <m id="r23681022" t="f" c="0" ts="2509021458" ts-tts="25-09-02 14:58:41.170" />
+      <m id="r23804626" t="f" c="0" ts="2509031646" ts-tts="25-09-03 16:46:50.566" />
+    </ar>
+    <dp ct="2509031714" l="42">
+      <m id="r23681022" t="f" c="0" ts="2509021458" ts-tts="25-09-02 14:58:41.170" />
+      <m id="r23804626" t="f" c="0" ts="2509031646" ts-tts="25-09-03 16:46:50.566" />
+    </dp>
+  </s>
+</timetable>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="1067975341397851880-2509050845-8" eva="8089047">
+    <ar ct="2509050902" l="42" />
+    <dp ct="2509050902" l="42" />
+  </s>
+  <s id="-4481108465114944953-2509050845-23" eva="8089047">
+    <ar ct="2509050937" l="5" />
+    <dp ct="2509050937" l="5" />
+  </s>
+  <s id="6281176233707089090-2509050751-18" eva="8089047">
+    <ar ct="2509050829" l="41" />
+    <dp ct="2509050830" l="41" />
+  </s>
+  <s id="-6258633030036935248-2509050811-23" eva="8089047">
+    <ar ct="2509050900" l="7" />
+    <dp ct="2509050901" l="7" />
+  </s>
+  <s id="-5153515271206664391-2509050815-8" eva="8089047">
+    <ar ct="2509050833" l="42" />
+    <dp ct="2509050832" l="42" />
+  </s>
+  <s id="-350837373914204669-2509050735-23" eva="8089047">
+    <ar ppth="Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" pp="1" ct="2509050829" pt="2509050827" l="5">
+      <m id="r24011094" t="f" c="0" ts="2509050731" ts-tts="25-09-05 07:31:44.981" />
+    </ar>
+    <dp ppth="Berlin Messe Süd (Eichkamp)|Berlin Olympiastadion" pp="1" ct="2509050829" pt="2509050827" l="5">
+      <m id="r24011094" t="f" c="0" ts="2509050731" ts-tts="25-09-05 07:31:44.981" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="50046" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="5046" />
+    </ref>
+  </s>
+  <s id="4412974271749613276-2509050844-14" eva="8089047">
+    <ar ct="2509050913" l="41" />
+    <dp ct="2509050914" l="41" />
+  </s>
+  <s id="-7767710212417652601-2509050801-18" eva="8089047">
+    <ar ct="2509050839" l="41">
+      <m id="r23888418" t="f" c="0" ts="2509041000" ts-tts="25-09-04 10:00:19.450" />
+      <m id="r23888419" t="f" c="0" ts="2509041000" ts-tts="25-09-04 10:00:19.450" />
+    </ar>
+    <dp ct="2509050839" l="41">
+      <m id="r23888418" t="f" c="0" ts="2509041000" ts-tts="25-09-04 10:00:19.450" />
+      <m id="r23888419" t="f" c="0" ts="2509041000" ts-tts="25-09-04 10:00:19.450" />
+    </dp>
+  </s>
+  <s id="-6563643733441072858-2509050827-1" eva="8089047">
+    <dp ct="2509050829" l="5" />
+  </s>
+</timetable>

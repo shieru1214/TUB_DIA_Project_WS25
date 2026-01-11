@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Messe Süd (Eichkamp)" eva="8089328">
+  <s id="4953571786526810340-2509061810-31" eva="8089328">
+    <ar ct="2509061929" l="5" />
+    <dp ct="2509061930" l="5" />
+  </s>
+  <s id="7971207518648762812-2509061917-6" eva="8089328">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:04.067" pr="1" />
+    <ar ct="2509061930" l="9" />
+    <dp ct="2509061931" l="9" />
+  </s>
+  <s id="-8391995242321028848-2509061945-25" eva="8089328">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:04.067" pr="1" />
+    <ar ct="2509062044" l="3" />
+    <dp ct="2509062044" l="3" />
+  </s>
+  <s id="-7210502903164240362-2509061911-22" eva="8089328">
+    <ar cpth="Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" ct="2509062001" l="5" />
+    <dp cpth="Berlin Olympiastadion" ct="2509062001" l="5" />
+  </s>
+  <s id="-1533044940590054043-2509061921-2" eva="8089328">
+    <ar ct="2509061928" l="5" />
+    <dp ct="2509061928" l="5" />
+  </s>
+</timetable>

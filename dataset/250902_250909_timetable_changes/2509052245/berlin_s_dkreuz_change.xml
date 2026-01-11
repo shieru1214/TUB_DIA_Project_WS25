@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Südkreuz" eva="8011113">
+  <s id="2850484104831128676-2509052203-10" eva="8011113">
+    <ar cp="7" ct="2509052304" l="4" />
+    <dp cp="7" ct="2509052306" l="4" />
+  </s>
+  <s id="6950624135321443271-2509052106-12" eva="8011113">
+    <m id="r2486611" t="h" from="2509050706" to="2509060001" cat="Störung" ts="2509050450" ts-tts="25-09-05 04:50:49.570" pr="2" />
+    <ar ct="2509052242" l="3">
+      <m id="r24039729" t="q" c="73" ts="2509051158" ts-tts="25-09-05 11:58:31.349" />
+      <m id="r24039732" t="q" c="73" ts="2509051158" ts-tts="25-09-05 11:58:31.349" />
+    </ar>
+    <dp ct="2509052244" l="3">
+      <m id="r24039729" t="q" c="73" ts="2509051158" ts-tts="25-09-05 11:58:31.349" />
+      <m id="r24039732" t="q" c="73" ts="2509051158" ts-tts="25-09-05 11:58:31.349" />
+    </dp>
+  </s>
+  <s id="-7457969673185314569-2509052013-9" eva="8011113">
+    <ar ct="2509052256" l="85">
+      <m id="r24115197" t="d" c="43" ts="2509052131" ts-tts="25-09-05 21:32:05.084" />
+    </ar>
+  </s>
+  <s id="6699077307981861871-2509051901-24" eva="8011113">
+    <ar ppth="Stralsund Hbf|Zarrendorf|Elmenhorst|Wittenhagen|Grimmen|Rakow|Demmin|Utzedel|Sternfeld|Gnevkow|Altentreptow|Neubrandenburg|Burg Stargard(Meckl)|Cammin(Meckl)|Blankensee(Meckl)|Neustrelitz Hbf|Fürstenberg(Havel)|Gransee|Löwenberg(Mark)|Oranienburg|Berlin Gesundbrunnen|Berlin Hbf|Berlin Potsdamer Platz" pp="6" ct="2509052250" pt="2509052220" l="5">
+      <m id="r24112474" t="d" c="48" ts="2509052103" ts-tts="25-09-05 21:03:31.064" />
+    </ar>
+    <tl f="N" t="p" o="800158" c="RE" n="3519" />
+  </s>
+  <s id="4527502747804446727-2509052227-1" eva="8011113">
+    <m id="r2486990" t="h" from="2509052227" to="2509060155" cat="Information" ts="2509051745" ts-tts="25-09-05 17:45:09.236" pr="3" />
+    <dp cpth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Salzwedel|Uelzen|Hamburg-Harburg|Hamburg Hbf|Hamburg Dammtor|Hamburg-Altona" cp="7" ct="2509052228">
+      <m id="r24087290" t="q" c="98" ts="2509051744" ts-tts="25-09-05 17:44:36.932" />
+      <m id="r24087292" t="q" c="98" ts="2509051744" ts-tts="25-09-05 17:44:36.932" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

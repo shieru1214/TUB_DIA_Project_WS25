@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Nöldnerplatz" eva="8089026">
+  <s id="2628856606717861855-2509071406-7" eva="8089026">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 23:16:03.162" pr="1" />
+    <ar cpth="" cs="c" clt="2509071300" l="75" />
+    <dp cpth="" cs="c" clt="2509071300" l="75" />
+  </s>
+  <s id="8347728863791135643-2509071221-17" eva="8089026">
+    <ar cpth="Berlin Olympiastadion|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)" ct="2509071259" l="5" />
+    <dp cpth="Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)|Birkenstein|Hoppegarten(Mark)|Neuenhagen(b Berlin)|Fredersdorf(b Berlin)" ct="2509071259" l="5" />
+  </s>
+  <s id="-5109470918614355591-2509071336-3" eva="8089026">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 23:16:03.162" pr="1" />
+    <ar cpth="" cs="c" clt="2509071259" l="75" />
+    <dp cpth="" cs="c" clt="2509071259" l="75" />
+  </s>
+  <s id="-2657967321570209519-2509071256-2" eva="8089026">
+    <ar ct="2509071258" l="7" />
+    <dp ct="2509071259" l="7" />
+  </s>
+</timetable>

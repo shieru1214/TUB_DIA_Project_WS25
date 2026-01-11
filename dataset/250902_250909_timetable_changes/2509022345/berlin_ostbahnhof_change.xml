@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostbahnhof" eva="8010255">
+  <s id="5597303123860052865-2509021926-14" eva="8010255">
+    <m id="r2485349" t="h" from="2509021600" to="2509022359" cat="Störung" ts="2509021850" ts-tts="25-09-02 18:50:16.835" pr="1" />
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-02 11:21:15.461" pr="3" />
+    <ar ppth="Köln Hbf|Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf" pp="2" ct="2509030107" pt="2509030028">
+      <m id="r23692248" t="q" c="80" ts="2509021754" ts-tts="25-09-02 17:54:49.567" />
+      <m id="r23697499" t="d" c="47" ts="2509021924" ts-tts="25-09-02 19:24:31.908" />
+      <m id="r23700983" t="f" c="0" ts="2509022044" ts-tts="25-09-02 20:44:55.392" />
+      <m id="r23702083" t="f" c="0" ts="2509022107" ts-tts="25-09-02 21:07:56.692" />
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="947" />
+  </s>
+  <s id="-5198188873967874185-2509022301-13" eva="8010255">
+    <ar ct="2509030013" l="7" />
+  </s>
+  <s id="-7260953034263185039-2509022009-13" eva="8010255">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-02 11:21:15.460" pr="3" />
+    <m id="r2485199" t="h" from="2509021009" to="2509030055" cat="Information" ts="2509021219" ts-tts="25-09-02 12:19:42.231" pr="2" />
+    <ar ct="2509030059">
+      <m id="r23693685" t="f" c="0" ts="2509021815" ts-tts="25-09-02 18:15:51.841" />
+      <m id="r23705565" t="f" c="0" ts="2509022229" ts-tts="25-09-02 22:30:02.329" />
+      <m id="r23710322" t="f" c="0" ts="2509022235" ts-tts="25-09-02 22:35:22.096" />
+    </ar>
+  </s>
+  <s id="-4125508770659859216-2509021802-5" eva="8010255">
+    <ar ppth="Praha hl.n.|Decin hl.n.|Bad Schandau|Dresden Hbf" pp="7" ct="2509030008" pt="2509022240">
+      <m id="r23698581" t="d" c="24" ts="2509021947" ts-tts="25-09-02 19:47:54.672" />
+      <m id="r23707595" t="d" c="24" ts="2509022231" ts-tts="25-09-02 22:32:07.683" />
+    </ar>
+    <dp ppth="Berlin Hbf|Deventer|Amersfoort Centraal|Amsterdam Centraal|Den Haag HS|Rotterdam Centraal|Roosendaal|Antwerpen Centraal|Bruxelles Midi" pp="7" ct="2509030010" pt="2509022244">
+      <m id="r23698581" t="d" c="24" ts="2509021947" ts-tts="25-09-02 19:47:54.672" />
+      <m id="r23707595" t="d" c="24" ts="2509022231" ts-tts="25-09-02 22:32:07.683" />
+    </dp>
+    <tl t="p" o="5188" c="ES" n="452" />
+  </s>
+</timetable>

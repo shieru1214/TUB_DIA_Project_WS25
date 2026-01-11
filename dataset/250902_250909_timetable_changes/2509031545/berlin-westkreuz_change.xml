@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="-6957563390289480983-2509031534-8" eva="8089047">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 13:16:04.226" pr="2" />
+    <ar cpth="Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" ct="2509031556" l="7" />
+    <dp cpth="Berlin-Grunewald" ct="2509031557" l="7" />
+  </s>
+  <s id="8834493246600353734-2509031447-23" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:03.858" pr="1" />
+    <ar ct="2509031544" l="3" />
+    <dp ct="2509031545" l="3" />
+  </s>
+  <s id="-6601091048588303485-2509031514-14" eva="8089047">
+    <ar ct="2509031543" l="41" />
+    <dp ct="2509031544" l="41" />
+  </s>
+  <s id="-2062604970987099247-2509031521-21" eva="8089047">
+    <m id="r2485791" t="h" from="2509031330" to="2509031600" cat="Störung" ts="2509031412" ts-tts="25-09-03 14:12:54.669" pr="1" />
+    <ar ct="2509031616" l="46" />
+    <dp ct="2509031617" l="46" />
+  </s>
+</timetable>

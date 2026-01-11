@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostbahnhof" eva="8010255">
+  <s id="4083739950560377043-2509081246-100" eva="8010255">
+    <ar cpth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Fulda|Eisenach Hbf|Erfurt Hbf|Leipzig Hbf|Lutherstadt Wittenberg Hbf" ppth="München Hbf|München-Pasing|Augsburg Hbf|Ulm Hbf|Stuttgart Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Fulda|Eisenach Hbf|Erfurt Hbf|Leipzig Hbf|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf|Berlin Gesundbrunnen" pp="2" ct="2509082046" pt="2509082045" ps="a">
+      <m id="r24473694" t="f" c="0" ts="2509082014" ts-tts="25-09-08 20:15:09.046" />
+      <m id="r24473695" t="f" c="0" ts="2509082014" ts-tts="25-09-08 20:15:09.046" />
+      <m id="r24473827" t="d" c="7" ts="2509082015" ts-tts="25-09-08 20:15:57.577" />
+      <m id="r24473831" t="d" c="7" ts="2509082015" ts-tts="25-09-08 20:15:57.577" />
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="596" />
+  </s>
+  <s id="1979848653779299205-2509081919-13" eva="8010255">
+    <ar ct="2509082027" l="1" />
+    <dp ct="2509082028" l="1" />
+  </s>
+  <s id="-5978303486513211708-2509081809-11" eva="8010255">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-07 23:16:04.734" pr="3" />
+    <ar ct="2509082255">
+      <m id="r24456351" t="f" c="0" ts="2509081755" ts-tts="25-09-08 17:55:27.194" />
+      <m id="r24465264" t="d" c="43" ts="2509081901" ts-tts="25-09-08 19:01:17.550" />
+      <m id="r24465266" t="d" c="43" ts="2509081901" ts-tts="25-09-08 19:01:17.550" />
+      <m id="r24465268" t="d" c="43" ts="2509081901" ts-tts="25-09-08 19:01:17.550" />
+    </ar>
+  </s>
+  <s id="-8117698018396659816-2509081712-17" eva="8010255">
+    <ar cp="2" ct="2509081927" l="1">
+      <m id="r24468006" t="d" c="43" ts="2509081923" ts-tts="25-09-08 19:23:35.188" />
+    </ar>
+    <dp cp="2" ct="2509081927" l="1">
+      <m id="r24468006" t="d" c="43" ts="2509081923" ts-tts="25-09-08 19:23:35.188" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

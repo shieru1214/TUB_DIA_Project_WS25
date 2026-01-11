@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Mahlsdorf">
+  <s id="-1402405172365581249-2509052038-2">
+    <tl f="N" t="p" o="NBRB26" c="RB" n="5181" />
+    <ar pt="2509052045" pp="5" l="26" ppth="Berlin-Lichtenberg" />
+    <dp pt="2509052046" pp="5" l="26" ppth="Strausberg|Herrensee|Rehfelde|Müncheberg(Mark)|Obersdorf|Trebnitz(Mark)|Alt Rosenthal|Seelow-Gusow|Werbig|Küstrin-Kietz|Kostrzyn" />
+  </s>
+  <s id="9072565631778454622-2509051904-12">
+    <tl f="N" t="p" o="51PR" c="RB" n="5180" />
+    <ar pt="2509052015" pp="5" l="26" ppth="Kostrzyn|Küstrin-Kietz|Werbig|Seelow-Gusow|Alt Rosenthal|Trebnitz(Mark)|Obersdorf|Müncheberg(Mark)|Rehfelde|Herrensee|Strausberg" />
+    <dp pt="2509052016" pp="5" l="26" ppth="Berlin-Lichtenberg" />
+  </s>
+</timetable>

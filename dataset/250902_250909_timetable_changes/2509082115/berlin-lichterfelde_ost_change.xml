@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde Ost" eva="8011041">
+  <s id="3392242502579530062-2509082016-30" eva="8011041">
+    <ar ct="2509082348" l="3">
+      <m id="r24479865" t="d" c="43" ts="2509082115" ts-tts="25-09-08 21:15:51.203" />
+      <m id="r24479867" t="d" c="43" ts="2509082115" ts-tts="25-09-08 21:15:51.203" />
+    </ar>
+    <dp ct="2509082349" l="3">
+      <m id="r24479865" t="d" c="43" ts="2509082115" ts-tts="25-09-08 21:15:51.203" />
+      <m id="r24479867" t="d" c="43" ts="2509082115" ts-tts="25-09-08 21:15:51.203" />
+    </dp>
+  </s>
+  <s id="416223917512060305-2509082103-6" eva="8011041">
+    <ar ct="2509082147" l="4">
+      <m id="r24479835" t="d" c="48" ts="2509082115" ts-tts="25-09-08 21:15:35.475" />
+      <m id="r24479837" t="d" c="48" ts="2509082115" ts-tts="25-09-08 21:15:35.475" />
+    </ar>
+    <dp ct="2509082148" l="4">
+      <m id="r24479835" t="d" c="48" ts="2509082115" ts-tts="25-09-08 21:15:35.475" />
+      <m id="r24479837" t="d" c="48" ts="2509082115" ts-tts="25-09-08 21:15:35.475" />
+    </dp>
+  </s>
+  <s id="2304107613709765019-2509081906-13" eva="8011041">
+    <ar ppth="Schwedt(Oder)|Schwedt(Oder)Mitte|Pinnow(Uckermark)|Angermünde|Chorin|Britz|Eberswalde Hbf|Bernau(b Berlin)|Berlin Gesundbrunnen|Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" pp="3" ct="2509082119" pt="2509082046" l="3">
+      <m id="r24463034" t="d" c="48" ts="2509081845" ts-tts="25-09-08 18:45:15.495" />
+      <m id="r24463036" t="d" c="48" ts="2509081845" ts-tts="25-09-08 18:45:15.495" />
+      <m id="r24479302" t="d" c="43" ts="2509082112" ts-tts="25-09-08 21:13:12.971" />
+      <m id="r24479305" t="d" c="43" ts="2509082112" ts-tts="25-09-08 21:13:12.971" />
+      <m id="r24479307" t="d" c="43" ts="2509082112" ts-tts="25-09-08 21:13:12.971" />
+    </ar>
+    <dp ppth="Teltow|Großbeeren|Birkengrund|Ludwigsfelde|Luckenwalde|Jüterbog|Niedergörsdorf|Blönsdorf|Zahna|Bülzig|Zörnigall|Lutherstadt Wittenberg Hbf" pp="3" ct="2509082120" pt="2509082046" l="3">
+      <m id="r24463034" t="d" c="48" ts="2509081845" ts-tts="25-09-08 18:45:15.495" />
+      <m id="r24463036" t="d" c="48" ts="2509081845" ts-tts="25-09-08 18:45:15.495" />
+      <m id="r24479302" t="d" c="43" ts="2509082112" ts-tts="25-09-08 21:13:12.971" />
+      <m id="r24479305" t="d" c="43" ts="2509082112" ts-tts="25-09-08 21:13:12.971" />
+      <m id="r24479307" t="d" c="43" ts="2509082112" ts-tts="25-09-08 21:13:12.971" />
+    </dp>
+    <tl f="N" t="p" o="800158" c="RE" n="3355" />
+  </s>
+</timetable>

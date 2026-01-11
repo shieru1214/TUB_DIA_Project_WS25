@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tiergarten" eva="8089091">
+  <s id="-2405531151706081868-2509071401-7" eva="8089091">
+    <ar ct="2509071416" l="5" />
+    <dp ct="2509071416" l="5" />
+  </s>
+  <s id="8834493246600353734-2509071445-20" eva="8089091">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:02.816" pr="1" />
+    <ar ct="2509071536" l="3" />
+    <dp ct="2509071536" l="3" />
+  </s>
+  <s id="4516351885718747053-2509071430-26" eva="8089091">
+    <ar ct="2509071538" l="5" />
+    <dp ct="2509071539" l="5" />
+  </s>
+  <s id="6590862899083847248-2509071401-11" eva="8089091">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 23:16:03.162" pr="1" />
+    <ar ct="2509071434" l="7" />
+    <dp ct="2509071435" l="7" />
+  </s>
+  <s id="6582850213688693277-2509071325-20" eva="8089091">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:02.816" pr="1" />
+    <ar ct="2509071414" l="3" />
+    <dp ct="2509071414" l="3" />
+  </s>
+  <s id="-1457519881286097740-2509071429-20" eva="8089091">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:02.816" pr="1" />
+    <ar ct="2509071523" l="9" />
+    <dp ct="2509071524" l="9" />
+  </s>
+  <s id="8657017635244075976-2509071341-11" eva="8089091">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 23:16:03.162" pr="1" />
+    <ar cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)" ct="2509071413" l="7" />
+    <dp cpth="Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2509071414" l="7" />
+  </s>
+  <s id="5785789445732158238-2509071410-26" eva="8089091">
+    <ar ct="2509071520" l="5" />
+    <dp ct="2509071520" l="5" />
+  </s>
+</timetable>

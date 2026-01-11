@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostbahnhof" eva="8010255">
+  <s id="1690497143864597407-2509041732-1" eva="8010255">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-03 23:16:03.880" pr="3" />
+    <m id="r2486370" t="h" from="2509041500" to="2509042030" cat="Störung" ts="2509041612" ts-tts="25-09-04 20:16:04.231" pr="1" />
+    <m id="r2433328" t="h" from="2507101748" to="2512010011" cat="Bauarbeiten" ts="2507092302" ts-tts="25-09-03 23:16:03.887" pr="1" />
+    <m id="r2433329" t="h" from="2507101748" to="2512010011" cat="Bauarbeiten" ts="2507092302" ts-tts="25-09-03 23:16:03.887" pr="1" />
+    <dp cpth="Berlin Hbf|Berlin-Spandau|Wolfsburg Hbf|Hannover Hbf|Hamm(Westf)Hbf" ct="2509041735" />
+  </s>
+  <s id="-2370594392823865841-2509042101-13" eva="8010255">
+    <ar ct="2509042206" l="7" />
+    <dp ct="2509042207" l="7" />
+  </s>
+  <s id="8034745534383330002-2509042019-13" eva="8010255">
+    <ar ct="2509042125" l="1" />
+    <dp ct="2509042126" l="1" />
+  </s>
+  <s id="2121877044531283563-2509042113-1" eva="8010255">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-03 23:16:03.880" pr="3" />
+    <m id="r2486357" t="h" from="2509042113" to="2509050758" cat="Information" ts="2509041548" ts-tts="25-09-04 15:48:41.665" pr="2" />
+    <dp ct="2509042114">
+      <m id="r23931410" t="q" c="95" ts="2509041547" ts-tts="25-09-04 15:47:54.615" />
+      <m id="r23931412" t="q" c="95" ts="2509041547" ts-tts="25-09-04 15:47:54.615" />
+      <m id="r23975426" t="q" c="90" ts="2509042048" ts-tts="25-09-04 20:48:43.706" />
+      <m id="r23975432" t="q" c="90" ts="2509042048" ts-tts="25-09-04 20:48:43.706" />
+    </dp>
+  </s>
+  <s id="-351077048637926577-2509042112-3" eva="8010255">
+    <ar ct="2509042120" l="23">
+      <m id="r23847359" t="f" c="0" ts="2509032312" ts-tts="25-09-03 23:12:27.802" />
+    </ar>
+    <dp ct="2509042122" l="23">
+      <m id="r23847359" t="f" c="0" ts="2509032312" ts-tts="25-09-03 23:12:27.802" />
+      <m id="r23975340" t="f" c="0" ts="2509042048" ts-tts="25-09-04 20:48:12.394" />
+    </dp>
+  </s>
+  <s id="-3272021131219238243-2509041749-5" eva="8010255">
+    <m id="r2486370" t="h" from="2509041500" to="2509042030" cat="Störung" ts="2509041612" ts-tts="25-09-04 20:16:04.231" pr="1" />
+    <m id="r2486442" t="h" from="2509041730" to="2509041930" cat="Störung" ts="2509041841" ts-tts="25-09-04 18:41:32.561" pr="1" />
+    <ar cpth="Bonn Hbf|Köln Hbf|Hamm(Westf)Hbf|Berlin-Spandau|Berlin Hbf" ct="2509042300">
+      <m id="r23952825" t="d" c="3" ts="2509041809" ts-tts="25-09-04 18:09:45.160" />
+      <m id="r23952827" t="d" c="3" ts="2509041809" ts-tts="25-09-04 18:09:45.160" />
+      <m id="r23960725" t="d" c="57" ts="2509041900" ts-tts="25-09-04 19:00:23.436" />
+      <m id="r23960892" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:54.909" />
+      <m id="r23960893" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:54.909" />
+    </ar>
+    <dp cpth="Berlin Ostkreuz" ct="2509042303">
+      <m id="r23952825" t="d" c="3" ts="2509041809" ts-tts="25-09-04 18:09:45.160" />
+      <m id="r23952827" t="d" c="3" ts="2509041809" ts-tts="25-09-04 18:09:45.160" />
+      <m id="r23960725" t="d" c="57" ts="2509041900" ts-tts="25-09-04 19:00:23.436" />
+      <m id="r23960892" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:54.909" />
+      <m id="r23960893" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:54.909" />
+    </dp>
+  </s>
+  <s id="5312563495212518167-2509050726-13" eva="8010255">
+    <ar cpth="Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Hbf" />
+  </s>
+  <s id="-5962154382149198734-2509050526-13" eva="8010255">
+    <ar cpth="Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Hbf" />
+  </s>
+  <s id="-6543090459025161898-2509050732-1" eva="8010255">
+    <dp cpth="Berlin Hbf|Berlin-Spandau|Wolfsburg Hbf|Hannover Hbf|Hamm(Westf)Hbf" />
+  </s>
+  <s id="9070407589736336373-2509050516-1" eva="8010255">
+    <dp cpth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Spandau|Stendal Hbf|Wolfsburg Hbf|Hannover Hbf|Hamm(Westf)Hbf" />
+  </s>
+  <s id="-8906112445839706377-2509050926-13" eva="8010255">
+    <ar cpth="Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Hbf" />
+  </s>
+  <s id="-3935110464616838577-2509051150-12" eva="8010255">
+    <ar cpth="Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Hbf" />
+  </s>
+</timetable>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hbf" eva="8011160">
+  <s id="-5245365249318096848-2509051131-2" eva="8011160">
+    <ar ct="2509051139" />
+    <dp ct="2509051144">
+      <m id="r24033814" t="f" c="0" ts="2509051107" ts-tts="25-09-05 11:07:19.566" />
+      <m id="r24035790" t="f" c="0" ts="2509051121" ts-tts="25-09-05 11:21:40.167" />
+    </dp>
+  </s>
+  <s id="-4972973488175603045-2509051200-13" eva="8011160">
+    <ar ct="2509051748" />
+    <dp ct="2509051753" />
+  </s>
+  <s id="-4703442358992585392-2509051114-22" eva="8011160">
+    <ar ct="2509051313" l="7">
+      <m id="r23995535" t="f" c="0" ts="2509050258" ts-tts="25-09-05 02:58:59.072" />
+    </ar>
+    <dp ct="2509051315" l="7">
+      <m id="r23995535" t="f" c="0" ts="2509050258" ts-tts="25-09-05 02:58:59.072" />
+    </dp>
+  </s>
+  <s id="-1124956518718691219-2509051034-6" eva="8011160">
+    <ar ct="2509051148" l="2">
+      <m id="r24034382" t="d" c="45" ts="2509051112" ts-tts="25-09-05 11:13:10.038" />
+      <m id="r24034384" t="d" c="45" ts="2509051112" ts-tts="25-09-05 11:13:10.038" />
+    </ar>
+    <dp ct="2509051150" l="2">
+      <m id="r24032869" t="f" c="0" ts="2509051058" ts-tts="25-09-05 10:58:19.726" />
+      <m id="r24034382" t="d" c="45" ts="2509051112" ts-tts="25-09-05 11:13:10.038" />
+      <m id="r24034384" t="d" c="45" ts="2509051112" ts-tts="25-09-05 11:13:10.038" />
+    </dp>
+  </s>
+  <s id="5336426014546584474-2509051314-22" eva="8011160">
+    <ar cpth="Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße" l="7">
+      <m id="r23995339" t="f" c="0" ts="2509050239" ts-tts="25-09-05 02:39:24.394" />
+      <m id="r24036609" t="d" c="48" ts="2509051129" ts-tts="25-09-05 11:29:36.702" />
+      <m id="r24036614" t="d" c="48" ts="2509051129" ts-tts="25-09-05 11:29:36.702" />
+    </ar>
+    <dp cpth="Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Michendorf|Seddin|Beelitz-Heilstätten" l="7">
+      <m id="r23995339" t="f" c="0" ts="2509050239" ts-tts="25-09-05 02:39:24.394" />
+      <m id="r24036609" t="d" c="48" ts="2509051129" ts-tts="25-09-05 11:29:36.702" />
+      <m id="r24036614" t="d" c="48" ts="2509051129" ts-tts="25-09-05 11:29:36.702" />
+    </dp>
+  </s>
+  <s id="-1695631388112486473-2509051001-10" eva="8011160">
+    <ar cpth="Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten" ct="2509051050" l="7">
+      <m id="r23995359" t="f" c="0" ts="2509050245" ts-tts="25-09-05 02:45:45.525" />
+      <m id="r24024800" t="f" c="0" ts="2509050945" ts-tts="25-09-05 09:45:58.861" />
+      <m id="r24031624" t="f" c="0" ts="2509051046" ts-tts="25-09-05 10:46:41.322" />
+    </ar>
+    <dp cpth="Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)" ct="2509051052" l="7">
+      <m id="r23995359" t="f" c="0" ts="2509050245" ts-tts="25-09-05 02:45:45.525" />
+      <m id="r24024800" t="f" c="0" ts="2509050945" ts-tts="25-09-05 09:45:58.861" />
+      <m id="r24031624" t="f" c="0" ts="2509051046" ts-tts="25-09-05 10:46:41.322" />
+      <m id="r24032863" t="f" c="0" ts="2509051058" ts-tts="25-09-05 10:58:19.726" />
+      <m id="r24032864" t="f" c="0" ts="2509051058" ts-tts="25-09-05 10:58:19.726" />
+    </dp>
+  </s>
+  <s id="902735485776651747-2509050444-12" eva="8011160">
+    <m id="r975576925" t="c" ts="2509051121" ts-tts="25-09-05 11:21:40.061" />
+    <m id="r975576924" t="c" ts="2509051121" ts-tts="25-09-05 11:21:40.061" />
+    <m id="r975576926" t="c" ts="2509051121" ts-tts="25-09-05 11:21:40.061" />
+    <ar ppth="Warszawa Wschodnia|Warszawa Centralna|Warszawa Zachodnia|Kutno|Konin|Poznan Glowny|Zbaszynek|Swiebodzin|Rzepin|Frankfurt(Oder)|Berlin Ostbahnhof" pp="13" ct="2509051139" pt="2509051016">
+      <m id="r23865823" t="d" c="13" ts="2509040643" ts-tts="25-09-04 06:44:09.320" />
+      <m id="r23865825" t="d" c="13" ts="2509040643" ts-tts="25-09-04 06:44:09.320" />
+      <m id="r24019561" t="f" c="0" ts="2509050854" ts-tts="25-09-05 08:54:17.061" />
+      <m id="r24019622" t="f" c="0" ts="2509050854" ts-tts="25-09-05 08:54:48.718" />
+      <m id="r24021140" t="f" c="0" ts="2509050910" ts-tts="25-09-05 09:10:27.533" />
+      <m id="r24021141" t="f" c="0" ts="2509050910" ts-tts="25-09-05 09:10:43.691" />
+    </ar>
+    <tl f="F" t="p" o="51" c="EC" n="248" />
+  </s>
+  <s id="8576392528147094590-2509050914-22" eva="8011160">
+    <ar ct="2509051130" l="7" />
+    <dp ct="2509051131" l="7" />
+  </s>
+  <s id="1312247613095863592-2509051027-9" eva="8011160">
+    <ar ct="2509051136" l="2" />
+    <dp ct="2509051138" l="2" />
+  </s>
+</timetable>

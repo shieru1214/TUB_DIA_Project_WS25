@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Potsdamer Platz" eva="8011118">
+  <s id="-5326883167337576843-2509031812-20" eva="8011118">
+    <m id="r2473869" t="h" from="2508170000" to="2512072359" cat="Information" ts="2508172308" ts-tts="25-09-02 23:16:04.176" pr="2" />
+    <ar ct="2509032018" l="8">
+      <m id="r23820071" t="d" c="43" ts="2509031831" ts-tts="25-09-03 18:31:35.287" />
+    </ar>
+    <dp ct="2509032019" l="8">
+      <m id="r23820071" t="d" c="43" ts="2509031831" ts-tts="25-09-03 18:31:35.287" />
+    </dp>
+  </s>
+  <s id="-4831004071712342153-2509031701-23" eva="8011118">
+    <m id="r2333137" t="h" from="2412150000" to="2510242358" cat="Information" ts="2412142302" ts-tts="25-09-02 23:16:03.894" pr="2" />
+    <m id="r2485846" t="h" from="2509031701" to="2509032020" cat="Störung" ts="2509031639" ts-tts="25-09-03 16:39:18.456" pr="1" />
+    <ar cpth="Elmenhorst|Wittenhagen|Grimmen|Rakow|Demmin|Utzedel|Sternfeld|Gnevkow|Altentreptow|Neubrandenburg|Burg Stargard(Meckl)|Cammin(Meckl)|Blankensee(Meckl)|Neustrelitz Hbf|Fürstenberg(Havel)|Gransee|Löwenberg(Mark)|Oranienburg|Berlin Gesundbrunnen|Berlin Hbf" ct="2509032031" l="5">
+      <m id="r23802219" t="d" c="38" ts="2509031631" ts-tts="25-09-03 16:31:10.353" />
+      <m id="r23802221" t="d" c="38" ts="2509031631" ts-tts="25-09-03 16:31:10.353" />
+    </ar>
+    <dp cpth="Berlin Südkreuz" ct="2509032032" l="5">
+      <m id="r23802219" t="d" c="38" ts="2509031631" ts-tts="25-09-03 16:31:10.353" />
+      <m id="r23802221" t="d" c="38" ts="2509031631" ts-tts="25-09-03 16:31:10.353" />
+    </dp>
+  </s>
+</timetable>

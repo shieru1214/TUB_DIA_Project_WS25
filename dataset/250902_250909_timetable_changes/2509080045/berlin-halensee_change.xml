@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Halensee" eva="8089109">
+  <s id="-2319147964779153464-2509080101-9" eva="8089109">
+    <ar ct="2509080120" l="42">
+      <m id="r24240059" t="f" c="0" ts="2509070300" ts-tts="25-09-07 03:00:32.147" />
+      <m id="r24240060" t="f" c="0" ts="2509070300" ts-tts="25-09-07 03:00:32.147" />
+      <m id="r24240061" t="f" c="0" ts="2509070300" ts-tts="25-09-07 03:00:32.147" />
+    </ar>
+    <dp ct="2509080121" l="42">
+      <m id="r24240059" t="f" c="0" ts="2509070300" ts-tts="25-09-07 03:00:32.147" />
+      <m id="r24240060" t="f" c="0" ts="2509070300" ts-tts="25-09-07 03:00:32.148" />
+      <m id="r24240061" t="f" c="0" ts="2509070300" ts-tts="25-09-07 03:00:32.148" />
+    </dp>
+  </s>
+  <s id="1995051390375763386-2509080038-4" eva="8089109">
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz" ct="2509080043" cs="p" clt="2509072342" l="46" />
+    <dp cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" ct="2509080044" cs="p" clt="2509072342" l="46" />
+  </s>
+</timetable>

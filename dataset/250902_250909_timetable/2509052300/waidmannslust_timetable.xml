@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Waidmannslust">
+  <s id="3979325738922096626-2509052241-12">
+    <tl t="p" o="080001" c="Bus" n="11003" />
+    <ar pt="2509052335" pp="" l="S1A" ppth="Oranienburg|Lehnitz|Borgsdorf (S), Hohen Neuendorf|Borgsdorf Berliner Chaussee|Kirche, Birkenwerder|Birkenwerder Hauptstraße|Hohen Neuendorf(b Berlin)|Berliner Str., Hohen Neuendorf|Zeltinger Platz/Frohnau (S), Berlin|Hohefeldstr., Berlin|Schildower Str., Berlin" />
+    <dp pt="2509052335" pp="" l="S1A" ppth="Göschenplatz/Wittenau (S), Berlin|Wittenau [Bus] (U), Berlin|Berlin-Wilhelmsruh|Berlin-Schönholz" />
+  </s>
+  <s id="5334375601550085619-2509052316-5">
+    <tl t="p" o="080001" c="Bus" n="11006" />
+    <ar pt="2509052335" pp="" l="S1A" ppth="Berlin-Schönholz|Berlin-Wilhelmsruh|Wittenau [Bus] (U), Berlin|Göschenplatz/Wittenau (S), Berlin" />
+    <dp pt="2509052335" pp="" l="S1A" ppth="Schildower Str., Berlin|Hohefeldstr., Berlin|Berlin-Frohnau|Berliner Str., Hohen Neuendorf|Hohen Neuendorf(b Berlin)|Birkenwerder Hauptstraße|Kirche, Birkenwerder|Borgsdorf Berliner Chaussee|Borgsdorf (S), Hohen Neuendorf|Lehnitz|Oranienburg" />
+  </s>
+  <s id="-4263694452372037190-2509052300-4">
+    <tl t="p" o="080001" c="Bus" n="11001" />
+    <ar pt="2509052315" pp="" l="S1A" ppth="Zeltinger Platz/Frohnau (S), Berlin|Hohefeldstr., Berlin|Schildower Str., Berlin" />
+    <dp pt="2509052315" pp="" l="S1A" ppth="Göschenplatz/Wittenau (S), Berlin|Wittenau [Bus] (U), Berlin|Berlin-Wilhelmsruh|Berlin-Schönholz" />
+  </s>
+  <s id="8565699522517669657-2509052301-12">
+    <tl t="p" o="080001" c="Bus" n="11005" />
+    <ar pt="2509052355" pp="" l="S1A" ppth="Oranienburg|Lehnitz|Borgsdorf (S), Hohen Neuendorf|Borgsdorf Berliner Chaussee|Kirche, Birkenwerder|Birkenwerder Hauptstraße|Hohen Neuendorf(b Berlin)|Berliner Str., Hohen Neuendorf|Zeltinger Platz/Frohnau (S), Berlin|Hohefeldstr., Berlin|Schildower Str., Berlin" />
+    <dp pt="2509052355" pp="" l="S1A" ppth="Göschenplatz/Wittenau (S), Berlin|Wittenau [Bus] (U), Berlin|Berlin-Wilhelmsruh|Berlin-Schönholz" />
+  </s>
+  <s id="1040454530698567577-2509052256-5">
+    <tl t="p" o="080001" c="Bus" n="11004" />
+    <ar pt="2509052315" pp="" l="S1A" ppth="Berlin-Schönholz|Berlin-Wilhelmsruh|Wittenau [Bus] (U), Berlin|Göschenplatz/Wittenau (S), Berlin" />
+    <dp pt="2509052315" pp="" l="S1A" ppth="Schildower Str., Berlin|Hohefeldstr., Berlin|Berlin-Frohnau|Berliner Str., Hohen Neuendorf|Hohen Neuendorf(b Berlin)|Birkenwerder Hauptstraße|Kirche, Birkenwerder|Borgsdorf Berliner Chaussee|Borgsdorf (S), Hohen Neuendorf|Lehnitz|Oranienburg" />
+  </s>
+  <s id="4160517121698355626-2509052336-5">
+    <tl t="p" o="080001" c="Bus" n="11008" />
+    <ar pt="2509052355" pp="" l="S1A" ppth="Berlin-Schönholz|Berlin-Wilhelmsruh|Wittenau [Bus] (U), Berlin|Göschenplatz/Wittenau (S), Berlin" />
+    <dp pt="2509052355" pp="" l="S1A" ppth="Schildower Str., Berlin|Hohefeldstr., Berlin|Berlin-Frohnau|Berliner Str., Hohen Neuendorf|Hohen Neuendorf(b Berlin)|Birkenwerder Hauptstraße|Kirche, Birkenwerder|Borgsdorf Berliner Chaussee|Borgsdorf (S), Hohen Neuendorf|Lehnitz|Oranienburg" />
+  </s>
+</timetable>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde West" eva="8089071">
+  <s id="3427323417183889572-2509081854-10" eva="8089071">
+    <m id="r2488110" t="h" from="2509080900" to="2509081300" cat="Störung" ts="2509080952" ts-tts="25-09-08 12:16:03.605" pr="2" />
+    <m id="r2488311" t="h" from="2509081515" to="2509082359" cat="Störung" ts="2509081546" ts-tts="25-09-08 15:46:24.138" pr="2" />
+    <m id="r2488292" t="h" from="2509081430" to="2509082359" cat="Störung" ts="2509081456" ts-tts="25-09-08 14:57:10.256" pr="2" />
+    <ar cpth="Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten" ct="2509081914" cs="p" clt="2509081546" l="1" />
+    <dp cpth="Berlin Sundgauer Str|Berlin-Zehlendorf" ct="2509081915" cs="p" clt="2509081546" l="1" />
+  </s>
+  <s id="-2338587534198879750-2509081924-7" eva="8089071">
+    <m id="r2488110" t="h" from="2509080900" to="2509081300" cat="Störung" ts="2509080952" ts-tts="25-09-08 12:16:03.623" pr="2" />
+    <m id="r2488311" t="h" from="2509081515" to="2509082359" cat="Störung" ts="2509081546" ts-tts="25-09-08 15:46:24.138" pr="2" />
+    <m id="r2488292" t="h" from="2509081430" to="2509082359" cat="Störung" ts="2509081456" ts-tts="25-09-08 14:57:10.256" pr="2" />
+    <ar ct="2509081939" l="1" />
+    <dp ct="2509081939" l="1" />
+  </s>
+</timetable>

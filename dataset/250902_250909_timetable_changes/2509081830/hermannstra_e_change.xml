@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hermannstraße" eva="8089105">
+  <s id="3263260796528799964-2509081803-14" eva="8089105">
+    <ar ct="2509081831" l="42" />
+    <dp ct="2509081831" l="42" />
+  </s>
+  <s id="-8494633420702690348-2509081758-15" eva="8089105">
+    <ar ct="2509081829" l="41" />
+    <dp ct="2509081829" l="41" />
+  </s>
+  <s id="6103890601165179335-2509081820-5" eva="8089105">
+    <ar ppth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln" pp="1" ct="2509081838" pt="2509081831" l="45" />
+    <dp ppth="Berlin-Tempelhof|Berlin Südkreuz (S)" pp="1" ct="2509081838" pt="2509081832" l="45" />
+    <tl f="S" t="e" o="08" c="S" n="44096" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="45096" />
+    </ref>
+  </s>
+  <s id="-6824790885859043817-2509081844-1" eva="8089105">
+    <dp ct="2509081844" l="47" />
+  </s>
+</timetable>

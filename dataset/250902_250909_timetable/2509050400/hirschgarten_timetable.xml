@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Hirschgarten">
+  <s id="7641024685658080005-2509050445-6">
+    <tl t="p" o="080001" c="Bus" n="38004" />
+    <ar pt="2509050457" pp="" l="S3H" ppth="Köpenick (S)/Parrisiusstr., Berlin|Brandenburgplatz, Berlin|Hirschgartendreieck, Berlin|Westendsiedlung, Berlin|Am Wiesenrain/Stillerzeile, Berlin" />
+    <dp pt="2509050457" pp="" l="S3H" ppth="Brandenburgplatz, Berlin|Köpenick (S)/Parrisiusstr., Berlin" />
+  </s>
+  <s id="-6220213367262729983-2509050435-6">
+    <tl t="p" o="080001" c="Bus" n="38002" />
+    <ar pt="2509050447" pp="" l="S3H" ppth="Köpenick (S)/Parrisiusstr., Berlin|Brandenburgplatz, Berlin|Hirschgartendreieck, Berlin|Westendsiedlung, Berlin|Am Wiesenrain/Stillerzeile, Berlin" />
+    <dp pt="2509050447" pp="" l="S3H" ppth="Brandenburgplatz, Berlin|Köpenick (S)/Parrisiusstr., Berlin" />
+  </s>
+  <s id="5591610189480285222-2509050437-1">
+    <tl t="p" o="080001" c="Bus" n="38000" />
+    <dp pt="2509050437" pp="" l="S3H" ppth="Brandenburgplatz, Berlin|Köpenick (S)/Parrisiusstr., Berlin" />
+  </s>
+</timetable>

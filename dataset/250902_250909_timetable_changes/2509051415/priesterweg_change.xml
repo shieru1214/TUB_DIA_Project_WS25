@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Priesterweg" eva="8089034">
+  <s id="3184656943221072631-2509051343-19" eva="8089034">
+    <m id="r2486784" t="h" from="2509051330" to="2509052200" cat="Störung" ts="2509051206" ts-tts="25-09-05 12:06:19.857" pr="2" />
+    <ar cpth="Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)" ct="2509051428" cs="p" clt="2509051202" l="26">
+      <m id="r24040142" t="d" c="49" ts="2509051202" ts-tts="25-09-05 12:02:25.613" />
+      <m id="r24040145" t="d" c="49" ts="2509051202" ts-tts="25-09-05 12:02:25.614" />
+      <m id="r24040148" t="d" c="49" ts="2509051202" ts-tts="25-09-05 12:02:25.614" />
+      <m id="r24042802" t="f" c="0" ts="2509051227" ts-tts="25-09-05 12:27:55.607" />
+    </ar>
+    <dp cpth="Berlin Südende|Berlin-Lankwitz|Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" ct="2509051428" cs="p" clt="2509051202" l="26">
+      <m id="r24040142" t="d" c="49" ts="2509051202" ts-tts="25-09-05 12:02:25.614" />
+      <m id="r24040145" t="d" c="49" ts="2509051202" ts-tts="25-09-05 12:02:25.614" />
+      <m id="r24040148" t="d" c="49" ts="2509051202" ts-tts="25-09-05 12:02:25.614" />
+      <m id="r24042802" t="f" c="0" ts="2509051227" ts-tts="25-09-05 12:27:55.607" />
+    </dp>
+  </s>
+  <s id="-3430357682903818576-2509051328-21" eva="8089034">
+    <ar ct="2509051421" l="25" />
+    <dp ct="2509051422" l="25" />
+  </s>
+  <s id="-1797433755398492156-2509051323-19" eva="8089034">
+    <ar ct="2509051416" l="26" />
+    <dp ct="2509051417" l="26" />
+  </s>
+  <s id="-1857376353207953374-2509051402-6" eva="8089034">
+    <ar ct="2509051413" l="2" />
+    <dp ct="2509051414" l="2" />
+  </s>
+  <s id="1241269221735003816-2509051428-7" eva="8089034">
+    <ar ct="2509051443" l="2" />
+    <dp ct="2509051444" l="2" />
+  </s>
+  <s id="-6504404482032650947-2509051355-13" eva="8089034">
+    <ar ct="2509051426" l="2" />
+    <dp ct="2509051427" l="2" />
+  </s>
+</timetable>

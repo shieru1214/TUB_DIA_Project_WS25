@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bundesplatz" eva="8089107">
+  <s id="3747787058712091208-2509081448-20" eva="8089107">
+    <ar ct="2509081530" l="41" />
+    <dp ct="2509081531" l="41" />
+  </s>
+  <s id="5607666004607282394-2509081516-7" eva="8089107">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.451" pr="2" />
+    <ar cpth="Berlin Charlottenburg (S)|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz" ct="2509081537" l="46" />
+    <dp cpth="Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" ct="2509081537" l="46" />
+  </s>
+  <s id="-6939321751395319139-2509081621-17" eva="8089107">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.451" pr="2" />
+    <ar ct="2509081709" l="46" />
+    <dp ct="2509081709" l="46" />
+  </s>
+</timetable>

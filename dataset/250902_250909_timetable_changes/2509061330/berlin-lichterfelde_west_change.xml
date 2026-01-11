@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde West" eva="8089071">
+  <s id="5939993262368712436-2509061324-7" eva="8089071">
+    <m id="r2487385" t="h" from="2509061230" to="2509061600" cat="Störung" ts="2509061315" ts-tts="25-09-06 13:15:16.909" pr="1" />
+    <ar ct="2509061338" l="1" />
+    <dp ct="2509061339" l="1" />
+  </s>
+  <s id="-488641983854128114-2509061238-24" eva="8089071">
+    <m id="r2487385" t="h" from="2509061230" to="2509061600" cat="Störung" ts="2509061315" ts-tts="25-09-06 13:15:16.909" pr="1" />
+    <ar ct="2509061330" l="1" />
+    <dp ct="2509061331" l="1" />
+  </s>
+  <s id="1472231731351345385-2509061312-14" eva="8089071">
+    <ar ppth="Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten" pp="1" ct="2509061342" pt="2509061338" l="1" />
+    <dp ppth="Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" pp="1" ct="2509061342" pt="2509061338" l="1" />
+    <tl f="S" t="e" o="08" c="S" n="10101" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="1101" />
+    </ref>
+  </s>
+  <s id="-3207641768684853403-2509061314-7" eva="8089071">
+    <m id="r2487385" t="h" from="2509061230" to="2509061600" cat="Störung" ts="2509061315" ts-tts="25-09-06 13:15:16.909" pr="1" />
+    <ar ct="2509061329" l="1" />
+    <dp ct="2509061329" l="1" />
+  </s>
+  <s id="-8713033717530433151-2509061344-7" eva="8089071">
+    <m id="r2487385" t="h" from="2509061230" to="2509061600" cat="Störung" ts="2509061315" ts-tts="25-09-06 13:15:16.909" pr="1" />
+    <ar ct="2509061357" l="1" />
+    <dp ct="2509061357" l="1" />
+  </s>
+</timetable>

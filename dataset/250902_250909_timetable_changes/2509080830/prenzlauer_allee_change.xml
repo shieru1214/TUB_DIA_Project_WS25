@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Prenzlauer Allee" eva="8089033">
+  <s id="-393169287984740832-2509080828-6" eva="8089033">
+    <ar ct="2509080840" l="41" />
+    <dp ct="2509080841" l="41" />
+  </s>
+  <s id="-2236004300359020614-2509080824-6" eva="8089033">
+    <ar ct="2509080846" l="8" />
+    <dp ct="2509080846" l="8" />
+  </s>
+  <s id="4322557676435895163-2509080818-6" eva="8089033">
+    <ar ct="2509080830" l="41" />
+    <dp ct="2509080831" l="41" />
+  </s>
+  <s id="2932164529936911988-2509080823-3" eva="8089033">
+    <ar ppth="Berlin Bornholmer Str.|Berlin Schönhauser Allee" pp="1" ct="2509080829" pt="2509080826" l="85" />
+    <dp ppth="Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" pp="1" ct="2509080829" pt="2509080827" l="85" />
+    <tl f="S" t="e" o="08" c="S" n="86531" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="85531" />
+    </ref>
+  </s>
+  <s id="-950444287551384209-2509080844-6" eva="8089033">
+    <ar ct="2509080856" l="8" />
+    <dp ct="2509080857" l="8" />
+  </s>
+</timetable>

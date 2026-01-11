@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Schichauweg">
+  <s id="2570753106368097962-2509072325-17">
+    <tl f="S" t="p" o="08" c="S" n="2129" />
+    <ar pt="2509080002" pp="1" l="2" ppth="Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee" />
+    <dp pt="2509080002" pp="1" l="2" ppth="Berlin-Lichtenrade|Mahlow" />
+  </s>
+  <s id="-1444897095551152507-2509080005-17">
+    <tl f="S" t="p" o="08" c="S" n="2193" />
+    <ar pt="2509080042" pp="1" l="2" ppth="Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee" />
+    <dp pt="2509080042" pp="1" l="2" ppth="Berlin-Lichtenrade|Mahlow" />
+  </s>
+  <s id="-7909457695422441657-2509080028-3">
+    <tl f="S" t="p" o="08" c="S" n="2186" />
+    <ar pt="2509080034" pp="2" l="2" ppth="Mahlow|Berlin-Lichtenrade" />
+    <dp pt="2509080034" pp="2" l="2" ppth="Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)" />
+  </s>
+  <s id="4558321336939157961-2509080008-3">
+    <tl f="S" t="p" o="08" c="S" n="2134" />
+    <ar pt="2509080014" pp="2" l="2" ppth="Mahlow|Berlin-Lichtenrade" />
+    <dp pt="2509080014" pp="2" l="2" ppth="Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow" />
+  </s>
+  <s id="7751547432222373395-2509072345-17">
+    <tl f="S" t="p" o="08" c="S" n="2131" />
+    <ar pt="2509080022" pp="1" l="2" ppth="Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee" />
+    <dp pt="2509080022" pp="1" l="2" ppth="Berlin-Lichtenrade|Mahlow" />
+  </s>
+  <s id="2426803124359161612-2509080048-3">
+    <tl f="S" t="p" o="08" c="S" n="2188" />
+    <ar pt="2509080054" pp="2" l="2" ppth="Mahlow|Berlin-Lichtenrade" />
+    <dp pt="2509080054" pp="2" l="2" ppth="Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof" />
+  </s>
+</timetable>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hackescher Markt" eva="8089017">
+  <s id="8046888258227963453-2509061804-12" eva="8089017">
+    <ar ppth="Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)" pp="4" ct="2509061829" pt="2509061829" l="5" />
+    <dp ppth="Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Olympiastadion" pp="4" ct="2509061830" pt="2509061829" l="5" />
+    <tl f="S" t="e" o="08" c="S" n="50108" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="5108" />
+    </ref>
+  </s>
+  <s id="491255380004716013-2509061807-15" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:04.067" pr="1" />
+    <ar ct="2509061844" l="3" />
+    <dp ct="2509061844" l="3" />
+  </s>
+  <s id="-8834954959424891019-2509061757-15" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:04.068" pr="1" />
+    <ar ct="2509061830" l="9" />
+    <dp ct="2509061830" l="9" />
+  </s>
+  <s id="4813397633611476815-2509061845-16" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:04.067" pr="1" />
+    <ar ct="2509061924" l="3" />
+    <dp ct="2509061924" l="3" />
+  </s>
+  <s id="5183786826876065133-2509061745-16" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:04.067" pr="1" />
+    <ar cpth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Hirschgarten|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg" ct="2509061836" cs="c" clt="2509061809" l="3">
+      <m id="r24207735" t="d" c="36" ts="2509061809" ts-tts="25-09-06 18:09:26.789" />
+    </ar>
+    <dp cpth="" ct="2509061837" cs="c" clt="2509061809" l="3">
+      <m id="r24207735" t="d" c="36" ts="2509061809" ts-tts="25-09-06 18:09:26.789" />
+    </dp>
+  </s>
+</timetable>

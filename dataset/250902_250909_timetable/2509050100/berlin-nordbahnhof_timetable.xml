@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Nordbahnhof">
+  <s id="2426803124359161612-2509050048-15">
+    <tl f="S" t="p" o="08" c="S" n="2188" />
+    <ar pt="2509050121" pp="3" l="2" ppth="Mahlow|Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße" />
+  </s>
+  <s id="4143228178253457351-2509050031-16">
+    <tl f="S" t="p" o="08" c="S" n="1173" />
+    <ar pt="2509050111" pp="1" l="1" ppth="Oranienburg (S)|Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain" />
+    <dp pt="2509050112" pp="1" l="1" ppth="Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg" />
+  </s>
+  <s id="8822155339714355966-2509050125-5">
+    <tl f="S" t="p" o="08" c="S" n="2141" />
+    <ar pt="2509050134" pp="1" l="2" ppth="Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain" />
+    <dp pt="2509050134" pp="1" l="2" ppth="Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)" />
+  </s>
+  <s id="-5417369705528458015-2509050105-5">
+    <tl f="S" t="p" o="08" c="S" n="2139" />
+    <ar pt="2509050114" pp="1" l="2" ppth="Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain" />
+    <dp pt="2509050116" pp="1" l="2" ppth="Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)" />
+  </s>
+  <s id="4639767271064150931-2509050054-5">
+    <tl f="S" t="p" o="08" c="S" n="2136" />
+    <ar pt="2509050101" pp="4" l="2" ppth="Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße" />
+    <dp pt="2509050102" pp="4" l="2" ppth="Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow" />
+  </s>
+  <s id="-4275406157660819340-2509050034-20">
+    <tl f="S" t="p" o="08" c="S" n="1172" />
+    <ar pt="2509050114" pp="4" l="1" ppth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße" />
+    <dp pt="2509050114" pp="4" l="1" ppth="Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz" />
+  </s>
+  <s id="-7859647027126299844-2509050054-20">
+    <tl f="S" t="p" o="08" c="S" n="1174" />
+    <ar pt="2509050134" pp="4" l="1" ppth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße" />
+    <dp pt="2509050134" pp="4" l="1" ppth="Berlin Humboldthain|Berlin Gesundbrunnen(S)" />
+  </s>
+</timetable>

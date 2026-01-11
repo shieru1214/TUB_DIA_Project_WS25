@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wannsee" eva="8010405">
+  <s id="959474257007241311-2509070024-18" eva="8010405">
+    <ar ct="2509070159" l="1">
+      <m id="r24236616" t="d" c="21" ts="2509070024" ts-tts="25-09-07 00:25:03.656" />
+    </ar>
+    <dp ct="2509070200" l="1">
+      <m id="r24236616" t="d" c="21" ts="2509070024" ts-tts="25-09-07 00:25:03.656" />
+    </dp>
+  </s>
+  <s id="-5438291664424141788-2509070656-3" eva="8010405">
+    <ar cpth="Berlin-Lichtenberg|Berlin Gesundbrunnen" ct="2509070741" l="HBX" />
+    <dp cpth="Potsdam Hbf|Brandenburg Hbf|Genthin|Burg(Magdeburg)|Magdeburg Hbf|Magdeburg-Buckau|Osterweddingen|Oschersleben(Bode)|Nienhagen(Halberst)|Halberstadt Hbf" ct="2509070742" l="HBX" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

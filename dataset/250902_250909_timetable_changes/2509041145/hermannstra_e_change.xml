@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hermannstraße" eva="8089105">
+  <s id="-8923568746666042979-2509041111-17" eva="8089105">
+    <ar ct="2509041146" l="42" />
+    <dp ct="2509041146" l="42" />
+  </s>
+  <s id="-8388647616442385944-2509041144-1" eva="8089105">
+    <dp ct="2509041145" l="47" />
+  </s>
+  <s id="-8119552054436912260-2509041228-3" eva="8089105">
+    <m id="r2486210" t="h" from="2509041000" to="2509041500" cat="Störung" ts="2509041020" ts-tts="25-09-04 10:20:45.721" pr="2" />
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Tempelhof" l="45" />
+    <dp cpth="Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)" l="45" />
+  </s>
+  <s id="1853750788518063853-2509041208-3" eva="8089105">
+    <m id="r2486210" t="h" from="2509041000" to="2509041500" cat="Störung" ts="2509041020" ts-tts="25-09-04 10:20:45.721" pr="2" />
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Tempelhof" l="45" />
+    <dp cpth="Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)" l="45" />
+  </s>
+  <s id="3381523747233002037-2509041148-3" eva="8089105">
+    <m id="r2486210" t="h" from="2509041000" to="2509041500" cat="Störung" ts="2509041020" ts-tts="25-09-04 10:20:45.721" pr="2" />
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Tempelhof" ct="2509041153" l="45" />
+    <dp cpth="Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)" ct="2509041154" l="45" />
+  </s>
+</timetable>

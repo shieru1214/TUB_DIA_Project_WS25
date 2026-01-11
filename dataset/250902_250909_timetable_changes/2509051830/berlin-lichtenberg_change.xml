@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichtenberg" eva="8010036">
+  <s id="-1193887732160004137-2509060522-2" eva="8010036">
+    <ar cpth="Berlin Ostkreuz" ppth="Berlin Ostkreuz" pp="17" pt="2509060525" l="25">
+      <m id="r24079729" t="d" c="57" ts="2509051652" ts-tts="25-09-05 16:52:12.087" />
+      <m id="r24094373" t="f" c="1000" ts="2509051830" ts-tts="25-09-05 18:30:57.992" />
+    </ar>
+    <dp cpth="Ahrensfelde Friedhof|Ahrensfelde Nord|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark)|Werneuchen" ppth="" pp="17" pt="2509060529" ps="a" l="25">
+      <m id="r24079729" t="d" c="57" ts="2509051652" ts-tts="25-09-05 16:52:12.087" />
+      <m id="r24094373" t="f" c="1000" ts="2509051830" ts-tts="25-09-05 18:30:57.992" />
+    </dp>
+    <tl f="N" t="p" o="NBRB25" c="RB" n="55697" />
+  </s>
+  <s id="2370642603255605694-2509060622-2" eva="8010036">
+    <ar cpth="Berlin Ostkreuz" ppth="Berlin Ostkreuz" pp="17" pt="2509060625" l="25">
+      <m id="r24084271" t="d" c="57" ts="2509051721" ts-tts="25-09-05 17:21:39.681" />
+      <m id="r24084273" t="d" c="57" ts="2509051721" ts-tts="25-09-05 17:21:39.681" />
+      <m id="r24094349" t="f" c="1000" ts="2509051830" ts-tts="25-09-05 18:30:41.789" />
+    </ar>
+    <dp cpth="Ahrensfelde Friedhof|Ahrensfelde Nord|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark)|Werneuchen" ppth="" pp="17" pt="2509060629" ps="a" l="25">
+      <m id="r24084271" t="d" c="57" ts="2509051721" ts-tts="25-09-05 17:21:39.681" />
+      <m id="r24084273" t="d" c="57" ts="2509051721" ts-tts="25-09-05 17:21:39.681" />
+      <m id="r24094349" t="f" c="1000" ts="2509051830" ts-tts="25-09-05 18:30:41.789" />
+    </dp>
+    <tl f="N" t="p" o="NBRB25" c="RB" n="55699" />
+  </s>
+  <s id="8078177407275315373-2509060722-2" eva="8010036">
+    <ar cpth="Berlin Ostkreuz" ppth="Berlin Ostkreuz" pp="17" pt="2509060725" l="25">
+      <m id="r24085232" t="d" c="57" ts="2509051729" ts-tts="25-09-05 17:30:01.701" />
+      <m id="r24094293" t="f" c="1000" ts="2509051830" ts-tts="25-09-05 18:30:09.754" />
+      <m id="r24094346" t="f" c="0" ts="2509051830" ts-tts="25-09-05 18:30:25.636" />
+      <m id="r24094347" t="f" c="0" ts="2509051830" ts-tts="25-09-05 18:30:25.636" />
+    </ar>
+    <dp cpth="Ahrensfelde Friedhof|Ahrensfelde Nord|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark)|Werneuchen" ppth="" pp="17" pt="2509060729" ps="a" l="25">
+      <m id="r24085232" t="d" c="57" ts="2509051729" ts-tts="25-09-05 17:30:01.701" />
+      <m id="r24094293" t="f" c="1000" ts="2509051830" ts-tts="25-09-05 18:30:09.754" />
+    </dp>
+    <tl f="N" t="p" o="NBRB25" c="RB" n="55719" />
+  </s>
+  <s id="2273266197610554638-2509051829-1" eva="8010036">
+    <dp ct="2509051829" l="25" />
+  </s>
+  <s id="8779296694315379393-2509060822-2" eva="8010036">
+    <ar cpth="Berlin Ostkreuz" ppth="Berlin Ostkreuz" pp="16" pt="2509060825" l="25">
+      <m id="r24046379" t="f" c="0" ts="2509051304" ts-tts="25-09-05 13:04:21.215" />
+      <m id="r24087327" t="d" c="57" ts="2509051744" ts-tts="25-09-05 17:44:53.108" />
+      <m id="r24087329" t="d" c="57" ts="2509051744" ts-tts="25-09-05 17:44:53.108" />
+      <m id="r24094246" t="f" c="1000" ts="2509051829" ts-tts="25-09-05 18:29:53.571" />
+      <m id="r24094286" t="f" c="0" ts="2509051829" ts-tts="25-09-05 18:30:09.754" />
+    </ar>
+    <dp cpth="Ahrensfelde Friedhof|Ahrensfelde Nord|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark)|Werneuchen" ppth="" pp="16" pt="2509060829" ps="a" l="25">
+      <m id="r24087327" t="d" c="57" ts="2509051744" ts-tts="25-09-05 17:44:53.108" />
+      <m id="r24087329" t="d" c="57" ts="2509051744" ts-tts="25-09-05 17:44:53.108" />
+      <m id="r24094246" t="f" c="1000" ts="2509051829" ts-tts="25-09-05 18:29:53.571" />
+    </dp>
+    <tl f="N" t="p" o="NBRB25" c="RB" n="61389" />
+  </s>
+  <s id="-4025484459411966697-2509051804-7" eva="8010036">
+    <ar ct="2509051832" l="25" />
+  </s>
+  <s id="-8033232797982954911-2509060922-2" eva="8010036">
+    <ar cpth="Berlin Ostkreuz" ppth="Berlin Ostkreuz" pp="20" pt="2509060925" l="25">
+      <m id="r24088878" t="d" c="57" ts="2509051754" ts-tts="25-09-05 17:54:20.248" />
+      <m id="r24088880" t="d" c="57" ts="2509051754" ts-tts="25-09-05 17:54:20.248" />
+      <m id="r24094185" t="f" c="1000" ts="2509051829" ts-tts="25-09-05 18:29:21.386" />
+      <m id="r24094213" t="f" c="0" ts="2509051829" ts-tts="25-09-05 18:29:37.572" />
+      <m id="r24094214" t="f" c="0" ts="2509051829" ts-tts="25-09-05 18:29:37.572" />
+    </ar>
+    <dp cpth="Ahrensfelde Friedhof|Ahrensfelde Nord|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark)|Werneuchen" ppth="" pp="20" pt="2509060929" ps="a" l="25">
+      <m id="r24088878" t="d" c="57" ts="2509051754" ts-tts="25-09-05 17:54:20.248" />
+      <m id="r24088880" t="d" c="57" ts="2509051754" ts-tts="25-09-05 17:54:20.248" />
+      <m id="r24094185" t="f" c="1000" ts="2509051829" ts-tts="25-09-05 18:29:21.386" />
+    </dp>
+    <tl f="N" t="p" o="NBRB25" c="RB" n="61281" />
+  </s>
+  <s id="-4692713203595393061-2509051859-1" eva="8010036">
+    <dp ct="2509051900" l="25" />
+  </s>
+  <s id="-4102551485305814110-2509061022-2" eva="8010036">
+    <ar cpth="Berlin Ostkreuz" ppth="Berlin Ostkreuz" pp="17" pt="2509061025" l="25">
+      <m id="r24090735" t="d" c="57" ts="2509051806" ts-tts="25-09-05 18:06:12.008" />
+      <m id="r24090737" t="d" c="57" ts="2509051806" ts-tts="25-09-05 18:06:12.008" />
+      <m id="r24090739" t="d" c="57" ts="2509051806" ts-tts="25-09-05 18:06:12.008" />
+      <m id="r24094135" t="f" c="1000" ts="2509051828" ts-tts="25-09-05 18:28:49.396" />
+      <m id="r24094169" t="f" c="0" ts="2509051829" ts-tts="25-09-05 18:29:05.488" />
+      <m id="r24094170" t="f" c="0" ts="2509051829" ts-tts="25-09-05 18:29:05.488" />
+    </ar>
+    <dp cpth="Ahrensfelde Friedhof|Ahrensfelde Nord|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark)|Werneuchen" ppth="" pp="17" pt="2509061029" ps="a" l="25">
+      <m id="r24090735" t="d" c="57" ts="2509051806" ts-tts="25-09-05 18:06:12.008" />
+      <m id="r24090737" t="d" c="57" ts="2509051806" ts-tts="25-09-05 18:06:12.008" />
+      <m id="r24090739" t="d" c="57" ts="2509051806" ts-tts="25-09-05 18:06:12.008" />
+      <m id="r24094135" t="f" c="1000" ts="2509051828" ts-tts="25-09-05 18:28:49.396" />
+    </dp>
+    <tl f="N" t="p" o="NBRB25" c="RB" n="55787" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

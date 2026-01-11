@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Neukölln" eva="8089077">
+  <s id="-4112016639672971874-2509032121-18" eva="8089077">
+    <m id="r2485869" t="h" from="2509031700" to="2509032230" cat="Störung" ts="2509031727" ts-tts="25-09-03 20:16:03.697" pr="1" />
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße" ct="2509032201" l="42" />
+    <dp cpth="Berlin Sonnenallee|Berlin Treptower Park" ct="2509032201" l="42" />
+  </s>
+  <s id="6204014190158519494-2509032148-4" eva="8089077">
+    <ar ct="2509032158" l="45" />
+    <dp ct="2509032159" l="45" />
+  </s>
+  <s id="-4820194231285581889-2509032131-18" eva="8089077">
+    <m id="r2485869" t="h" from="2509031700" to="2509032230" cat="Störung" ts="2509031727" ts-tts="25-09-03 20:16:03.697" pr="1" />
+    <ar ct="2509032209" dc="1" l="42" />
+    <dp ct="2509032209" l="42" />
+  </s>
+</timetable>

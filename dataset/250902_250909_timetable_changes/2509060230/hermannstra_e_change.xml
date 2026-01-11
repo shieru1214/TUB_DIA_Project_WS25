@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hermannstraße" eva="8089105">
+  <s id="6427418446133543035-2509060205-12" eva="8089105">
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof" ct="2509060230" l="42" />
+    <dp cpth="Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park" ct="2509060231" l="42" />
+  </s>
+  <s id="-6895900520694039967-2509060201-9" eva="8089105">
+    <ar ct="2509060228" l="41">
+      <m id="r23996600" t="f" c="0" ts="2509050358" ts-tts="25-09-05 03:58:48.501" />
+    </ar>
+    <dp ct="2509060229" l="41">
+      <m id="r23996600" t="f" c="0" ts="2509050358" ts-tts="25-09-05 03:58:48.501" />
+    </dp>
+  </s>
+</timetable>

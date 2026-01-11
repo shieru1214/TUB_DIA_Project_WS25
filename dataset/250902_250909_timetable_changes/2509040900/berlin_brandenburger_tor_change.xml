@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Brandenburger Tor" eva="8089044">
+  <s id="7931043844629669317-2509040915-8" eva="8089044">
+    <ar ct="2509040929" l="2" />
+    <dp ct="2509040930" l="2" />
+  </s>
+  <s id="5407846585181429487-2509040824-17" eva="8089044">
+    <m id="r2486148" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040802" ts-tts="25-09-04 08:03:02.638" pr="2" />
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:26.561" pr="2" />
+    <ar ct="2509040902" l="1" />
+    <dp ct="2509040902" l="1" />
+  </s>
+  <s id="-5102928986828019802-2509040845-8" eva="8089044">
+    <ar ct="2509040900" l="2" />
+    <dp ct="2509040900" l="2" />
+  </s>
+  <s id="-9083921232904905854-2509040915-12" eva="8089044">
+    <ar ct="2509040940" l="26" />
+    <dp ct="2509040941" l="26" />
+  </s>
+  <s id="-2058573886405627558-2509040915-14" eva="8089044">
+    <m id="r2486148" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040802" ts-tts="25-09-04 08:03:02.638" pr="2" />
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:26.561" pr="2" />
+    <ar ct="2509040947" l="1" />
+    <dp ct="2509040947" l="1" />
+  </s>
+  <s id="-5444509549961414149-2509040914-17" eva="8089044">
+    <m id="r2486148" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040802" ts-tts="25-09-04 08:03:02.638" pr="2" />
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:26.560" pr="2" />
+    <ar cpth="Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)" ct="2509040948" l="1" />
+    <dp cpth="Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" ct="2509040948" l="1" />
+  </s>
+</timetable>

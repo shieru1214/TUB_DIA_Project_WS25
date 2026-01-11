@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hermannstraße" eva="8089105">
+  <s id="494555846565758058-2509021645-17" eva="8089105">
+    <ar ct="2509021721" l="42" />
+    <dp ct="2509021721" l="42" />
+  </s>
+  <s id="-4770286039880467404-2509021551-17" eva="8089105">
+    <m id="r2485131" t="h" from="2509020952" to="2509021600" cat="Störung" ts="2509020953" ts-tts="25-09-02 10:48:51.350" pr="2" />
+    <ar ct="2509021631" l="42" />
+    <dp ct="2509021630" l="42" />
+  </s>
+  <s id="-9009853357437729323-2509021611-9" eva="8089105">
+    <ar ct="2509021630" l="41" />
+    <dp ct="2509021630" l="41" />
+  </s>
+  <s id="7433705684187241900-2509021541-17" eva="8089105">
+    <m id="r2485131" t="h" from="2509020952" to="2509021600" cat="Störung" ts="2509020953" ts-tts="25-09-02 10:48:51.350" pr="2" />
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof" ct="2509021622" l="42" />
+    <dp cpth="Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee" ct="2509021623" l="42" />
+  </s>
+  <s id="4862017594441901856-2509021644-5" eva="8089105">
+    <ar ct="2509021654" l="41" />
+    <dp ct="2509021654" l="41" />
+  </s>
+  <s id="-1267720593014128115-2509021624-1" eva="8089105">
+    <dp ct="2509021629" l="47" />
+  </s>
+  <s id="3534185430669820111-2509021628-3" eva="8089105">
+    <ar ct="2509021635" l="45" />
+    <dp ct="2509021635" l="45" />
+  </s>
+  <s id="4273033003055348494-2509021644-1" eva="8089105">
+    <dp ct="2509021644" l="47" />
+  </s>
+  <s id="5465419147661215672-2509021631-9" eva="8089105">
+    <ar ct="2509021652" l="41" />
+    <dp ct="2509021653" l="41" />
+  </s>
+</timetable>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Oberspree">
+  <s id="-3022037246101185441-2509050529-2">
+    <tl f="S" t="p" o="08" c="S" n="47060" />
+    <ar pt="2509050531" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+    <dp pt="2509050531" pp="1" l="47" ppth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße" />
+  </s>
+  <s id="-5434955021213744373-2509050509-2">
+    <tl f="S" t="p" o="08" c="S" n="47058" />
+    <ar pt="2509050511" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+    <dp pt="2509050511" pp="1" l="47" ppth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße" />
+  </s>
+  <s id="-3507294831667586329-2509050516-2">
+    <tl f="S" t="p" o="08" c="S" n="47059" />
+    <ar pt="2509050519" pp="1" l="47" ppth="Berlin-Schöneweide (S)" />
+    <dp pt="2509050520" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+  </s>
+  <s id="1034098369782943186-2509050549-2">
+    <tl f="S" t="p" o="08" c="S" n="47062" />
+    <ar pt="2509050551" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+    <dp pt="2509050551" pp="1" l="47" ppth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße" />
+  </s>
+  <s id="2737165163689886854-2509050536-2">
+    <tl f="S" t="p" o="08" c="S" n="47061" />
+    <ar pt="2509050539" pp="1" l="47" ppth="Berlin-Schöneweide (S)" />
+    <dp pt="2509050540" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+  </s>
+  <s id="2685499493660799877-2509050459-2">
+    <tl f="S" t="p" o="08" c="S" n="47007" />
+    <ar pt="2509050502" pp="1" l="47" ppth="Berlin-Schöneweide (S)" />
+    <dp pt="2509050502" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+  </s>
+  <s id="-6101938279602215351-2509050544-6">
+    <tl f="S" t="p" o="08" c="S" n="47063" />
+    <ar pt="2509050559" pp="1" l="47" ppth="Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)" />
+    <dp pt="2509050600" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+  </s>
+</timetable>

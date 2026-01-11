@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Potsdamer Platz" eva="8011118">
+  <s id="8281476375952669238-2509031016-25" eva="8011118">
+    <ar ct="2509031336" l="3">
+      <m id="r23753339" t="d" c="21" ts="2509031004" ts-tts="25-09-03 10:04:47.291" />
+    </ar>
+    <dp ct="2509031337" l="3">
+      <m id="r23753339" t="d" c="21" ts="2509031004" ts-tts="25-09-03 10:04:47.291" />
+    </dp>
+  </s>
+  <s id="-8242287713313171954-2509031213-8" eva="8011118">
+    <ar ct="2509031452" l="85" />
+    <dp ct="2509031453" l="85" />
+  </s>
+  <s id="3626444551768966269-2509031101-23" eva="8011118">
+    <m id="r2333137" t="h" from="2412150000" to="2510242358" cat="Information" ts="2412142302" ts-tts="25-09-02 23:16:03.894" pr="2" />
+    <m id="r2485713" t="h" from="2509031101" to="2509031421" cat="Störung" ts="2509031034" ts-tts="25-09-03 10:34:35.084" pr="1" />
+    <ar cpth="Grimmen|Rakow|Demmin|Utzedel|Sternfeld|Gnevkow|Altentreptow|Neubrandenburg|Burg Stargard(Meckl)|Cammin(Meckl)|Blankensee(Meckl)|Neustrelitz Hbf|Fürstenberg(Havel)|Gransee|Löwenberg(Mark)|Oranienburg|Berlin Gesundbrunnen|Berlin Hbf" ppth="Stralsund Hbf|Zarrendorf|Elmenhorst|Wittenhagen|Grimmen|Rakow|Demmin|Utzedel|Sternfeld|Gnevkow|Altentreptow|Neubrandenburg|Burg Stargard(Meckl)|Cammin(Meckl)|Blankensee(Meckl)|Neustrelitz Hbf|Fürstenberg(Havel)|Gransee|Löwenberg(Mark)|Oranienburg|Berlin Gesundbrunnen|Berlin Hbf" pp="2" ct="2509031450" pt="2509031414" l="5">
+      <m id="r23756003" t="d" c="34" ts="2509031030" ts-tts="25-09-03 10:30:10.334" />
+      <m id="r23756005" t="d" c="34" ts="2509031030" ts-tts="25-09-03 10:30:10.334" />
+      <m id="r23768307" t="f" c="0" ts="2509031212" ts-tts="25-09-03 12:12:14.967" />
+    </ar>
+    <dp cpth="Berlin Südkreuz" ppth="Berlin Südkreuz" pp="2" ct="2509031451" pt="2509031415" l="5">
+      <m id="r23756003" t="d" c="34" ts="2509031030" ts-tts="25-09-03 10:30:10.334" />
+      <m id="r23756005" t="d" c="34" ts="2509031030" ts-tts="25-09-03 10:30:10.334" />
+      <m id="r23768307" t="f" c="0" ts="2509031212" ts-tts="25-09-03 12:12:14.967" />
+    </dp>
+    <tl f="N" t="p" o="800158" c="RE" n="3511" />
+  </s>
+</timetable>

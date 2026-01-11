@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Yorckstr.(S2)" eva="8089050">
+  <s id="3720479119184069092-2509071135-11" eva="8089050">
+    <ar l="2">
+      <m id="r24175085" t="f" c="0" ts="2509061334" ts-tts="25-09-06 13:34:27.751" />
+      <m id="r24175086" t="f" c="0" ts="2509061334" ts-tts="25-09-06 13:34:27.751" />
+    </ar>
+    <dp l="2">
+      <m id="r24175085" t="f" c="0" ts="2509061334" ts-tts="25-09-06 13:34:27.751" />
+      <m id="r24175086" t="f" c="0" ts="2509061334" ts-tts="25-09-06 13:34:27.751" />
+    </dp>
+  </s>
+  <s id="6686424055900469154-2509061855-9" eva="8089050">
+    <ar cpth="Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)|Berlin-Lankwitz|Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)" ct="2509061914" cs="p" clt="2509061717" l="26" />
+    <dp cpth="Berlin Anhalter Bf|Berlin Potsdamer Platz (S)" ct="2509061914" cs="p" clt="2509061717" l="26" />
+  </s>
+  <s id="8987057160359352874-2509061928-9" eva="8089050">
+    <ar ct="2509061949" l="2" />
+    <dp ct="2509061949" l="2" />
+  </s>
+</timetable>

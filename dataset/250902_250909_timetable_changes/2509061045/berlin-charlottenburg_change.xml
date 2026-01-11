@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Charlottenburg" eva="8010403">
+  <s id="3233652564648379036-2509061055-12" eva="8010403">
+    <ar cpth="Pillgram|Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten" ct="2509061211" l="1" />
+    <dp cpth="Berlin-Wannsee|Potsdam Hbf|Werder(Havel)|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Magdeburg-Neustadt|Magdeburg Hbf" ct="2509061212" l="1" />
+  </s>
+  <s id="-4703442358992585392-2509061114-24" eva="8010403">
+    <ar ct="2509061322" l="7">
+      <m id="r24128357" t="f" c="0" ts="2509060154" ts-tts="25-09-06 01:55:00.508" />
+      <m id="r24128359" t="f" c="0" ts="2509060155" ts-tts="25-09-06 01:55:31.232" />
+    </ar>
+    <dp ct="2509061324" l="7">
+      <m id="r24128357" t="f" c="0" ts="2509060154" ts-tts="25-09-06 01:55:00.508" />
+      <m id="r24128359" t="f" c="0" ts="2509060155" ts-tts="25-09-06 01:55:31.232" />
+    </dp>
+  </s>
+</timetable>

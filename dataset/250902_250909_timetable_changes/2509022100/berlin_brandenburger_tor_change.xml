@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Brandenburger Tor" eva="8089044">
+  <s id="3483167579357542430-2509022115-8" eva="8089044">
+    <ar ct="2509022129" l="2" />
+    <dp ct="2509022130" l="2" />
+  </s>
+  <s id="3398720115483067981-2509022055-8" eva="8089044">
+    <ar ct="2509022111" l="2" />
+    <dp ct="2509022111" l="2" />
+  </s>
+  <s id="-7866613208668656304-2509022024-17" eva="8089044">
+    <ar ct="2509022059" l="1" />
+    <dp ct="2509022059" l="1" />
+  </s>
+  <s id="6245227535258251283-2509022114-17" eva="8089044">
+    <ar ct="2509022148" l="1" />
+    <dp ct="2509022148" l="1" />
+  </s>
+  <s id="-4438904856134545962-2509022052-4" eva="8089044">
+    <ar ppth="Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)" pp="1" ct="2509022058" pt="2509022057" l="1" />
+    <dp ppth="Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" pp="1" ct="2509022058" pt="2509022057" l="1" />
+    <tl f="S" t="s" o="08" c="S" n="10147" />
+  </s>
+</timetable>

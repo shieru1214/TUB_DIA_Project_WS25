@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Südkreuz" eva="8011113">
+  <s id="-2371969129715118406-2509050645-3" eva="8011113">
+    <ar ct="2509050652" l="8" />
+    <dp ct="2509050659" l="8" />
+  </s>
+  <s id="3633423506968040756-2509050633-9" eva="8011113">
+    <m id="r2486639" t="h" from="2509050600" to="2509051100" cat="Störung" ts="2509050616" ts-tts="25-09-05 06:16:14.151" pr="1" />
+    <ar cpth="Hamburg-Altona|Hamburg Hbf|Lüneburg|Uelzen|Stendal Hbf|Berlin-Spandau|Berlin Hbf" ppth="Hamburg-Altona|Hamburg Hbf|Lüneburg|Uelzen|Salzwedel|Stendal Hbf|Berlin-Spandau|Berlin Hbf" pp="3" ct="2509051008" pt="2509050938">
+      <m id="r24008035" t="f" c="0" ts="2509050658" ts-tts="25-09-05 06:58:51.097" />
+      <m id="r24008165" t="d" c="31" ts="2509050700" ts-tts="25-09-05 07:00:08.506" />
+      <m id="r24008167" t="d" c="31" ts="2509050700" ts-tts="25-09-05 07:00:08.506" />
+    </ar>
+    <dp cpth="Bitterfeld|Halle(Saale)Hbf|Erfurt Hbf|Würzburg Hbf|Augsburg Hbf|München Hbf" ppth="Bitterfeld|Halle(Saale)Hbf|Erfurt Hbf|Würzburg Hbf|Augsburg Hbf|München Hbf" pp="3" ct="2509051010" pt="2509050940">
+      <m id="r24008035" t="f" c="0" ts="2509050658" ts-tts="25-09-05 06:58:51.097" />
+      <m id="r24008165" t="d" c="31" ts="2509050700" ts-tts="25-09-05 07:00:08.506" />
+      <m id="r24008167" t="d" c="31" ts="2509050700" ts-tts="25-09-05 07:00:08.506" />
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="703" />
+  </s>
+  <s id="-310371357130051139-2509050546-13" eva="8011113">
+    <ar ct="2509050716" l="4" />
+    <dp ct="2509050717" l="4" />
+  </s>
+  <s id="-5096032800673842604-2509050637-5" eva="8011113">
+    <ar ct="2509051051" />
+    <dp ct="2509051054" />
+  </s>
+  <s id="-1084094223186560071-2509050641-2" eva="8011113">
+    <ar ct="2509050751" l="35">
+      <m id="r23949619" t="f" c="1000" ts="2509041746" ts-tts="25-09-04 17:46:53.568" />
+      <m id="r23949620" t="f" c="0" ts="2509041746" ts-tts="25-09-04 17:46:53.568" />
+      <m id="r23949621" t="f" c="0" ts="2509041746" ts-tts="25-09-04 17:46:53.568" />
+    </ar>
+    <dp ct="2509050756" l="35">
+      <m id="r23949619" t="f" c="1000" ts="2509041746" ts-tts="25-09-04 17:46:53.568" />
+      <m id="r23949620" t="f" c="0" ts="2509041746" ts-tts="25-09-04 17:46:53.568" />
+      <m id="r23949621" t="f" c="0" ts="2509041746" ts-tts="25-09-04 17:46:53.568" />
+    </dp>
+  </s>
+</timetable>

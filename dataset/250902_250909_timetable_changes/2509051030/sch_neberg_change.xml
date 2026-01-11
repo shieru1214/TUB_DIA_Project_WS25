@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Schöneberg" eva="8089474">
+  <s id="1839465458389801120-2509050955-19" eva="8089474">
+    <ar ct="2509051039" l="1" />
+    <dp ct="2509051039" l="1" />
+  </s>
+  <s id="3892721336257727309-2509051016-9" eva="8089474">
+    <ar ct="2509051030" l="46" />
+    <dp ct="2509051031" l="46" />
+  </s>
+  <s id="-7683378272979448748-2509051045-14" eva="8089474">
+    <ar ct="2509051113" l="42" />
+    <dp ct="2509051113" l="42" />
+  </s>
+  <s id="-5873133521175659700-2509051044-8" eva="8089474">
+    <ar ct="2509051102" l="41" />
+    <dp ct="2509051102" l="41" />
+  </s>
+  <s id="2797420159025155747-2509051044-12" eva="8089474">
+    <ar ct="2509051106" l="1" />
+    <dp ct="2509051107" l="1" />
+  </s>
+  <s id="-8819113931152956666-2509051001-14" eva="8089474">
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz" ct="2509051028" l="42">
+      <m id="r23900773" t="f" c="0" ts="2509041159" ts-tts="25-09-04 11:59:45.071" />
+      <m id="r24024229" t="f" c="0" ts="2509050939" ts-tts="25-09-05 09:40:02.732" />
+      <m id="r24024230" t="f" c="0" ts="2509050939" ts-tts="25-09-05 09:40:02.732" />
+    </ar>
+    <dp cpth="Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" ct="2509051029" l="42">
+      <m id="r23900773" t="f" c="0" ts="2509041159" ts-tts="25-09-04 11:59:45.071" />
+      <m id="r24024229" t="f" c="0" ts="2509050939" ts-tts="25-09-05 09:40:02.732" />
+      <m id="r24024230" t="f" c="0" ts="2509050939" ts-tts="25-09-05 09:40:02.732" />
+    </dp>
+  </s>
+</timetable>

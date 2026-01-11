@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Treptower Park" eva="8089043">
+  <s id="1243340160731559408-2509061129-7" eva="8089043">
+    <ar ct="2509061147" l="8" />
+    <dp ct="2509061147" l="8" />
+  </s>
+  <s id="-2103319968489623053-2509061131-6" eva="8089043">
+    <ar ct="2509061144" l="41" />
+    <dp ct="2509061145" l="41" />
+  </s>
+  <s id="7975866664307061753-2509061151-6" eva="8089043">
+    <ar ct="2509061201" l="41" />
+    <dp ct="2509061202" l="41" />
+  </s>
+  <s id="7955063326761930162-2509061145-3" eva="8089043">
+    <ar ct="2509061149" l="8" />
+    <dp ct="2509061150" l="8" />
+  </s>
+  <s id="6691491657590837504-2509061201-6" eva="8089043">
+    <ar cpth="Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)" ct="2509061211" l="41">
+      <m id="r24053238" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.406" />
+      <m id="r24053239" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.406" />
+    </ar>
+    <dp cpth="Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ct="2509061212" l="41">
+      <m id="r24053238" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.406" />
+      <m id="r24053239" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.406" />
+    </dp>
+  </s>
+  <s id="612886045388153765-2509061109-11" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.508" pr="1" />
+    <ar ct="2509061141" l="9" />
+    <dp ct="2509061144" l="9" />
+  </s>
+</timetable>

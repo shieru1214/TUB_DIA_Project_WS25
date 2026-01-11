@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Staaken">
+  <s id="6716572724661645432-2509052245-8">
+    <tl f="N" t="p" o="800158" c="RE" n="3182" />
+    <ar pt="2509052345" pp="1" l="4" ppth="Stendal Hbf|Rathenow|Nennhausen|Buschow|Wustermark|Elstal|Dallgow-Döberitz" />
+    <dp pt="2509052346" pp="1" l="4" ppth="Berlin-Spandau|Berlin Jungfernheide|Berlin Hbf" />
+  </s>
+  <s id="519132225267584083-2509052304-4">
+    <tl f="N" t="p" o="OWRE" c="RE" n="62036" />
+    <ar pt="2509052316" pp="1" l="8" ppth="Wustermark|Elstal|Dallgow-Döberitz" />
+    <dp pt="2509052317" pp="1" l="8" ppth="Berlin-Spandau|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Flughafen BER" />
+  </s>
+  <s id="2850484104831128676-2509052203-15">
+    <tl f="N" t="p" o="800158" c="RE" n="3185" />
+    <ar pt="2509052321" pp="2" l="4" ppth="Jüterbog|Luckenwalde|Trebbin|Thyrow|Ludwigsfelde|Birkengrund|Großbeeren|Teltow|Berlin-Lichterfelde Ost|Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf|Berlin Jungfernheide|Berlin-Spandau" />
+    <dp pt="2509052322" pp="2" l="4" ppth="Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow|Stendal Hbf" />
+  </s>
+  <s id="-689328588130788162-2509052244-10">
+    <tl f="N" t="p" o="OWRE" c="RE" n="62039" />
+    <ar pt="2509052342" pp="2" l="8" ppth="Flughafen BER|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Spandau" />
+    <dp pt="2509052342" pp="2" l="8" ppth="Dallgow-Döberitz|Elstal|Wustermark" />
+  </s>
+</timetable>

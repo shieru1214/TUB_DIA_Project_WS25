@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Oranienburger Straße" eva="8089027">
+  <s id="7161845991785586705-2509071115-6" eva="8089027">
+    <ar ct="2509071126" l="2" />
+    <dp ct="2509071126" l="2" />
+  </s>
+  <s id="2346862314133285104-2509071054-2" eva="8089027">
+    <ar ppth="Berlin Nordbahnhof" pp="1" ct="2509071102" pt="2509071056" l="2" />
+    <dp ppth="Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee|Berlin Schichauweg|Berlin-Lichtenrade|Mahlow" pp="1" ct="2509071102" pt="2509071056" l="2" />
+    <tl f="S" t="e" o="08" c="S" n="20053" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="2053" />
+    </ref>
+  </s>
+  <s id="4461142458543421609-2509071028-14" eva="8089027">
+    <ar ct="2509071100" l="2" />
+    <dp ct="2509071100" l="2" />
+  </s>
+  <s id="-6492894711970304927-2509071052-2" eva="8089027">
+    <ar ppth="Berlin Nordbahnhof" pp="1" ct="2509071101" pt="2509071053" l="1" />
+    <dp ppth="Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" pp="1" ct="2509071101" pt="2509071054" l="1" />
+    <tl f="S" t="s" o="08" c="S" n="10087" />
+  </s>
+  <s id="7765345744686364326-2509071028-14" eva="8089027">
+    <ar ct="2509071104" l="25" />
+    <dp ct="2509071104" l="25" />
+  </s>
+  <s id="-2768148903783094064-2509071055-6" eva="8089027">
+    <ar ct="2509071109" l="2" />
+    <dp ct="2509071109" l="2" />
+  </s>
+  <s id="8179814534007398710-2509071114-19" eva="8089027">
+    <m id="r2487622" t="h" from="2509070954" to="2509071530" cat="Störung" ts="2509070955" ts-tts="25-09-07 09:55:51.110" pr="2" />
+    <ar ct="2509071152" l="1" />
+    <dp ct="2509071152" l="1" />
+  </s>
+  <s id="-5688463078112584623-2509071014-19" eva="8089027">
+    <m id="r2487622" t="h" from="2509070954" to="2509071530" cat="Störung" ts="2509070955" ts-tts="25-09-07 09:55:51.110" pr="2" />
+    <ar ct="2509071058" l="1" />
+    <dp ct="2509071058" l="1" />
+  </s>
+</timetable>

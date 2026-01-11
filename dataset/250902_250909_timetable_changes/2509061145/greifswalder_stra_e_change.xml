@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Greifswalder Str" eva="8089011">
+  <s id="5863470049485777835-2509061140-1" eva="8089011">
+    <dp ct="2509061153" l="S42" />
+  </s>
+  <s id="4266909054961834985-2509061143-4" eva="8089011">
+    <ar ct="2509061202" l="S41" />
+  </s>
+  <s id="333998272747531404-2509061058-4" eva="8089011">
+    <ar ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" ct="2509061153" pt="2509061115" l="S41" />
+    <tl t="p" o="080001" c="Bus" n="41194" />
+  </s>
+  <s id="-6455832724455832163-2509061203-4" eva="8089011">
+    <ar ct="2509061228" l="S41" />
+  </s>
+  <s id="-2745168249729265028-2509061215-1" eva="8089011">
+    <dp ct="2509061215" l="S42" />
+  </s>
+  <s id="2348514824134361723-2509061208-4" eva="8089011">
+    <ar ct="2509061225" l="S41" />
+  </s>
+  <s id="7975866664307061753-2509061151-1" eva="8089011">
+    <dp ct="2509061151" l="41" />
+  </s>
+  <s id="6691491657590837504-2509061201-1" eva="8089011">
+    <dp cpth="Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ct="2509061201" cs="c" clt="2509061144" l="41">
+      <m id="r24053238" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.152" />
+      <m id="r24053239" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.152" />
+      <m id="r24162678" t="d" c="1" ts="2509061144" ts-tts="25-09-06 11:44:33.076" />
+      <m id="r24162680" t="d" c="1" ts="2509061144" ts-tts="25-09-06 11:44:33.076" />
+      <m id="r24162682" t="d" c="1" ts="2509061144" ts-tts="25-09-06 11:44:33.076" />
+    </dp>
+  </s>
+</timetable>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="4922861959861347679-2509041630-7" eva="8089045">
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.460" pr="1" />
+    <ar ct="2509041645" l="3" />
+    <dp ct="2509041648" l="3" />
+  </s>
+  <s id="842729966120304805-2509041604-9" eva="8089045">
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.459" pr="1" />
+    <ar ct="2509041624" l="5" />
+    <dp ct="2509041623" l="5" />
+  </s>
+  <s id="-551522984523274095-2509041724-9" eva="8089045">
+    <ar ct="2509041744" l="5" />
+    <dp ct="2509041745" l="5" />
+  </s>
+  <s id="-1818876481882947779-2509041630-18" eva="8089045">
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.459" pr="1" />
+    <ar ct="2509041720" l="5" />
+    <dp ct="2509041721" l="5" />
+  </s>
+  <s id="4362665963396406912-2509041629-12" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.888" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.459" pr="1" />
+    <ar ct="2509041705" l="9" />
+    <dp ct="2509041706" l="9" />
+  </s>
+  <s id="4095217395935736952-2509041651-6" eva="8089045">
+    <ar ct="2509041705" l="5" />
+    <dp ct="2509041705" l="5" />
+  </s>
+  <s id="732838878254816626-2509041551-11" eva="8089045">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.390" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.278" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.460" pr="1" />
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)" ct="2509041613" cs="p" clt="2509041408" l="7" />
+    <dp cpth="Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee|Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" ct="2509041614" cs="p" clt="2509041408" l="7" />
+  </s>
+  <s id="5651852307817564121-2509041537-19" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.888" pr="1" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.459" pr="1" />
+    <ar ct="2509041623" l="9" />
+    <dp ct="2509041624" l="9" />
+  </s>
+  <s id="-8526294727188973849-2509041547-13" eva="8089045">
+    <m id="r2486187" t="h" from="2509040930" to="2509041700" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 15:16:04.459" pr="1" />
+    <ar ct="2509041619" l="5" />
+    <dp ct="2509041619" l="5" />
+  </s>
+</timetable>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Beusselstraße" eva="8089118">
+  <s id="8500384805691000091-2509082008-28" eva="8089118">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:40.977" pr="2" />
+    <ar ct="2509082110" dc="1" l="41" />
+  </s>
+  <s id="8500384805691000091-2509082008-1" eva="8089118">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:40.977" pr="2" />
+    <dp ct="2509082015" l="41" />
+  </s>
+  <s id="-4789882024647388783-2509082003-28" eva="8089118">
+    <ar ct="2509082110" dc="1" l="42" />
+  </s>
+  <s id="4423685960447679475-2509081938-28" eva="8089118">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:40.977" pr="2" />
+    <ar cpth="Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee|Berlin Greifswalder Str|Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen" ct="2509082041" cs="p" clt="2509081928" l="42" />
+  </s>
+  <s id="1815443505271816565-2509081947-11" eva="8089118">
+    <ar ppth="Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)" pp="1" ct="2509082015" pt="2509082007" l="41" />
+    <tl f="S" t="s" o="08" c="S" n="40194" />
+  </s>
+  <s id="-4680890442467094131-2509082013-1" eva="8089118">
+    <dp ct="2509082015" l="42" />
+  </s>
+  <s id="8760474568377269190-2509082013-1" eva="8089118">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:40.977" pr="2" />
+    <dp ct="2509082014" l="41" />
+  </s>
+</timetable>

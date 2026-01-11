@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Staaken">
+  <s id="7466508975589297015-2509070407-4">
+    <tl f="N" t="p" o="OWRE" c="RE" n="62048" />
+    <ar pt="2509070419" pp="1" l="8" ppth="Wustermark|Elstal|Dallgow-Döberitz" />
+    <dp pt="2509070420" pp="1" l="8" ppth="Berlin-Spandau|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Flughafen BER" />
+  </s>
+  <s id="3339429189258054989-2509070342-9">
+    <tl f="N" t="p" o="OWRE" c="RE" n="62001" />
+    <ar pt="2509070438" pp="2" l="8" ppth="Flughafen BER|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Spandau" />
+    <dp pt="2509070439" pp="2" l="8" ppth="Dallgow-Döberitz|Elstal|Wustermark" />
+  </s>
+</timetable>

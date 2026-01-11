@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Treptower Park" eva="8089043">
+  <s id="-2880136336018703968-2509030615-3" eva="8089043">
+    <ar ct="2509030619" l="85" />
+    <dp ct="2509030619" l="85" />
+  </s>
+  <s id="-2784326170488959974-2509032301-20" eva="8089043">
+    <ar l="42">
+      <m id="r23683022" t="f" c="0" ts="2509021531" ts-tts="25-09-02 15:31:30.521" />
+      <m id="r23718860" t="f" c="0" ts="2509030059" ts-tts="25-09-03 01:00:04.017" />
+    </ar>
+    <dp l="42">
+      <m id="r23683022" t="f" c="0" ts="2509021531" ts-tts="25-09-02 15:31:30.521" />
+      <m id="r23718860" t="f" c="0" ts="2509030059" ts-tts="25-09-03 01:00:04.017" />
+    </dp>
+  </s>
+  <s id="6215273958048191759-2509032201-6" eva="8089043">
+    <ar l="41">
+      <m id="r23682883" t="f" c="0" ts="2509021529" ts-tts="25-09-02 15:29:25.482" />
+      <m id="r23717143" t="f" c="0" ts="2509030000" ts-tts="25-09-03 00:00:49.366" />
+    </ar>
+    <dp l="41">
+      <m id="r23682883" t="f" c="0" ts="2509021529" ts-tts="25-09-02 15:29:25.482" />
+      <m id="r23717143" t="f" c="0" ts="2509030000" ts-tts="25-09-03 00:00:49.366" />
+    </dp>
+  </s>
+  <s id="-6167779504073240896-2509032249-11" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:03.858" pr="1" />
+  </s>
+  <s id="-227463373182075391-2509032257-20" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:03.858" pr="1" />
+  </s>
+  <s id="-6372508145793358639-2509032237-20" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:03.858" pr="1" />
+  </s>
+  <s id="514047408418325381-2509032217-20" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:03.858" pr="1" />
+  </s>
+  <s id="935189708447427529-2509032229-11" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:03.858" pr="1" />
+  </s>
+  <s id="5997989689960172253-2509032209-11" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:03.858" pr="1" />
+  </s>
+  <s id="6353547358991984392-2509030629-11" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:03.859" pr="1" />
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald" ct="2509030701" l="9" />
+    <dp cpth="Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" ct="2509030703" l="9" />
+  </s>
+</timetable>

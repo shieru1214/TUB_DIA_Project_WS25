@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Friedrichsfelde Ost" eva="8089059">
+  <s id="-8243913908166035137-2509042141-23" eva="8089059">
+    <m id="r2486483" t="h" from="2509042000" to="2509042230" cat="Störung" ts="2509042015" ts-tts="25-09-04 20:15:19.697" pr="1" />
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:05.101" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.969" pr="1" />
+    <ar ct="2509042247" l="7" />
+    <dp ct="2509042247" l="7" />
+  </s>
+  <s id="-3421257389635634915-2509042238-5" eva="8089059">
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.970" pr="1" />
+    <ar cpth="Berlin-Wartenberg|Berlin-Hohenschönhausen (S)|Berlin Gehrenseestraße|Berlin Springpfuhl" ct="2509042255" cs="p" clt="2509042159" l="75" />
+    <dp cpth="Berlin-Lichtenberg (S)" ct="2509042255" cs="p" clt="2509042159" l="75" />
+  </s>
+  <s id="6656481945246699876-2509042231-7" eva="8089059">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:05.100" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.969" pr="1" />
+    <ar ct="2509042244" l="7" />
+    <dp ct="2509042244" l="7" />
+  </s>
+  <s id="-3430025751131141384-2509042207-17" eva="8089059">
+    <m id="r2486483" t="h" from="2509042000" to="2509042230" cat="Störung" ts="2509042015" ts-tts="25-09-04 20:15:19.697" pr="1" />
+    <ar ct="2509042244" l="5" />
+    <dp ct="2509042244" l="5" />
+  </s>
+</timetable>

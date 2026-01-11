@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Storkower Str" eva="8089041">
+  <s id="8109492644522988219-2509021745-4" eva="8089041">
+    <ar ppth="Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee" pp="2" pt="2509021754" l="42" />
+    <dp ppth="Berlin Landsberger Allee|Berlin Greifswalder Str" pp="2" pt="2509021755" l="42" />
+    <tl f="S" t="e" o="08" c="S" n="43175" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="42173" />
+    </ref>
+  </s>
+  <s id="-1448510764398849978-2509021821-23" eva="8089041">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:19.924" pr="1" />
+    <ar ct="2509021929" l="42" />
+    <dp ct="2509021929" l="42" />
+  </s>
+  <s id="2009511987230237839-2509021831-23" eva="8089041">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:19.924" pr="1" />
+    <ar ct="2509021929" l="42" />
+    <dp ct="2509021929" l="42" />
+  </s>
+  <s id="-4032785458149120799-2509021931-3" eva="8089041">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:19.925" pr="1" />
+    <ar ct="2509021941" l="41" />
+    <dp ct="2509021941" l="41" />
+  </s>
+  <s id="3565949444521820822-2509021741-3" eva="8089041">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:19.925" pr="1" />
+    <ar ct="2509021748" l="41" />
+    <dp ct="2509021749" l="41" />
+  </s>
+  <s id="2767191245387380367-2509021731-3" eva="8089041">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:19.924" pr="1" />
+    <ar cpth="Berlin Greifswalder Str|Berlin Landsberger Allee" ct="2509021740" l="41" />
+    <dp cpth="Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park" ct="2509021741" l="41" />
+  </s>
+</timetable>

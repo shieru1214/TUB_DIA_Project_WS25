@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Karl-Bonhoeffer-Nervenklinik" eva="8089102">
+  <s id="-2606364132941369480-2509041908-6" eva="8089102">
+    <ar ct="2509041924" l="25" />
+    <dp ct="2509041925" l="25" />
+  </s>
+  <s id="-3470766067991646108-2509041825-21" eva="8089102">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:32.950" pr="1" />
+    <ar ct="2509041913" l="25" />
+    <dp ct="2509041914" l="25" />
+  </s>
+</timetable>

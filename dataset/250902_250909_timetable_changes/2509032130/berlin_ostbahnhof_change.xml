@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostbahnhof" eva="8010255">
+  <s id="5735453695384784814-2509031447-12" eva="8010255">
+    <ar ppth="Aachen Hbf|Düren|Köln Hbf|Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Wanne-Eickel Hbf|Hamm(Westf)Hbf|Hannover Hbf|Berlin-Spandau|Berlin Hbf" pp="2" ct="2509032131" pt="2509032059">
+      <m id="r23788031" t="d" c="43" ts="2509031448" ts-tts="25-09-03 14:48:33.336" />
+      <m id="r23788033" t="d" c="43" ts="2509031448" ts-tts="25-09-03 14:48:33.336" />
+      <m id="r23796483" t="f" c="0" ts="2509031550" ts-tts="25-09-03 15:50:47.030" />
+      <m id="r23796484" t="f" c="0" ts="2509031550" ts-tts="25-09-03 15:50:47.030" />
+      <m id="r23804420" t="f" c="0" ts="2509031645" ts-tts="25-09-03 16:45:28.878" />
+      <m id="r23804421" t="f" c="0" ts="2509031645" ts-tts="25-09-03 16:45:28.878" />
+      <m id="r23813409" t="f" c="0" ts="2509031749" ts-tts="25-09-03 17:49:44.254" />
+      <m id="r23813410" t="f" c="0" ts="2509031749" ts-tts="25-09-03 17:49:44.254" />
+    </ar>
+    <tl f="F" t="p" o="80" c="ICE" n="1053" />
+  </s>
+  <s id="-2370594392823865841-2509032101-13" eva="8010255">
+    <ar ct="2509032156" l="7" />
+    <dp ct="2509032158" l="7" />
+  </s>
+  <s id="8034745534383330002-2509032019-13" eva="8010255">
+    <ar ct="2509032128" l="1" />
+    <dp ct="2509032129" l="1" />
+  </s>
+  <s id="5254069718021379768-2509031400-14" eva="8010255">
+    <m id="r2485753" t="h" from="2509031130" to="2509031730" cat="Störung" ts="2509031217" ts-tts="25-09-03 17:16:04.487" pr="2" />
+    <ar cpth="Rheine|Osnabrück Hbf|Bünde(Westf)|Hannover Hbf|Berlin-Spandau|Berlin Hbf" ppth="Amsterdam Centraal|Hilversum|Amersfoort Centraal|Apeldoorn|Deventer|Hengelo|Bad Bentheim|Rheine|Osnabrück Hbf|Bünde(Westf)|Hannover Hbf|Berlin-Spandau|Berlin Hbf" pp="3" ct="2509032139" pt="2509032002" cs="p" clt="2509031310">
+      <m id="r23774713" t="d" c="8" ts="2509031310" ts-tts="25-09-03 13:10:38.443" />
+      <m id="r23774715" t="d" c="8" ts="2509031310" ts-tts="25-09-03 13:10:38.443" />
+      <m id="r23785026" t="f" c="0" ts="2509031430" ts-tts="25-09-03 14:30:35.398" />
+      <m id="r23806606" t="f" c="0" ts="2509031701" ts-tts="25-09-03 17:01:58.798" />
+      <m id="r23806607" t="f" c="0" ts="2509031701" ts-tts="25-09-03 17:01:58.798" />
+    </ar>
+    <tl f="F" t="p" o="84" c="IC" n="149" />
+  </s>
+</timetable>

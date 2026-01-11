@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Prenzlauer Allee">
+  <s id="6025184884837476476-2509030355-2">
+    <tl t="p" o="080001" c="Bus" n="42003" />
+    <ar pt="2509030358" pp="" l="S42" ppth="Berlin Greifswalder Str" />
+    <dp pt="2509030358" pp="" l="S42" ppth="Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="-3732154510490499938-2509030345-2">
+    <tl t="p" o="080001" c="Bus" n="42001" />
+    <ar pt="2509030348" pp="" l="S42" ppth="Berlin Greifswalder Str" />
+    <dp pt="2509030348" pp="" l="S42" ppth="Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" />
+  </s>
+  <s id="-1646601845438565572-2509030343-3">
+    <tl t="p" o="080001" c="Bus" n="41002" />
+    <ar pt="2509030351" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee" />
+    <dp pt="2509030351" pp="" l="S41" ppth="Berlin Greifswalder Str" />
+  </s>
+  <s id="-9087490185343566639-2509030333-3">
+    <tl t="p" o="080001" c="Bus" n="41000" />
+    <ar pt="2509030341" pp="" l="S41" ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee" />
+    <dp pt="2509030341" pp="" l="S41" ppth="Berlin Greifswalder Str" />
+  </s>
+</timetable>

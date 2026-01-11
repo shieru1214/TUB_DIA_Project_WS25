@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Grünau" eva="8089063">
+  <s id="-1751380916810346170-2509030616-19" eva="8089063">
+    <m id="r2485590" t="h" from="2509030530" to="2509030830" cat="Störung" ts="2509030602" ts-tts="25-09-03 06:02:52.078" pr="2" />
+    <ar ct="2509030659" l="46" />
+    <dp ct="2509030700" l="46" />
+  </s>
+  <s id="6894402840890385655-2509030715-100" eva="8089063">
+    <m id="r2485590" t="h" from="2509030530" to="2509030830" cat="Störung" ts="2509030602" ts-tts="25-09-03 06:02:52.079" pr="2" />
+    <ar cpth="" ppth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz" pt="2509030740" ps="a" l="42" />
+    <dp cpth="Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)" ppth="Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)" pp="4" ct="2509030740" pt="2509030740" ps="a" l="42" />
+    <tl f="S" t="p" o="08" c="S" n="42565" />
+  </s>
+  <s id="-717989684430484605-2509030659-1" eva="8089063">
+    <dp ct="2509030700" l="85" />
+  </s>
+  <s id="-7526344709355974670-2509030715-9" eva="8089063">
+    <ar ct="2509030737" l="85" />
+  </s>
+  <s id="3618988314481372825-2509030714-4" eva="8089063">
+    <ar ct="2509030728" l="8" />
+    <dp ct="2509030729" l="8" />
+  </s>
+  <s id="-5023438061491662060-2509030641-5" eva="8089063">
+    <m id="r2485590" t="h" from="2509030530" to="2509030830" cat="Störung" ts="2509030602" ts-tts="25-09-03 06:02:52.079" pr="2" />
+    <ar cpth="Zeuthen|Eichwalde" ct="2509030658" l="46" />
+    <dp cpth="Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" ct="2509030658" l="46" />
+  </s>
+</timetable>

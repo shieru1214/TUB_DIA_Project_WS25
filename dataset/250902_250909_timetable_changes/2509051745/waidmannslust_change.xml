@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Waidmannslust" eva="8089092">
+  <s id="4654340692195559314-2509051715-3" eva="8089092">
+    <m id="r2486901" t="h" from="2509051400" to="2509051800" cat="Störung" ts="2509051449" ts-tts="25-09-05 14:50:08.397" pr="1" />
+    <ar cpth="Berlin-Frohnau|Berlin-Hermsdorf" ct="2509051720" l="1" />
+    <dp cpth="Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)" ct="2509051723" l="1" />
+  </s>
+  <s id="-2529152160250428397-2509051743-3" eva="8089092">
+    <ar cpth="Berlin-Frohnau|Berlin-Hermsdorf" ct="2509051748" l="26" />
+    <dp cpth="Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende|Berlin-Lankwitz|Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd" ct="2509051750" l="26" />
+  </s>
+</timetable>

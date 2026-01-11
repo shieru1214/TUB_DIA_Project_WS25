@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jungfernheide">
+  <s id="-5055283992035375388-2509081714-2">
+    <tl f="N" t="p" o="800165" c="RB" n="18267" />
+    <ar pt="2509081722" pp="4" l="21" ppth="Berlin Gesundbrunnen" />
+    <dp pt="2509081724" pp="4" l="21" ppth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Priort|Marquardt|Golm|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf" />
+  </s>
+  <s id="-2736577397224135219-2509081635-12">
+    <tl f="N" t="p" o="800165" c="RB" n="18264" />
+    <ar pt="2509081731" pp="3" l="21" ppth="Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Golm|Marquardt|Priort|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau" />
+    <dp pt="2509081732" pp="3" l="21" ppth="Berlin Gesundbrunnen" />
+  </s>
+  <s id="6944185201288381463-2509081632-9">
+    <tl f="N" t="p" o="800158" c="RE" n="3176" />
+    <ar pt="2509081756" pp="3" l="4" ppth="Stendal Hbf|Rathenow|Nennhausen|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau" />
+    <dp pt="2509081756" pp="3" l="4" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz|Berlin-Lichterfelde Ost|Ludwigsfelde|Thyrow|Trebbin|Woltersdorf/Nuthe-Urstromtal|Luckenwalde|Jüterbog" />
+  </s>
+  <s id="7555571972322187573-2509081638-4">
+    <tl f="N" t="p" o="800165" c="RB" n="18623" />
+    <ar pt="2509081702" pp="3" l="14" ppth="Wustermark|Dallgow-Döberitz|Berlin-Spandau" />
+    <dp pt="2509081704" pp="3" l="14" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" />
+  </s>
+  <s id="909759495485484647-2509081741-4">
+    <tl f="N" t="p" o="800165" c="RB" n="18624" />
+    <ar pt="2509081754" pp="4" l="14" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" />
+    <dp pt="2509081755" pp="4" l="14" ppth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark" />
+  </s>
+  <s id="-204524593189508798-2509081514-17">
+    <tl f="N" t="p" o="800158" c="RE" n="3157" />
+    <ar pt="2509081701" pp="4" l="4" ppth="Falkenberg(Elster)|Herzberg(Elster)|Holzdorf(Elster)|Linda(Elster)|Zellendorf|Oehna|Jüterbog|Luckenwalde|Woltersdorf/Nuthe-Urstromtal|Trebbin|Thyrow|Ludwigsfelde|Berlin-Lichterfelde Ost|Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" />
+    <dp pt="2509081702" pp="4" l="4" ppth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow" />
+  </s>
+</timetable>

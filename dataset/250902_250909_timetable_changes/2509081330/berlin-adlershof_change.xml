@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Adlershof" eva="8089052">
+  <s id="-7322641168589316969-2509081256-18" eva="8089052">
+    <ar ct="2509081336" l="46" />
+    <dp ct="2509081338" l="46" />
+  </s>
+  <s id="-1370384018183122210-2509081304-17" eva="8089052">
+    <ar ct="2509081344" l="8" />
+    <dp ct="2509081345" l="8" />
+  </s>
+  <s id="9137343284158543410-2509081309-6" eva="8089052">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-07 23:16:04.476" pr="1" />
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke" ct="2509081329" l="9" />
+    <dp cpth="Berlin-Johannisthal|Berlin-Schöneweide (S)" ct="2509081330" l="9" />
+  </s>
+  <s id="8853561267835542509-2509081303-21" eva="8089052">
+    <ar ct="2509081402" l="85" />
+    <dp ct="2509081403" l="85" />
+  </s>
+  <s id="2062805381225481990-2509081341-6" eva="8089052">
+    <ar ct="2509081409" l="46" />
+    <dp ct="2509081410" l="46" />
+  </s>
+  <s id="7151647076329230161-2509081344-17" eva="8089052">
+    <ar ct="2509081423" l="8" />
+    <dp ct="2509081423" l="8" />
+  </s>
+  <s id="-5169049180854847685-2509081324-17" eva="8089052">
+    <ar ct="2509081403" l="8" />
+    <dp ct="2509081403" l="8" />
+  </s>
+  <s id="-2493631048456303599-2509081243-21" eva="8089052">
+    <ar cpth="Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Schönhauser Allee|Berlin Prenzlauer Allee|Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal" ct="2509081333" cs="p" clt="2509081328" l="85">
+      <m id="r24410432" t="d" c="2" ts="2509081328" ts-tts="25-09-08 13:28:40.275" />
+      <m id="r24410436" t="d" c="2" ts="2509081328" ts-tts="25-09-08 13:28:40.275" />
+    </ar>
+    <dp cpth="Berlin-Grünau" ct="2509081333" cs="p" clt="2509081328" l="85">
+      <m id="r24410432" t="d" c="2" ts="2509081328" ts-tts="25-09-08 13:28:40.275" />
+      <m id="r24410436" t="d" c="2" ts="2509081328" ts-tts="25-09-08 13:28:40.275" />
+    </dp>
+  </s>
+</timetable>

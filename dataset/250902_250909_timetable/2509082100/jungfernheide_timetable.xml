@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jungfernheide">
+  <s id="-2032569237475830480-2509081914-17">
+    <tl f="N" t="p" o="800158" c="RE" n="3161" />
+    <ar pt="2509082101" pp="4" l="4" ppth="Falkenberg(Elster)|Herzberg(Elster)|Holzdorf(Elster)|Linda(Elster)|Zellendorf|Oehna|Jüterbog|Luckenwalde|Woltersdorf/Nuthe-Urstromtal|Trebbin|Thyrow|Ludwigsfelde|Berlin-Lichterfelde Ost|Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" />
+    <dp pt="2509082102" pp="4" l="4" ppth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow" />
+  </s>
+  <s id="6650457238952290678-2509082033-8">
+    <tl f="N" t="p" o="800158" c="RE" n="3180" />
+    <ar pt="2509082156" pp="3" l="4" ppth="Stendal Hbf|Rathenow|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau" />
+    <dp pt="2509082156" pp="3" l="4" ppth="Berlin Hbf" />
+  </s>
+  <s id="-4599931227724882544-2509082038-4">
+    <tl f="N" t="p" o="800165" c="RB" n="18631" />
+    <ar pt="2509082103" pp="3" l="14" ppth="Wustermark|Dallgow-Döberitz|Berlin-Spandau" />
+    <dp pt="2509082104" pp="3" l="14" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" />
+  </s>
+  <s id="2565064366853295036-2509082116-2">
+    <tl f="N" t="p" o="800165" c="RB" n="18275" />
+    <ar pt="2509082123" pp="4" l="21" ppth="Berlin Gesundbrunnen" />
+    <dp pt="2509082124" pp="4" l="21" ppth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Priort|Marquardt|Golm|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf" />
+  </s>
+  <s id="-2498132549130333466-2509082141-4">
+    <tl f="N" t="p" o="800165" c="RB" n="18632" />
+    <ar pt="2509082154" pp="4" l="14" ppth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" />
+    <dp pt="2509082155" pp="4" l="14" ppth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark" />
+  </s>
+  <s id="5511449091386928938-2509082035-12">
+    <tl f="N" t="p" o="800165" c="RB" n="18272" />
+    <ar pt="2509082132" pp="3" l="21" ppth="Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Golm|Marquardt|Priort|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau" />
+    <dp pt="2509082135" pp="3" l="21" ppth="Berlin Gesundbrunnen" />
+  </s>
+</timetable>

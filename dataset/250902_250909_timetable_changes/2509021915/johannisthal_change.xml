@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Johannisthal" eva="8089007">
+  <s id="-9147533488436248374-2509022126-22" eva="8089007">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:19.925" pr="1" />
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)" cs="p" clt="2509021907" l="42" />
+    <dp cpth="Berlin-Adlershof|Berlin-Grünau" cs="p" clt="2509021907" l="42" />
+  </s>
+  <s id="3529272336257423429-2509021817-24" eva="8089007">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 11:21:15.558" pr="1" />
+    <ar ct="2509021915" l="9" />
+    <dp ct="2509021916" l="9" />
+  </s>
+  <s id="4420795620374292214-2509021854-6" eva="8089007">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:19.925" pr="1" />
+    <ar cpth="Berlin-Grünau|Berlin-Adlershof" ct="2509021915" l="8" />
+    <dp cpth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee" ct="2509021916" l="8" />
+  </s>
+  <s id="3137983808743053986-2509021929-7" eva="8089007">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 11:21:15.558" pr="1" />
+    <ar ct="2509021949" l="9" />
+    <dp ct="2509021950" l="9" />
+  </s>
+  <s id="7770906850788896575-2509021836-17" eva="8089007">
+    <ar ct="2509021913" l="46" />
+    <dp ct="2509021914" l="46" />
+  </s>
+</timetable>

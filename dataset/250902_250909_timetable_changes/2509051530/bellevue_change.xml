@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bellevue" eva="8089005">
+  <s id="5038645782857803795-2509051511-8" eva="8089005">
+    <ar ct="2509051530" l="5" />
+    <dp ct="2509051530" l="5" />
+  </s>
+  <s id="-1384941265864015325-2509051545-18" eva="8089005">
+    <ar ct="2509051626" l="5" />
+    <dp ct="2509051627" l="5" />
+  </s>
+  <s id="-6957563390289480983-2509051534-3" eva="8089005">
+    <ar ct="2509051545" l="7" />
+    <dp ct="2509051545" l="7" />
+  </s>
+  <s id="-3708238111003228908-2509051445-18" eva="8089005">
+    <ar cpth="Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)" ct="2509051534" l="5" />
+    <dp cpth="Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" ct="2509051535" l="5" />
+  </s>
+  <s id="-39175797995701231-2509051429-19" eva="8089005">
+    <ar ct="2509051534" l="9" />
+    <dp ct="2509051534" l="9" />
+  </s>
+  <s id="-3502234289036778262-2509051557-12" eva="8089005">
+    <ar ct="2509051624" l="9" />
+    <dp ct="2509051625" l="9" />
+  </s>
+  <s id="2652590273479348147-2509051449-19" eva="8089005">
+    <ar ct="2509051543" l="9" />
+    <dp ct="2509051543" l="9" />
+  </s>
+  <s id="1357308019732839794-2509051551-8" eva="8089005">
+    <ar cpth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten" ct="2509051607" l="5" />
+    <dp cpth="Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)|Birkenstein|Hoppegarten(Mark)" ct="2509051608" l="5" />
+  </s>
+  <s id="-5899825833268278603-2509051451-18" eva="8089005">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)" ct="2509051538" l="7" />
+    <dp cpth="Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2509051539" l="7" />
+  </s>
+</timetable>

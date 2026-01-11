@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="4922861959861347679-2509051630-7" eva="8089045">
+    <ar ct="2509051645" l="3" />
+    <dp ct="2509051648" l="3" />
+  </s>
+  <s id="-4845604826762075201-2509051609-12" eva="8089045">
+    <ar ct="2509051646" l="9" />
+    <dp ct="2509051646" l="9" />
+  </s>
+  <s id="4600221061694125734-2509051611-15" eva="8089045">
+    <ar cpth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)" ct="2509051645" l="5" />
+    <dp cpth="Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)|Birkenstein|Hoppegarten(Mark)" ct="2509051645" l="5" />
+  </s>
+  <s id="4813913378936340940-2509051646-1" eva="8089045">
+    <dp ct="2509051648" l="75" />
+  </s>
+  <s id="-907731564179702124-2509051618-9" eva="8089045">
+    <ar ct="2509051644" l="75" />
+  </s>
+  <s id="8776812754150511065-2509051631-6" eva="8089045">
+    <ar ct="2509051643" cde="Berlin-Grunewald" dc="1" l="5" />
+    <dp ct="2509051644" l="5" />
+  </s>
+  <s id="732838878254816626-2509051551-11" eva="8089045">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)" ct="2509051613" l="7" />
+    <dp cpth="Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2509051615" l="7" />
+  </s>
+  <s id="-4733368022629812671-2509051624-9" eva="8089045">
+    <ar ct="2509051643" l="5" />
+    <dp ct="2509051644" l="5" />
+  </s>
+</timetable>

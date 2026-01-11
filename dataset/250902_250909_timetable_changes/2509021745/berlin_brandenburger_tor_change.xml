@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Brandenburger Tor" eva="8089044">
+  <s id="7892856750349728345-2509021708-16" eva="8089044">
+    <ar ct="2509021746" l="25" />
+    <dp ct="2509021746" l="25" />
+  </s>
+  <s id="-8654037606735840084-2509021735-12" eva="8089044">
+    <ar ct="2509021802" l="26" />
+    <dp ct="2509021802" l="26" />
+  </s>
+  <s id="-4479418734354170096-2509021758-8" eva="8089044">
+    <ar ppth="Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)" pp="2" ct="2509021815" pt="2509021815" l="2" />
+    <dp ppth="Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow" pp="2" ct="2509021816" pt="2509021816" l="2" />
+    <tl f="S" t="e" o="08" c="S" n="20096" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="2096" />
+    </ref>
+  </s>
+</timetable>

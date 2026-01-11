@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Zoologischer Garten" eva="8010406">
+  <s id="4447890004106418758-2509081852-10" eva="8010406">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-07 23:16:04.734" pr="3" />
+    <m id="r2488158" t="h" from="2509081015" to="2509082100" cat="Störung" ts="2509081042" ts-tts="25-09-08 20:16:04.595" pr="1" />
+    <ar ppth="Düsseldorf Hbf|Duisburg Hbf|Essen Hbf|Dortmund Hbf|Bielefeld Hbf|Minden(Westf)|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau" pp="1" ct="2509082346" pt="2509082310">
+      <m id="r24467232" t="d" c="43" ts="2509081916" ts-tts="25-09-08 19:16:14.506" />
+      <m id="r24467234" t="d" c="43" ts="2509081916" ts-tts="25-09-08 19:16:14.506" />
+      <m id="r24470426" t="f" c="0" ts="2509081942" ts-tts="25-09-08 19:43:04.420" />
+      <m id="r24478509" t="f" c="0" ts="2509082103" ts-tts="25-09-08 21:03:10.139" />
+    </ar>
+    <dp ppth="Berlin Hbf|Berlin Ostbahnhof" pp="1" ct="2509082348" pt="2509082312" hi="1">
+      <m id="r24467232" t="d" c="43" ts="2509081916" ts-tts="25-09-08 19:16:14.506" />
+      <m id="r24467234" t="d" c="43" ts="2509081916" ts-tts="25-09-08 19:16:14.506" />
+      <m id="r24470426" t="f" c="0" ts="2509081942" ts-tts="25-09-08 19:43:04.420" />
+      <m id="r24478509" t="f" c="0" ts="2509082103" ts-tts="25-09-08 21:03:10.139" />
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="645" />
+  </s>
+  <s id="-8071444848207572218-2509082358-10" eva="8010406">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-07 23:16:04.734" pr="3" />
+    <ar ct="2509090638" />
+    <dp ct="2509090643" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

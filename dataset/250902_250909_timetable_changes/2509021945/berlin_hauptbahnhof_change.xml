@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hbf" eva="8011160">
+  <s id="7217685362129263153-2509021826-14" eva="8011160">
+    <ar ct="2509021943" l="1">
+      <m id="r23696186" t="d" c="43" ts="2509021900" ts-tts="25-09-02 19:00:56.605" />
+    </ar>
+    <dp ct="2509021945" l="1">
+      <m id="r23696186" t="d" c="43" ts="2509021900" ts-tts="25-09-02 19:00:56.605" />
+      <m id="r23697359" t="f" c="0" ts="2509021922" ts-tts="25-09-02 19:22:19.807" />
+      <m id="r23697699" t="f" c="0" ts="2509021928" ts-tts="25-09-02 19:28:19.073" />
+    </dp>
+  </s>
+  <s id="-130190603183544299-2509021600-13" eva="8011160">
+    <ar ppth="Amsterdam Centraal|Hilversum|Amersfoort Centraal|Apeldoorn|Deventer|Hengelo|Bad Bentheim|Rheine|Osnabrück Hbf|Bünde(Westf)|Hannover Hbf|Berlin-Spandau" pp="12" ct="2509022222" pt="2509022149">
+      <m id="r23693171" t="d" c="51" ts="2509021807" ts-tts="25-09-02 18:07:18.084" />
+    </ar>
+    <dp ppth="Berlin Ostbahnhof" pp="12" ct="2509022225" pt="2509022153" hi="1">
+      <m id="r23693171" t="d" c="51" ts="2509021807" ts-tts="25-09-02 18:07:18.084" />
+    </dp>
+    <tl f="F" t="p" o="84" c="IC" n="241" />
+  </s>
+  <s id="8510220935223586141-2509022014-22" eva="8011160">
+    <ar ct="2509022214" l="7" />
+    <dp ct="2509022216" l="7" />
+  </s>
+</timetable>

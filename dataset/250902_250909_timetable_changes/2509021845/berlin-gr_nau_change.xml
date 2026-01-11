@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Grünau" eva="8089063">
+  <s id="5544483456599141747-2509021841-5" eva="8089063">
+    <ar ct="2509021904" l="46" />
+    <dp ct="2509021904" l="46" />
+  </s>
+  <s id="6037137750331944083-2509021745-105" eva="8089063">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:09.608" pr="1" />
+    <ar cpth="Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Köllnische Heide|Berlin Hermannstraße|Berlin Baumschulenweg|Berlin-Neukölln|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" ppth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)" cp="2" pp="1" ct="2509021846" pt="2509021835" ps="a" l="42" />
+    <tl f="S" t="p" o="08" c="S" n="42691" />
+  </s>
+  <s id="-9134742536527770300-2509021821-5" eva="8089063">
+    <ar ct="2509021844" l="46" />
+    <dp ct="2509021844" l="46" />
+  </s>
+  <s id="690624431283418513-2509021825-9" eva="8089063">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:09.607" pr="1" />
+    <ar ct="2509021848" l="8" />
+    <dp ct="2509021848" l="8" />
+  </s>
+  <s id="-7729927418364877382-2509021859-1" eva="8089063">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:09.607" pr="1" />
+    <dp ct="2509021859" l="85" />
+  </s>
+</timetable>

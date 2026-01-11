@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Brandenburger Tor" eva="8089044">
+  <s id="8823589448388620748-2509031808-16" eva="8089044">
+    <ar ct="2509031845" l="25" />
+    <dp ct="2509031845" l="25" />
+  </s>
+  <s id="1421451690851073627-2509031838-11" eva="8089044">
+    <ar ppth="Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)|Berlin-Lankwitz|Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)" pp="2" ct="2509031904" pt="2509031900" l="26" />
+    <dp ppth="Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" pp="2" ct="2509031905" pt="2509031901" l="26" />
+    <tl f="S" t="e" o="08" c="S" n="28602" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="26602" />
+    </ref>
+  </s>
+  <s id="-5128311507118840991-2509031818-11" eva="8089044">
+    <ar ppth="Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)|Berlin-Lankwitz|Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)" pp="2" ct="2509031845" pt="2509031840" l="26" />
+    <dp ppth="Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" pp="2" ct="2509031845" pt="2509031841" l="26" />
+    <tl f="S" t="e" o="08" c="S" n="28600" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="26600" />
+    </ref>
+  </s>
+</timetable>

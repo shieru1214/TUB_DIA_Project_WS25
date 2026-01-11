@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Buckower Chaussee" eva="8089010">
+  <s id="-4926357973537059377-2509021815-16" eva="8089010">
+    <ar ct="2509021850" l="2" />
+    <dp ct="2509021850" l="2" />
+  </s>
+  <s id="-2210653570731024164-2509021758-2" eva="8089010">
+    <ar ppth="Berlin-Marienfelde" pp="1" ct="2509021802" pt="2509021800" l="2" />
+    <dp ppth="Berlin Schichauweg|Berlin-Lichtenrade|Mahlow" pp="1" ct="2509021802" pt="2509021800" l="2" />
+    <tl f="S" t="e" o="08" c="S" n="20093" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="2093" />
+    </ref>
+  </s>
+</timetable>

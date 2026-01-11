@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Raoul-Wallenberg-Str." eva="8089035">
+  <s id="-5094610155094601871-2509061141-27" eva="8089035">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.627" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-05 23:16:03.616" pr="1" />
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" ct="2509061253" cs="c" clt="2509061159" l="7" />
+    <dp cpth="" ct="2509061253" cs="c" clt="2509061159" l="7" />
+  </s>
+  <s id="-1914033317694652747-2509061101-27" eva="8089035">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.627" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-05 23:16:03.616" pr="1" />
+    <ar ct="2509061210" l="7" />
+    <dp ct="2509061211" l="7" />
+  </s>
+</timetable>

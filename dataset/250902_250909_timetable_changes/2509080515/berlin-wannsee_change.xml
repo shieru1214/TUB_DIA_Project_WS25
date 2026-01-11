@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wannsee" eva="8010405">
+  <s id="-2370594392823865841-2509082101-7" eva="8010405">
+    <m id="r2483170" t="h" from="2509080000" to="2509121900" cat="Information" ts="2509072309" ts-tts="25-09-07 23:10:00.594" pr="2" />
+  </s>
+  <s id="-96203559036685518-2509082106-15" eva="8010405">
+    <ar ct="2509082236" l="1" />
+    <dp ct="2509082237" l="1" />
+  </s>
+  <s id="6315131513364836528-2509080912-11" eva="8010405">
+    <ar ct="2509081038" l="1" />
+    <dp ct="2509081040" l="1" />
+  </s>
+  <s id="2571246218446717627-2509080512-11" eva="8010405">
+    <ar ct="2509080638" l="1" />
+    <dp ct="2509080641" l="1" />
+  </s>
+  <s id="-7418975919136076672-2509080534-6" eva="8010405">
+    <ar cpth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten" ct="2509080748">
+      <m id="r24319280" t="f" c="0" ts="2509072035" ts-tts="25-09-07 20:35:56.254" />
+      <m id="r24319296" t="d" c="48" ts="2509072035" ts-tts="25-09-07 20:35:56.254" />
+      <m id="r24319298" t="d" c="48" ts="2509072035" ts-tts="25-09-07 20:35:56.254" />
+      <m id="r24319358" t="f" c="0" ts="2509072036" ts-tts="25-09-07 20:36:27.345" />
+    </ar>
+    <dp cpth="Potsdam Hbf|Brandenburg Hbf|Magdeburg Hbf|Helmstedt|Braunschweig Hbf|Hannover Hbf|Nienburg(Weser)|Verden(Aller)|Bremen Hbf|Delmenhorst|Hude|Oldenburg(Oldb)Hbf|Bad Zwischenahn|Westerstede-Ocholt|Augustfehn|Leer(Ostfriesl)|Emden Hbf|Marienhafe|Norden|Norddeich|Norddeich Mole" ct="2509080750">
+      <m id="r24319280" t="f" c="0" ts="2509072035" ts-tts="25-09-07 20:35:56.254" />
+      <m id="r24319296" t="d" c="48" ts="2509072035" ts-tts="25-09-07 20:35:56.254" />
+      <m id="r24319298" t="d" c="48" ts="2509072035" ts-tts="25-09-07 20:35:56.254" />
+      <m id="r24319358" t="f" c="0" ts="2509072036" ts-tts="25-09-07 20:36:27.345" />
+    </dp>
+  </s>
+  <s id="-6476689219113566886-2509080534-6" eva="8010405">
+    <ar cpth="Berlin Ostbahnhof|Berlin Hbf|Berlin Zoologischer Garten" ct="2509080748" l="56">
+      <m id="r24319281" t="f" c="0" ts="2509072035" ts-tts="25-09-07 20:35:56.253" />
+      <m id="r24319328" t="d" c="48" ts="2509072036" ts-tts="25-09-07 20:36:11.830" />
+      <m id="r24319330" t="d" c="48" ts="2509072036" ts-tts="25-09-07 20:36:11.830" />
+      <m id="r24319359" t="f" c="0" ts="2509072036" ts-tts="25-09-07 20:36:27.345" />
+    </ar>
+    <dp cpth="Potsdam Hbf" ct="2509080750" l="56">
+      <m id="r24319281" t="f" c="0" ts="2509072035" ts-tts="25-09-07 20:35:56.253" />
+      <m id="r24319328" t="d" c="48" ts="2509072036" ts-tts="25-09-07 20:36:11.830" />
+      <m id="r24319330" t="d" c="48" ts="2509072036" ts-tts="25-09-07 20:36:11.830" />
+      <m id="r24319359" t="f" c="0" ts="2509072036" ts-tts="25-09-07 20:36:27.345" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:45.514" />
+</timetable>

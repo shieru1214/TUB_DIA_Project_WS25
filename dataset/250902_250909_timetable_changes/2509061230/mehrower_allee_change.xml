@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Mehrower Allee" eva="8089022">
+  <s id="-890478799568697863-2509061245-22" eva="8089022">
+    <ar ppth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str." pp="1" ct="2509061331" pt="2509061331" l="7" />
+    <dp ppth="Ahrensfelde (S)" pp="1" ct="2509061332" pt="2509061332" l="7" />
+    <tl f="S" t="e" o="08" c="S" n="70093" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="7093" />
+    </ref>
+  </s>
+  <s id="-327690849615948288-2509061121-28" eva="8089022">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.747" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-05 23:16:03.736" pr="1" />
+    <ar ct="2509061232" l="7" />
+    <dp ct="2509061232" l="7" />
+  </s>
+</timetable>

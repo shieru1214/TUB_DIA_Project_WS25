@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Buckower Chaussee" eva="8089010">
+  <s id="1529967735054320444-2509080903-20" eva="8089010">
+    <m id="r2488011" t="h" from="2509080700" to="2509081230" cat="Störung" ts="2509080717" ts-tts="25-09-08 07:17:53.331" pr="2" />
+    <ar ct="2509080952" l="2" />
+    <dp ct="2509080952" l="2" />
+  </s>
+  <s id="1020470361838804269-2509080857-19" eva="8089010">
+    <ar ppth="Berlin-Karow|Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde" pp="1" ct="2509080941" pt="2509080940" l="2" />
+    <dp ppth="Berlin Schichauweg|Berlin-Lichtenrade|Mahlow" pp="1" ct="2509080941" pt="2509080940" l="2" />
+    <tl f="S" t="e" o="08" c="S" n="20043" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="2043" />
+    </ref>
+  </s>
+  <s id="-6782814073526287179-2509080823-20" eva="8089010">
+    <m id="r2488011" t="h" from="2509080700" to="2509081230" cat="Störung" ts="2509080717" ts-tts="25-09-08 07:17:53.331" pr="2" />
+    <ar ct="2509080912" l="2" />
+    <dp ct="2509080911" l="2" />
+  </s>
+  <s id="-372185282596328845-2509080837-19" eva="8089010">
+    <ar cpth="" ppth="Berlin-Karow|Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde" pp="1" ct="2509080941" pt="2509080920" cs="c" clt="2509080857" l="2" />
+    <dp cpth="" ppth="Berlin Schichauweg|Berlin-Lichtenrade|Mahlow" pp="1" ct="2509080941" pt="2509080920" cs="c" clt="2509080857" l="2" />
+    <tl f="S" t="e" o="08" c="S" n="20041" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="2041" />
+    </ref>
+  </s>
+</timetable>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hermannstraße" eva="8089105">
+  <s id="-3521259762857654984-2509072101-17" eva="8089105">
+    <ar l="42">
+      <m id="r24233022" t="f" c="0" ts="2509062258" ts-tts="25-09-06 22:59:01.488" />
+      <m id="r24233023" t="f" c="0" ts="2509062258" ts-tts="25-09-06 22:59:01.488" />
+    </ar>
+    <dp l="42">
+      <m id="r24233022" t="f" c="0" ts="2509062258" ts-tts="25-09-06 22:59:01.488" />
+      <m id="r24233023" t="f" c="0" ts="2509062258" ts-tts="25-09-06 22:59:01.488" />
+    </dp>
+  </s>
+  <s id="-4171712229961245780-2509072001-9" eva="8089105">
+    <ar l="41">
+      <m id="r24229666" t="f" c="0" ts="2509062158" ts-tts="25-09-06 21:59:10.654" />
+    </ar>
+    <dp l="41">
+      <m id="r24229666" t="f" c="0" ts="2509062158" ts-tts="25-09-06 21:59:10.654" />
+    </dp>
+  </s>
+  <s id="-7615481607663355225-2509070332-17" eva="8089105">
+    <ar ct="2509070415" l="42" />
+    <dp ct="2509070416" l="42" />
+  </s>
+  <s id="-6162714514839030290-2509070331-9" eva="8089105">
+    <ar cpth="Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln" ct="2509070421" cs="p" clt="2509070359" l="41" />
+    <dp cpth="Berlin-Tempelhof" ct="2509070421" cs="p" clt="2509070359" l="41" />
+  </s>
+</timetable>

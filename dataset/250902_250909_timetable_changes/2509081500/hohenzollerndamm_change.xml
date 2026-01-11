@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hohenzollerndamm" eva="8089108">
+  <s id="5607666004607282394-2509081516-5" eva="8089108">
+    <m id="r2488245" t="h" from="2509081330" to="2509081530" cat="Störung" ts="2509081337" ts-tts="25-09-08 14:16:05.844" pr="2" />
+    <ar cpth="Berlin Charlottenburg (S)" ct="2509081529" cs="c" clt="2509081500" l="46" />
+    <dp cpth="Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" ct="2509081529" l="46" />
+  </s>
+  <s id="6112865541765138542-2509081448-7" eva="8089108">
+    <ar ct="2509081500" l="42" />
+    <dp ct="2509081501" l="42" />
+  </s>
+  <s id="-8278355018322708496-2509081413-22" eva="8089108">
+    <ar ct="2509081500" l="41" />
+    <dp ct="2509081501" l="41" />
+  </s>
+  <s id="-1593749628335191992-2509081456-5" eva="8089108">
+    <m id="r2488245" t="h" from="2509081330" to="2509081530" cat="Störung" ts="2509081337" ts-tts="25-09-08 14:16:05.844" pr="2" />
+    <ar cpth="" ct="2509081506" cs="c" clt="2509081413" l="46" />
+    <dp cpth="" ct="2509081506" cs="c" clt="2509081413" l="46" />
+  </s>
+  <s id="-1922802170105418819-2509081428-22" eva="8089108">
+    <ar ct="2509081515" l="41" />
+    <dp ct="2509081516" l="41" />
+  </s>
+</timetable>

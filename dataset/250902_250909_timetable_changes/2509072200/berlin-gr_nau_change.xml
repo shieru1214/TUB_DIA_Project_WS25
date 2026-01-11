@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Grünau" eva="8089063">
+  <s id="9166159803277868649-2509072118-19" eva="8089063">
+    <ar ct="2509072159" l="46" />
+    <dp ct="2509072200" l="46" />
+  </s>
+  <s id="6204014190158519494-2509072148-100" eva="8089063">
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" ppth="Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke" cp="2" pp="1" pt="2509072214" ps="a" l="45" />
+    <dp cpth="" ppth="Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" pt="2509072214" ps="a" l="45" />
+    <tl f="S" t="p" o="08" c="S" n="45121" />
+  </s>
+  <s id="2106461845293540378-2509072215-9" eva="8089063">
+    <ar ct="2509072237" l="8" />
+  </s>
+</timetable>

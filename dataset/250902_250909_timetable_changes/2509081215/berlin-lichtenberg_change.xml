@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichtenberg" eva="8010036">
+  <s id="1413054124393605986-2509081149-2" eva="8010036">
+    <ar ppth="Berlin Gesundbrunnen" pp="15" ct="2509081239" pt="2509081159" hi="1">
+      <m id="r24395552" t="d" c="47" ts="2509081156" ts-tts="25-09-08 11:56:31.164" />
+      <m id="r24395554" t="d" c="47" ts="2509081156" ts-tts="25-09-08 11:56:31.164" />
+    </ar>
+    <dp ppth="Frankfurt(Oder)|Rzepin|Swiebodzin|Zbaszynek|Poznan Glowny|Konin|Kutno|Warszawa Zachodnia|Warszawa Centralna|Warszawa Wschodnia" pp="15" ct="2509081243" pt="2509081201">
+      <m id="r24395552" t="d" c="47" ts="2509081156" ts-tts="25-09-08 11:56:31.164" />
+      <m id="r24395554" t="d" c="47" ts="2509081156" ts-tts="25-09-08 11:56:31.164" />
+    </dp>
+    <tl f="F" t="p" o="80" c="EC" n="47" />
+  </s>
+  <s id="-4460765573910680452-2509081214-1" eva="8010036">
+    <dp ct="2509081215" l="32">
+      <m id="r24304263" t="f" c="0" ts="2509071832" ts-tts="25-09-07 18:32:09.559" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

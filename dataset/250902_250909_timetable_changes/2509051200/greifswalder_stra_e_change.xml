@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Greifswalder Str" eva="8089011">
+  <s id="7569135163544950820-2509051159-4" eva="8089011">
+    <ar ct="2509051217" l="S41" />
+  </s>
+  <s id="-9211296145007254862-2509051047-4" eva="8089011">
+    <ar ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" ct="2509051202" pt="2509051104" l="S41" />
+    <tl t="p" o="080001" c="Bus" n="41338" />
+  </s>
+  <s id="-5950855544716468717-2509051153-4" eva="8089011">
+    <ar ct="2509051237" l="S41" />
+  </s>
+  <s id="-4412836089135109387-2509051130-1" eva="8089011">
+    <dp ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" ct="2509051202" pt="2509051130" l="S42" />
+    <tl t="p" o="080001" c="Bus" n="42365" />
+  </s>
+  <s id="-7021830184917878180-2509051157-1" eva="8089011">
+    <dp ct="2509051200" l="S42" />
+  </s>
+  <s id="5004507130003109561-2509051230-1" eva="8089011">
+    <dp ct="2509051230" l="S42" />
+  </s>
+  <s id="6586306147796288532-2509051147-4" eva="8089011">
+    <ar ct="2509051159" l="S41" />
+  </s>
+  <s id="2340315678888635394-2509051101-25" eva="8089011">
+    <ar ct="2509051159" l="42">
+      <m id="r23907450" t="f" c="0" ts="2509041300" ts-tts="25-09-04 13:00:19.240" />
+    </ar>
+  </s>
+</timetable>

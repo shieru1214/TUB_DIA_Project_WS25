@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Johannisthal" eva="8089007">
+  <s id="3790255282196201759-2509050035-7" eva="8089007">
+    <ar cpth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)" ct="2509050100" l="8" />
+    <dp cpth="Berlin-Adlershof|Berlin-Grünau" ct="2509050100" l="8" />
+  </s>
+  <s id="1990834526823707888-2509050115-7" eva="8089007">
+    <ar cpth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)" ct="2509050130" l="8" />
+    <dp cpth="Berlin-Adlershof|Berlin-Grünau" ct="2509050131" l="8" />
+  </s>
+  <s id="3419072004785619222-2509042357-24" eva="8089007">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <m id="r2486457" t="h" from="2509042100" to="2509050200" cat="Bauarbeiten" ts="2509041914" ts-tts="25-09-04 19:15:00.058" pr="1" />
+    <ar cpth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)" ct="2509050058" l="9" />
+    <dp cpth="Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ct="2509050059" l="9" />
+  </s>
+</timetable>

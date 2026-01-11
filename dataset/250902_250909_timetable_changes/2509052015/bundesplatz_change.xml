@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bundesplatz" eva="8089107">
+  <s id="2826613039672257116-2509061301-12" eva="8089107">
+    <ar l="42">
+      <m id="r24063119" t="f" c="0" ts="2509051500" ts-tts="25-09-05 15:00:03.907" />
+      <m id="r24063120" t="f" c="0" ts="2509051500" ts-tts="25-09-05 15:00:03.907" />
+    </ar>
+    <dp l="42">
+      <m id="r24063119" t="f" c="0" ts="2509051500" ts-tts="25-09-05 15:00:03.907" />
+      <m id="r24063120" t="f" c="0" ts="2509051500" ts-tts="25-09-05 15:00:03.907" />
+    </dp>
+  </s>
+  <s id="6691491657590837504-2509061201-14" eva="8089107">
+    <ar l="41">
+      <m id="r24053238" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.406" />
+      <m id="r24053239" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.406" />
+    </ar>
+    <dp l="41">
+      <m id="r24053238" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.406" />
+      <m id="r24053239" t="f" c="0" ts="2509051400" ts-tts="25-09-05 14:00:20.406" />
+    </dp>
+  </s>
+  <s id="867991938014509496-2509051951-12" eva="8089107">
+    <ar ct="2509052014" l="42" />
+    <dp ct="2509052015" l="42" />
+  </s>
+  <s id="2034587302271440595-2509051941-14" eva="8089107">
+    <ar cpth="Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz" ct="2509052014" l="41" />
+    <dp cpth="Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" ct="2509052015" l="41" />
+  </s>
+</timetable>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Hermsdorf" eva="8089064">
+  <s id="4151263667041433345-2509082051-7" eva="8089064">
+    <m id="r2488110" t="h" from="2509080900" to="2509081300" cat="Störung" ts="2509080952" ts-tts="25-09-08 12:16:04.392" pr="2" />
+    <m id="r2488311" t="h" from="2509081515" to="2509082359" cat="Störung" ts="2509081546" ts-tts="25-09-08 15:46:13.615" pr="2" />
+    <m id="r2488399" t="h" from="2509081930" to="2509082359" cat="Störung" ts="2509082007" ts-tts="25-09-08 20:07:52.580" pr="2" />
+    <m id="r2488292" t="h" from="2509081430" to="2509082359" cat="Störung" ts="2509081456" ts-tts="25-09-08 14:57:06.524" pr="2" />
+    <ar ct="2509082113" l="1" />
+    <dp ct="2509082115" l="1" />
+  </s>
+  <s id="6021656730272371900-2509081954-28" eva="8089064">
+    <m id="r2488110" t="h" from="2509080900" to="2509081300" cat="Störung" ts="2509080952" ts-tts="25-09-08 12:16:04.393" pr="2" />
+    <m id="r2488311" t="h" from="2509081515" to="2509082359" cat="Störung" ts="2509081546" ts-tts="25-09-08 15:46:13.616" pr="2" />
+    <m id="r2488399" t="h" from="2509081930" to="2509082359" cat="Störung" ts="2509082007" ts-tts="25-09-08 20:07:52.580" pr="2" />
+    <m id="r2488292" t="h" from="2509081430" to="2509082359" cat="Störung" ts="2509081456" ts-tts="25-09-08 14:57:06.525" pr="2" />
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust" ct="2509082113" cs="p" clt="2509082015" l="1" />
+    <dp cpth="Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" ct="2509082115" cs="p" clt="2509082015" l="1" />
+  </s>
+  <s id="7126728066194214753-2509082111-7" eva="8089064">
+    <m id="r2488311" t="h" from="2509081515" to="2509082359" cat="Störung" ts="2509081546" ts-tts="25-09-08 15:46:13.615" pr="2" />
+    <m id="r2488399" t="h" from="2509081930" to="2509082359" cat="Störung" ts="2509082007" ts-tts="25-09-08 20:07:52.580" pr="2" />
+    <m id="r2488292" t="h" from="2509081430" to="2509082359" cat="Störung" ts="2509081456" ts-tts="25-09-08 14:57:06.524" pr="2" />
+    <ar ct="2509082133" l="1" />
+    <dp ct="2509082133" l="1" />
+  </s>
+</timetable>

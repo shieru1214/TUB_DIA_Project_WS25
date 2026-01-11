@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Pichelsberg" eva="8089331">
+  <s id="3419072004785619222-2509052357-3" eva="8089331">
+    <ar cpth="" cs="c" clt="2509041818" l="9">
+      <m id="r23994565" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.992" />
+      <m id="r23994567" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.992" />
+    </ar>
+    <dp cpth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" cs="c" clt="2509041818" l="9">
+      <m id="r23994565" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.992" />
+      <m id="r23994567" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.992" />
+    </dp>
+  </s>
+  <s id="1323719639919393713-2509050729-28" eva="8089331">
+    <ar ct="2509050841" l="9" />
+    <dp ct="2509050841" l="9" />
+  </s>
+  <s id="4872187488172232274-2509050707-3" eva="8089331">
+    <ar ct="2509050713" l="3" />
+    <dp ct="2509050714" l="3" />
+  </s>
+  <s id="3176520098399046332-2509050702-6" eva="8089331">
+    <ar ppth="Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion" pp="2" ct="2509050713" pt="2509050713" l="3" />
+    <dp ppth="Berlin-Stresow|Berlin-Spandau (S)" pp="2" ct="2509050714" pt="2509050713" l="3" />
+    <tl f="S" t="e" o="08" c="S" n="30060" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="3060" />
+    </ref>
+  </s>
+</timetable>

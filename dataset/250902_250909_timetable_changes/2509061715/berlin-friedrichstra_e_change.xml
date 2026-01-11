@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Friedrichstraße" eva="8011306">
+  <s id="630352174950130664-2509061744-7" eva="8011306">
+    <ar ct="2509061849" l="2" />
+    <dp ct="2509061850" l="2" />
+  </s>
+  <s id="1860742173081826953-2509061644-5" eva="8011306">
+    <ar ct="2509061715" l="8" />
+    <dp ct="2509061716" l="8" />
+  </s>
+  <s id="-4274858682271669191-2509061755-9" eva="8011306">
+    <ar cpth="Frankfurt(Oder)|Frankfurt(Oder)-Rosengarten|Pillgram|Jacobsdorf(Mark)|Briesen(Mark)|Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" ct="2509061856" l="1" />
+    <dp cpth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Hbf|Werder(Havel)|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Magdeburg-Neustadt|Magdeburg Hbf" ct="2509061857" l="1" />
+  </s>
+  <s id="721287555193886372-2509061926-13" eva="8011306">
+    <ar ct="2509062059" l="1" />
+    <dp ct="2509062100" l="1" />
+  </s>
+  <s id="6927368918735974093-2509061626-13" eva="8011306">
+    <ar ct="2509061747" l="1">
+      <m id="r24197942" t="d" c="48" ts="2509061643" ts-tts="25-09-06 16:43:10.984" />
+    </ar>
+    <dp ct="2509061748" l="1">
+      <m id="r24197942" t="d" c="48" ts="2509061643" ts-tts="25-09-06 16:43:10.984" />
+    </dp>
+  </s>
+  <s id="4396219182070181868-2509061612-15" eva="8011306">
+    <ar ppth="Magdeburg Hbf|Magdeburg-Neustadt|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Werder(Havel)|Potsdam Hbf|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf" pp="1" ct="2509061851" pt="2509061801" l="1" />
+    <dp ppth="Berlin Alexanderplatz|Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)|Frankfurt(Oder)" pp="1" ct="2509061852" pt="2509061802" l="1" />
+    <tl f="N" t="p" o="OWRE" c="RE" n="73738" />
+  </s>
+  <s id="3106760861834530505-2509061726-13" eva="8011306">
+    <ar cpth="Fürstenwalde(Spree)|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz" ct="2509061836" l="1" />
+    <dp cpth="Berlin Hbf|Berlin Zoologischer Garten|Berlin-Wannsee|Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf" ct="2509061837" l="1" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:45.514" />
+</timetable>

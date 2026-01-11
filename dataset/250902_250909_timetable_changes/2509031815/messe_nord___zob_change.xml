@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Messe Nord/ZOB (Witzleben)" eva="8089110">
+  <s id="2340315678888635394-2509041101-7" eva="8089110">
+    <ar l="42">
+      <m id="r23686124" t="f" c="0" ts="2509021621" ts-tts="25-09-02 16:21:58.065" />
+      <m id="r23773752" t="f" c="0" ts="2509031259" ts-tts="25-09-03 12:59:57.247" />
+      <m id="r23773753" t="f" c="0" ts="2509031259" ts-tts="25-09-03 12:59:57.247" />
+    </ar>
+    <dp l="42">
+      <m id="r23686124" t="f" c="0" ts="2509021621" ts-tts="25-09-02 16:21:58.065" />
+      <m id="r23773752" t="f" c="0" ts="2509031259" ts-tts="25-09-03 12:59:57.247" />
+      <m id="r23773753" t="f" c="0" ts="2509031259" ts-tts="25-09-03 12:59:57.247" />
+    </dp>
+  </s>
+  <s id="-2166380115895113930-2509041001-19" eva="8089110">
+    <ar l="41">
+      <m id="r23686167" t="f" c="0" ts="2509021622" ts-tts="25-09-02 16:22:29.443" />
+      <m id="r23767663" t="f" c="0" ts="2509031206" ts-tts="25-09-03 12:06:23.527" />
+      <m id="r23767664" t="f" c="0" ts="2509031206" ts-tts="25-09-03 12:06:23.527" />
+    </ar>
+    <dp l="41">
+      <m id="r23686167" t="f" c="0" ts="2509021622" ts-tts="25-09-02 16:22:29.443" />
+      <m id="r23767663" t="f" c="0" ts="2509031206" ts-tts="25-09-03 12:06:23.527" />
+      <m id="r23767664" t="f" c="0" ts="2509031206" ts-tts="25-09-03 12:06:23.527" />
+    </dp>
+  </s>
+  <s id="-4754820297020103258-2509031801-7" eva="8089110">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:54.860" pr="1" />
+    <ar ct="2509031815" l="42">
+      <m id="r23681354" t="f" c="0" ts="2509021503" ts-tts="25-09-02 15:03:50.539" />
+      <m id="r23806382" t="f" c="0" ts="2509031659" ts-tts="25-09-03 16:59:49.955" />
+    </ar>
+    <dp ct="2509031816" l="42">
+      <m id="r23681354" t="f" c="0" ts="2509021503" ts-tts="25-09-02 15:03:50.539" />
+      <m id="r23806382" t="f" c="0" ts="2509031659" ts-tts="25-09-03 16:59:49.955" />
+    </dp>
+  </s>
+  <s id="5472169967215975852-2509031801-22" eva="8089110">
+    <ar ct="2509031902" l="46" />
+    <dp ct="2509031903" l="46" />
+  </s>
+  <s id="3460806150745304951-2509031701-22" eva="8089110">
+    <ar cpth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee" ct="2509031816" cs="c" clt="2509031812" l="46" />
+    <dp cpth="Berlin Charlottenburg (S)" ct="2509031816" cs="c" clt="2509031812" l="46" />
+  </s>
+</timetable>

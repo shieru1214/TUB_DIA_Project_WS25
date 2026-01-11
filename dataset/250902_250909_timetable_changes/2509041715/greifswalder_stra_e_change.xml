@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Greifswalder Str" eva="8089011">
+  <s id="8949138271931731940-2509041653-4" eva="8089011">
+    <ar ct="2509041719" l="S41" />
+  </s>
+  <s id="6906388539515072678-2509041715-1" eva="8089011">
+    <dp ct="2509041725" l="S42" />
+  </s>
+  <s id="2711960368083735317-2509041717-4" eva="8089011">
+    <ar ct="2509041749" l="S41" />
+  </s>
+  <s id="2661504927773458345-2509041738-4" eva="8089011">
+    <ar ct="2509041800" l="S41" />
+  </s>
+  <s id="-4676827208505586686-2509041729-4" eva="8089011">
+    <ar ct="2509041747" l="S41" />
+  </s>
+  <s id="6717416425076355990-2509041705-4" eva="8089011">
+    <ar ct="2509041732" l="S41" />
+  </s>
+  <s id="4982982942596798048-2509041712-1" eva="8089011">
+    <dp ct="2509041715" l="S42" />
+  </s>
+  <s id="4039813873118530259-2509041732-4" eva="8089011">
+    <ar ct="2509041750" l="S41" />
+  </s>
+  <s id="1991925034735374897-2509041711-4" eva="8089011">
+    <ar ct="2509041732" l="S41" />
+  </s>
+  <s id="-892088520573840371-2509041709-1" eva="8089011">
+    <dp ct="2509041715" l="S42" />
+  </s>
+  <s id="-1898585332239624943-2509041702-4" eva="8089011">
+    <ar ct="2509041724" l="S41" />
+  </s>
+  <s id="-1421514118180301177-2509041745-1" eva="8089011">
+    <dp ct="2509041745" l="S42" />
+  </s>
+  <s id="910085651828095420-2509041659-4" eva="8089011">
+    <ar ct="2509041718" l="S41" />
+  </s>
+  <s id="4309874807108104720-2509041632-4" eva="8089011">
+    <ar ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" ct="2509041724" pt="2509041649" l="S41" />
+    <tl t="p" o="080001" c="Bus" n="41568" />
+  </s>
+  <s id="3108140191023162057-2509041721-1" eva="8089011">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:34.060" pr="1" />
+    <dp ct="2509041721" l="41" />
+  </s>
+  <s id="-3774092713443911819-2509041708-4" eva="8089011">
+    <ar ct="2509041731" l="S41" />
+  </s>
+  <s id="8330725951038501919-2509041631-25" eva="8089011">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:34.060" pr="1" />
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" ct="2509041745" cs="c" clt="2509041519" dc="1" l="42" />
+  </s>
+</timetable>

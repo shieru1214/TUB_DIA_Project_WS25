@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Ahrensfelde">
+  <s id="1966585335737279769-2509080030-2">
+    <tl t="p" o="NB" c="Bus" n="6228" />
+    <ar pt="2509080038" pp="" l="EV" ppth="Ahrensfelde Friedhof" />
+  </s>
+  <s id="-3823397274215690451-2509080040-1">
+    <tl t="p" o="NB" c="Bus" n="1391" />
+    <dp pt="2509080040" pp="" l="EV" ppth="Ahrensfelde Friedhof|Ahrensfelde Kirschenallee|Blumberg-Rehhahn|Blumberg(b Berlin)|Seefeld(Mark) Dorf|Werneuchen" />
+  </s>
+  <s id="8430162805263972434-2509080021-1">
+    <tl t="p" o="NB" c="Bus" n="6391" />
+    <dp pt="2509080021" pp="" l="EV" ppth="Ahrensfelde Friedhof" />
+  </s>
+</timetable>

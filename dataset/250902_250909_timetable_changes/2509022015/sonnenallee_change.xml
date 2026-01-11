@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Sonnenallee" eva="8089327">
+  <s id="2826613039672257116-2509031301-19" eva="8089327">
+    <ar l="42">
+      <m id="r23680144" t="f" c="0" ts="2509021446" ts-tts="25-09-02 14:46:44.734" />
+    </ar>
+    <dp l="42">
+      <m id="r23680144" t="f" c="0" ts="2509021446" ts-tts="25-09-02 14:46:44.734" />
+    </dp>
+  </s>
+  <s id="6691491657590837504-2509031201-7" eva="8089327">
+    <ar l="41">
+      <m id="r23679937" t="f" c="0" ts="2509021444" ts-tts="25-09-02 14:45:10.783" />
+    </ar>
+    <dp l="41">
+      <m id="r23679937" t="f" c="0" ts="2509021444" ts-tts="25-09-02 14:45:10.783" />
+    </dp>
+  </s>
+  <s id="-4171712229961245780-2509022001-7" eva="8089327">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:09.608" pr="1" />
+    <ar ct="2509022015" l="41">
+      <m id="r23633327" t="f" c="0" ts="2509011653" ts-tts="25-09-02 10:22:21.436" />
+    </ar>
+    <dp ct="2509022016" l="41">
+      <m id="r23633327" t="f" c="0" ts="2509011653" ts-tts="25-09-02 10:22:21.436" />
+    </dp>
+  </s>
+  <s id="568963147601428575-2509021935-19" eva="8089327">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:09.608" pr="1" />
+    <ar cpth="Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln" ct="2509022015" cs="p" clt="2509021919" l="42" />
+    <dp cpth="Berlin Treptower Park|Berlin Ostkreuz (S)" cs="p" clt="2509021919" l="42" />
+  </s>
+</timetable>

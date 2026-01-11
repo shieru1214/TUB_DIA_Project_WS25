@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Gesundbrunnen" eva="8011102">
+  <s id="-3132049651815203140-2509080813-6" eva="8011102">
+    <ar ct="2509081038" l="85" />
+    <dp ct="2509081040" l="85" />
+  </s>
+  <s id="8048568335527513663-2509071734-12" eva="8011102">
+    <ar cp="8" ct="2509081003">
+      <m id="r24325263" t="f" c="0" ts="2509072135" ts-tts="25-09-07 21:35:47.454" />
+    </ar>
+  </s>
+  <s id="5408759410772560587-2509071734-12" eva="8011102">
+    <ar ppth="Stockholm Central|Norrköping Central|Linköping Central|Nässjö Central|Alvesta station|Hässleholm Central|Lund Central|Malmö Central|Koebenhavns Lufthavn st|Padborg st|Hamburg Hbf" pp="-" ct="2509081003" pt="2509081026">
+      <m id="r24325267" t="f" c="0" ts="2509072135" ts-tts="25-09-07 21:35:47.454" />
+      <m id="r24325281" t="f" c="0" ts="2509072135" ts-tts="25-09-07 21:36:02.928" />
+    </ar>
+    <tl f="F" t="e" o="74" c="EN" n="13485" />
+    <ref>
+      <tl f="F" t="p" o="74" c="EN" n="345" />
+    </ref>
+  </s>
+</timetable>

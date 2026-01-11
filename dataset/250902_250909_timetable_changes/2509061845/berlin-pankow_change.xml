@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Pankow" eva="8089080">
+  <s id="4270481275884729775-2509061850-1" eva="8089080">
+    <dp ct="2509061851" l="8">
+      <m id="r24111198" t="f" c="0" ts="2509052049" ts-tts="25-09-05 20:50:01.743" />
+    </dp>
+  </s>
+  <s id="6173106785249244029-2509061755-15" eva="8089080">
+    <ar ppth="Ladestr., Bernau bei Berlin|Gaskessel, Bernau bei Berlin|Zepernicker Chaussee, Bernau bei Berlin|Abzw. Wohnsiedlung, Bernau bei Berlin|Zepernick(Bernau)|Zepernick Kirche, Panketal|Zepernick Schweizer Str., Panketal|Alt-Buch, Berlin|Buch (S), Berlin|Bucher Chaussee/Achillesstr., Berlin|Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" ct="2509061947" pt="2509061907" l="S2" />
+    <tl t="p" o="080001" c="Bus" n="62243" />
+  </s>
+  <s id="-6573172099540387328-2509061900-1" eva="8089080">
+    <dp ct="2509061900" l="85" />
+  </s>
+  <s id="3214930236032706592-2509061815-15" eva="8089080">
+    <ar ct="2509061927" l="S2" />
+  </s>
+  <s id="2024285640344319161-2509061844-1" eva="8089080">
+    <m id="r2462227" t="h" from="2508250300" to="2509080130" cat="Bauarbeiten" ts="2508242307" ts-tts="25-09-05 23:16:03.513" pr="2" />
+    <dp ct="2509061844" l="S8" />
+  </s>
+  <s id="3195995425942742695-2509061745-15" eva="8089080">
+    <ar ct="2509061846" l="S2" />
+  </s>
+  <s id="-9142323947729738809-2509061914-7" eva="8089080">
+    <ar ct="2509061952" l="S2" />
+  </s>
+  <s id="7749342435412057856-2509061840-1" eva="8089080">
+    <dp ct="2509061843" l="S2" />
+  </s>
+  <s id="7509566722836464911-2509061814-7" eva="8089080">
+    <ar ct="2509061846" l="S2" />
+  </s>
+</timetable>

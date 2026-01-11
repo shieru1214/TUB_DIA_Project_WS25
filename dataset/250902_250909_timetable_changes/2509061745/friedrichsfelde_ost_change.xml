@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Friedrichsfelde Ost" eva="8089059">
+  <s id="-3279565026508166465-2509061736-5" eva="8089059">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.996" pr="1" />
+    <ar ct="2509061745" l="75" />
+    <dp ct="2509061746" l="75" />
+  </s>
+  <s id="-4635456032690953654-2509061730-14" eva="8089059">
+    <ar cpth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf" ct="2509061811" cs="c" clt="2509061745" l="5" />
+    <dp cpth="" ct="2509061811" cs="c" clt="2509061745" l="5" />
+  </s>
+  <s id="-6642586829647461034-2509061731-7" eva="8089059">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:04.246" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.996" pr="1" />
+    <ar ct="2509061744" l="7" />
+    <dp ct="2509061745" l="7" />
+  </s>
+  <s id="1460634609707878569-2509061701-19" eva="8089059">
+    <ar ct="2509061743" l="5" />
+    <dp ct="2509061744" l="5" />
+  </s>
+</timetable>

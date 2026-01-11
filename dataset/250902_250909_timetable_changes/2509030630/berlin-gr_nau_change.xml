@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Grünau" eva="8089063">
+  <s id="579060298813044905-2509030645-9" eva="8089063">
+    <ar ct="2509030707" l="8" />
+    <dp ct="2509030707" l="8" />
+  </s>
+  <s id="4418444846434829795-2509030625-9" eva="8089063">
+    <ar ct="2509030648" l="8" />
+    <dp ct="2509030649" l="8" />
+  </s>
+  <s id="-5884361176633575638-2509030536-19" eva="8089063">
+    <m id="r2485590" t="h" from="2509030530" to="2509030830" cat="Störung" ts="2509030602" ts-tts="25-09-03 06:02:43.516" pr="2" />
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" ct="2509030630" l="46" />
+    <dp cpth="Eichwalde|Zeuthen" ct="2509030631" l="46" />
+  </s>
+  <s id="-7347997061716651956-2509030614-4" eva="8089063">
+    <ar ct="2509030629" l="8" />
+    <dp ct="2509030629" l="8" />
+  </s>
+</timetable>

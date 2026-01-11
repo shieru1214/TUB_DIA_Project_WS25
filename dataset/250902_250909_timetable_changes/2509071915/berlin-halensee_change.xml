@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Halensee" eva="8089109">
+  <s id="-4032785458149120799-2509071931-17" eva="8089109">
+    <ar ct="2509072009" l="41" />
+    <dp ct="2509072010" l="41" />
+  </s>
+  <s id="1773677629505659818-2509072001-9" eva="8089109">
+    <ar ct="2509072020" l="42">
+      <m id="r24229667" t="f" c="0" ts="2509062158" ts-tts="25-09-06 21:59:10.655" />
+    </ar>
+    <dp ct="2509072020" l="42">
+      <m id="r24229667" t="f" c="0" ts="2509062158" ts-tts="25-09-06 21:59:10.655" />
+    </dp>
+  </s>
+  <s id="-2632220143402090863-2509071841-17" eva="8089109">
+    <ar ct="2509071927" l="41" />
+    <dp ct="2509071928" l="41" />
+  </s>
+  <s id="-8965910514656471641-2509071841-9" eva="8089109">
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz" ct="2509071858" l="42" />
+    <dp cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee" ct="2509071859" l="42" />
+  </s>
+</timetable>

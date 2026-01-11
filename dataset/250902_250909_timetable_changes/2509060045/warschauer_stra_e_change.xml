@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="-1300940777435676947-2509060100-15" eva="8089045">
+    <ar ct="2509060145" l="5" />
+  </s>
+  <s id="8168259245673505732-2509060027-13" eva="8089045">
+    <ar ct="2509060103" l="5" />
+    <dp ct="2509060104" l="5" />
+  </s>
+  <s id="5223674409498656108-2509060038-14" eva="8089045">
+    <ar ct="2509060110" l="3" />
+    <dp ct="2509060110" l="3" />
+  </s>
+  <s id="3419072004785619222-2509052357-19" eva="8089045">
+    <ar cpth="" ct="2509060045" cs="c" clt="2509041818" l="9">
+      <m id="r23994565" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.617" />
+      <m id="r23994567" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.617" />
+    </ar>
+    <dp cpth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ct="2509060046" cs="c" clt="2509041818" l="9">
+      <m id="r23994565" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.617" />
+      <m id="r23994567" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.617" />
+    </dp>
+  </s>
+  <s id="6857044208959336062-2509060007-11" eva="8089045">
+    <ar ct="2509060044" l="3" />
+    <dp ct="2509060045" l="3" />
+  </s>
+</timetable>

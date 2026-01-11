@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hbf" eva="8011160">
+  <s id="-5511541014003594580-2509041651-13" eva="8011160">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-03 23:16:03.880" pr="3" />
+    <m id="r2486370" t="h" from="2509041500" to="2509042030" cat="Störung" ts="2509041612" ts-tts="25-09-04 20:16:04.230" pr="1" />
+    <m id="r2486398" t="h" from="2509041630" to="2509042359" cat="Störung" ts="2509041713" ts-tts="25-09-04 17:14:04.312" pr="1" />
+    <ar cpth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Bielefeld Hbf|Minden(Westf)|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Zoologischer Garten" ppth="Düsseldorf Hbf|Düsseldorf Flughafen|Duisburg Hbf|Essen Hbf|Bochum Hbf|Dortmund Hbf|Bielefeld Hbf|Minden(Westf)|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Zoologischer Garten" pp="12" ct="2509042148" pt="2509042118">
+      <m id="r23922608" t="f" c="0" ts="2509041455" ts-tts="25-09-04 14:55:30.687" />
+      <m id="r23938616" t="d" c="51" ts="2509041636" ts-tts="25-09-04 16:36:45.206" />
+      <m id="r23938618" t="d" c="51" ts="2509041636" ts-tts="25-09-04 16:36:45.206" />
+      <m id="r23950601" t="d" c="35" ts="2509041753" ts-tts="25-09-04 17:53:59.013" />
+      <m id="r23950605" t="d" c="35" ts="2509041753" ts-tts="25-09-04 17:53:59.013" />
+      <m id="r23950603" t="d" c="35" ts="2509041753" ts-tts="25-09-04 17:53:59.013" />
+      <m id="r23950619" t="f" c="0" ts="2509041753" ts-tts="25-09-04 17:54:14.677" />
+      <m id="r23950668" t="f" c="0" ts="2509041754" ts-tts="25-09-04 17:54:14.677" />
+      <m id="r23962306" t="q" c="90" ts="2509041910" ts-tts="25-09-04 19:10:51.845" />
+      <m id="r23962308" t="q" c="90" ts="2509041910" ts-tts="25-09-04 19:10:51.845" />
+    </ar>
+    <dp cpth="Berlin Ostbahnhof" ppth="Berlin Ostbahnhof" pp="12" ct="2509042151" pt="2509042121" hi="1">
+      <m id="r23922608" t="f" c="0" ts="2509041455" ts-tts="25-09-04 14:55:30.687" />
+      <m id="r23938616" t="d" c="51" ts="2509041636" ts-tts="25-09-04 16:36:45.206" />
+      <m id="r23938618" t="d" c="51" ts="2509041636" ts-tts="25-09-04 16:36:45.206" />
+      <m id="r23950601" t="d" c="35" ts="2509041753" ts-tts="25-09-04 17:53:59.013" />
+      <m id="r23950605" t="d" c="35" ts="2509041753" ts-tts="25-09-04 17:53:59.013" />
+      <m id="r23950603" t="d" c="35" ts="2509041753" ts-tts="25-09-04 17:53:59.013" />
+      <m id="r23950619" t="f" c="0" ts="2509041753" ts-tts="25-09-04 17:54:14.677" />
+      <m id="r23950668" t="f" c="0" ts="2509041754" ts-tts="25-09-04 17:54:14.677" />
+      <m id="r23962306" t="q" c="90" ts="2509041910" ts-tts="25-09-04 19:10:51.845" />
+      <m id="r23962308" t="q" c="90" ts="2509041910" ts-tts="25-09-04 19:10:51.845" />
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="643" />
+  </s>
+  <s id="-3272021131219238243-2509041749-4" eva="8011160">
+    <m id="r2486370" t="h" from="2509041500" to="2509042030" cat="Störung" ts="2509041612" ts-tts="25-09-04 20:16:04.231" pr="1" />
+    <m id="r2486442" t="h" from="2509041730" to="2509041930" cat="Störung" ts="2509041841" ts-tts="25-09-04 18:41:32.561" pr="1" />
+    <ar cpth="Bonn Hbf|Köln Hbf|Hamm(Westf)Hbf|Berlin-Spandau" ppth="Bonn Hbf|Köln Hbf|Berlin-Spandau" pp="12" ct="2509042252" pt="2509042219">
+      <m id="r23952825" t="d" c="3" ts="2509041809" ts-tts="25-09-04 18:09:45.160" />
+      <m id="r23952827" t="d" c="3" ts="2509041809" ts-tts="25-09-04 18:09:45.160" />
+      <m id="r23960725" t="d" c="57" ts="2509041900" ts-tts="25-09-04 19:00:23.436" />
+      <m id="r23960892" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:54.909" />
+      <m id="r23960893" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:54.909" />
+    </ar>
+    <dp cpth="Berlin Ostbahnhof|Berlin Ostkreuz" ppth="Berlin Ostbahnhof|Berlin Ostkreuz" pp="12" ct="2509042255" pt="2509042222" hi="1">
+      <m id="r23952825" t="d" c="3" ts="2509041809" ts-tts="25-09-04 18:09:45.160" />
+      <m id="r23952827" t="d" c="3" ts="2509041809" ts-tts="25-09-04 18:09:45.160" />
+      <m id="r23960725" t="d" c="57" ts="2509041900" ts-tts="25-09-04 19:00:23.436" />
+      <m id="r23960892" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:54.909" />
+      <m id="r23960893" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:54.909" />
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="1159" />
+  </s>
+  <s id="-130190603183544299-2509041600-13" eva="8011160">
+    <m id="r2486370" t="h" from="2509041500" to="2509042030" cat="Störung" ts="2509041612" ts-tts="25-09-04 20:16:04.230" pr="1" />
+    <ar ct="2509042204">
+      <m id="r23954222" t="d" c="51" ts="2509041819" ts-tts="25-09-04 18:19:29.954" />
+      <m id="r23954224" t="d" c="51" ts="2509041819" ts-tts="25-09-04 18:19:29.954" />
+    </ar>
+    <dp ct="2509042207">
+      <m id="r23954222" t="d" c="51" ts="2509041819" ts-tts="25-09-04 18:19:29.954" />
+      <m id="r23954224" t="d" c="51" ts="2509041819" ts-tts="25-09-04 18:19:29.954" />
+    </dp>
+  </s>
+</timetable>

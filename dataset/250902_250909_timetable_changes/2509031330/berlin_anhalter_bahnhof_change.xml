@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Anhalter Bf" eva="8089002">
+  <s id="5794972519520018559-2509031303-16" eva="8089002">
+    <m id="r2485740" t="h" from="2509031100" to="2509031330" cat="Störung" ts="2509031129" ts-tts="25-09-03 11:29:14.574" pr="2" />
+    <ar cpth="Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)" ct="2509031402" l="26" />
+    <dp cpth="Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende|Berlin-Lankwitz|Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" ct="2509031402" l="26" />
+  </s>
+  <s id="-674575714969448472-2509031345-10" eva="8089002">
+    <ar ct="2509031404" l="2" />
+    <dp ct="2509031404" l="2" />
+  </s>
+  <s id="-3549212659995290555-2509031248-18" eva="8089002">
+    <m id="r2485740" t="h" from="2509031100" to="2509031330" cat="Störung" ts="2509031129" ts-tts="25-09-03 11:29:14.574" pr="2" />
+    <ar ct="2509031330" l="25" />
+    <dp ct="2509031330" l="25" />
+  </s>
+  <s id="-6944197438870840303-2509031345-10" eva="8089002">
+    <ar ct="2509031406" l="25" />
+    <dp ct="2509031407" l="25" />
+  </s>
+  <s id="-4324341886804370824-2509031315-10" eva="8089002">
+    <ar ct="2509031335" l="2" />
+    <dp ct="2509031335" l="2" />
+  </s>
+  <s id="-8713033717530433151-2509031344-15" eva="8089002">
+    <ar ct="2509031413" l="1" />
+    <dp ct="2509031414" l="1" />
+  </s>
+</timetable>

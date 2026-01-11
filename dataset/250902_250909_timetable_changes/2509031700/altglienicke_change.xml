@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Altglienicke" eva="8089054">
+  <s id="1575488603041696398-2509031737-26" eva="8089054">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:04.477" pr="1" />
+    <ar ct="2509031844" l="9" />
+    <dp ct="2509031844" l="9" />
+  </s>
+  <s id="-3502234289036778262-2509031557-26" eva="8089054">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:04.477" pr="1" />
+    <m id="r2485791" t="h" from="2509031330" to="2509031600" cat="Störung" ts="2509031412" ts-tts="25-09-03 14:12:56.262" pr="1" />
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)" ct="2509031702" cs="c" clt="2509031656" l="9" />
+    <dp cpth="" ct="2509031703" cs="c" clt="2509031656" l="9" />
+  </s>
+  <s id="-5515225800024650967-2509031713-4" eva="8089054">
+    <ar ppth="Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" pp="1" ct="2509031722" pt="2509031722" l="9" />
+    <dp ppth="Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" pp="1" ct="2509031723" pt="2509031723" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90405" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9405" />
+    </ref>
+  </s>
+</timetable>

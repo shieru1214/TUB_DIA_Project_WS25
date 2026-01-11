@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Ahrensfelde">
+  <s id="4247372031816408508-2509051621-1">
+    <tl t="p" o="NB" c="Bus" n="6205" />
+    <dp pt="2509051621" pp="" l="EV" ppth="Ahrensfelde Friedhof" />
+  </s>
+  <s id="2823808834398210281-2509051650-1">
+    <tl t="p" o="NB" c="Bus" n="6207" />
+    <dp pt="2509051650" pp="" l="EV" ppth="Ahrensfelde Friedhof" />
+  </s>
+  <s id="3249470584053689537-2509051558-2">
+    <tl t="p" o="NB" c="Bus" n="6198" />
+    <ar pt="2509051606" pp="" l="EV" ppth="Ahrensfelde Friedhof" />
+  </s>
+  <s id="7487746002962588827-2509051633-2">
+    <tl t="p" o="NB" c="Bus" n="6204" />
+    <ar pt="2509051641" pp="" l="EV" ppth="Ahrensfelde Friedhof" />
+  </s>
+</timetable>

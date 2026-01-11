@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hackescher Markt" eva="8089017">
+  <s id="-1228884342863893568-2509072056-8" eva="8089017">
+    <ar ct="2509072113" l="7" />
+    <dp ct="2509072114" l="7" />
+  </s>
+  <s id="-1571645834981752101-2509072025-16" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:02.816" pr="1" />
+    <ar ct="2509072105" l="3" />
+    <dp ct="2509072104" l="3" />
+  </s>
+  <s id="-6239068485865416415-2509072027-15" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:02.816" pr="1" />
+    <ar ct="2509072100" l="3" />
+    <dp ct="2509072100" l="3" />
+  </s>
+  <s id="-4850024847960793532-2509072036-8" eva="8089017">
+    <ar cpth="Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)" ct="2509072100" l="7" />
+    <dp cpth="Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2509072100" l="7" />
+  </s>
+  <s id="6467384888176702793-2509072037-15" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:02.815" pr="1" />
+    <ar ct="2509072111" l="9" />
+    <dp ct="2509072112" l="9" />
+  </s>
+</timetable>

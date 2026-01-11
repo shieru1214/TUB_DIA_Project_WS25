@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Alexanderplatz" eva="8011155">
+  <s id="-190671482506636857-2509061427-7" eva="8011155">
+    <ar ct="2509061528" l="2" />
+    <dp ct="2509061529" l="2" />
+  </s>
+  <s id="-2262758252147298760-2509061912-16" eva="8011155">
+    <ar ct="2509062111" l="1" />
+    <dp ct="2509062112" l="1" />
+  </s>
+  <s id="-1839551630028491335-2509061319-12" eva="8011155">
+    <ar cpth="Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße" ppth="Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Berlin-Wannsee|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße" pp="1" ct="2509061536" pt="2509061420" l="1">
+      <m id="r24186097" t="d" c="45" ts="2509061508" ts-tts="25-09-06 15:08:04.714" />
+    </ar>
+    <dp cpth="Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)" ppth="Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)" pp="1" ct="2509061537" pt="2509061421" l="1">
+      <m id="r24186097" t="d" c="45" ts="2509061508" ts-tts="25-09-06 15:08:04.714" />
+    </dp>
+    <tl f="N" t="p" o="OWRE" c="RE" n="73772" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

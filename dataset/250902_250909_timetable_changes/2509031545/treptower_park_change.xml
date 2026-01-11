@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Treptower Park" eva="8089043">
+  <s id="-8362142843993465734-2509031501-20" eva="8089043">
+    <ar ct="2509031542" l="42">
+      <m id="r23680599" t="f" c="0" ts="2509021452" ts-tts="25-09-02 14:52:45.012" />
+      <m id="r23787837" t="f" c="0" ts="2509031446" ts-tts="25-09-03 14:46:41.579" />
+    </ar>
+    <dp ct="2509031545" l="42">
+      <m id="r23680599" t="f" c="0" ts="2509021452" ts-tts="25-09-02 14:52:45.012" />
+      <m id="r23787837" t="f" c="0" ts="2509031446" ts-tts="25-09-03 14:46:41.579" />
+    </dp>
+  </s>
+  <s id="-6651649733975822183-2509031551-6" eva="8089043">
+    <ar ct="2509031601" l="41" />
+    <dp ct="2509031602" l="41" />
+  </s>
+  <s id="365419652580706518-2509031559-7" eva="8089043">
+    <m id="r2485791" t="h" from="2509031330" to="2509031600" cat="Störung" ts="2509031412" ts-tts="25-09-03 14:13:02.313" pr="1" />
+    <ar ct="2509031616" l="85" />
+    <dp ct="2509031617" l="85" />
+  </s>
+  <s id="4505224552190104511-2509031457-20" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:03.926" pr="1" />
+    <m id="r2485791" t="h" from="2509031330" to="2509031600" cat="Störung" ts="2509031412" ts-tts="25-09-03 14:13:02.313" pr="1" />
+    <ar cpth="Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße" ct="2509031545" l="9" />
+    <dp cpth="Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ct="2509031546" l="9" />
+  </s>
+</timetable>

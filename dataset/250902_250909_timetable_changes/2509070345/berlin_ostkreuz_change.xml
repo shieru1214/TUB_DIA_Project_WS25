@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostkreuz" eva="8011162">
+  <s id="208525135596944195-2509070353-12" eva="8011162">
+    <ar ppth="Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen" pp="2" ct="2509070528" pt="2509070455" l="7">
+      <m id="r24239867" t="f" c="0" ts="2509070238" ts-tts="25-09-07 02:38:22.725" />
+      <m id="r24240206" t="q" c="85" ts="2509070327" ts-tts="25-09-07 03:27:28.081" />
+      <m id="r24240208" t="q" c="85" ts="2509070327" ts-tts="25-09-07 03:27:28.081" />
+    </ar>
+    <dp ppth="Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Michendorf|Seddin|Beelitz-Heilstätten" pp="2" ct="2509070530" pt="2509070457" l="7">
+      <m id="r24239867" t="f" c="0" ts="2509070238" ts-tts="25-09-07 02:38:22.725" />
+      <m id="r24240206" t="q" c="85" ts="2509070327" ts-tts="25-09-07 03:27:28.081" />
+      <m id="r24240208" t="q" c="85" ts="2509070327" ts-tts="25-09-07 03:27:28.081" />
+    </dp>
+    <tl f="N" t="p" o="800165" c="RE" n="3707" />
+  </s>
+  <s id="3879179377796470480-2509070744-2" eva="8011162">
+    <ar ct="2509070801" l="8" />
+    <dp ct="2509070803" l="8" />
+  </s>
+  <s id="-199422321941227724-2509070320-7" eva="8011162">
+    <ar ct="2509070343" />
+    <dp ct="2509070344" />
+  </s>
+  <s id="-1315986740124521104-2509070414-2" eva="8011162">
+    <ar ct="2509070417" l="32" />
+    <dp ct="2509070419" l="32" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:48.013" />
+</timetable>

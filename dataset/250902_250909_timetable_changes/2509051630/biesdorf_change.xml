@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Biesdorf" eva="8089055">
+  <s id="4095217395935736952-2509051651-11" eva="8089055">
+    <ar ct="2509051721" l="5" />
+    <dp ct="2509051721" l="5" />
+  </s>
+  <s id="-551522984523274095-2509051724-4" eva="8089055">
+    <ar ct="2509051738" l="5" />
+    <dp ct="2509051738" l="5" />
+  </s>
+  <s id="8427181902272506458-2509051731-11" eva="8089055">
+    <ar ct="2509051757" l="5" />
+    <dp ct="2509051757" l="5" />
+  </s>
+  <s id="7359186419892049489-2509051804-4" eva="8089055">
+    <m id="r2486678" t="h" from="2509050700" to="2509060330" cat="Störung" ts="2509050743" ts-tts="25-09-05 07:43:04.437" pr="2" />
+    <ar ct="2509051814" l="5" />
+    <dp ct="2509051814" l="5" />
+  </s>
+  <s id="4770991716854158135-2509051645-6" eva="8089055">
+    <ar ct="2509051658" l="5" />
+    <dp ct="2509051658" l="5" />
+  </s>
+  <s id="-4733368022629812671-2509051624-4" eva="8089055">
+    <ar ct="2509051630" l="5" />
+    <dp ct="2509051631" l="5" />
+  </s>
+  <s id="5586248352485086137-2509051644-4" eva="8089055">
+    <ar ct="2509051650" l="5" />
+    <dp ct="2509051651" l="5" />
+  </s>
+  <s id="3945460277344418655-2509051525-6" eva="8089055">
+    <ar cpth="Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal" ct="2509051538" l="5" />
+    <dp cpth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Messe Süd (Eichkamp)" ct="2509051539" l="5" />
+  </s>
+  <s id="-4028654287916203191-2509051550-13" eva="8089055">
+    <ar ct="2509051627" l="5" />
+    <dp ct="2509051628" l="5" />
+  </s>
+</timetable>

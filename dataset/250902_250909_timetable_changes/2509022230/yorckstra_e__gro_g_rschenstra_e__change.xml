@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Yorckstr.(S1)" eva="8089051">
+  <s id="-2524854754502658330-2509022154-14" eva="8089051">
+    <ar ct="2509022221" l="1" />
+    <dp ct="2509022222" l="1" />
+  </s>
+  <s id="1927254637949588586-2509022211-22" eva="8089051">
+    <ar ct="2509022307" l="1" />
+    <dp ct="2509022307" l="1" />
+  </s>
+  <s id="-377270736863598262-2509022234-14" eva="8089051">
+    <ar ct="2509022301" l="1" />
+    <dp ct="2509022301" l="1" />
+  </s>
+  <s id="-2325864418383507047-2509022233-10" eva="8089051">
+    <ar ct="2509022251" l="1" />
+    <dp ct="2509022251" l="1" />
+  </s>
+  <s id="2513311440812336079-2509022214-14" eva="8089051">
+    <ar ct="2509022243" l="1" />
+    <dp ct="2509022243" l="1" />
+  </s>
+  <s id="-6091415033923146068-2509022231-22" eva="8089051">
+    <ar ct="2509022324" l="1" />
+    <dp ct="2509022325" l="1" />
+  </s>
+  <s id="-5225844632395043186-2509022143-15" eva="8089051">
+    <ar ppth="Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf" pp="1" ct="2509022215" pt="2509022214" l="1" />
+    <dp ppth="Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf" pp="1" ct="2509022216" pt="2509022215" l="1" />
+    <tl f="S" t="e" o="08" c="S" n="10631" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="1631" />
+    </ref>
+  </s>
+  <s id="5618149163219670523-2509022144-14" eva="8089051">
+    <ar ct="2509022211" l="1" />
+    <dp ct="2509022212" l="1" />
+  </s>
+</timetable>

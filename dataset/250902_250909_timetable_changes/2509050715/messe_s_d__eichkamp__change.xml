@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Messe Süd (Eichkamp)" eva="8089328">
+  <s id="3419072004785619222-2509052357-6" eva="8089328">
+    <ar cpth="" cs="c" clt="2509041818" l="9">
+      <m id="r23994565" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.798" />
+      <m id="r23994567" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.798" />
+    </ar>
+    <dp cpth="Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" cs="c" clt="2509041818" l="9">
+      <m id="r23994565" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.798" />
+      <m id="r23994567" t="d" c="31" ts="2509050156" ts-tts="25-09-05 01:56:53.798" />
+    </dp>
+  </s>
+  <s id="-2565230863237131125-2509050609-25" eva="8089328">
+    <ar ct="2509050716" l="9" />
+    <dp ct="2509050716" l="9" />
+  </s>
+  <s id="1397698907182047501-2509050730-31" eva="8089328">
+    <ar ct="2509050849" l="5" />
+  </s>
+  <s id="1323719639919393713-2509050729-25" eva="8089328">
+    <ar ct="2509050834" l="9" />
+    <dp ct="2509050834" l="9" />
+  </s>
+</timetable>

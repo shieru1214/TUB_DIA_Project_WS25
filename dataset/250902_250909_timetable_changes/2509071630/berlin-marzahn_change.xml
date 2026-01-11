@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Marzahn" eva="8089075">
+  <s id="7072610913174243019-2509071521-26" eva="8089075">
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 16:16:04.618" pr="1" />
+    <ar ct="2509071629" l="7" />
+    <dp ct="2509071629" l="7" />
+  </s>
+  <s id="3394223963872466603-2509071628-20" eva="8089075">
+    <ar ppth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr." pp="1" pt="2509071710" l="7" />
+    <dp ppth="Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" pp="1" pt="2509071711" l="7" />
+    <tl f="S" t="s" o="08" c="S" n="70115" />
+  </s>
+</timetable>

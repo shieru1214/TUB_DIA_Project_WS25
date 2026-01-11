@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hackescher Markt" eva="8089017">
+  <s id="-4812274590179037127-2509052255-9" eva="8089017">
+    <ar cpth="Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" ct="2509052314" l="7" />
+    <dp cpth="Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)" ct="2509052314" l="7" />
+  </s>
+  <s id="9145916256116665890-2509052227-15" eva="8089017">
+    <ar ct="2509052313" l="3" />
+    <dp ct="2509052314" l="3" />
+  </s>
+  <s id="1360027637371592899-2509052347-15" eva="8089017">
+    <ar ct="2509060032" l="3" />
+    <dp ct="2509060032" l="3" />
+  </s>
+  <s id="-6372508145793358639-2509052237-15" eva="8089017">
+    <ar ct="2509052313" l="9" />
+    <dp ct="2509052314" l="9" />
+  </s>
+</timetable>

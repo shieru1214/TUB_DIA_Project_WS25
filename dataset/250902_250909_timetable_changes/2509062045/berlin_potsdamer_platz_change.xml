@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Potsdamer Platz" eva="8011118">
+  <s id="-6272353519131270189-2509062005-20" eva="8011118">
+    <m id="r2473869" t="h" from="2508170000" to="2512072359" cat="Information" ts="2508172308" ts-tts="25-09-05 23:16:03.430" pr="2" />
+    <ar cpth="Elsterwerda|Hohenleipisch|Rückersdorf|Doberlug-Kirchhain|Walddrehna|Luckau-Uckro|Drahnsdorf|Golßen(Niederlausitz)|Klasdorf Glashütte|Baruth(Mark)|Neuhof(b Zossen)|Wünsdorf-Waldstadt" ct="2509062204" cs="c" clt="2509062045" l="8" />
+    <dp cpth="" ct="2509062205" cs="c" clt="2509062045" l="8" />
+  </s>
+  <s id="6699077307981861871-2509061901-23" eva="8011118">
+    <m id="r2333137" t="h" from="2412150000" to="2510242358" cat="Information" ts="2412142302" ts-tts="25-09-05 23:16:03.401" pr="2" />
+    <ar ct="2509062219" l="5">
+      <m id="r24222695" t="d" c="44" ts="2509062032" ts-tts="25-09-06 20:32:23.936" />
+    </ar>
+    <dp ct="2509062220" l="5">
+      <m id="r24222695" t="d" c="44" ts="2509062032" ts-tts="25-09-06 20:32:23.936" />
+    </dp>
+  </s>
+  <s id="189632922177885776-2509062130-6" eva="8011118">
+    <ar ppth="Rangsdorf|Dahlewitz|Blankenfelde(Teltow-Fläming)|Berlin-Lichterfelde Ost|Berlin Südkreuz" pp="4" pt="2509062204" />
+    <dp ppth="Berlin Hbf" pp="4" pt="2509062205" />
+    <tl f="N" t="s" o="VW" c="RE" n="73813" />
+  </s>
+  <s id="8930734303365215950-2509062036-2" eva="8011118">
+    <ar ct="2509062044" l="5" />
+    <dp ct="2509062045" l="5" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:45.514" />
+</timetable>

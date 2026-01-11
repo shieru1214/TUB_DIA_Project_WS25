@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westhafen" eva="8089116">
+  <s id="-2319147964779153464-2509080101-3" eva="8089116">
+    <ar ct="2509080106" l="42">
+      <m id="r24240059" t="f" c="0" ts="2509070300" ts-tts="25-09-07 03:00:31.582" />
+      <m id="r24240060" t="f" c="0" ts="2509070300" ts-tts="25-09-07 03:00:31.582" />
+      <m id="r24240061" t="f" c="0" ts="2509070300" ts-tts="25-09-07 03:00:31.582" />
+    </ar>
+    <dp ct="2509080106" l="42">
+      <m id="r24240059" t="f" c="0" ts="2509070300" ts-tts="25-09-07 03:00:31.582" />
+      <m id="r24240060" t="f" c="0" ts="2509070300" ts-tts="25-09-07 03:00:31.582" />
+      <m id="r24240061" t="f" c="0" ts="2509070300" ts-tts="25-09-07 03:00:31.582" />
+    </dp>
+  </s>
+  <s id="-8505691472837027427-2509072353-14" eva="8089116">
+    <ar ppth="Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße" pp="1" ct="2509080028" pt="2509080019" l="41" />
+    <dp ppth="Berlin-Wedding|Berlin Gesundbrunnen(S)" pp="1" ct="2509080029" pt="2509080021" l="41" />
+    <tl f="S" t="e" o="08" c="S" n="40244" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="41244" />
+    </ref>
+  </s>
+</timetable>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Grünau" eva="8089063">
+  <s id="-7471753704700182058-2509081423-22" eva="8089063">
+    <m id="r2488245" t="h" from="2509081330" to="2509081530" cat="Störung" ts="2509081337" ts-tts="25-09-08 14:16:05.137" pr="2" />
+    <ar ct="2509081517" l="85" />
+  </s>
+  <s id="2804607086031258063-2509081501-5" eva="8089063">
+    <m id="r2488245" t="h" from="2509081330" to="2509081530" cat="Störung" ts="2509081337" ts-tts="25-09-08 14:16:05.137" pr="2" />
+    <ar ct="2509081516" l="46" />
+    <dp ct="2509081516" l="46" />
+  </s>
+  <s id="-2062604970987099247-2509081521-5" eva="8089063">
+    <m id="r2488245" t="h" from="2509081330" to="2509081530" cat="Störung" ts="2509081337" ts-tts="25-09-08 14:16:05.137" pr="2" />
+    <ar ct="2509081537" l="46" />
+    <dp ct="2509081537" l="46" />
+  </s>
+  <s id="3776666740028506747-2509081508-100" eva="8089063">
+    <m id="r2488245" t="h" from="2509081330" to="2509081530" cat="Störung" ts="2509081337" ts-tts="25-09-08 14:16:05.137" pr="2" />
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" ppth="Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke" pp="1" pt="2509081534" ps="a" l="45" />
+    <dp cpth="" ppth="Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" pt="2509081534" ps="a" l="45" />
+    <tl f="S" t="p" o="08" c="S" n="45081" />
+  </s>
+  <s id="3829161764756495355-2509081601-5" eva="8089063">
+    <m id="r2488245" t="h" from="2509081330" to="2509081530" cat="Störung" ts="2509081337" ts-tts="25-09-08 14:16:05.137" pr="2" />
+    <ar cpth="" ct="2509081626" cs="c" clt="2509081438" l="46" />
+    <dp cpth="" ct="2509081616" cs="c" clt="2509081438" l="46" />
+  </s>
+</timetable>

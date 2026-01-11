@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="1378052578664399140-2509071511-23" eva="8089047">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 23:16:04.098" pr="1" />
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" cp="2" ct="2509071559" cs="p" clt="2509071311" l="7" />
+    <dp cpth="Berlin-Grunewald|Berlin-Nikolassee|Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" cp="2" ct="2509071600" cs="p" clt="2509071311" l="7" />
+  </s>
+  <s id="-657067120154828351-2509071521-18" eva="8089047">
+    <ar ct="2509071559" l="41" />
+    <dp ct="2509071600" l="41" />
+  </s>
+  <s id="-4526419508944622247-2509071551-7" eva="8089047">
+    <ar cp="3" ct="2509071615" l="7" />
+    <dp cp="3" ct="2509071616" l="7" />
+  </s>
+</timetable>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Brandenburger Tor" eva="8089044">
+  <s id="806443734517056592-2509071605-12" eva="8089044">
+    <ar ct="2509071631" l="25" />
+    <dp ct="2509071632" l="25" />
+  </s>
+  <s id="-7204369584797122317-2509071558-14" eva="8089044">
+    <m id="r2487795" t="h" from="2509071430" to="2509071700" cat="Störung" ts="2509071525" ts-tts="25-09-07 15:25:55.851" pr="1" />
+    <ar ct="2509071630" l="1" />
+    <dp ct="2509071630" l="1" />
+  </s>
+  <s id="-3620580451267568283-2509071645-8" eva="8089044">
+    <ar ct="2509071659" l="2" />
+    <dp ct="2509071700" l="2" />
+  </s>
+  <s id="7114292941308381244-2509071645-12" eva="8089044">
+    <ar ct="2509071710" l="25" />
+    <dp ct="2509071711" l="25" />
+  </s>
+  <s id="2898095756946234618-2509071554-17" eva="8089044">
+    <m id="r2487795" t="h" from="2509071430" to="2509071700" cat="Störung" ts="2509071525" ts-tts="25-09-07 15:25:55.851" pr="1" />
+    <ar cpth="Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)" ct="2509071630" l="1" />
+    <dp cpth="Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2509071630" l="1" />
+  </s>
+  <s id="-7912077492962339955-2509071644-17" eva="8089044">
+    <m id="r2487795" t="h" from="2509071430" to="2509071700" cat="Störung" ts="2509071525" ts-tts="25-09-07 15:25:55.851" pr="1" />
+    <ar ct="2509071718" l="1" />
+    <dp ct="2509071718" l="1" />
+  </s>
+  <s id="-2951235958795513188-2509071628-14" eva="8089044">
+    <m id="r2487795" t="h" from="2509071430" to="2509071700" cat="Störung" ts="2509071525" ts-tts="25-09-07 15:25:55.851" pr="1" />
+    <ar ct="2509071657" l="1" />
+    <dp ct="2509071657" l="1" />
+  </s>
+</timetable>

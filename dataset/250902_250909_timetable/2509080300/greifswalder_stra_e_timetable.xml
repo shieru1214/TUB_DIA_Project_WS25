@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Greifswalder Str">
+  <s id="3609130455711901954-2509080343-6">
+    <tl f="S" t="p" o="08" c="S" n="42007" />
+    <ar pt="2509080354" pp="2" l="42" ppth="Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee" />
+    <dp pt="2509080354" pp="2" l="42" pde="Berlin Beusselstraße" ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße" />
+  </s>
+  <s id="-5867842893510111922-2509080345-4">
+    <tl f="S" t="p" o="08" c="S" n="41008" />
+    <ar pt="2509080351" pp="1" l="41" ppth="Berlin Gesundbrunnen(S)|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" />
+    <dp pt="2509080351" pp="1" l="41" pde="Berlin Beusselstraße" ppth="Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße" />
+  </s>
+</timetable>

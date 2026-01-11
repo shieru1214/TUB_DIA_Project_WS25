@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Biesdorf" eva="8089055">
+  <s id="-8970882417423067018-2509051415-6" eva="8089055">
+    <ar ppth="Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal" pp="1" ct="2509051428" pt="2509051428" l="5" />
+    <dp ppth="Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Olympiastadion" pp="1" ct="2509051428" pt="2509051428" l="5" />
+    <tl f="S" t="e" o="08" c="S" n="50086" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="5086" />
+    </ref>
+  </s>
+  <s id="-3197311502294544134-2509051345-6" eva="8089055">
+    <ar ct="2509051358" l="5" />
+    <dp ct="2509051359" l="5" />
+  </s>
+</timetable>

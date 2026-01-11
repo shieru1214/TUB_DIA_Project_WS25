@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Marzahn" eva="8089075">
+  <s id="5297108456943765419-2509050951-4" eva="8089075">
+    <ar cpth="" ct="2509050956" cs="c" clt="2509050957" l="7">
+      <m id="r24025925" t="d" c="31" ts="2509050957" ts-tts="25-09-05 09:57:19.386" />
+    </ar>
+    <dp cpth="Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2509051000" l="7" />
+  </s>
+  <s id="1837870032187297906-2509050841-26" eva="8089075">
+    <ar cpth="" ct="2509051002" cs="c" clt="2509050956" l="7">
+      <m id="r24025843" t="d" c="31" ts="2509050956" ts-tts="25-09-05 09:57:03.911" />
+      <m id="r24025845" t="d" c="31" ts="2509050956" ts-tts="25-09-05 09:57:03.911" />
+    </ar>
+    <dp cpth="" ct="2509050948" cs="c" clt="2509050956" l="7" />
+  </s>
+  <s id="1210434999863274708-2509050901-26" eva="8089075">
+    <m id="r2486678" t="h" from="2509050700" to="2509060330" cat="Störung" ts="2509050743" ts-tts="25-09-05 07:43:04.515" pr="2" />
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr." ct="2509051009" cs="p" clt="2509050827" l="7" />
+    <dp cpth="Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2509051009" cs="p" clt="2509050827" l="7" />
+  </s>
+</timetable>

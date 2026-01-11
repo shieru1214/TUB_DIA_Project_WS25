@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hermannstraße" eva="8089105">
+  <s id="635384114138016747-2509072311-17" eva="8089105">
+    <ar ct="2509072346" l="42" />
+    <dp ct="2509072346" l="42" />
+  </s>
+  <s id="692114788965747210-2509072317-12" eva="8089105">
+    <ar ct="2509080000" l="45" />
+    <dp ct="2509080001" l="45" />
+  </s>
+  <s id="-1871879830496714182-2509080008-3" eva="8089105">
+    <ar ct="2509080016" l="45" />
+    <dp ct="2509080016" l="45" />
+  </s>
+  <s id="-2456133143939163618-2509072348-4" eva="8089105">
+    <ar cpth="" ppth="Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln" pp="1" pt="2509072354" cs="c" clt="2509072344" l="46">
+      <m id="r24333870" t="f" c="0" ts="2509072343" ts-tts="25-09-07 23:43:40.566" />
+    </ar>
+    <dp cpth="" ppth="Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" pp="1" pt="2509072355" cs="c" clt="2509072344" l="46">
+      <m id="r24333870" t="f" c="0" ts="2509072343" ts-tts="25-09-07 23:43:40.566" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="48434" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="46434" />
+    </ref>
+  </s>
+  <s id="-8189148788276870459-2509072341-12" eva="8089105">
+    <ar ct="2509080014" l="46" />
+    <dp ct="2509080015" l="46" />
+  </s>
+</timetable>

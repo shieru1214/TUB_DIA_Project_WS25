@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wittenau (Wilhelmsruher Damm)" eva="8089096">
+  <s id="7576356083121382619-2509040655-21" eva="8089096">
+    <ar ct="2509040745" l="26" />
+    <dp ct="2509040745" l="26" />
+  </s>
+  <s id="-8075670878926216068-2509040735-4" eva="8089096">
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:29.834" pr="2" />
+    <ar ct="2509040745" l="1" />
+    <dp ct="2509040745" l="1" />
+  </s>
+</timetable>

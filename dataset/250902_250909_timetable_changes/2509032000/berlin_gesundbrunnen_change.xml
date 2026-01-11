@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Gesundbrunnen" eva="8011102">
+  <s id="-4831004071712342153-2509031701-21" eva="8011102">
+    <m id="r2333137" t="h" from="2412150000" to="2510242358" cat="Information" ts="2412142302" ts-tts="25-09-02 23:16:03.826" pr="2" />
+    <m id="r2485846" t="h" from="2509031701" to="2509032020" cat="Störung" ts="2509031639" ts-tts="25-09-03 16:39:07.891" pr="1" />
+    <ar cpth="Elmenhorst|Wittenhagen|Grimmen|Rakow|Demmin|Utzedel|Sternfeld|Gnevkow|Altentreptow|Neubrandenburg|Burg Stargard(Meckl)|Cammin(Meckl)|Blankensee(Meckl)|Neustrelitz Hbf|Fürstenberg(Havel)|Gransee|Löwenberg(Mark)|Oranienburg" ct="2509032021" l="5">
+      <m id="r23802219" t="d" c="38" ts="2509031631" ts-tts="25-09-03 16:31:16.674" />
+      <m id="r23802221" t="d" c="38" ts="2509031631" ts-tts="25-09-03 16:31:16.674" />
+    </ar>
+    <dp cpth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" ct="2509032023" l="5">
+      <m id="r23802219" t="d" c="38" ts="2509031631" ts-tts="25-09-03 16:31:16.674" />
+      <m id="r23802221" t="d" c="38" ts="2509031631" ts-tts="25-09-03 16:31:16.674" />
+    </dp>
+  </s>
+</timetable>

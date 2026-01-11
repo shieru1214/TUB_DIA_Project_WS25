@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="2506197654051509141-2509080721-6" eva="8089045">
+    <ar cpth="Berlin-Friedrichshagen|Berlin-Hirschgarten|Berlin-Köpenick|Berlin-Karlshorst (S)|Berlin Ostkreuz (S)" cs="p" clt="2509071134" l="3">
+      <m id="r24263902" t="f" c="0" ts="2509071217" ts-tts="25-09-07 12:17:57.888" />
+      <m id="r24263904" t="f" c="0" ts="2509071217" ts-tts="25-09-07 12:17:57.888" />
+    </ar>
+    <dp cpth="Berlin Ostbahnhof (S)" cs="p" clt="2509071134" l="3">
+      <m id="r24263902" t="f" c="0" ts="2509071217" ts-tts="25-09-07 12:17:57.888" />
+      <m id="r24263904" t="f" c="0" ts="2509071217" ts-tts="25-09-07 12:17:57.888" />
+    </dp>
+  </s>
+  <s id="-3082753080917405821-2509080701-6" eva="8089045">
+    <ar cpth="Berlin-Friedrichshagen|Berlin-Hirschgarten|Berlin-Köpenick|Berlin-Karlshorst (S)|Berlin Ostkreuz (S)" cs="p" clt="2509071133" l="3">
+      <m id="r24263891" t="f" c="0" ts="2509071217" ts-tts="25-09-07 12:17:57.888" />
+      <m id="r24263892" t="f" c="0" ts="2509071217" ts-tts="25-09-07 12:17:57.888" />
+    </ar>
+    <dp cpth="Berlin Ostbahnhof (S)" cs="p" clt="2509071133" l="3">
+      <m id="r24263891" t="f" c="0" ts="2509071217" ts-tts="25-09-07 12:17:57.888" />
+      <m id="r24263892" t="f" c="0" ts="2509071217" ts-tts="25-09-07 12:17:57.888" />
+    </dp>
+  </s>
+  <s id="9079170669070697263-2509071530-18" eva="8089045">
+    <ar ct="2509071620" l="5" />
+    <dp ct="2509071621" l="5" />
+  </s>
+  <s id="6248739874593868437-2509071441-15" eva="8089045">
+    <ar ct="2509071514" l="5" />
+    <dp ct="2509071514" l="5" />
+  </s>
+  <s id="-1340304138759897976-2509071529-12" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.181" pr="1" />
+    <ar ct="2509071605" l="9" />
+    <dp ct="2509071606" l="9" />
+  </s>
+  <s id="-5899825833268278603-2509071451-11" eva="8089045">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 23:16:03.505" pr="1" />
+    <ar ct="2509071513" l="7" />
+    <dp ct="2509071514" l="7" />
+  </s>
+</timetable>

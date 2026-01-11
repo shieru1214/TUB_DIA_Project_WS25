@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Treptower Park" eva="8089043">
+  <s id="907890133494623499-2509061329-7" eva="8089043">
+    <ar ct="2509061346" l="8" />
+    <dp ct="2509061347" l="8" />
+  </s>
+  <s id="2826613039672257116-2509061301-20" eva="8089043">
+    <ar ct="2509061343" l="42">
+      <m id="r24063119" t="f" c="0" ts="2509051500" ts-tts="25-09-05 15:00:18.376" />
+      <m id="r24063120" t="f" c="0" ts="2509051500" ts-tts="25-09-05 15:00:18.376" />
+    </ar>
+    <dp ct="2509061345" l="42">
+      <m id="r24063119" t="f" c="0" ts="2509051500" ts-tts="25-09-05 15:00:18.376" />
+      <m id="r24063120" t="f" c="0" ts="2509051500" ts-tts="25-09-05 15:00:18.376" />
+    </dp>
+  </s>
+  <s id="520073043704376291-2509061341-20" eva="8089043">
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof" ct="2509061422" cs="c" clt="2509061344" l="42" />
+    <dp cpth="" ct="2509061425" cs="c" clt="2509061344" l="42" />
+  </s>
+  <s id="407034044282336519-2509061309-11" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.415" pr="1" />
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald" ct="2509061341" l="9" />
+    <dp cpth="Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" ct="2509061344" l="9" />
+  </s>
+</timetable>

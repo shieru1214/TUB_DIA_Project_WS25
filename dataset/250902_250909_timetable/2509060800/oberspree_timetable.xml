@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Oberspree">
+  <s id="8784405906627832094-2509060824-6">
+    <tl f="S" t="p" o="08" c="S" n="47079" />
+    <ar pt="2509060839" pp="1" l="47" ppth="Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)" />
+    <dp pt="2509060840" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+  </s>
+  <s id="-2695625372045828134-2509060829-2">
+    <tl f="S" t="p" o="08" c="S" n="47078" />
+    <ar pt="2509060831" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+    <dp pt="2509060831" pp="1" l="47" ppth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße" />
+  </s>
+  <s id="-3251647231813090788-2509060744-6">
+    <tl f="S" t="p" o="08" c="S" n="47075" />
+    <ar pt="2509060759" pp="1" l="47" ppth="Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)" />
+    <dp pt="2509060800" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+  </s>
+  <s id="-5381418643266823700-2509060849-2">
+    <tl f="S" t="p" o="08" c="S" n="47080" />
+    <ar pt="2509060851" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+    <dp pt="2509060851" pp="1" l="47" ppth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße" />
+  </s>
+  <s id="1199581023836684365-2509060804-6">
+    <tl f="S" t="p" o="08" c="S" n="47077" />
+    <ar pt="2509060819" pp="1" l="47" ppth="Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)" />
+    <dp pt="2509060820" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+  </s>
+  <s id="6622999424655331902-2509060809-2">
+    <tl f="S" t="p" o="08" c="S" n="47076" />
+    <ar pt="2509060811" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+    <dp pt="2509060811" pp="1" l="47" ppth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße" />
+  </s>
+  <s id="3621206005001464766-2509060844-6">
+    <tl f="S" t="p" o="08" c="S" n="47081" />
+    <ar pt="2509060859" pp="1" l="47" ppth="Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)" />
+    <dp pt="2509060900" pp="1" l="47" ppth="Berlin-Spindlersfeld" />
+  </s>
+</timetable>

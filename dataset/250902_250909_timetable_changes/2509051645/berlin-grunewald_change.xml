@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Grunewald" eva="8089062">
+  <s id="732838878254816626-2509051551-24" eva="8089062">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" cp="2" ct="2509051642" l="7" />
+    <dp cpth="" ct="2509051643" cs="c" clt="2509051644" l="7" />
+  </s>
+  <s id="-4968655251164376061-2509051641-6" eva="8089062">
+    <ar cp="2" ct="2509051709" l="7" />
+    <dp cp="2" ct="2509051702" l="7" />
+  </s>
+  <s id="1390527141869994091-2509051621-6" eva="8089062">
+    <ar cpth="" ct="2509051627" cs="c" clt="2509051606" l="7">
+      <m id="r24074376" t="d" c="55" ts="2509051612" ts-tts="25-09-05 16:13:03.742" />
+      <m id="r24074382" t="d" c="55" ts="2509051612" ts-tts="25-09-05 16:13:03.742" />
+    </ar>
+    <dp cpth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2509051642" cs="p" clt="2509051557" l="7">
+      <m id="r24075285" t="d" c="36" ts="2509051619" ts-tts="25-09-05 16:19:47.699" />
+      <m id="r24075287" t="d" c="36" ts="2509051619" ts-tts="25-09-05 16:19:47.699" />
+      <m id="r24077955" t="d" c="55" ts="2509051643" ts-tts="25-09-05 16:44:04.029" />
+    </dp>
+  </s>
+</timetable>

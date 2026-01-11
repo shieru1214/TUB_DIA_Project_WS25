@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jungfernheide" eva="8011167">
+  <s id="7346019818747424630-2509090813-2" eva="8011167">
+    <ar cpth="Berlin Gesundbrunnen" l="21">
+      <m id="r24378253" t="d" c="31" ts="2509081011" ts-tts="25-09-08 10:11:14.645" />
+      <m id="r24378260" t="d" c="31" ts="2509081011" ts-tts="25-09-08 10:11:14.645" />
+    </ar>
+    <dp cpth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Priort|Marquardt|Golm|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf" l="21">
+      <m id="r24378253" t="d" c="31" ts="2509081011" ts-tts="25-09-08 10:11:14.645" />
+      <m id="r24378260" t="d" c="31" ts="2509081011" ts-tts="25-09-08 10:11:14.645" />
+    </dp>
+  </s>
+  <s id="-2133198604569328314-2509081503-10" eva="8011167">
+    <m id="r2488317" t="h" from="2509081503" to="2509081727" cat="Störung" ts="2509081615" ts-tts="25-09-08 16:15:38.073" pr="2" />
+    <ar cpth="Jüterbog|Luckenwalde|Trebbin|Thyrow|Ludwigsfelde|Berlin-Lichterfelde Ost|Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" ct="2509081604" l="4">
+      <m id="r24336727" t="f" c="0" ts="2509080119" ts-tts="25-09-08 01:19:30.408" />
+      <m id="r24432237" t="d" c="55" ts="2509081543" ts-tts="25-09-08 15:43:10.730" />
+      <m id="r24432243" t="d" c="55" ts="2509081543" ts-tts="25-09-08 15:43:10.730" />
+    </ar>
+    <dp cpth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow|Stendal Hbf" ct="2509081605" l="4">
+      <m id="r24336727" t="f" c="0" ts="2509080119" ts-tts="25-09-08 01:19:30.408" />
+      <m id="r24432237" t="d" c="55" ts="2509081543" ts-tts="25-09-08 15:43:10.730" />
+      <m id="r24432243" t="d" c="55" ts="2509081543" ts-tts="25-09-08 15:43:10.730" />
+    </dp>
+  </s>
+  <s id="3212644212318660521-2509081614-2" eva="8011167">
+    <ar ct="2509081621" l="21" />
+    <dp ct="2509081624" l="21" />
+  </s>
+</timetable>

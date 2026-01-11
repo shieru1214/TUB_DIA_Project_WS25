@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hackescher Markt" eva="8089017">
+  <s id="-4635456032690953654-2509061730-22" eva="8089017">
+    <ar cpth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf" ct="2509061829" cs="c" clt="2509061745" l="5" />
+    <dp cpth="" ct="2509061829" cs="c" clt="2509061745" l="5" />
+  </s>
+  <s id="-769611413363731020-2509061705-16" eva="8089017">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.507" pr="1" />
+    <ar ct="2509061744" l="3" />
+    <dp ct="2509061745" l="3" />
+  </s>
+  <s id="-4897684971514804878-2509061721-11" eva="8089017">
+    <ar ct="2509061745" l="5" />
+    <dp ct="2509061745" l="5" />
+  </s>
+  <s id="-2477370580072192002-2509061701-15" eva="8089017">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.746" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.420" pr="1" />
+    <ar ct="2509061743" l="7" />
+    <dp ct="2509061743" l="7" />
+  </s>
+</timetable>

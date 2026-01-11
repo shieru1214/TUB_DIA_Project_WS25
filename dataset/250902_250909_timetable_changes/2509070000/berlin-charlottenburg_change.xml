@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Charlottenburg" eva="8010403">
+  <s id="-5353275084219714352-2509062254-20" eva="8010403">
+    <ar ct="2509070100" l="2">
+      <m id="r24230232" t="f" c="0" ts="2509062208" ts-tts="25-09-06 22:08:12.727" />
+    </ar>
+  </s>
+  <s id="-5328965667779335365-2509062139-14" eva="8010403">
+    <ar ppth="Cottbus Hbf|Calau(Nl)|Lübbenau(Spreewald)|Lübben(Spreewald)|Brand Tropical Islands|Bestensee|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten" pp="2" ct="2509070017" pt="2509062345" l="2">
+      <m id="r24231470" t="d" c="43" ts="2509062228" ts-tts="25-09-06 22:29:11.119" />
+      <m id="r24231472" t="d" c="43" ts="2509062228" ts-tts="25-09-06 22:29:11.119" />
+      <m id="r24231474" t="d" c="43" ts="2509062228" ts-tts="25-09-06 22:29:11.119" />
+      <m id="r24231581" t="f" c="0" ts="2509062230" ts-tts="25-09-06 22:30:13.881" />
+      <m id="r24232088" t="f" c="0" ts="2509062238" ts-tts="25-09-06 22:38:52.080" />
+      <m id="r24232089" t="f" c="0" ts="2509062238" ts-tts="25-09-06 22:38:52.080" />
+      <m id="r24232915" t="f" c="0" ts="2509062256" ts-tts="25-09-06 22:56:52.869" />
+    </ar>
+    <tl f="N" t="p" o="800165" c="RE" n="3139" />
+  </s>
+</timetable>

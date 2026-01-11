@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichtenberg" eva="8010036">
+  <s id="7755411666043375071-2509031259-1" eva="8010036">
+    <dp cp="17" ct="2509031300" l="25" />
+  </s>
+  <s id="-614966473235197096-2509031249-4" eva="8010036">
+    <ar cpth="" ct="2509031312" cs="c" clt="2509031228" l="24">
+      <m id="r23710001" t="f" c="0" ts="2509022234" ts-tts="25-09-02 22:34:57.899" />
+      <m id="r23770039" t="d" c="48" ts="2509031228" ts-tts="25-09-03 12:29:02.069" />
+    </ar>
+    <dp cpth="Berlin-Hohenschönhausen|Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf" ct="2509031314" l="24">
+      <m id="r23710001" t="f" c="0" ts="2509022234" ts-tts="25-09-02 22:34:57.899" />
+      <m id="r23770039" t="d" c="48" ts="2509031228" ts-tts="25-09-03 12:29:02.069" />
+    </dp>
+  </s>
+</timetable>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Baumschulenweg" eva="8089004">
+  <s id="5686305186276327630-2509040849-9" eva="8089004">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.620" pr="1" />
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)" ct="2509040915" l="9" />
+    <dp cpth="Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" ct="2509040917" l="9" />
+  </s>
+  <s id="2136706798987585861-2509040905-5" eva="8089004">
+    <ar ct="2509040915" l="8" />
+    <dp ct="2509040915" l="8" />
+  </s>
+  <s id="-6019683280205975201-2509040929-9" eva="8089004">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.620" pr="1" />
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)" ct="2509040955" l="9" />
+    <dp cpth="Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)" ct="2509040956" l="9" />
+  </s>
+  <s id="-321416946552590319-2509040857-9" eva="8089004">
+    <ar ct="2509040924" l="45" />
+    <dp ct="2509040924" l="45" />
+  </s>
+  <s id="-8718411351168980230-2509040929-4" eva="8089004">
+    <ar ct="2509040938" l="47" />
+    <dp ct="2509040938" l="47" />
+  </s>
+  <s id="5701377017471540916-2509040904-4" eva="8089004">
+    <ar ct="2509040911" l="47" />
+    <dp ct="2509040913" l="47" />
+  </s>
+</timetable>

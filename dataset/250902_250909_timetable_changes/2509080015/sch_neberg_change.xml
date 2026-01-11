@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Schöneberg" eva="8089474">
+  <s id="-2079051741317563369-2509080003-103" eva="8089474">
+    <ar cpth="Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin Hermannstraße|Berlin-Tempelhof|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin Südkreuz (S)" ppth="Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)" cp="11" ct="2509080029" pt="2509080019" ps="a" l="45" />
+    <dp cpth="Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin-Halensee|Berlin Charlottenburg (S)" ppth="Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Charlottenburg (S)" pp="11" ct="2509080029" pt="2509080019" ps="a" l="45" />
+    <tl f="S" t="e" o="08" c="S" n="44130" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="45130" />
+    </ref>
+  </s>
+  <s id="4387045462730231935-2509072358-9" eva="8089474">
+    <ar ct="2509080013" l="46" />
+    <dp ct="2509080014" l="46" />
+  </s>
+</timetable>

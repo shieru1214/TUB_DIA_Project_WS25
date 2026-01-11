@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Pankow" eva="8089080">
+  <s id="-8065757595595299287-2509041830-1" eva="8089080">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:34.059" pr="1" />
+    <dp ct="2509041830" l="8" />
+  </s>
+  <s id="5408816947909833761-2509041812-5" eva="8089080">
+    <ar ct="2509041832" l="S2" />
+  </s>
+  <s id="3861224594942151981-2509041845-1" eva="8089080">
+    <dp ppth="Pankow-Heinersdorf (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Blankenburg (S), Berlin|Karow Bahnhof (S), Berlin" ct="2509041918" pt="2509041845" l="S2" />
+    <tl t="p" o="080001" c="Bus" n="22556" />
+  </s>
+  <s id="1944240020311168354-2509041754-5" eva="8089080">
+    <ar ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" ct="2509041918" pt="2509041819" l="S2" />
+    <tl t="p" o="080001" c="Bus" n="22539" />
+  </s>
+  <s id="-7047322684842185747-2509041900-5" eva="8089080">
+    <ar ct="2509041925" l="S2" />
+  </s>
+  <s id="-8844612827336587873-2509041718-5" eva="8089080">
+    <ar ppth="Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" ct="2509041832" pt="2509041743" l="S2" />
+    <tl t="p" o="080001" c="Bus" n="22515" />
+  </s>
+  <s id="-4498051110645961602-2509041852-5" eva="8089080">
+    <ar ct="2509041917" l="S2" />
+  </s>
+  <s id="2398538634762195223-2509041810-5" eva="8089080">
+    <ar ct="2509041834" l="S2" />
+  </s>
+  <s id="-3477104424405356072-2509041820-5" eva="8089080">
+    <ar ct="2509041847" l="S2" />
+  </s>
+</timetable>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Nikolassee" eva="8089078">
+  <s id="7126728066194214753-2509042111-34" eva="8089078">
+    <ar ct="2509042229" l="1" />
+    <dp ct="2509042230" l="1" />
+  </s>
+  <s id="4595263880512092048-2509042156-14" eva="8089078">
+    <ar ppth="Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" pp="3" ct="2509042229" pt="2509042230" l="7" />
+    <dp ppth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="3" pt="2509042230" l="7" />
+    <tl f="S" t="e" o="08" c="S" n="70146" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="7146" />
+    </ref>
+  </s>
+</timetable>

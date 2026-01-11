@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Friedrichsfelde Ost" eva="8089059">
+  <s id="-4342974825664247819-2509061801-23" eva="8089059">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.746" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.420" pr="1" />
+    <ar cpth="Berlin-Lichtenberg (S)" ct="2509061901" cs="p" clt="2509061722" l="7" />
+    <dp cpth="Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2509061902" cs="p" clt="2509061722" l="7" />
+  </s>
+  <s id="7225176046557129551-2509061847-5" eva="8089059">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.420" pr="1" />
+    <ar ct="2509061859" l="75" />
+    <dp ct="2509061900" l="75" />
+  </s>
+  <s id="197147302024611182-2509061846-5" eva="8089059">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.420" pr="1" />
+    <ar ct="2509061859" l="75" />
+    <dp ct="2509061859" l="75" />
+  </s>
+</timetable>

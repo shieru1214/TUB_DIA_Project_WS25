@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Friedrichsfelde Ost" eva="8089059">
+  <s id="-9110349422853107941-2509061836-5" eva="8089059">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.070" pr="1" />
+    <ar ct="2509061845" l="75" />
+    <dp ct="2509061846" l="75" />
+  </s>
+  <s id="-6786105718631277202-2509061831-7" eva="8089059">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.627" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.069" pr="1" />
+    <ar ct="2509061844" l="7" />
+    <dp ct="2509061845" l="7" />
+  </s>
+  <s id="6856185892383663332-2509061821-19" eva="8089059">
+    <ar cpth="Berlin Olympiastadion|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)" ct="2509061903" cs="c" clt="2509061843" l="5">
+      <m id="r24210958" t="d" c="36" ts="2509061843" ts-tts="25-09-06 18:43:32.218" />
+      <m id="r24210960" t="d" c="36" ts="2509061843" ts-tts="25-09-06 18:43:32.218" />
+      <m id="r24211013" t="f" c="0" ts="2509061844" ts-tts="25-09-06 18:44:34.384" />
+    </ar>
+    <dp cpth="" ct="2509061903" cs="c" clt="2509061843" l="5">
+      <m id="r24210958" t="d" c="36" ts="2509061843" ts-tts="25-09-06 18:43:32.218" />
+      <m id="r24210960" t="d" c="36" ts="2509061843" ts-tts="25-09-06 18:43:32.218" />
+      <m id="r24211013" t="f" c="0" ts="2509061844" ts-tts="25-09-06 18:44:34.384" />
+    </dp>
+  </s>
+  <s id="1956134799406207112-2509061801-19" eva="8089059">
+    <ar ct="2509061843" l="5" />
+    <dp ct="2509061844" l="5" />
+  </s>
+</timetable>

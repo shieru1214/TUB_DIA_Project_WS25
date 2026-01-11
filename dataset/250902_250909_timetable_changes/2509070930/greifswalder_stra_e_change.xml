@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Greifswalder Str" eva="8089011">
+  <s id="-2618268217502795764-2509070918-4" eva="8089011">
+    <ar ct="2509070930" l="S41" />
+  </s>
+  <s id="-8325933942263230116-2509070928-4" eva="8089011">
+    <ar ct="2509070946" l="S41" />
+  </s>
+  <s id="5497234702597225735-2509070915-6" eva="8089011">
+    <ar ppth="Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee" pp="2" ct="2509070929" pt="2509070929" l="42" />
+    <tl f="S" t="e" o="08" c="S" n="43073" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="42073" />
+    </ref>
+  </s>
+</timetable>

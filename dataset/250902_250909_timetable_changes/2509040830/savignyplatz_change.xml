@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Savignyplatz" eva="8089037">
+  <s id="93625145383822098-2509041111-19" eva="8089037">
+    <ar cpth="Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" cs="c" clt="2509040830" l="5" />
+    <dp cpth="" cs="c" clt="2509040830" l="5" />
+  </s>
+  <s id="-4538792387024972840-2509040801-9" eva="8089037">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.390" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.278" pr="1" />
+    <ar ct="2509040830" l="7" />
+    <dp ct="2509040831" l="7" />
+  </s>
+  <s id="6263338941326372628-2509040745-21" eva="8089037">
+    <ar ct="2509040833" l="5" />
+    <dp ct="2509040834" l="5" />
+  </s>
+  <s id="55742209646352339-2509041051-19" eva="8089037">
+    <ar cpth="Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" cs="c" clt="2509040830" l="5" />
+    <dp cpth="" cs="c" clt="2509040830" l="5" />
+  </s>
+  <s id="-4481108465114944953-2509040845-21" eva="8089037">
+    <ar ct="2509040932" l="5" />
+    <dp ct="2509040933" l="5" />
+  </s>
+  <s id="1323719639919393713-2509040729-22" eva="8089037">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.889" pr="1" />
+    <ar ct="2509040829" l="9" />
+    <dp ct="2509040829" l="9" />
+  </s>
+</timetable>

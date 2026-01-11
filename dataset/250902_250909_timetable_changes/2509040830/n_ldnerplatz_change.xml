@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Nöldnerplatz" eva="8089026">
+  <s id="93625145383822098-2509041111-7" eva="8089026">
+    <ar cpth="Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)" l="5" />
+    <dp cpth="Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" l="5" />
+  </s>
+  <s id="-4481108465114944953-2509040845-9" eva="8089026">
+    <ar ct="2509040905" l="5" />
+    <dp ct="2509040906" l="5" />
+  </s>
+  <s id="55742209646352339-2509041051-7" eva="8089026">
+    <ar cpth="Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)" l="5" />
+    <dp cpth="Berlin Ostkreuz (S)|Berlin Warschauer Straße" l="5" />
+  </s>
+  <s id="3824196644186039901-2509040757-15" eva="8089026">
+    <ar ct="2509040828" l="5" />
+    <dp ct="2509040829" l="5" />
+  </s>
+  <s id="-6258633030036935248-2509040811-9" eva="8089026">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.390" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.278" pr="1" />
+    <ar ct="2509040828" l="7" />
+    <dp ct="2509040829" l="7" />
+  </s>
+  <s id="3802189415798376322-2509040844-7" eva="8089026">
+    <ar ct="2509040858" l="5" />
+    <dp ct="2509040859" l="5" />
+  </s>
+</timetable>

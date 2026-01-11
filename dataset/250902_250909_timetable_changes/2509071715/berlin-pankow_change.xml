@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Pankow" eva="8089080">
+  <s id="3258183365100702021-2509071720-1" eva="8089080">
+    <dp ct="2509071721" l="85" />
+  </s>
+  <s id="654095243399157544-2509071631-7" eva="8089080">
+    <m id="r2462227" t="h" from="2508250300" to="2509080130" cat="Bauarbeiten" ts="2508242307" ts-tts="25-09-06 23:16:03.363" pr="2" />
+    <ar ct="2509071719" l="S8" />
+  </s>
+  <s id="6109531741678417600-2509071654-7" eva="8089080">
+    <ar ct="2509071733" l="S2" />
+  </s>
+  <s id="3195995425942742695-2509071745-15" eva="8089080">
+    <ar ct="2509071857" l="S2" />
+  </s>
+  <s id="1719021876548433883-2509071730-1" eva="8089080">
+    <dp ct="2509071730" l="8" />
+  </s>
+  <s id="-2735906402047790008-2509071705-15" eva="8089080">
+    <ar ct="2509071827" l="S2" />
+  </s>
+  <s id="-1153683115939859258-2509071645-15" eva="8089080">
+    <ar ct="2509071810" l="S2" />
+  </s>
+  <s id="-8299162572407101879-2509071635-15" eva="8089080">
+    <ar ppth="Ladestr., Bernau bei Berlin|Gaskessel, Bernau bei Berlin|Zepernicker Chaussee, Bernau bei Berlin|Abzw. Wohnsiedlung, Bernau bei Berlin|Zepernick(Bernau)|Zepernick Kirche, Panketal|Zepernick Schweizer Str., Panketal|Alt-Buch, Berlin|Buch (S), Berlin|Bucher Chaussee/Achillesstr., Berlin|Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" ct="2509071825" pt="2509071747" l="S2" />
+    <tl t="p" o="080001" c="Bus" n="62227" />
+  </s>
+  <s id="1261281754547812534-2509071701-3" eva="8089080">
+    <ar cpth="" ct="2509071718" cs="c" clt="2509071702" l="8">
+      <m id="r24212784" t="f" c="0" ts="2509061859" ts-tts="25-09-06 19:00:03.855" />
+      <m id="r24212785" t="f" c="0" ts="2509061859" ts-tts="25-09-06 19:00:03.855" />
+      <m id="r24212786" t="f" c="0" ts="2509061859" ts-tts="25-09-06 19:00:03.855" />
+    </ar>
+  </s>
+  <s id="3444875443776734857-2509071744-7" eva="8089080">
+    <ar ct="2509071822" l="S2" />
+  </s>
+  <s id="-2072820479911060006-2509071744-1" eva="8089080">
+    <m id="r2462227" t="h" from="2508250300" to="2509080130" cat="Bauarbeiten" ts="2508242307" ts-tts="25-09-06 23:16:03.363" pr="2" />
+    <dp ct="2509071744" l="S8" />
+  </s>
+</timetable>

@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostbahnhof" eva="8010255">
+  <s id="1715195147225001105-2509061301-13" eva="8010255">
+    <m id="r2487360" t="h" from="2509061301" to="2509061541" cat="Störung" ts="2509061219" ts-tts="25-09-06 12:19:11.726" pr="2" />
+    <ar cpth="Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz" ct="2509061359" l="7">
+      <m id="r24166017" t="d" c="8" ts="2509061213" ts-tts="25-09-06 12:13:21.089" />
+      <m id="r24166037" t="d" c="8" ts="2509061213" ts-tts="25-09-06 12:13:21.089" />
+      <m id="r24166035" t="d" c="8" ts="2509061213" ts-tts="25-09-06 12:13:21.089" />
+      <m id="r24167736" t="f" c="0" ts="2509061226" ts-tts="25-09-06 12:26:22.262" />
+      <m id="r24167737" t="f" c="0" ts="2509061226" ts-tts="25-09-06 12:26:22.262" />
+      <m id="r24176545" t="d" c="43" ts="2509061345" ts-tts="25-09-06 13:45:34.063" />
+      <m id="r24176549" t="d" c="43" ts="2509061345" ts-tts="25-09-06 13:45:34.063" />
+      <m id="r24176551" t="d" c="43" ts="2509061345" ts-tts="25-09-06 13:45:34.063" />
+    </ar>
+    <dp cpth="Berlin Ostkreuz|Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Calau(Nl)|Luckaitztal|Altdöbern|Großräschen|Sedlitz Ost|Senftenberg" ct="2509061400" l="7">
+      <m id="r24166017" t="d" c="8" ts="2509061213" ts-tts="25-09-06 12:13:21.089" />
+      <m id="r24166037" t="d" c="8" ts="2509061213" ts-tts="25-09-06 12:13:21.089" />
+      <m id="r24166035" t="d" c="8" ts="2509061213" ts-tts="25-09-06 12:13:21.089" />
+      <m id="r24167736" t="f" c="0" ts="2509061226" ts-tts="25-09-06 12:26:22.262" />
+      <m id="r24167737" t="f" c="0" ts="2509061226" ts-tts="25-09-06 12:26:22.262" />
+      <m id="r24176545" t="d" c="43" ts="2509061345" ts-tts="25-09-06 13:45:34.063" />
+      <m id="r24176549" t="d" c="43" ts="2509061345" ts-tts="25-09-06 13:45:34.063" />
+      <m id="r24176551" t="d" c="43" ts="2509061345" ts-tts="25-09-06 13:45:34.063" />
+    </dp>
+  </s>
+  <s id="8848136332005309431-2509061555-7" eva="8010255">
+    <ar ct="2509061656" l="1" />
+    <dp ct="2509061657" l="1" />
+  </s>
+  <s id="7684207243669488468-2509061212-17" eva="8010255">
+    <ar cpth="Magdeburg Hbf|Magdeburg-Neustadt|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Werder(Havel)|Golm|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz" ct="2509061409" l="1" />
+    <dp cpth="Berlin Ostkreuz|Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)|Frankfurt(Oder)" ct="2509061410" l="1" />
+  </s>
+  <s id="1131574480602817578-2509061744-3" eva="8010255">
+    <ar ct="2509061806" l="8" />
+    <dp ct="2509061807" l="8" />
+  </s>
+  <s id="-1839551630028491335-2509061319-13" eva="8010255">
+    <ar ppth="Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Berlin-Wannsee|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz" pp="1" ct="2509061501" pt="2509061424" l="1" />
+    <dp ppth="Berlin Ostkreuz|Erkner|Fangschleuse|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)" pp="1" ct="2509061502" pt="2509061425" l="1" />
+    <tl f="N" t="p" o="OWRE" c="RE" n="73772" />
+  </s>
+  <s id="-9221432942161771616-2509061145-9" eva="8010255">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-05 23:16:04.063" pr="3" />
+    <m id="r2486553" t="h" from="2509050003" to="2509062359" cat="Störung" ts="2509050005" ts-tts="25-09-05 23:16:04.261" pr="2" />
+    <m id="r2487359" t="h" from="2509061145" to="2509061330" cat="Störung" ts="2509061214" ts-tts="25-09-06 12:14:56.925" pr="1" />
+    <ar ct="2509061635">
+      <m id="r24152979" t="d" c="38" ts="2509061018" ts-tts="25-09-06 10:18:20.656" />
+      <m id="r24167090" t="d" c="40" ts="2509061220" ts-tts="25-09-06 12:20:47.736" />
+      <m id="r24167092" t="d" c="40" ts="2509061220" ts-tts="25-09-06 12:20:47.736" />
+      <m id="r24167094" t="d" c="40" ts="2509061220" ts-tts="25-09-06 12:20:47.736" />
+      <m id="r24167149" t="f" c="0" ts="2509061220" ts-tts="25-09-06 12:21:03.643" />
+      <m id="r24167150" t="f" c="0" ts="2509061220" ts-tts="25-09-06 12:21:03.643" />
+      <m id="r24167210" t="f" c="0" ts="2509061221" ts-tts="25-09-06 12:21:35.732" />
+      <m id="r24167211" t="f" c="0" ts="2509061221" ts-tts="25-09-06 12:21:35.732" />
+      <m id="r24172001" t="q" c="80" ts="2509061307" ts-tts="25-09-06 13:07:24.544" />
+      <m id="r24172003" t="q" c="80" ts="2509061307" ts-tts="25-09-06 13:07:40.507" />
+    </ar>
+  </s>
+  <s id="-3935110464616838577-2509061145-10" eva="8010255">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-05 23:16:04.063" pr="3" />
+    <m id="r2486553" t="h" from="2509050003" to="2509062359" cat="Störung" ts="2509050005" ts-tts="25-09-05 23:16:04.262" pr="2" />
+    <ar cpth="Essen Hbf|Dortmund Hbf|Hamm(Westf)Hbf|Hannover Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Hbf" ct="2509061635">
+      <m id="r24152978" t="f" c="0" ts="2509061018" ts-tts="25-09-06 10:18:20.656" />
+      <m id="r24170126" t="f" c="0" ts="2509061248" ts-tts="25-09-06 12:48:52.687" />
+      <m id="r24170127" t="f" c="0" ts="2509061248" ts-tts="25-09-06 12:48:52.687" />
+      <m id="r24172000" t="f" c="0" ts="2509061307" ts-tts="25-09-06 13:07:24.544" />
+    </ar>
+  </s>
+  <s id="3844257972860447809-2509061414-3" eva="8010255">
+    <ar ct="2509061435" l="23" />
+    <dp ct="2509061439" l="23" />
+  </s>
+  <s id="231917818137011807-2509061414-19" eva="8010255">
+    <ar ct="2509061600" l="7" />
+    <dp ct="2509061602" l="7" />
+  </s>
+  <s id="211585818996437737-2509061050-11" eva="8010255">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-05 23:16:04.063" pr="3" />
+    <m id="r2486553" t="h" from="2509050003" to="2509062359" cat="Störung" ts="2509050005" ts-tts="25-09-05 23:16:04.261" pr="2" />
+    <ar ct="2509061549">
+      <m id="r24148631" t="d" c="51" ts="2509060931" ts-tts="25-09-06 09:31:24.973" />
+      <m id="r24148634" t="d" c="51" ts="2509060931" ts-tts="25-09-06 09:31:24.973" />
+      <m id="r24148636" t="d" c="51" ts="2509060931" ts-tts="25-09-06 09:31:24.973" />
+      <m id="r24150309" t="f" c="0" ts="2509060949" ts-tts="25-09-06 09:49:20.166" />
+      <m id="r24158607" t="d" c="43" ts="2509061111" ts-tts="25-09-06 11:11:41.339" />
+      <m id="r24158609" t="d" c="43" ts="2509061111" ts-tts="25-09-06 11:11:41.339" />
+      <m id="r24161783" t="f" c="0" ts="2509061136" ts-tts="25-09-06 11:36:49.465" />
+      <m id="r24161784" t="f" c="0" ts="2509061136" ts-tts="25-09-06 11:36:49.465" />
+      <m id="r24165614" t="f" c="0" ts="2509061208" ts-tts="25-09-06 12:09:06.176" />
+      <m id="r24165615" t="f" c="0" ts="2509061208" ts-tts="25-09-06 12:09:06.176" />
+      <m id="r24167513" t="f" c="0" ts="2509061224" ts-tts="25-09-06 12:24:30.618" />
+      <m id="r24167514" t="d" c="38" ts="2509061224" ts-tts="25-09-06 12:24:30.618" />
+      <m id="r24168817" t="f" c="0" ts="2509061237" ts-tts="25-09-06 12:37:30.053" />
+    </ar>
+  </s>
+  <s id="8082624768084024347-2509060844-11" eva="8010255">
+    <ar ct="2509061413">
+      <m id="r24031305" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+      <m id="r24031307" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+      <m id="r24031308" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+      <m id="r24031310" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+      <m id="r24031311" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+      <m id="r24031313" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+      <m id="r24031314" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+      <m id="r24031316" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+    </ar>
+    <dp ct="2509061415">
+      <m id="r24031305" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+      <m id="r24031307" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+      <m id="r24031308" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+      <m id="r24031310" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+      <m id="r24031311" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+      <m id="r24031313" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+      <m id="r24031314" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+      <m id="r24031316" t="d" c="13" ts="2509051043" ts-tts="25-09-05 10:43:29.981" />
+    </dp>
+  </s>
+  <s id="-4334444028986200539-2509060706-15" eva="8010255">
+    <m id="r977603030" t="c" ts="2509061311" ts-tts="25-09-06 13:11:54.096" />
+    <m id="r977603027" t="c" ts="2509061311" ts-tts="25-09-06 13:11:54.096" />
+    <m id="r977603028" t="c" ts="2509061311" ts-tts="25-09-06 13:11:54.096" />
+    <m id="r977603029" t="c" ts="2509061311" ts-tts="25-09-06 13:11:54.096" />
+    <ar ppth="Gdynia Glowna|Sopot|Gdansk Oliwa|Gdansk Wrzeszcz|Gdansk Glowny|Tczew|Bydgoszcz Glowna|Inowroclaw|Gniezno|Poznan Glowny|Zbaszynek|Swiebodzin|Rzepin|Frankfurt(Oder)" cp="7" pp="3" ct="2509061344" pt="2509061305">
+      <m id="r24020594" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.138" />
+      <m id="r24020596" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.138" />
+      <m id="r24020597" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.138" />
+      <m id="r24020599" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.138" />
+      <m id="r24020600" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.138" />
+      <m id="r24020602" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.138" />
+      <m id="r24020603" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.138" />
+      <m id="r24020605" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.138" />
+      <m id="r24167342" t="d" c="55" ts="2509061222" ts-tts="25-09-06 12:22:39.265" />
+      <m id="r24167344" t="d" c="55" ts="2509061222" ts-tts="25-09-06 12:22:39.266" />
+      <m id="r24167346" t="d" c="55" ts="2509061222" ts-tts="25-09-06 12:22:39.266" />
+      <m id="r24169960" t="f" c="0" ts="2509061246" ts-tts="25-09-06 12:46:29.885" />
+      <m id="r24169961" t="f" c="0" ts="2509061246" ts-tts="25-09-06 12:46:29.885" />
+      <m id="r24170390" t="f" c="0" ts="2509061250" ts-tts="25-09-06 12:50:59.735" />
+    </ar>
+    <dp ppth="Berlin Hbf" cp="7" pp="3" ct="2509061346" pt="2509061309" hi="1">
+      <m id="r24020594" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.138" />
+      <m id="r24020596" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.139" />
+      <m id="r24020597" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.139" />
+      <m id="r24020599" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.139" />
+      <m id="r24020600" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.139" />
+      <m id="r24020602" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.139" />
+      <m id="r24020603" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.139" />
+      <m id="r24020605" t="d" c="13" ts="2509050905" ts-tts="25-09-05 09:05:09.139" />
+      <m id="r24167342" t="d" c="55" ts="2509061222" ts-tts="25-09-06 12:22:39.266" />
+      <m id="r24167344" t="d" c="55" ts="2509061222" ts-tts="25-09-06 12:22:39.266" />
+      <m id="r24167346" t="d" c="55" ts="2509061222" ts-tts="25-09-06 12:22:39.266" />
+      <m id="r24169960" t="f" c="0" ts="2509061246" ts-tts="25-09-06 12:46:29.885" />
+      <m id="r24169961" t="f" c="0" ts="2509061246" ts-tts="25-09-06 12:46:29.885" />
+      <m id="r24170390" t="f" c="0" ts="2509061250" ts-tts="25-09-06 12:50:59.735" />
+    </dp>
+    <tl f="F" t="p" o="51" c="EC" n="230" />
+  </s>
+  <s id="-8986680849348819865-2509061012-17" eva="8010255">
+    <ar cpth="Magdeburg Hbf|Magdeburg-Neustadt|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Werder(Havel)|Potsdam Hbf|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz" ppth="Magdeburg Hbf|Magdeburg-Neustadt|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Werder(Havel)|Potsdam Hbf|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz" pp="1" ct="2509061438" pt="2509061209" cs="p" clt="2509061213" l="1">
+      <m id="r24155887" t="q" c="92" ts="2509061042" ts-tts="25-09-06 10:43:10.085" />
+      <m id="r24165545" t="d" c="8" ts="2509061208" ts-tts="25-09-06 12:08:18.590" />
+      <m id="r24165547" t="d" c="8" ts="2509061208" ts-tts="25-09-06 12:08:18.590" />
+    </ar>
+    <dp cpth="Berlin Ostkreuz|Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)|Frankfurt(Oder)" ppth="Berlin Ostkreuz|Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)|Frankfurt(Oder)" pp="1" ct="2509061439" pt="2509061210" cs="p" clt="2509061213" l="1">
+      <m id="r24155887" t="q" c="92" ts="2509061042" ts-tts="25-09-06 10:43:10.085" />
+      <m id="r24165545" t="d" c="8" ts="2509061208" ts-tts="25-09-06 12:08:18.590" />
+      <m id="r24165547" t="d" c="8" ts="2509061208" ts-tts="25-09-06 12:08:18.590" />
+    </dp>
+    <tl f="N" t="p" o="OWRE" c="RE" n="73726" />
+  </s>
+  <s id="-5098126381041339518-2509061401-13" eva="8010255">
+    <ar cpth="Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz" ct="2509061456" l="7">
+      <m id="r24176420" t="f" c="0" ts="2509061344" ts-tts="25-09-06 13:44:14.187" />
+    </ar>
+    <dp cpth="Berlin Ostkreuz|Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Calau(Nl)|Luckaitztal|Altdöbern|Großräschen|Sedlitz Ost|Senftenberg" ct="2509061458" l="7">
+      <m id="r24176420" t="f" c="0" ts="2509061344" ts-tts="25-09-06 13:44:14.187" />
+    </dp>
+  </s>
+  <s id="5179219691159342820-2509061326-11" eva="8010255">
+    <ar ppth="Frankfurt(Oder)|Frankfurt(Oder)-Rosengarten|Pillgram|Jacobsdorf(Mark)|Briesen(Mark)|Berkenbrück|Fürstenwalde(Spree)|Fangschleuse|Erkner|Berlin Ostkreuz" pp="7" ct="2509061632" pt="2509061429" l="1" />
+    <dp ppth="Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Wannsee|Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf" pp="7" ct="2509061633" pt="2509061430" l="1" />
+    <tl f="N" t="p" o="OWRE" c="RE" n="73777" />
+  </s>
+  <s id="-5992899827719703490-2509061412-17" eva="8010255">
+    <ar ppth="Magdeburg Hbf|Magdeburg-Neustadt|Burg(Magdeburg)|Güsen(b Genthin)|Genthin|Wusterwitz|Kirchmöser|Brandenburg Hbf|Werder(Havel)|Potsdam Hbf|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz" pp="2" ct="2509061720" pt="2509061608" l="1" />
+    <dp ppth="Berlin Ostkreuz|Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)|Frankfurt(Oder)" pp="2" ct="2509061722" pt="2509061610" l="1" />
+    <tl f="N" t="p" o="OWRE" c="RE" n="73734" />
+  </s>
+  <s id="-2564262768884264317-2509061619-13" eva="8010255">
+    <ar ppth="Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Berlin-Wannsee|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz" pp="1" ct="2509061841" pt="2509061725" l="1" />
+    <dp ppth="Berlin Ostkreuz|Erkner|Fangschleuse|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)" pp="1" ct="2509061842" pt="2509061726" l="1" />
+    <tl f="N" t="p" o="OWRE" c="RE" n="73778" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

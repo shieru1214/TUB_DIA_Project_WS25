@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tempelhof" eva="8089090">
+  <s id="-8819113931152956666-2509041001-16" eva="8089090">
+    <ar l="42">
+      <m id="r23685320" t="f" c="0" ts="2509021610" ts-tts="25-09-02 16:10:57.715" />
+      <m id="r23767199" t="f" c="0" ts="2509031200" ts-tts="25-09-03 12:00:25.298" />
+      <m id="r23767201" t="f" c="0" ts="2509031200" ts-tts="25-09-03 12:00:25.298" />
+    </ar>
+    <dp l="42">
+      <m id="r23685320" t="f" c="0" ts="2509021610" ts-tts="25-09-02 16:10:57.715" />
+      <m id="r23767199" t="f" c="0" ts="2509031200" ts-tts="25-09-03 12:00:25.298" />
+      <m id="r23767201" t="f" c="0" ts="2509031200" ts-tts="25-09-03 12:00:25.298" />
+    </dp>
+  </s>
+  <s id="5668190876533071758-2509040901-10" eva="8089090">
+    <ar l="41">
+      <m id="r23685376" t="f" c="0" ts="2509021611" ts-tts="25-09-02 16:11:29.045" />
+      <m id="r23759882" t="f" c="0" ts="2509031059" ts-tts="25-09-03 10:59:54.798" />
+    </ar>
+    <dp l="41">
+      <m id="r23685376" t="f" c="0" ts="2509021611" ts-tts="25-09-02 16:11:29.045" />
+      <m id="r23759882" t="f" c="0" ts="2509031059" ts-tts="25-09-03 10:59:54.798" />
+    </dp>
+  </s>
+  <s id="5465419147661215672-2509031631-10" eva="8089090">
+    <ar cpth="Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park" ppth="Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße" pp="1" ct="2509031726" pt="2509031652" cs="c" clt="2509031705" l="41" />
+    <dp cpth="" ppth="Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" pp="1" ct="2509031726" pt="2509031653" cs="c" clt="2509031705" pde="Berlin-Pankow" l="41" />
+    <tl f="S" t="p" o="08" c="S" n="41160" />
+  </s>
+  <s id="-9065876490929463146-2509031751-16" eva="8089090">
+    <ar ct="2509031844" l="42" />
+    <dp ct="2509031845" l="42" />
+  </s>
+  <s id="-3167857719843068388-2509031656-11" eva="8089090">
+    <ar ct="2509031720" l="46" />
+    <dp ct="2509031720" l="46" />
+  </s>
+  <s id="5241224512675213644-2509031701-10" eva="8089090">
+    <ar ct="2509031735" l="41">
+      <m id="r23681371" t="f" c="0" ts="2509021504" ts-tts="25-09-02 15:04:21.903" />
+      <m id="r23804520" t="f" c="0" ts="2509031646" ts-tts="25-09-03 16:46:28.465" />
+    </ar>
+    <dp ct="2509031736" l="41">
+      <m id="r23681371" t="f" c="0" ts="2509021504" ts-tts="25-09-02 15:04:21.903" />
+      <m id="r23804520" t="f" c="0" ts="2509031646" ts-tts="25-09-03 16:46:28.465" />
+    </dp>
+  </s>
+</timetable>

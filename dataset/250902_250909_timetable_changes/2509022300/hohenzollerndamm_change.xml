@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hohenzollerndamm" eva="8089108">
+  <s id="3208140920676803502-2509022241-10" eva="8089108">
+    <ar ct="2509022300" l="42" />
+    <dp ct="2509022301" l="42" />
+  </s>
+  <s id="7277355479068088476-2509022252-11" eva="8089108">
+    <ar ppth="Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz" pp="1" ct="2509022316" pt="2509022314" l="41" />
+    <dp ppth="Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" pp="1" ct="2509022316" pt="2509022315" l="41" />
+    <tl f="S" t="e" o="08" c="S" n="40234" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="41234" />
+    </ref>
+  </s>
+</timetable>

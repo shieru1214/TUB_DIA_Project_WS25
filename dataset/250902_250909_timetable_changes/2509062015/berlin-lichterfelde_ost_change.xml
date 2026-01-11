@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde Ost" eva="8011041">
+  <s id="-7921721817666204816-2509061942-4" eva="8011041">
+    <m id="r2473869" t="h" from="2508170000" to="2512072359" cat="Information" ts="2508172308" ts-tts="25-09-05 23:16:04.081" pr="2" />
+    <ar cpth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" ct="2509062013" l="8" />
+    <dp cpth="Blankenfelde(Teltow-Fläming)|Dahlewitz|Rangsdorf" ct="2509062014" l="8" />
+  </s>
+  <s id="-5326883167337576843-2509061812-18" eva="8011041">
+    <m id="r2473869" t="h" from="2508170000" to="2512072359" cat="Information" ts="2508172308" ts-tts="25-09-05 23:16:04.081" pr="2" />
+    <ar ct="2509062016" l="8">
+      <m id="r24212985" t="d" c="45" ts="2509061901" ts-tts="25-09-06 19:01:06.075" />
+      <m id="r24212987" t="d" c="45" ts="2509061901" ts-tts="25-09-06 19:01:06.075" />
+      <m id="r24216614" t="d" c="43" ts="2509061933" ts-tts="25-09-06 19:34:09.593" />
+    </ar>
+    <dp ct="2509062017" l="8">
+      <m id="r24212985" t="d" c="45" ts="2509061901" ts-tts="25-09-06 19:01:06.075" />
+      <m id="r24212987" t="d" c="45" ts="2509061901" ts-tts="25-09-06 19:01:06.075" />
+      <m id="r24216614" t="d" c="43" ts="2509061933" ts-tts="25-09-06 19:34:09.593" />
+    </dp>
+  </s>
+</timetable>

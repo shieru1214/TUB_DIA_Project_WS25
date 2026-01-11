@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Warschauer Straße" eva="8089045">
+  <s id="6856185892383663332-2509061821-15" eva="8089045">
+    <ar cpth="Berlin Olympiastadion|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)" ct="2509061901" l="5">
+      <m id="r24211013" t="f" c="0" ts="2509061844" ts-tts="25-09-06 18:44:30.157" />
+    </ar>
+    <dp cpth="Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" ct="2509061901" l="5">
+      <m id="r24211013" t="f" c="0" ts="2509061844" ts-tts="25-09-06 18:44:30.157" />
+    </dp>
+  </s>
+  <s id="-525962744170728203-2509061859-1" eva="8089045">
+    <dp ct="2509061900" l="3" />
+  </s>
+  <s id="4953571786526810340-2509061810-18" eva="8089045">
+    <ar ct="2509061901" l="5" />
+    <dp ct="2509061902" l="5" />
+  </s>
+  <s id="4049071038691117793-2509061915-12" eva="8089045">
+    <ar ct="2509061945" l="3" />
+  </s>
+  <s id="491255380004716013-2509061807-19" eva="8089045">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.507" pr="1" />
+    <ar ct="2509061859" l="3" />
+    <dp ct="2509061859" l="3" />
+  </s>
+  <s id="753711414034235892-2509061811-19" eva="8089045">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.746" pr="2" />
+    <ar ct="2509061903" l="7" />
+    <dp ct="2509061904" l="7" />
+  </s>
+  <s id="4440685589634261922-2509061831-15" eva="8089045">
+    <ar ct="2509061906" l="5" />
+    <dp ct="2509061906" l="5" />
+  </s>
+  <s id="-7510936848889225461-2509061838-9" eva="8089045">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.420" pr="1" />
+    <ar ct="2509061859" l="75" />
+  </s>
+</timetable>

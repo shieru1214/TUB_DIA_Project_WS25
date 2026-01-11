@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jungfernheide" eva="8011167">
+  <s id="-3391002097767000204-2509060914-17" eva="8011167">
+    <m id="r2487268" t="h" from="2509060914" to="2509061155" cat="Störung" ts="2509060900" ts-tts="25-09-06 09:00:55.545" pr="2" />
+    <ar cpth="Luckenwalde|Woltersdorf/Nuthe-Urstromtal|Trebbin|Thyrow|Ludwigsfelde|Berlin-Lichterfelde Ost|Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" ct="2509061101" l="4">
+      <m id="r24145316" t="d" c="36" ts="2509060856" ts-tts="25-09-06 08:56:48.267" />
+      <m id="r24145319" t="d" c="36" ts="2509060856" ts-tts="25-09-06 08:56:48.267" />
+      <m id="r24149768" t="f" c="0" ts="2509060943" ts-tts="25-09-06 09:43:32.481" />
+    </ar>
+    <dp cpth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Buschow|Nennhausen|Rathenow" ct="2509061102" l="4">
+      <m id="r24145316" t="d" c="36" ts="2509060856" ts-tts="25-09-06 08:56:48.267" />
+      <m id="r24145319" t="d" c="36" ts="2509060856" ts-tts="25-09-06 08:56:48.267" />
+      <m id="r24149768" t="f" c="0" ts="2509060943" ts-tts="25-09-06 09:43:32.481" />
+    </dp>
+  </s>
+  <s id="4481015520823907215-2509061002-9" eva="8011167">
+    <ar ct="2509061057" l="4">
+      <m id="r24131127" t="f" c="0" ts="2509060407" ts-tts="25-09-06 04:07:15.743" />
+    </ar>
+    <dp ct="2509061059" l="4">
+      <m id="r24131127" t="f" c="0" ts="2509060407" ts-tts="25-09-06 04:07:15.743" />
+    </dp>
+  </s>
+</timetable>

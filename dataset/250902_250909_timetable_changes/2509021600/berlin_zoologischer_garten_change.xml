@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Zoologischer Garten" eva="8010406">
+  <s id="7388196342613390136-2509021436-12" eva="8010406">
+    <ar ct="2509021635" l="1">
+      <m id="r23677901" t="d" c="48" ts="2509021403" ts-tts="25-09-02 14:03:54.344" />
+    </ar>
+    <dp ct="2509021636" l="1">
+      <m id="r23677901" t="d" c="48" ts="2509021403" ts-tts="25-09-02 14:03:54.344" />
+    </dp>
+  </s>
+  <s id="6927368918735974093-2509021626-15" eva="8010406">
+    <ar ct="2509021748" l="1" />
+    <dp ct="2509021749" l="1" />
+  </s>
+  <s id="4396219182070181868-2509021612-13" eva="8010406">
+    <ar ct="2509021754" l="1" />
+    <dp ct="2509021755" l="1" />
+  </s>
+  <s id="-1869923735659366107-2509021526-15" eva="8010406">
+    <ar ct="2509021650" l="1" />
+    <dp ct="2509021651" l="1" />
+  </s>
+  <s id="231917818137011807-2509021414-23" eva="8010406">
+    <ar cpth="Senftenberg|Sedlitz Ost|Großräschen|Altdöbern|Luckaitztal|Calau(Nl)|Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf" ct="2509021642" l="7">
+      <m id="r23679522" t="d" c="48" ts="2509021437" ts-tts="25-09-02 14:37:34.364" />
+      <m id="r23683772" t="d" c="57" ts="2509021543" ts-tts="25-09-02 15:43:24.345" />
+      <m id="r23684049" t="f" c="0" ts="2509021548" ts-tts="25-09-02 15:49:03.226" />
+    </ar>
+    <dp cpth="Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Wilhelmshorst|Michendorf|Seddin|Beelitz-Heilstätten" ct="2509021643" l="7">
+      <m id="r23679522" t="d" c="48" ts="2509021437" ts-tts="25-09-02 14:37:34.364" />
+      <m id="r23683772" t="d" c="57" ts="2509021543" ts-tts="25-09-02 15:43:24.345" />
+      <m id="r23684049" t="f" c="0" ts="2509021548" ts-tts="25-09-02 15:49:03.226" />
+    </dp>
+  </s>
+  <s id="-4056148757418496437-2509021544-7" eva="8010406">
+    <ar ct="2509021629" l="8">
+      <m id="r23686097" t="d" c="43" ts="2509021621" ts-tts="25-09-02 16:21:53.160" />
+    </ar>
+    <dp ct="2509021630" l="8">
+      <m id="r23686097" t="d" c="43" ts="2509021621" ts-tts="25-09-02 16:21:53.160" />
+    </dp>
+  </s>
+</timetable>

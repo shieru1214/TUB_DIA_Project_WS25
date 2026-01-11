@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="5377527314377604207-2509070701-8" eva="8089047">
+    <ar l="42">
+      <m id="r24145634" t="f" c="0" ts="2509060859" ts-tts="25-09-06 09:00:09.309" />
+    </ar>
+    <dp l="42">
+      <m id="r24145634" t="f" c="0" ts="2509060859" ts-tts="25-09-06 09:00:09.309" />
+    </dp>
+  </s>
+  <s id="-6455829928050227020-2509070637-2" eva="8089047">
+    <ar l="41">
+      <m id="r24143541" t="f" c="0" ts="2509060835" ts-tts="25-09-06 08:35:39.706" />
+    </ar>
+    <dp l="41">
+      <m id="r24143541" t="f" c="0" ts="2509060835" ts-tts="25-09-06 08:35:39.706" />
+    </dp>
+  </s>
+  <s id="-8489691261854919992-2509070618-8" eva="8089047">
+    <ar l="42">
+      <m id="r24142324" t="f" c="0" ts="2509060818" ts-tts="25-09-06 08:18:07.393" />
+    </ar>
+    <dp l="42">
+      <m id="r24142324" t="f" c="0" ts="2509060818" ts-tts="25-09-06 08:18:07.393" />
+    </dp>
+  </s>
+  <s id="4516351885718747053-2509061430-30" eva="8089047">
+    <ar ct="2509061547" l="5" />
+    <dp ct="2509061547" l="5" />
+  </s>
+  <s id="5528243041974601771-2509061336-16" eva="8089047">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.626" pr="2" />
+    <m id="r2487358" t="h" from="2509061130" to="2509061600" cat="Störung" ts="2509061214" ts-tts="25-09-06 12:14:53.799" pr="1" />
+    <ar cpth="Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" ct="2509061414" l="7" />
+    <dp cpth="Berlin-Grunewald" ct="2509061415" l="7" />
+  </s>
+  <s id="1942666809916019250-2509061344-14" eva="8089047">
+    <ar ct="2509061413" l="41" />
+    <dp ct="2509061414" l="41" />
+  </s>
+  <s id="-1457519881286097740-2509061429-24" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.415" pr="1" />
+    <ar ct="2509061532" l="9" />
+    <dp ct="2509061532" l="9" />
+  </s>
+  <s id="-8812414422124027655-2509061331-21" eva="8089047">
+    <ar ct="2509061418" l="5" />
+    <dp ct="2509061417" l="5" />
+  </s>
+  <s id="8331687218186256428-2509061357-7" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.415" pr="1" />
+    <ar ct="2509061413" l="9" />
+    <dp ct="2509061413" l="9" />
+  </s>
+</timetable>

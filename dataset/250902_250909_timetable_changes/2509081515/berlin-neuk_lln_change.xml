@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Neukölln" eva="8089077">
+  <s id="-6060280125174309494-2509081441-11" eva="8089077">
+    <m id="r2488245" t="h" from="2509081330" to="2509081530" cat="Störung" ts="2509081337" ts-tts="25-09-08 14:16:05.844" pr="2" />
+    <ar ct="2509081514" l="46" />
+    <dp ct="2509081515" l="46" />
+  </s>
+  <s id="3744619874221306462-2509081443-15" eva="8089077">
+    <ar ct="2509081513" l="42" />
+    <dp ct="2509081514" l="42" />
+  </s>
+  <s id="3776666740028506747-2509081508-4" eva="8089077">
+    <m id="r2488245" t="h" from="2509081330" to="2509081530" cat="Störung" ts="2509081337" ts-tts="25-09-08 14:16:05.844" pr="2" />
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße" ct="2509081518" l="45" />
+    <dp cpth="Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" ct="2509081518" l="45" />
+  </s>
+  <s id="-3097267182142623052-2509081529-6" eva="8089077">
+    <ar ct="2509081544" l="47" />
+    <dp ct="2509081545" l="47" />
+  </s>
+  <s id="3829161764756495355-2509081601-11" eva="8089077">
+    <m id="r2488245" t="h" from="2509081330" to="2509081530" cat="Störung" ts="2509081337" ts-tts="25-09-08 14:16:05.844" pr="2" />
+    <ar cpth="" ct="2509081634" cs="c" clt="2509081438" l="46" />
+    <dp cpth="" ct="2509081635" cs="c" clt="2509081438" l="46" />
+  </s>
+</timetable>

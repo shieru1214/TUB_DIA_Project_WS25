@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bornholmer Str.">
+  <s id="-4688142707107394578-2509050342-4">
+    <tl f="S" t="p" o="08" c="S" n="2008" />
+    <ar pt="2509050348" pp="3" l="2" ppth="Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)" />
+    <dp pt="2509050351" pp="3" l="2" ppth="Berlin-Pankow" />
+  </s>
+  <s id="-1608877025552722982-2509050351-2">
+    <tl f="S" t="p" o="08" c="S" n="84896" />
+    <ar pt="2509050353" pp="3" l="85" pde="Berlin Westend" ppth="Berlin Gesundbrunnen(S)" />
+    <dp pt="2509050355" pp="3" l="85" ppth="Berlin-Pankow" />
+  </s>
+</timetable>

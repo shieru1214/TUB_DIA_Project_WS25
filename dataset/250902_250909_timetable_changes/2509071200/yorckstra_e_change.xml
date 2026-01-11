@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Yorckstr.(S2)" eva="8089050">
+  <s id="5124917068271559828-2509071215-11" eva="8089050">
+    <ar ct="2509071236" l="2" />
+    <dp ct="2509071237" l="2" />
+  </s>
+  <s id="-5975367799365298124-2509071142-8" eva="8089050">
+    <ar cpth="Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)" ct="2509071200" l="2" />
+    <dp cpth="Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow" ct="2509071201" l="2" />
+  </s>
+  <s id="2226027283471872018-2509071215-9" eva="8089050">
+    <ar ct="2509071234" l="26" />
+    <dp ct="2509071234" l="26" />
+  </s>
+  <s id="3720479119184069092-2509071135-11" eva="8089050">
+    <ar ct="2509071158" l="2">
+      <m id="r24175085" t="f" c="0" ts="2509061334" ts-tts="25-09-06 13:34:24.772" />
+      <m id="r24175086" t="f" c="0" ts="2509061334" ts-tts="25-09-06 13:34:24.772" />
+    </ar>
+    <dp ct="2509071158" l="2">
+      <m id="r24175085" t="f" c="0" ts="2509061334" ts-tts="25-09-06 13:34:24.772" />
+      <m id="r24175086" t="f" c="0" ts="2509061334" ts-tts="25-09-06 13:34:24.772" />
+    </dp>
+  </s>
+</timetable>

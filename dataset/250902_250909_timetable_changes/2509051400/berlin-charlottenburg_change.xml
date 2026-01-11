@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Charlottenburg" eva="8010403">
+  <s id="-7424063805408296813-2509051327-11" eva="8010403">
+    <ar ct="2509051451" l="2">
+      <m id="r23995313" t="f" c="0" ts="2509050234" ts-tts="25-09-05 02:34:44.878" />
+    </ar>
+    <dp ct="2509051452" l="2">
+      <m id="r23995313" t="f" c="0" ts="2509050234" ts-tts="25-09-05 02:34:44.878" />
+    </dp>
+  </s>
+  <s id="-4484283661271265558-2509051255-18" eva="8010403">
+    <ar cpth="Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten" ppth="Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten" pp="3" ct="2509051451" pt="2509051423" l="7">
+      <m id="r24048571" t="f" c="0" ts="2509051322" ts-tts="25-09-05 13:23:06.156" />
+      <m id="r24048572" t="f" c="0" ts="2509051322" ts-tts="25-09-05 13:23:06.156" />
+      <m id="r24052306" t="d" c="23" ts="2509051352" ts-tts="25-09-05 13:52:32.271" />
+      <m id="r24052308" t="d" c="23" ts="2509051352" ts-tts="25-09-05 13:52:32.271" />
+    </ar>
+    <dp cpth="Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Michendorf" ppth="Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Michendorf|Seddin|Beelitz-Heilstätten" pp="3" ct="2509051452" pt="2509051424" l="7">
+      <m id="r24048571" t="f" c="0" ts="2509051322" ts-tts="25-09-05 13:23:06.156" />
+      <m id="r24048572" t="f" c="0" ts="2509051322" ts-tts="25-09-05 13:23:06.156" />
+      <m id="r24052306" t="d" c="23" ts="2509051352" ts-tts="25-09-05 13:52:32.271" />
+      <m id="r24052308" t="d" c="23" ts="2509051352" ts-tts="25-09-05 13:52:32.271" />
+    </dp>
+    <tl f="N" t="e" o="800165" c="RE" n="26101" />
+    <ref>
+      <tl f="N" t="p" o="800165" c="RE" n="3725" />
+    </ref>
+  </s>
+</timetable>

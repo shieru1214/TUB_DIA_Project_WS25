@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Altglienicke" eva="8089054">
+  <s id="-5365976065096125856-2509041229-5" eva="8089054">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <m id="r2486210" t="h" from="2509041000" to="2509041500" cat="Störung" ts="2509041020" ts-tts="25-09-04 10:20:45.721" pr="2" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.256" pr="1" />
+    <ar cpth="" ct="2509041243" cs="c" clt="2509041207" l="9" />
+    <dp cpth="Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)" cs="c" clt="2509041207" l="9" />
+  </s>
+  <s id="-8335537581173972283-2509041148-13" eva="8089054">
+    <ar ppth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" pp="1" ct="2509041223" pt="2509041222" l="9" />
+    <dp ppth="Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" pp="1" ct="2509041224" pt="2509041223" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90075" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9075" />
+    </ref>
+  </s>
+  <s id="-2979483619749519669-2509041209-5" eva="8089054">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:04.578" pr="1" />
+    <m id="r2486210" t="h" from="2509041000" to="2509041500" cat="Störung" ts="2509041020" ts-tts="25-09-04 10:20:45.721" pr="2" />
+    <m id="r2486187" t="h" from="2509040930" to="2509041500" cat="Bauarbeiten" ts="2509040931" ts-tts="25-09-04 09:31:59.256" pr="1" />
+    <ar cpth="" ct="2509041223" cs="c" clt="2509041027" l="9">
+      <m id="r23902358" t="f" c="0" ts="2509041214" ts-tts="25-09-04 12:14:26.901" />
+    </ar>
+    <dp cpth="Berlin-Grünau" ct="2509041223" cs="c" clt="2509041027" l="9">
+      <m id="r23902358" t="f" c="0" ts="2509041214" ts-tts="25-09-04 12:14:26.901" />
+    </dp>
+  </s>
+  <s id="-8705179234419496316-2509041228-13" eva="8089054">
+    <ar ppth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof" pp="1" ct="2509041302" pt="2509041302" l="9" />
+    <dp ppth="Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" pp="1" ct="2509041303" pt="2509041303" l="9" />
+    <tl f="S" t="e" o="08" c="S" n="90079" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9079" />
+    </ref>
+  </s>
+  <s id="7214069253994601686-2509041308-10" eva="8089054">
+    <m id="r2486210" t="h" from="2509041000" to="2509041500" cat="Störung" ts="2509041020" ts-tts="25-09-04 10:20:45.721" pr="2" />
+    <ar cpth="" cs="c" clt="2509041213" l="45" />
+    <dp cpth="" cs="c" clt="2509041213" l="45" />
+  </s>
+</timetable>

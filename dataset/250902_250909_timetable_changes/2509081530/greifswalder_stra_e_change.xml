@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Greifswalder Str" eva="8089011">
+  <s id="9013414681707360492-2509081454-15" eva="8089011">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.098" pr="2" />
+    <ar ct="2509081539" l="8" />
+    <dp ct="2509081538" l="8" />
+  </s>
+  <s id="3744619874221306462-2509081443-22" eva="8089011">
+    <ar ct="2509081530" l="42" />
+    <dp ct="2509081530" l="42" />
+  </s>
+  <s id="-6895777731005643395-2509081503-11" eva="8089011">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.098" pr="2" />
+    <ar cpth="Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" ct="2509081529" l="85" />
+    <dp cpth="Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" ct="2509081529" l="85" />
+  </s>
+  <s id="-4986952550052653716-2509081459-12" eva="8089011">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.098" pr="2" />
+    <ar cpth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee" ct="2509081528" l="85" />
+    <dp cpth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2509081529" l="85" />
+  </s>
+  <s id="-2230900640356315077-2509081544-7" eva="8089011">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.098" pr="2" />
+    <ar ct="2509081558" l="8" />
+    <dp ct="2509081559" l="8" />
+  </s>
+</timetable>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Osdorfer Straße" eva="8089473">
+  <s id="8780264991288993738-2509051435-3" eva="8089473">
+    <ar cpth="Teltow Stadt|Berlin-Lichterfelde Süd" ct="2509051443" l="26" />
+    <dp cpth="Berlin-Lichterfelde Ost (S)|Berlin-Lankwitz|Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof" ct="2509051444" l="26" />
+  </s>
+  <s id="3480598088572130985-2509051455-3" eva="8089473">
+    <m id="r2486784" t="h" from="2509051330" to="2509052200" cat="Störung" ts="2509051206" ts-tts="25-09-05 12:06:19.857" pr="2" />
+    <ar ct="2509051500" l="26" />
+    <dp ct="2509051500" l="26" />
+  </s>
+  <s id="-4151627679567144578-2509051515-3" eva="8089473">
+    <ar ct="2509051520" l="26" />
+    <dp ct="2509051520" l="26" />
+  </s>
+</timetable>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bellevue" eva="8089005">
+  <s id="4513650832838204072-2509022100-22" eva="8089005">
+    <ar ct="2509022156" l="5" />
+    <dp ct="2509022157" l="5" />
+  </s>
+  <s id="3377647720781430757-2509021949-19" eva="8089005">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 10:48:50.549" pr="1" />
+    <ar ct="2509022045" l="9" />
+    <dp ct="2509022046" l="9" />
+  </s>
+  <s id="1605975111611790114-2509022011-16" eva="8089005">
+    <ar ct="2509022047" l="5" />
+    <dp ct="2509022047" l="5" />
+  </s>
+  <s id="4194961227561832104-2509022042-9" eva="8089005">
+    <ar ppth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten" pp="3" ct="2509022106" pt="2509022105" l="7" />
+    <dp ppth="Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" pp="3" ct="2509022107" pt="2509022105" l="7" />
+    <tl f="S" t="e" o="08" c="S" n="70607" />
+  </s>
+  <s id="-4641308070922418001-2509022041-12" eva="8089005">
+    <m id="r2485165" t="h" from="2509021000" to="2509031800" cat="Störung" ts="2509021056" ts-tts="25-09-02 10:56:17.558" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-02 10:48:51.015" pr="1" />
+    <ar ct="2509022116" l="7" />
+    <dp ct="2509022117" l="7" />
+  </s>
+</timetable>

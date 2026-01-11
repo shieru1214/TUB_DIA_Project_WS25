@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Innsbrucker Platz" eva="8089106">
+  <s id="5241224512675213644-2509051701-13" eva="8089106">
+    <ar l="41">
+      <m id="r23960729" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:23.064" />
+      <m id="r23960730" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:23.064" />
+    </ar>
+    <dp l="41">
+      <m id="r23960729" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:23.064" />
+      <m id="r23960730" t="f" c="0" ts="2509041900" ts-tts="25-09-04 19:00:23.064" />
+    </dp>
+  </s>
+  <s id="-7789001806702028715-2509050106-4" eva="8089106">
+    <ar ppth="Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg" pp="1" ct="2509050114" pt="2509050111" l="41" />
+    <dp ppth="Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" pp="1" ct="2509050114" pt="2509050112" l="41" />
+    <tl f="S" t="e" o="08" c="S" n="40458" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="41458" />
+    </ref>
+  </s>
+</timetable>

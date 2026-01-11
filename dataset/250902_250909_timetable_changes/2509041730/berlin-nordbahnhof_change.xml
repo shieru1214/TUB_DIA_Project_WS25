@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Nordbahnhof" eva="8089024">
+  <s id="1588001568197050911-2509041655-15" eva="8089024">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:29.449" pr="1" />
+    <ar ct="2509041729" l="26" />
+    <dp ct="2509041730" l="26" />
+  </s>
+  <s id="4717567334803151884-2509041745-15" eva="8089024">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:29.449" pr="1" />
+    <ar ct="2509041816" l="25" />
+    <dp ct="2509041817" l="25" />
+  </s>
+  <s id="-1545017013876756841-2509041703-11" eva="8089024">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:29.449" pr="1" />
+    <ar cpth="" ct="2509041729" cs="c" clt="2509041558" l="26" />
+    <dp cpth="Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende|Berlin-Lankwitz|Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" cp="2" ct="2509041730" cs="p" clt="2509041558" l="26" />
+  </s>
+  <s id="4756104851573135298-2509041708-15" eva="8089024">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:29.448" pr="1" />
+    <ar ct="2509041743" l="2" />
+    <dp ct="2509041743" l="2" />
+  </s>
+  <s id="-8108259286081711061-2509041744-20" eva="8089024">
+    <m id="r2486379" t="h" from="2509041600" to="2509041830" cat="Störung" ts="2509041632" ts-tts="25-09-04 16:32:29.449" pr="1" />
+    <ar ct="2509041824" l="1" />
+    <dp ct="2509041824" l="1" />
+  </s>
+</timetable>

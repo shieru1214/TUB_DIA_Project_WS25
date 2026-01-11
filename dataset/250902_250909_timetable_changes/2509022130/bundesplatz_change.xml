@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bundesplatz" eva="8089107">
+  <s id="-6124358372188093383-2509022105-12" eva="8089107">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:09.608" pr="1" />
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz" ct="2509022131" cs="p" clt="2509021907" l="42" />
+    <dp cpth="Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)" ct="2509022131" cs="p" clt="2509021907" l="42" />
+  </s>
+  <s id="-4014989902704740220-2509022101-14" eva="8089107">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:09.608" pr="1" />
+    <ar ct="2509022132" l="41">
+      <m id="r23633601" t="f" c="0" ts="2509011658" ts-tts="25-09-02 10:22:21.436" />
+    </ar>
+    <dp ct="2509022133" l="41">
+      <m id="r23633601" t="f" c="0" ts="2509011658" ts-tts="25-09-02 10:22:21.436" />
+    </dp>
+  </s>
+  <s id="3807798573090496791-2509022041-17" eva="8089107">
+    <ar ct="2509022128" l="46" />
+    <dp ct="2509022129" l="46" />
+  </s>
+  <s id="-7803764998825249581-2509022116-7" eva="8089107">
+    <ar ct="2509022128" l="46" />
+    <dp ct="2509022129" l="46" />
+  </s>
+</timetable>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Johannisthal" eva="8089007">
+  <s id="5250170801972494779-2509051209-3" eva="8089007">
+    <ar ct="2509051215" l="8" />
+    <dp ct="2509051215" l="8" />
+  </s>
+  <s id="5066896970256571775-2509051204-103" eva="8089007">
+    <ar cpth="Berlin Ostkreuz (S)|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)" ppth="Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße" pp="3" ct="2509051222" pt="2509051217" cs="a" ps="a" clt="2509051209" l="41">
+      <m id="r24041560" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:26.708" />
+      <m id="r24041562" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:26.708" />
+      <m id="r24041564" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:26.708" />
+    </ar>
+    <dp cpth="Berlin-Adlershof|Berlin-Grünau" ppth="Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" pp="3" ct="2509051222" pt="2509051217" cs="a" ps="a" clt="2509051209" l="41">
+      <m id="r24041560" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:26.708" />
+      <m id="r24041562" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:26.708" />
+      <m id="r24041564" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:26.708" />
+    </dp>
+    <tl f="S" t="p" o="08" c="S" n="41620" />
+  </s>
+  <s id="-5365976065096125856-2509051229-7" eva="8089007">
+    <ar ct="2509051249" l="9" />
+    <dp ct="2509051250" l="9" />
+  </s>
+  <s id="8263754980513981064-2509051136-17" eva="8089007">
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)" ct="2509051213" l="46" />
+    <dp cpth="Berlin-Adlershof|Berlin-Grünau" ct="2509051214" l="46" />
+  </s>
+  <s id="-6489245693699585350-2509051229-3" eva="8089007">
+    <ar ct="2509051234" l="8" />
+    <dp ct="2509051235" l="8" />
+  </s>
+</timetable>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Friedrichshagen">
+  <s id="-2625871081504659022-2509070525-4">
+    <tl f="S" t="p" o="08" c="S" n="3228" />
+    <ar pt="2509070535" pp="4" l="3" ppth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf" />
+    <dp pt="2509070536" pp="4" l="3" ppth="Berlin-Hirschgarten|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)" />
+  </s>
+  <s id="-4172830999264414540-2509070455-4">
+    <tl f="S" t="p" o="08" c="S" n="3226" />
+    <ar pt="2509070505" pp="4" l="3" ppth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf" />
+    <dp pt="2509070506" pp="4" l="3" ppth="Berlin-Hirschgarten|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)" />
+  </s>
+  <s id="3754161668143059461-2509070456-10">
+    <tl f="S" t="p" o="08" c="S" n="3225" />
+    <ar pt="2509070519" pp="4" l="3" ppth="Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick|Berlin-Hirschgarten" />
+    <dp pt="2509070519" pp="4" l="3" ppth="Berlin-Rahnsdorf|Berlin-Wilhelmshagen|Erkner (S)" />
+  </s>
+  <s id="-4725303365029798404-2509070526-9">
+    <tl f="S" t="p" o="08" c="S" n="3227" />
+    <ar pt="2509070549" pp="3" l="3" ppth="Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick" />
+    <dp pt="2509070549" pp="3" l="3" ppth="Berlin-Rahnsdorf|Berlin-Wilhelmshagen|Erkner (S)" />
+  </s>
+</timetable>

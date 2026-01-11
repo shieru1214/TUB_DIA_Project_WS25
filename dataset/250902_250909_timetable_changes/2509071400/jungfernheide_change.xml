@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jungfernheide" eva="8011167">
+  <s id="2057258557206036573-2509071303-10" eva="8011167">
+    <m id="r2487629" t="h" from="2509071303" to="2509071527" cat="Störung" ts="2509071008" ts-tts="25-09-07 10:08:59.929" pr="2" />
+    <ar cpth="Berlin Hbf" ct="2509071402" l="4">
+      <m id="r24238477" t="f" c="0" ts="2509070149" ts-tts="25-09-07 01:49:39.615" />
+      <m id="r24253892" t="d" c="36" ts="2509071003" ts-tts="25-09-07 10:03:51.709" />
+      <m id="r24253894" t="d" c="36" ts="2509071003" ts-tts="25-09-07 10:03:51.709" />
+    </ar>
+    <dp cpth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Nennhausen|Rathenow|Stendal Hbf" ct="2509071402" l="4">
+      <m id="r24238477" t="f" c="0" ts="2509070149" ts-tts="25-09-07 01:49:39.615" />
+      <m id="r24253892" t="d" c="36" ts="2509071003" ts-tts="25-09-07 10:03:51.709" />
+      <m id="r24253894" t="d" c="36" ts="2509071003" ts-tts="25-09-07 10:03:51.709" />
+    </dp>
+  </s>
+</timetable>

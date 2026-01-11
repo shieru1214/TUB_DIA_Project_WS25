@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hermannstraße" eva="8089105">
+  <s id="6052105608578105914-2509031831-9" eva="8089105">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar ct="2509031851" l="41" />
+    <dp ct="2509031852" l="41" />
+  </s>
+  <s id="-6824790885859043817-2509031844-1" eva="8089105">
+    <dp ct="2509031845" l="47" />
+  </s>
+  <s id="9106103374543530311-2509031924-5" eva="8089105">
+    <ar ct="2509031937" l="41" />
+    <dp ct="2509031938" l="41" />
+  </s>
+  <s id="-4718814994247138592-2509031825-17" eva="8089105">
+    <m id="r2485869" t="h" from="2509031700" to="2509031900" cat="Störung" ts="2509031727" ts-tts="25-09-03 17:27:59.996" pr="1" />
+    <ar ct="2509031917" l="42" />
+    <dp ct="2509031917" l="42" />
+  </s>
+  <s id="-8178395365443570460-2509031837-12" eva="8089105">
+    <ar ct="2509031915" l="45" />
+    <dp ct="2509031915" l="45" />
+  </s>
+  <s id="-3811058910454922774-2509031816-12" eva="8089105">
+    <ar cpth="Berlin Westend|Berlin Charlottenburg (S)|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof" ct="2509031843" l="46" />
+    <dp cpth="Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" ct="2509031844" l="46" />
+  </s>
+  <s id="5472169967215975852-2509031801-12" eva="8089105">
+    <ar ct="2509031843" l="46" />
+    <dp ct="2509031843" l="46" />
+  </s>
+  <s id="-8959563473216261185-2509031817-12" eva="8089105">
+    <ar ct="2509031852" l="45" />
+    <dp ct="2509031852" l="45" />
+  </s>
+</timetable>

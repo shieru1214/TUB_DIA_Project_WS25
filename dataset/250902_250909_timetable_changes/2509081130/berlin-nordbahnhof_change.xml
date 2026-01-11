@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Nordbahnhof" eva="8089024">
+  <s id="-7241393807151395756-2509081159-5" eva="8089024">
+    <ar ppth="Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße" pp="4" pt="2509081206" l="26" />
+    <dp ppth="Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" pp="4" pt="2509081206" l="26" />
+    <tl f="S" t="s" o="08" c="S" n="28560" />
+  </s>
+  <s id="-3414550981792150961-2509081154-7" eva="8089024">
+    <m id="r2488182" t="h" from="2509081030" to="2509082030" cat="Störung" ts="2509081116" ts-tts="25-09-08 11:17:10.898" pr="2" />
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain" l="26" />
+    <dp cpth="Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)" l="26" />
+  </s>
+  <s id="2180902073299215923-2509081235-15" eva="8089024">
+    <m id="r2488182" t="h" from="2509081030" to="2509082030" cat="Störung" ts="2509081116" ts-tts="25-09-08 11:17:10.898" pr="2" />
+    <ar cpth="Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße" l="26" />
+    <dp cpth="Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" l="26" />
+  </s>
+  <s id="6878401629092471609-2509081145-15" eva="8089024">
+    <m id="r2488181" t="h" from="2509081030" to="2509081930" cat="Störung" ts="2509081114" ts-tts="25-09-08 11:14:45.234" pr="2" />
+    <ar ct="2509081216" l="25" />
+    <dp ct="2509081217" l="25" />
+  </s>
+  <s id="-8916391822343292993-2509081114-7" eva="8089024">
+    <m id="r2488182" t="h" from="2509081030" to="2509082030" cat="Störung" ts="2509081116" ts-tts="25-09-08 11:17:10.898" pr="2" />
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain" ct="2509081130" l="26" />
+    <dp cpth="Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)" ct="2509081130" l="26" />
+  </s>
+  <s id="2226027283471872018-2509081215-15" eva="8089024">
+    <m id="r2488182" t="h" from="2509081030" to="2509082030" cat="Störung" ts="2509081116" ts-tts="25-09-08 11:17:10.898" pr="2" />
+    <ar cpth="Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße" l="26" />
+    <dp cpth="Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" l="26" />
+  </s>
+  <s id="2749471230771501546-2509081134-7" eva="8089024">
+    <m id="r2488182" t="h" from="2509081030" to="2509082030" cat="Störung" ts="2509081116" ts-tts="25-09-08 11:17:10.898" pr="2" />
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain" ct="2509081149" l="26" />
+    <dp cpth="Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)" ct="2509081149" l="26" />
+  </s>
+  <s id="4567169842498625074-2509081103-9" eva="8089024">
+    <m id="r2488011" t="h" from="2509080700" to="2509081230" cat="Störung" ts="2509080717" ts-tts="25-09-08 07:17:56.722" pr="2" />
+    <ar ct="2509081128" l="2" />
+    <dp ct="2509081129" l="2" />
+  </s>
+  <s id="308448635284740799-2509081144-20" eva="8089024">
+    <m id="r2488110" t="h" from="2509080900" to="2509082100" cat="Störung" ts="2509080952" ts-tts="25-09-08 09:52:58.712" pr="2" />
+    <ar ct="2509081224" l="1" />
+    <dp ct="2509081224" l="1" />
+  </s>
+  <s id="-1706282123195845411-2509081143-9" eva="8089024">
+    <m id="r2488011" t="h" from="2509080700" to="2509081230" cat="Störung" ts="2509080717" ts-tts="25-09-08 07:17:56.722" pr="2" />
+    <ar ct="2509081204" l="2" />
+    <dp ct="2509081204" l="2" />
+  </s>
+</timetable>

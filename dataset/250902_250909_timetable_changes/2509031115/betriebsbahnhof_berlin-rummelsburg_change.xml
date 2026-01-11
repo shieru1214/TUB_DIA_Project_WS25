@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Betriebsbf Rummelsburg" eva="8089006">
+  <s id="-2334258063280761431-2509040347-8" eva="8089006">
+    <ar cpth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)" cs="p" clt="2509031111" l="3" />
+    <dp cpth="Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" cs="p" clt="2509031111" l="3" />
+  </s>
+  <s id="437893530459165241-2509031130-4" eva="8089006">
+    <ar ct="2509031139" l="3" />
+    <dp ct="2509031139" l="3" />
+  </s>
+  <s id="-3532605719182759670-2509031027-22" eva="8089006">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:04.476" pr="1" />
+    <ar ct="2509031115" l="3" />
+    <dp ct="2509031115" l="3" />
+  </s>
+</timetable>

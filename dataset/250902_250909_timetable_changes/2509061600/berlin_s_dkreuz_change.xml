@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Südkreuz" eva="8011113">
+  <s id="-3111969585006204270-2509061421-7" eva="8011113">
+    <ar ct="2509061632" />
+    <dp ct="2509061635" />
+  </s>
+  <s id="-7242833275344733401-2509061252-4" eva="8011113">
+    <ar ct="2509061649" />
+    <dp ct="2509061652" />
+  </s>
+  <s id="8809488102515669536-2509061412-19" eva="8011113">
+    <m id="r2473869" t="h" from="2508170000" to="2512072359" cat="Information" ts="2508172308" ts-tts="25-09-05 23:16:03.521" pr="2" />
+    <ar ct="2509061600" l="8">
+      <m id="r24177424" t="d" c="21" ts="2509061354" ts-tts="25-09-06 13:54:58.429" />
+      <m id="r24177429" t="d" c="21" ts="2509061354" ts-tts="25-09-06 13:54:58.429" />
+    </ar>
+    <dp ct="2509061602" l="8">
+      <m id="r24177424" t="d" c="21" ts="2509061354" ts-tts="25-09-06 13:54:58.429" />
+      <m id="r24177429" t="d" c="21" ts="2509061354" ts-tts="25-09-06 13:54:58.429" />
+    </dp>
+  </s>
+  <s id="6874848260242769854-2509061609-12" eva="8011113">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-05 23:16:03.503" pr="3" />
+    <ar cpth="Frankfurt(Main)Süd|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf|Stendal Hbf|Berlin-Spandau|Berlin Hbf" ct="2509062042">
+      <m id="r24191463" t="d" c="48" ts="2509061548" ts-tts="25-09-06 15:48:28.970" />
+      <m id="r24191465" t="d" c="48" ts="2509061548" ts-tts="25-09-06 15:48:28.970" />
+      <m id="r24191467" t="d" c="48" ts="2509061548" ts-tts="25-09-06 15:48:28.970" />
+    </ar>
+  </s>
+  <s id="8196198315689291117-2509061113-1" eva="8011113">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-05 23:16:03.503" pr="3" />
+    <dp cpth="Berlin Hbf|Berlin-Spandau|Stendal Hbf|Wolfsburg Hbf|Braunschweig Hbf|Hildesheim Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda|Bad Soden-Salmünster|Frankfurt(Main)Süd" ct="2509061113" />
+  </s>
+  <s id="3109835488225486737-2509060730-20" eva="8011113">
+    <ar ct="2509061848">
+      <m id="r24192668" t="d" c="24" ts="2509061559" ts-tts="25-09-06 15:59:07.166" />
+      <m id="r24192670" t="d" c="24" ts="2509061559" ts-tts="25-09-06 15:59:07.167" />
+    </ar>
+    <dp ct="2509061857">
+      <m id="r24192668" t="d" c="24" ts="2509061559" ts-tts="25-09-06 15:59:07.167" />
+      <m id="r24192670" t="d" c="24" ts="2509061559" ts-tts="25-09-06 15:59:07.167" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:48.013" />
+</timetable>

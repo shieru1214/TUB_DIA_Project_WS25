@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jannowitzbrücke" eva="8089019">
+  <s id="2645118106325763903-2509052329-7" eva="8089019">
+    <ar ppth="Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)" pp="4" ct="2509052344" pt="2509052342" l="3" />
+    <dp ppth="Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" pp="4" ct="2509052345" pt="2509052343" l="3" />
+    <tl f="S" t="e" o="08" c="S" n="30162" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="3162" />
+    </ref>
+  </s>
+  <s id="-8927383541084970752-2509052317-17" eva="8089019">
+    <ar ct="2509060001" l="9" />
+    <dp ct="2509060002" l="9" />
+  </s>
+</timetable>

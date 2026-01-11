@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Baumschulenweg" eva="8089004">
+  <s id="1404747899022992313-2509081023-18" eva="8089004">
+    <ar ct="2509081116" l="85" />
+    <dp ct="2509081116" l="85" />
+  </s>
+  <s id="-1336996167293068736-2509081024-4" eva="8089004">
+    <ar ct="2509081031" l="47" />
+    <dp ct="2509081033" l="47" />
+  </s>
+  <s id="-8593121480170928054-2509081019-5" eva="8089004">
+    <ar ct="2509081030" l="85" />
+    <dp ct="2509081030" l="85" />
+  </s>
+  <s id="-819772797836195503-2509080937-22" eva="8089004">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-07 23:16:04.476" pr="1" />
+    <ar ct="2509081030" l="9" />
+    <dp ct="2509081031" l="9" />
+  </s>
+  <s id="5472187899539715801-2509080959-5" eva="8089004">
+    <ar cpth="Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)" ct="2509081010" l="85" />
+    <dp cpth="Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee|Berlin Greifswalder Str|Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust" ct="2509081011" l="85" />
+  </s>
+  <s id="5862582795052122538-2509081044-4" eva="8089004">
+    <ar ct="2509081051" l="47" />
+    <dp ct="2509081053" l="47" />
+  </s>
+  <s id="-5071454698431010529-2509081024-14" eva="8089004">
+    <ar ct="2509081055" l="8" />
+    <dp ct="2509081055" l="8" />
+  </s>
+  <s id="-3834767604285670140-2509081044-14" eva="8089004">
+    <ar ct="2509081115" l="8" />
+    <dp ct="2509081115" l="8" />
+  </s>
+</timetable>

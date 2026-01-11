@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Marienfelde" eva="8089074">
+  <s id="6519495839722980473-2509041935-15" eva="8089074">
+    <ar ct="2509042009" l="2" />
+    <dp ct="2509042010" l="2" />
+  </s>
+  <s id="-1846443837140088207-2509041925-15" eva="8089074">
+    <ar cpth="Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)" ct="2509042003" cs="c" clt="2509041945" l="2">
+      <m id="r23967354" t="d" c="36" ts="2509041945" ts-tts="25-09-04 19:45:21.109" />
+    </ar>
+    <dp cpth="" ct="2509042003" cs="c" clt="2509041945" l="2">
+      <m id="r23967354" t="d" c="36" ts="2509041945" ts-tts="25-09-04 19:45:21.109" />
+    </dp>
+  </s>
+</timetable>

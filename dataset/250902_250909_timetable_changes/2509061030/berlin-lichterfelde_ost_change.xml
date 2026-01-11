@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichterfelde Ost" eva="8011041">
+  <s id="7275444040784469565-2509060833-7" eva="8011041">
+    <ar cpth="Jüterbog|Luckenwalde|Ludwigsfelde|Birkengrund|Großbeeren|Teltow" ct="2509060927" l="3">
+      <m id="r24125991" t="q" c="74" ts="2509060102" ts-tts="25-09-06 01:02:49.847" />
+      <m id="r24125993" t="q" c="74" ts="2509060102" ts-tts="25-09-06 01:02:49.847" />
+      <m id="r24148138" t="d" c="43" ts="2509060925" ts-tts="25-09-06 09:25:37.550" />
+      <m id="r24148140" t="d" c="43" ts="2509060925" ts-tts="25-09-06 09:25:37.550" />
+    </ar>
+    <dp cpth="Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf|Berlin Gesundbrunnen|Bernau(b Berlin)|Eberswalde Hbf|Britz|Chorin|Angermünde" ct="2509060928" l="3">
+      <m id="r24125991" t="q" c="74" ts="2509060102" ts-tts="25-09-06 01:02:49.847" />
+      <m id="r24125993" t="q" c="74" ts="2509060102" ts-tts="25-09-06 01:02:49.847" />
+      <m id="r24148138" t="d" c="43" ts="2509060925" ts-tts="25-09-06 09:25:37.550" />
+      <m id="r24148140" t="d" c="43" ts="2509060925" ts-tts="25-09-06 09:25:37.550" />
+    </dp>
+  </s>
+  <s id="-5523436909908362181-2509061106-13" eva="8011041">
+    <ar cpth="Angermünde|Chorin|Britz|Eberswalde Hbf|Bernau(b Berlin)|Berlin Gesundbrunnen|Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz" l="3">
+      <m id="r24126005" t="q" c="73" ts="2509060103" ts-tts="25-09-06 01:03:20.985" />
+      <m id="r24126007" t="q" c="73" ts="2509060103" ts-tts="25-09-06 01:03:20.985" />
+      <m id="r24154275" t="f" c="0" ts="2509061029" ts-tts="25-09-06 10:29:25.145" />
+    </ar>
+    <dp cpth="Teltow|Großbeeren|Birkengrund|Ludwigsfelde|Luckenwalde|Jüterbog|Niedergörsdorf|Blönsdorf|Zahna|Bülzig|Zörnigall|Lutherstadt Wittenberg Hbf" l="3">
+      <m id="r24126005" t="q" c="73" ts="2509060103" ts-tts="25-09-06 01:03:20.985" />
+      <m id="r24126007" t="q" c="73" ts="2509060103" ts-tts="25-09-06 01:03:20.985" />
+      <m id="r24154275" t="f" c="0" ts="2509061029" ts-tts="25-09-06 10:29:25.145" />
+    </dp>
+  </s>
+  <s id="2400510846142191970-2509060906-13" eva="8011041">
+    <ar ct="2509061048" l="3">
+      <m id="r24148659" t="q" c="95" ts="2509060931" ts-tts="25-09-06 09:31:40.781" />
+      <m id="r24149067" t="q" c="88" ts="2509060935" ts-tts="25-09-06 09:35:54.190" />
+      <m id="r24149069" t="q" c="88" ts="2509060935" ts-tts="25-09-06 09:35:54.190" />
+      <m id="r24149090" t="q" c="73" ts="2509060936" ts-tts="25-09-06 09:36:10.040" />
+      <m id="r24149092" t="q" c="73" ts="2509060936" ts-tts="25-09-06 09:36:10.040" />
+    </ar>
+    <dp ct="2509061049" l="3">
+      <m id="r24148659" t="q" c="95" ts="2509060931" ts-tts="25-09-06 09:31:40.781" />
+      <m id="r24149067" t="q" c="88" ts="2509060935" ts-tts="25-09-06 09:35:54.190" />
+      <m id="r24149069" t="q" c="88" ts="2509060935" ts-tts="25-09-06 09:35:54.190" />
+      <m id="r24149090" t="q" c="73" ts="2509060936" ts-tts="25-09-06 09:36:10.040" />
+      <m id="r24149092" t="q" c="73" ts="2509060936" ts-tts="25-09-06 09:36:10.040" />
+    </dp>
+  </s>
+</timetable>

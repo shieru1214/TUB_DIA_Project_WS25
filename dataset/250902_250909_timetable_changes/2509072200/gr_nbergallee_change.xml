@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Grünbergallee" eva="8089016">
+  <s id="2100641250804966099-2509072149-4" eva="8089016">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.181" pr="1" />
+    <ar ct="2509072200" l="9" />
+    <dp ct="2509072201" l="9" />
+  </s>
+  <s id="6204014190158519494-2509072148-11" eva="8089016">
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" ct="2509072216" cs="c" clt="2509072156" l="45" />
+    <dp cpth="" ct="2509072215" cs="c" clt="2509072156" l="45" />
+  </s>
+</timetable>

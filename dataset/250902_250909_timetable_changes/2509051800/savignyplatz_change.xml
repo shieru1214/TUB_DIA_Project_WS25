@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Savignyplatz" eva="8089037">
+  <s id="7388368578082871397-2509051650-28" eva="8089037">
+    <ar ct="2509051803" l="5" />
+    <dp ct="2509051804" l="5" />
+  </s>
+  <s id="3905204132014897762-2509051731-9" eva="8089037">
+    <m id="r2486678" t="h" from="2509050700" to="2509060330" cat="Störung" ts="2509050743" ts-tts="25-09-05 07:43:07.848" pr="2" />
+    <ar ct="2509051800" l="7" />
+    <dp ct="2509051801" l="7" />
+  </s>
+  <s id="5245167490501315424-2509051814-6" eva="8089037">
+    <ar ct="2509051837" l="7" />
+    <dp ct="2509051837" l="7" />
+  </s>
+  <s id="-2206002407788251189-2509051651-9" eva="8089037">
+    <ar ct="2509051722" l="7" />
+    <dp ct="2509051723" cde="Berlin-Kaulsdorf" dc="1" l="7" />
+  </s>
+  <s id="-769611413363731020-2509051707-21" eva="8089037">
+    <ar cpth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen|Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)" ct="2509051802" cs="p" clt="2509051652" l="3" />
+    <dp cpth="Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" ct="2509051802" cs="p" clt="2509051652" l="3" />
+  </s>
+</timetable>

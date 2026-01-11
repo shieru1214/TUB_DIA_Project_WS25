@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Grunewald" eva="8089062">
+  <s id="-2803286893090606272-2509082353-102" eva="8089062">
+    <ar cpth="Berlin Charlottenburg (S)|Berlin Westkreuz" ppth="" pp="1" ct="2509082344" pt="2509082342" ps="a" l="7" />
+    <dp cpth="Berlin-Nikolassee|Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" ppth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="1" ct="2509082344" pt="2509082343" ps="a" l="7" />
+    <tl f="S" t="e" o="08" c="S" n="70154" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="7154" />
+    </ref>
+  </s>
+  <s id="3332264459580462531-2509082321-6" eva="8089062">
+    <m id="r2488251" t="h" from="2509081300" to="2509082359" cat="Störung" ts="2509081349" ts-tts="25-09-08 17:16:04.715" pr="2" />
+    <m id="r2488395" t="h" from="2509081930" to="2509082359" cat="Störung" ts="2509081950" ts-tts="25-09-08 19:50:37.606" pr="1" />
+    <m id="r2479822" t="h" from="2508210000" to="2509160000" cat="Information" ts="2508211458" ts-tts="25-09-07 23:16:05.067" pr="1" />
+    <ar ct="2509082343" l="7" />
+    <dp ct="2509082344" l="7" />
+  </s>
+</timetable>

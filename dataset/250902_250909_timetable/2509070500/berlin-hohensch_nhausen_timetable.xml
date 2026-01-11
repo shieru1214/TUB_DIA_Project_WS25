@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Hohenschönhausen">
+  <s id="2626487540790602472-2509070508-6">
+    <tl f="N" t="p" o="800165" c="RB" n="18303" />
+    <ar pt="2509070539" pp="4" l="24" ppth="Eberswalde Hbf|Melchow|Biesenthal|Rüdnitz|Bernau(b Berlin)" />
+    <dp pt="2509070540" pp="4" l="24" ppth="Berlin-Lichtenberg|Berlin Ostkreuz|Berlin-Schöneweide|Schönefeld(bei Berlin)" />
+  </s>
+  <s id="8043302214047657692-2509070449-5">
+    <tl f="N" t="p" o="800165" c="RB" n="18300" />
+    <ar pt="2509070521" pp="3" l="24" ppth="Schönefeld(bei Berlin)|Berlin-Schöneweide|Berlin Ostkreuz|Berlin-Lichtenberg" />
+    <dp pt="2509070522" pp="3" l="24" ppth="Bernau(b Berlin)|Rüdnitz|Biesenthal|Melchow|Eberswalde Hbf" />
+  </s>
+</timetable>

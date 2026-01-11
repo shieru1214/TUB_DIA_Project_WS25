@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Karow">
+  <s id="-4740919656339794452-2509041220-1">
+    <tl f="S" t="p" o="08" c="S" n="22058" />
+    <dp pt="2509041220" pp="2" l="2" ppth="Berlin-Buch|Röntgental|Zepernick(Bernau)|Bernau-Friedenstal|Bernau (S)" />
+  </s>
+  <s id="5404312332740773438-2509041200-1">
+    <tl f="S" t="p" o="08" c="S" n="22056" />
+    <dp pt="2509041200" pp="2" l="2" ppth="Berlin-Buch|Röntgental|Zepernick(Bernau)|Bernau-Friedenstal|Bernau (S)" />
+  </s>
+  <s id="-746857946885021678-2509041257-1">
+    <tl f="N" t="p" o="NBRB27" c="RB" n="61059" />
+    <dp pt="2509041257" pp="1" l="27" ppth="Schönerlinde|Schönwalde(Barnim)|Basdorf|Zühlsdorf|Wensickendorf" />
+  </s>
+  <s id="8912333465697243358-2509041243-2">
+    <tl f="S" t="p" o="08" c="S" n="22591" />
+    <ar pt="2509041246" pp="2" l="2" ppth="Berlin-Buch" />
+  </s>
+  <s id="-306893213014607872-2509041202-6">
+    <tl f="N" t="p" o="NBRB27" c="RB" n="61056" />
+    <ar pt="2509041223" pp="1" l="27" ppth="Wensickendorf|Zühlsdorf|Basdorf|Schönwalde(Barnim)|Schönerlinde" />
+  </s>
+  <s id="-3853672552662819257-2509041227-7">
+    <tl f="N" t="p" o="NBRB27" c="RB" n="61016" />
+    <ar pt="2509041253" pp="1" l="27" ppth="Klosterfelde|Wandlitzsee|Wandlitz|Basdorf|Schönwalde(Barnim)|Schönerlinde" />
+  </s>
+  <s id="-6355970002553519019-2509041203-2">
+    <tl f="S" t="p" o="08" c="S" n="22587" />
+    <ar pt="2509041206" pp="2" l="2" ppth="Berlin-Buch" />
+  </s>
+  <s id="4668601283895060339-2509041240-1">
+    <tl f="S" t="p" o="08" c="S" n="22060" />
+    <dp pt="2509041240" pp="2" l="2" ppth="Berlin-Buch|Röntgental|Zepernick(Bernau)|Bernau-Friedenstal|Bernau (S)" />
+  </s>
+  <s id="-6774341492467563822-2509041230-1">
+    <tl f="S" t="p" o="08" c="S" n="22584" />
+    <dp pt="2509041230" pp="2" l="2" ppth="Berlin-Buch" />
+  </s>
+  <s id="6436640361619307307-2509041203-6">
+    <tl f="S" t="p" o="08" c="S" n="22063" />
+    <ar pt="2509041216" pp="2" l="2" ppth="Bernau (S)|Bernau-Friedenstal|Zepernick(Bernau)|Röntgental|Berlin-Buch" />
+  </s>
+  <s id="4409175307521145068-2509041223-2">
+    <tl f="S" t="p" o="08" c="S" n="22589" />
+    <ar pt="2509041226" pp="2" l="2" ppth="Berlin-Buch" />
+  </s>
+  <s id="2545394292784602748-2509041223-6">
+    <tl f="S" t="p" o="08" c="S" n="22065" />
+    <ar pt="2509041236" pp="2" l="2" ppth="Bernau (S)|Bernau-Friedenstal|Zepernick(Bernau)|Röntgental|Berlin-Buch" />
+  </s>
+  <s id="-1661308284475133062-2509041210-1">
+    <tl f="S" t="p" o="08" c="S" n="22582" />
+    <dp pt="2509041210" pp="2" l="2" ppth="Berlin-Buch" />
+  </s>
+  <s id="-6291060220500884587-2509041250-1">
+    <tl f="S" t="p" o="08" c="S" n="22586" />
+    <dp pt="2509041250" pp="2" l="2" ppth="Berlin-Buch" />
+  </s>
+  <s id="6376334088029834694-2509041243-6">
+    <tl f="S" t="p" o="08" c="S" n="22067" />
+    <ar pt="2509041256" pp="2" l="2" ppth="Bernau (S)|Bernau-Friedenstal|Zepernick(Bernau)|Röntgental|Berlin-Buch" />
+  </s>
+  <s id="-1800424775736490194-2509041227-1">
+    <tl f="N" t="p" o="NBRB27" c="RB" n="61017" />
+    <dp pt="2509041227" pp="1" l="27" ppth="Schönerlinde|Schönwalde(Barnim)|Basdorf|Wandlitz|Wandlitzsee|Klosterfelde|Lottschesee|Ruhlsdorf-Zerpenschleuse|Klandorf|Groß Schönebeck" />
+  </s>
+</timetable>

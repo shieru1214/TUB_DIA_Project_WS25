@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Greifswalder Str" eva="8089011">
+  <s id="-7726689985520232746-2509081359-12" eva="8089011">
+    <m id="r2488245" t="h" from="2509081330" to="2509082359" cat="Störung" ts="2509081337" ts-tts="25-09-08 13:37:22.285" pr="2" />
+    <ar cpth="Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee" ct="2509081433" l="85" />
+    <dp cpth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2509081433" l="85" />
+  </s>
+  <s id="4701659602580441425-2509081403-7" eva="8089011">
+    <ar ct="2509081418" l="41" />
+    <dp ct="2509081417" l="41" />
+  </s>
+  <s id="-3159030123589773645-2509081328-22" eva="8089011">
+    <ar ct="2509081416" l="42" />
+    <dp ct="2509081416" l="42" />
+  </s>
+</timetable>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Lichtenberg" eva="8010036">
+  <s id="-344924513865822897-2509070714-1" eva="8010036">
+    <dp ct="2509070715" l="32" />
+  </s>
+  <s id="6294683128995472996-2509070633-14" eva="8010036">
+    <ar cpth="Templin|Hammelspring|Vogelsang(Kr Oberhavel)|Zehdenick-Neuhof|Zehdenick(Mark)|Bergsdorf|Löwenberg(Mark)|Grüneberg|Nassenheide|Sachsenhausen(Nordb)|Oranienburg|Berlin-Hohenschönhausen" ct="2509070759" l="12">
+      <m id="r24244422" t="d" c="47" ts="2509070653" ts-tts="25-09-07 06:53:48.124" />
+      <m id="r24244424" t="d" c="47" ts="2509070653" ts-tts="25-09-07 06:53:48.124" />
+    </ar>
+    <dp cpth="Berlin Ostkreuz" ct="2509070800" l="12">
+      <m id="r24244422" t="d" c="47" ts="2509070653" ts-tts="25-09-07 06:53:48.124" />
+      <m id="r24244424" t="d" c="47" ts="2509070653" ts-tts="25-09-07 06:53:48.124" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:48.013" />
+</timetable>

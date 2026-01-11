@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Frohnau" eva="8089061">
+  <s id="-2657762476283362117-2509042053-3" eva="8089061">
+    <ar ppth="Berlin-Waidmannslust|Berlin-Hermsdorf" pp="1" ct="2509042059" pt="2509042058" l="1" />
+    <dp ppth="Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" pp="1" ct="2509042100" pt="2509042058" l="1" />
+    <tl f="S" t="e" o="08" c="S" n="10144" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="1144" />
+    </ref>
+  </s>
+  <s id="6245227535258251283-2509042114-29" eva="8089061">
+    <ar ct="2509042218" l="1" />
+    <dp ct="2509042218" l="1" />
+  </s>
+  <s id="7041875072246959066-2509042058-1" eva="8089061">
+    <dp ct="2509042058" l="1" />
+  </s>
+</timetable>

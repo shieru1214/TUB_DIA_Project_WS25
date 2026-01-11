@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Schöneberg" eva="8089474">
+  <s id="-8505691472837027427-2509072353-3" eva="8089474">
+    <ar ppth="Berlin-Tempelhof|Berlin Südkreuz (S)" pp="11" ct="2509080004" pt="2509072357" l="41" />
+    <dp ppth="Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)" pp="11" ct="2509080004" pt="2509072357" l="41" />
+    <tl f="S" t="e" o="08" c="S" n="40244" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="41244" />
+    </ref>
+  </s>
+  <s id="-8189148788276870459-2509072341-15" eva="8089474">
+    <ar ct="2509080025" l="46" />
+    <dp ct="2509080025" l="46" />
+  </s>
+  <s id="-2243572634543612365-2509072331-14" eva="8089474">
+    <ar cp="11" ct="2509072359" l="42" />
+    <dp cp="11" ct="2509080000" l="42" />
+  </s>
+  <s id="-6719077218917581860-2509072341-12" eva="8089474">
+    <ar ct="2509080013" l="41" />
+    <dp ct="2509080013" l="41" />
+  </s>
+  <s id="-2456133143939163618-2509072348-7" eva="8089474">
+    <ar cpth="" ppth="Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)" pp="11" ct="2509080010" pt="2509080002" cs="c" clt="2509072344" l="46">
+      <m id="r24333870" t="f" c="0" ts="2509072343" ts-tts="25-09-07 23:43:33.696" />
+    </ar>
+    <dp cpth="" ppth="Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm|Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" pp="11" ct="2509080011" pt="2509080003" cs="c" clt="2509072344" l="46">
+      <m id="r24333870" t="f" c="0" ts="2509072343" ts-tts="25-09-07 23:43:33.696" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="48434" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="46434" />
+    </ref>
+  </s>
+  <s id="7649088808996046723-2509080014-12" eva="8089474">
+    <ar ct="2509080036" l="1" />
+    <dp ct="2509080037" l="1" />
+  </s>
+  <s id="-2498780694309963457-2509072342-9" eva="8089474">
+    <ar ct="2509072358" l="1" />
+    <dp ct="2509072359" l="1" />
+  </s>
+</timetable>

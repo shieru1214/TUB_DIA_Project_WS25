@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Pankow" eva="8089080">
+  <s id="1046492203546714054-2509070922-18" eva="8089080">
+    <ar cpth="Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str." cs="p" clt="2509070813" l="2" />
+  </s>
+  <s id="5348355068122538807-2509070805-15" eva="8089080">
+    <ar ct="2509070936" l="S2" />
+  </s>
+  <s id="-2049671792467660866-2509070825-15" eva="8089080">
+    <ar ct="2509070942" l="S2" />
+  </s>
+  <s id="-4461413199782161825-2509070904-1" eva="8089080">
+    <m id="r2462227" t="h" from="2508250300" to="2509080130" cat="Bauarbeiten" ts="2508242307" ts-tts="25-09-06 23:16:03.363" pr="2" />
+    <dp ct="2509070904" l="S8" />
+  </s>
+</timetable>

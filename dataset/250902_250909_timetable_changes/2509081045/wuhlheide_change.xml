@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wuhlheide" eva="8089097">
+  <s id="-7230499882389255090-2509081057-7" eva="8089097">
+    <ar cpth="" cp="1" ct="2509081111" cs="c" clt="2509081045" l="3" />
+    <dp cpth="" cs="c" clt="2509080817" l="3" />
+  </s>
+  <s id="5837831507886373363-2509080947-24" eva="8089097">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-07 23:16:04.477" pr="1" />
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)" ct="2509081045" l="3" />
+    <dp cpth="Berlin-Köpenick" ct="2509081046" l="3" />
+  </s>
+  <s id="519505132451559714-2509081025-7" eva="8089097">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-07 23:16:04.477" pr="1" />
+    <ar ct="2509081043" l="3" />
+    <dp ct="2509081043" l="3" />
+  </s>
+</timetable>

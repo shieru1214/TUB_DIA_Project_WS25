@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Nordbahnhof" eva="8089024">
+  <s id="213374991361832744-2509051308-15" eva="8089024">
+    <ar ct="2509051345" l="2" />
+    <dp ct="2509051345" l="2" />
+  </s>
+  <s id="3746744462896402481-2509051415-16" eva="8089024">
+    <ar ppth="Oranienburg (S)|Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain" pp="1" pt="2509051455" l="5" />
+    <dp ppth="Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="1" pt="2509051455" l="5" />
+    <tl f="S" t="s" o="08" c="S" n="50086" />
+  </s>
+  <s id="1966176392821906984-2509051315-15" eva="8089024">
+    <ar ct="2509051349" l="26" />
+    <dp ct="2509051349" l="26" />
+  </s>
+  <s id="-4215147838957311006-2509051335-5" eva="8089024">
+    <ar ct="2509051344" l="2" />
+    <dp ct="2509051345" l="2" />
+  </s>
+</timetable>

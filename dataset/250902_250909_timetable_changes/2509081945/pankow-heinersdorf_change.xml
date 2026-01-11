@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Pankow-Heinersdorf" eva="8089081">
+  <s id="4420795620374292214-2509081854-20" eva="8089081">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.097" pr="2" />
+    <ar ct="2509081954" l="8" />
+    <dp ct="2509081954" l="8" />
+  </s>
+  <s id="1833604944984118116-2509081902-19" eva="8089081">
+    <m id="r2488311" t="h" from="2509081515" to="2509082359" cat="Störung" ts="2509081546" ts-tts="25-09-08 15:46:24.137" pr="2" />
+    <ar cpth="Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow" ct="2509081946" l="2" />
+    <dp cpth="Berlin-Blankenburg|Berlin-Karow|Berlin-Buch" ct="2509081946" l="2" />
+  </s>
+</timetable>

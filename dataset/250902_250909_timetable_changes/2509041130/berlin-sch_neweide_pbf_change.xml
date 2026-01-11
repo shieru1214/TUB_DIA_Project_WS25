@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Schöneweide" eva="8010041">
+  <s id="6484739238016304640-2509041128-100" eva="8010041">
+    <ar cpth="Flughafen BER" ppth="Flughafen BER" pp="1" ct="2509041139" pt="2509041140" ps="a">
+      <m id="r23897767" t="d" c="57" ts="2509041129" ts-tts="25-09-04 11:29:44.892" />
+      <m id="r23897769" t="d" c="57" ts="2509041129" ts-tts="25-09-04 11:29:44.892" />
+      <m id="r23897771" t="d" c="57" ts="2509041129" ts-tts="25-09-04 11:29:44.892" />
+    </ar>
+    <dp cpth="Berlin Ostkreuz|Berlin Gesundbrunnen|Berlin Hbf" ppth="Berlin Ostkreuz|Berlin Gesundbrunnen|Berlin Hbf" pp="1" ct="2509041140" pt="2509041140" ps="a">
+      <m id="r23897767" t="d" c="57" ts="2509041129" ts-tts="25-09-04 11:29:44.892" />
+      <m id="r23897769" t="d" c="57" ts="2509041129" ts-tts="25-09-04 11:29:44.892" />
+      <m id="r23897771" t="d" c="57" ts="2509041129" ts-tts="25-09-04 11:29:44.892" />
+    </dp>
+    <tl t="p" o="800165" c="FEX" n="19828" />
+  </s>
+  <s id="-7083234113857008165-2509041118-2" eva="8010041">
+    <ar ct="2509041128" l="32">
+      <m id="r23826185" t="f" c="0" ts="2509031912" ts-tts="25-09-03 19:12:16.237" />
+    </ar>
+    <dp ct="2509041129" l="32">
+      <m id="r23826185" t="f" c="0" ts="2509031912" ts-tts="25-09-03 19:12:16.237" />
+    </dp>
+  </s>
+</timetable>

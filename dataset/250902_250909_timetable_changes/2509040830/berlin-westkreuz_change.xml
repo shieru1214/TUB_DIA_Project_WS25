@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="93625145383822098-2509041111-21" eva="8089047">
+    <ar cpth="Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" cs="c" clt="2509040830" l="5" />
+  </s>
+  <s id="-8846874702185925504-2509040814-8" eva="8089047">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.390" pr="2" />
+    <ar ct="2509040831" l="7" />
+    <dp ct="2509040831" l="7" />
+  </s>
+  <s id="1067975341397851880-2509040845-8" eva="8089047">
+    <ar ct="2509040902" l="42" />
+    <dp ct="2509040902" l="42" />
+  </s>
+  <s id="55742209646352339-2509041051-21" eva="8089047">
+    <ar cpth="Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" cs="c" clt="2509040830" l="5" />
+  </s>
+  <s id="-4481108465114944953-2509040845-23" eva="8089047">
+    <ar ct="2509040937" l="5" />
+  </s>
+  <s id="6281176233707089090-2509040751-18" eva="8089047">
+    <ar ct="2509040828" l="41" />
+    <dp ct="2509040829" l="41" />
+  </s>
+  <s id="4412974271749613276-2509040844-14" eva="8089047">
+    <ar ct="2509040913" l="41" />
+    <dp ct="2509040914" l="41" />
+  </s>
+</timetable>

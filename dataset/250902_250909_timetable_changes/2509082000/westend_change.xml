@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westend" eva="8089111">
+  <s id="-9142387668131414717-2509081908-26" eva="8089111">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:29.557" pr="2" />
+    <ar cpth="Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)|Berlin Schönhauser Allee|Berlin Prenzlauer Allee|Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park" ct="2509082027" cs="c" clt="2509081937" l="41" />
+    <dp cpth="" ct="2509082028" cs="c" clt="2509081937" l="41" />
+  </s>
+  <s id="-7500908397529856017-2509081933-26" eva="8089111">
+    <ar cpth="" ct="2509082050" cs="c" clt="2509081952" l="41" />
+    <dp cpth="" ct="2509082050" cs="c" clt="2509081952" l="41" />
+  </s>
+  <s id="3412814033230472228-2509081901-23" eva="8089111">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.095" pr="2" />
+    <ar ct="2509082000" l="46" />
+  </s>
+</timetable>

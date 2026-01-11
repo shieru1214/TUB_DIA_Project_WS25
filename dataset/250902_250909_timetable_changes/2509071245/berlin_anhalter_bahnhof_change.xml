@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Anhalter Bf" eva="8089002">
+  <s id="1555138346406256057-2509071214-15" eva="8089002">
+    <m id="r2487622" t="h" from="2509070954" to="2509071530" cat="Störung" ts="2509070955" ts-tts="25-09-07 09:55:53.476" pr="2" />
+    <ar ct="2509071244" l="1" />
+    <dp ct="2509071245" l="1" />
+  </s>
+  <s id="3356477690360332103-2509071225-10" eva="8089002">
+    <ar ct="2509071244" l="2" />
+    <dp ct="2509071244" l="2" />
+  </s>
+  <s id="2935678326466872694-2509071218-16" eva="8089002">
+    <m id="r2487622" t="h" from="2509070954" to="2509071530" cat="Störung" ts="2509070955" ts-tts="25-09-07 09:55:53.476" pr="2" />
+    <ar cpth="Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof" ct="2509071251" cs="c" clt="2509071243" l="1" />
+    <dp cpth="" ct="2509071252" cs="c" clt="2509071243" l="1" />
+  </s>
+</timetable>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Wilhelmsruh" eva="8089095">
+  <s id="-488641983854128114-2509071238-5" eva="8089095">
+    <m id="r2487622" t="h" from="2509070954" to="2509071530" cat="Störung" ts="2509070955" ts-tts="25-09-07 09:55:58.813" pr="2" />
+    <ar ct="2509071248" l="1" />
+    <dp ct="2509071248" l="1" />
+  </s>
+  <s id="2935678326466872694-2509071218-5" eva="8089095">
+    <m id="r2487622" t="h" from="2509070954" to="2509071530" cat="Störung" ts="2509070955" ts-tts="25-09-07 09:55:58.813" pr="2" />
+    <ar cpth="Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)" ct="2509071228" l="1" />
+    <dp cpth="Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof" ct="2509071229" l="1" />
+  </s>
+</timetable>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Pankow" eva="8089080">
+  <s id="3795540706543773130-2509071725-15" eva="8089080">
+    <ar ct="2509071839" l="S2" />
+  </s>
+  <s id="5312028053914058555-2509071715-15" eva="8089080">
+    <ar ct="2509071836" l="S2" />
+  </s>
+  <s id="1438926064038518095-2509071724-7" eva="8089080">
+    <ar ct="2509071803" l="S2" />
+  </s>
+  <s id="-2735906402047790008-2509071705-15" eva="8089080">
+    <ar ct="2509071836" l="S2" />
+  </s>
+  <s id="-8299162572407101879-2509071635-15" eva="8089080">
+    <ar ppth="Ladestr., Bernau bei Berlin|Gaskessel, Bernau bei Berlin|Zepernicker Chaussee, Bernau bei Berlin|Abzw. Wohnsiedlung, Bernau bei Berlin|Zepernick(Bernau)|Zepernick Kirche, Panketal|Zepernick Schweizer Str., Panketal|Alt-Buch, Berlin|Buch (S), Berlin|Bucher Chaussee/Achillesstr., Berlin|Karow Bahnhof (S), Berlin|Blankenburg (S), Berlin|Pasewalker Str./Blankenburger Weg, Berlin|Pankow-Heinersdorf (S), Berlin" ct="2509071840" pt="2509071747" l="S2" />
+    <tl t="p" o="080001" c="Bus" n="62227" />
+  </s>
+  <s id="6109531741678417600-2509071654-7" eva="8089080">
+    <ar ct="2509071729" l="S2" />
+  </s>
+  <s id="2522937289869057688-2509071721-7" eva="8089080">
+    <m id="r2462227" t="h" from="2508250300" to="2509080130" cat="Bauarbeiten" ts="2508242307" ts-tts="25-09-06 23:16:03.364" pr="2" />
+    <ar ct="2509071812" l="S8" />
+  </s>
+  <s id="1261281754547812534-2509071701-3" eva="8089080">
+    <ar cpth="" ct="2509071733" cs="c" clt="2509071702" l="8">
+      <m id="r24212784" t="f" c="0" ts="2509061859" ts-tts="25-09-06 19:00:03.855" />
+      <m id="r24212785" t="f" c="0" ts="2509061859" ts-tts="25-09-06 19:00:03.855" />
+      <m id="r24212786" t="f" c="0" ts="2509061859" ts-tts="25-09-06 19:00:03.855" />
+    </ar>
+  </s>
+  <s id="-9070571110873501834-2509071800-1" eva="8089080">
+    <dp ct="2509071800" l="S2" />
+  </s>
+  <s id="-795178609989164731-2509071805-1" eva="8089080">
+    <dp ct="2509071805" l="S2" />
+  </s>
+  <s id="-92683726669789089-2509071720-1" eva="8089080">
+    <dp ct="2509071728" l="S2" />
+  </s>
+  <s id="-5158764876239573210-2509071625-15" eva="8089080">
+    <ar ct="2509071729" l="S2" />
+  </s>
+</timetable>

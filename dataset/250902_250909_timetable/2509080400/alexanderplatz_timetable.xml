@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Alexanderplatz">
+  <s id="4270119881214498668-2509080401-12">
+    <tl f="N" t="p" o="800165" c="RE" n="3702" />
+    <ar pt="2509080453" pp="1" l="7" ppth="Beelitz-Heilstätten|Seddin|Michendorf|Wilhelmshorst|Potsdam-Rehbrücke|Potsdam Medienstadt Babelsberg|Berlin-Wannsee|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße" />
+    <dp pt="2509080454" pp="1" l="7" ppth="Berlin Ostbahnhof|Berlin Ostkreuz|Königs Wusterhausen|Zeesen|Bestensee|Groß Köris|Halbe|Oderin|Brand Tropical Islands|Schönwalde(Spreewald)|Lubolz|Lübben(Spreewald)|Lübbenau(Spreewald)|Calau(Nl)|Luckaitztal|Altdöbern|Großräschen|Sedlitz Ost|Senftenberg" />
+  </s>
+  <s id="7466508975589297015-2509080407-10">
+    <tl f="N" t="p" o="OWRE" c="RE" n="62048" />
+    <ar pt="2509080447" pp="1" l="8" ppth="Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße" />
+    <dp pt="2509080448" pp="1" l="8" ppth="Berlin Ostbahnhof|Berlin Ostkreuz|Flughafen BER" />
+  </s>
+  <s id="8640418502784071732-2509080341-13">
+    <tl f="N" t="p" o="OWRE" c="RE" n="73717" />
+    <ar pt="2509080453" pp="2" l="1" ppth="Frankfurt(Oder)|Frankfurt(Oder)-Rosengarten|Pillgram|Jacobsdorf(Mark)|Briesen(Mark)|Berkenbrück|Fürstenwalde(Spree)|Hangelsberg|Fangschleuse|Erkner|Berlin Ostkreuz|Berlin Ostbahnhof" />
+    <dp pt="2509080454" pp="2" l="1" ppth="Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Hbf|Werder(Havel)|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Magdeburg-Neustadt|Magdeburg Hbf" />
+  </s>
+  <s id="5018234171022072599-2509080417-3">
+    <tl f="N" t="p" o="800165" c="RE" n="3101" />
+    <ar pt="2509080426" pp="2" l="2" ppth="Berlin Ostkreuz|Berlin Ostbahnhof" />
+    <dp pt="2509080427" pp="2" l="2" ppth="Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg" />
+  </s>
+  <s id="3615859253178022315-2509080425-3">
+    <tl f="N" t="p" o="OWRE" c="RE" n="73757" />
+    <ar pt="2509080433" pp="2" l="1" ppth="Berlin Ostkreuz|Berlin Ostbahnhof" />
+    <dp pt="2509080434" pp="2" l="1" ppth="Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Wannsee|Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf" />
+  </s>
+  <s id="3339429189258054989-2509080342-4">
+    <tl f="N" t="p" o="OWRE" c="RE" n="62001" />
+    <ar pt="2509080407" pp="2" l="8" ppth="Flughafen BER|Berlin Ostkreuz|Berlin Ostbahnhof" />
+    <dp pt="2509080408" pp="2" l="8" ppth="Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark" />
+  </s>
+  <s id="1911646038745219815-2509080405-4">
+    <tl f="N" t="p" o="OWRE" c="RE" n="73752" />
+    <ar pt="2509080417" pp="1" l="1" ppth="Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße" />
+    <dp pt="2509080418" pp="1" l="1" ppth="Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)" />
+  </s>
+  <s id="-8033944623099636092-2509080423-5">
+    <tl f="N" t="p" o="OWRE" c="RE" n="73800" />
+    <ar pt="2509080439" pp="1" l="1" ppth="Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße" />
+    <dp pt="2509080440" pp="1" l="1" ppth="Berlin Ostbahnhof|Berlin Ostkreuz|Erkner|Fangschleuse|Fürstenwalde(Spree)|Frankfurt(Oder)|Eisenhüttenstadt" />
+  </s>
+  <s id="4389092040092967828-2509080355-3">
+    <tl f="N" t="p" o="800165" c="RE" n="3705" />
+    <ar pt="2509080402" pp="2" l="7" ppth="Berlin Ostkreuz|Berlin Ostbahnhof" />
+    <dp pt="2509080403" pp="2" l="7" ppth="Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Michendorf|Seddin|Beelitz-Heilstätten" />
+  </s>
+</timetable>

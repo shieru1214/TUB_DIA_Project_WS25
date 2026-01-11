@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Kaulsdorf" eva="8089068">
+  <s id="6090469235186577201-2509061936-102" eva="8089068">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.996" pr="1" />
+    <m id="r2487504" t="h" from="2509061900" to="2509062200" cat="Störung" ts="2509061943" ts-tts="25-09-06 19:43:39.682" pr="2" />
+    <ar cpth="Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal" ppth="Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl" pp="2" ct="2509061956" pt="2509061952" ps="a" l="75" />
+    <dp cpth="Berlin-Mahlsdorf (S)" ppth="Berlin Gehrenseestraße|Berlin-Hohenschönhausen (S)|Berlin-Wartenberg" pp="2" ct="2509061957" pt="2509061952" ps="a" l="75" />
+    <tl f="S" t="p" o="08" c="S" n="75619" />
+  </s>
+  <s id="3560001165909674110-2509061901-22" eva="8089068">
+    <ar ct="2509061955" l="5" />
+    <dp ct="2509061955" l="5" />
+  </s>
+  <s id="-8532682381413832232-2509061910-11" eva="8089068">
+    <ar ct="2509061943" l="5" />
+    <dp ct="2509061944" l="5" />
+  </s>
+  <s id="-3949225525260414023-2509061851-22" eva="8089068">
+    <ar ct="2509061943" l="5" />
+    <dp ct="2509061944" l="5" />
+  </s>
+</timetable>

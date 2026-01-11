@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Adlershof" eva="8089052">
+  <s id="8739190780580828588-2509021815-8" eva="8089052">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:19.924" pr="1" />
+    <ar ct="2509021833" l="85" />
+    <dp ct="2509021833" l="85" />
+  </s>
+  <s id="574435843013766774-2509021741-6" eva="8089052">
+    <ar ct="2509021800" l="46" />
+    <dp ct="2509021800" l="46" />
+  </s>
+  <s id="-4847412883156299959-2509021657-25" eva="8089052">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 11:21:15.558" pr="1" />
+    <ar ct="2509021759" l="9" />
+    <dp ct="2509021800" l="9" />
+  </s>
+  <s id="2497308089878934110-2509021814-5" eva="8089052">
+    <m id="r2485326" t="h" from="2509021700" to="2509022230" cat="Störung" ts="2509021731" ts-tts="25-09-02 17:31:19.924" pr="1" />
+    <ar cpth="Berlin-Grünau" ct="2509021832" l="8" />
+    <dp cpth="Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee" ct="2509021832" l="8" />
+  </s>
+</timetable>

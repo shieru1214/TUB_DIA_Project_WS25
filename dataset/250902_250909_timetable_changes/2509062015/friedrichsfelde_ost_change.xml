@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Friedrichsfelde Ost" eva="8089059">
+  <s id="1605975111611790114-2509062011-5" eva="8089059">
+    <ar ct="2509062022" l="5" />
+    <dp ct="2509062023" l="5" />
+  </s>
+  <s id="-7524619887410635706-2509062030-14" eva="8089059">
+    <ar ct="2509062111" l="5" />
+    <dp ct="2509062111" l="5" />
+  </s>
+  <s id="9117846403617884892-2509062006-5" eva="8089059">
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.996" pr="1" />
+    <m id="r2487504" t="h" from="2509061900" to="2509062200" cat="Störung" ts="2509061943" ts-tts="25-09-06 19:43:39.682" pr="2" />
+    <ar cpth="Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf|Berlin Wuhletal|Berlin-Biesdorf" ct="2509062019" l="75" />
+    <dp cpth="Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2509062020" l="75" />
+  </s>
+  <s id="917359748425039974-2509061931-19" eva="8089059">
+    <ar ct="2509062014" l="5" />
+    <dp ct="2509062014" l="5" />
+  </s>
+</timetable>

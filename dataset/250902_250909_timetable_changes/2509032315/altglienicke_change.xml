@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Altglienicke" eva="8089054">
+  <s id="-7925159838019797805-2509032329-5" eva="8089054">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-02 23:16:03.858" pr="1" />
+    <ar ct="2509032343" l="9" />
+    <dp ct="2509032343" l="9" />
+  </s>
+  <s id="-286623387167957686-2509032313-1" eva="8089054">
+    <dp ppth="Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" cp="2" pp="1" ct="2509032314" pt="2509032313" l="45" />
+    <tl f="S" t="e" o="08" c="S" n="44127" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="45127" />
+    </ref>
+  </s>
+  <s id="-1594365636424448158-2509032311-1" eva="8089054">
+    <dp ppth="Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)" cp="1" pp="2" ct="2509032314" pt="2509032311" l="45" />
+    <tl f="S" t="e" o="08" c="S" n="44126" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="45126" />
+    </ref>
+  </s>
+</timetable>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hbf" eva="8011160">
+  <s id="-5225265888807154878-2509041251-12" eva="8011160">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-03 23:16:03.880" pr="3" />
+    <ar ct="2509041728">
+      <m id="r23905541" t="q" c="95" ts="2509041241" ts-tts="25-09-04 12:41:14.984" />
+      <m id="r23905543" t="q" c="95" ts="2509041241" ts-tts="25-09-04 12:41:14.984" />
+      <m id="r23917576" t="d" c="43" ts="2509041419" ts-tts="25-09-04 14:19:25.712" />
+    </ar>
+    <dp ct="2509041732">
+      <m id="r23905541" t="q" c="95" ts="2509041241" ts-tts="25-09-04 12:41:14.984" />
+      <m id="r23905543" t="q" c="95" ts="2509041241" ts-tts="25-09-04 12:41:14.984" />
+      <m id="r23917576" t="d" c="43" ts="2509041419" ts-tts="25-09-04 14:19:25.712" />
+    </dp>
+  </s>
+  <s id="-1829115042523197471-2509041546-2" eva="8011160">
+    <ar ct="2509041601" />
+    <dp ct="2509041605" />
+  </s>
+  <s id="7388196342613390136-2509041436-11" eva="8011160">
+    <ar ct="2509041559" l="1" />
+    <dp ct="2509041601" l="1">
+      <m id="r23922504" t="f" c="0" ts="2509041454" ts-tts="25-09-04 14:54:43.491" />
+    </dp>
+  </s>
+  <s id="-4972973488175603045-2509041200-13" eva="8011160">
+    <ar cpth="Amersfoort Centraal|Apeldoorn|Deventer|Hengelo|Bad Bentheim|Rheine|Osnabrück Hbf|Bünde(Westf)|Hannover Hbf|Berlin-Spandau" ppth="Amsterdam Centraal|Hilversum|Amersfoort Centraal|Apeldoorn|Deventer|Hengelo|Bad Bentheim|Rheine|Osnabrück Hbf|Bünde(Westf)|Hannover Hbf|Berlin-Spandau" pp="12" ct="2509041835" pt="2509041749">
+      <m id="r23919306" t="d" c="51" ts="2509041431" ts-tts="25-09-04 14:31:11.867" />
+      <m id="r23919308" t="d" c="51" ts="2509041431" ts-tts="25-09-04 14:31:11.867" />
+      <m id="r23919310" t="d" c="51" ts="2509041431" ts-tts="25-09-04 14:31:11.867" />
+    </ar>
+    <dp cpth="Berlin Ostbahnhof" ppth="Berlin Ostbahnhof" pp="12" ct="2509041838" pt="2509041753" hi="1">
+      <m id="r23919306" t="d" c="51" ts="2509041431" ts-tts="25-09-04 14:31:11.867" />
+      <m id="r23919308" t="d" c="51" ts="2509041431" ts-tts="25-09-04 14:31:11.867" />
+      <m id="r23919310" t="d" c="51" ts="2509041431" ts-tts="25-09-04 14:31:11.867" />
+    </dp>
+    <tl f="F" t="p" o="84" c="IC" n="147" />
+  </s>
+</timetable>

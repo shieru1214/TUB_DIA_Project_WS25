@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hohenzollerndamm" eva="8089108">
+  <s id="8308573561363749255-2509040801-10" eva="8089108">
+    <ar l="42">
+      <m id="r23684817" t="f" c="0" ts="2509021601" ts-tts="25-09-02 16:02:04.444" />
+      <m id="r23752857" t="f" c="0" ts="2509031000" ts-tts="25-09-03 10:00:32.943" />
+    </ar>
+    <dp l="42">
+      <m id="r23684817" t="f" c="0" ts="2509021601" ts-tts="25-09-02 16:02:04.444" />
+      <m id="r23752857" t="f" c="0" ts="2509031000" ts-tts="25-09-03 10:00:32.943" />
+    </dp>
+  </s>
+  <s id="874705391058878384-2509040701-16" eva="8089108">
+    <ar l="41">
+      <m id="r23684837" t="f" c="0" ts="2509021602" ts-tts="25-09-02 16:02:35.934" />
+      <m id="r23746600" t="f" c="0" ts="2509030900" ts-tts="25-09-03 09:00:58.639" />
+      <m id="r23746601" t="f" c="0" ts="2509030900" ts-tts="25-09-03 09:00:58.639" />
+    </ar>
+    <dp l="41">
+      <m id="r23684837" t="f" c="0" ts="2509021602" ts-tts="25-09-02 16:02:35.934" />
+      <m id="r23746600" t="f" c="0" ts="2509030900" ts-tts="25-09-03 09:00:58.639" />
+      <m id="r23746601" t="f" c="0" ts="2509030900" ts-tts="25-09-03 09:00:58.639" />
+    </dp>
+  </s>
+  <s id="2720999370243583446-2509031455-10" eva="8089108">
+    <ar ct="2509031515" l="42" />
+    <dp ct="2509031516" l="42" />
+  </s>
+  <s id="-502012858899508891-2509031441-16" eva="8089108">
+    <ar ct="2509031515" l="41" />
+    <dp ct="2509031516" l="41" />
+  </s>
+  <s id="-5430480272715375598-2509031421-19" eva="8089108">
+    <m id="r2485791" t="h" from="2509031330" to="2509031600" cat="Störung" ts="2509031412" ts-tts="25-09-03 14:12:54.669" pr="1" />
+    <ar cpth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz" ct="2509031513" l="46" />
+    <dp cpth="Berlin-Halensee|Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" ct="2509031514" l="46" />
+  </s>
+</timetable>

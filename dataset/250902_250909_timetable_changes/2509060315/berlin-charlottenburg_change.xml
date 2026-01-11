@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Charlottenburg" eva="8010403">
+  <s id="1229031345537658666-2509060251-7" eva="8010403">
+    <m id="r2486933" t="h" from="2509052300" to="2509060430" cat="Störung" ts="2509051553" ts-tts="25-09-05 23:16:04.268" pr="1" />
+    <ar cpth="Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten" cp="3" ct="2509060316" l="1">
+      <m id="r24070903" t="d" c="31" ts="2509051549" ts-tts="25-09-05 15:49:06.129" />
+    </ar>
+    <dp cpth="Werder(Havel)|Groß Kreutz|Götz|Brandenburg Hbf|Kirchmöser|Wusterwitz|Genthin|Güsen(b Genthin)|Burg(Magdeburg)|Möser|Gerwisch|Biederitz|Magdeburg Herrenkrug|Magdeburg-Neustadt|Magdeburg Hbf" cp="3" ct="2509060317" l="1">
+      <m id="r24070903" t="d" c="31" ts="2509051549" ts-tts="25-09-05 15:49:06.129" />
+    </dp>
+  </s>
+  <s id="8355545464383240883-2509060712-12" eva="8010403">
+    <ar ct="2509060850" l="1" />
+    <dp ct="2509060851" l="1" />
+  </s>
+</timetable>

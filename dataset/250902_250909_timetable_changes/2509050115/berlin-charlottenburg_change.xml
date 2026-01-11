@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Charlottenburg" eva="8010403">
+  <s id="1608799031198059101-2509050040-8" eva="8010403">
+    <ar cpth="Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße|Berlin Hbf|Berlin Zoologischer Garten" ct="2509050125" l="8" />
+  </s>
+  <s id="-209152078237801280-2509051101-8" eva="8010403">
+    <ar l="7">
+      <m id="r23991160" t="f" c="0" ts="2509050039" ts-tts="25-09-05 00:39:10.273" />
+      <m id="r23992255" t="f" c="0" ts="2509050113" ts-tts="25-09-05 01:14:01.302" />
+    </ar>
+    <dp l="7">
+      <m id="r23991160" t="f" c="0" ts="2509050039" ts-tts="25-09-05 00:39:10.273" />
+      <m id="r23992255" t="f" c="0" ts="2509050113" ts-tts="25-09-05 01:14:01.302" />
+    </dp>
+  </s>
+</timetable>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Greifswalder Str" eva="8089011">
+  <s id="3319260645907897181-2509051402-4" eva="8089011">
+    <ar ct="2509051417" l="S41" />
+  </s>
+  <s id="-1368682654351590399-2509051412-1" eva="8089011">
+    <dp ct="2509051415" l="S42" />
+  </s>
+  <s id="5416745357114911675-2509051405-4" eva="8089011">
+    <ar ct="2509051422" l="S41" />
+  </s>
+  <s id="-4789383758971938343-2509051445-1" eva="8089011">
+    <dp ct="2509051445" l="S42" />
+  </s>
+  <s id="3414283458901659903-2509051342-1" eva="8089011">
+    <dp ppth="Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Gesundbrunnen Bahnhof (S+U), Berlin" ct="2509051430" pt="2509051342" l="S42" />
+    <tl t="p" o="080001" c="Bus" n="42453" />
+  </s>
+  <s id="-8685020764536336261-2509051259-4" eva="8089011">
+    <ar ppth="Gesundbrunnen Bahnhof (S+U), Berlin|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" ct="2509051430" pt="2509051316" l="S41" />
+    <tl t="p" o="080001" c="Bus" n="41426" />
+  </s>
+  <s id="-7802948562185801169-2509051409-1" eva="8089011">
+    <dp ct="2509051414" l="S42" />
+  </s>
+</timetable>

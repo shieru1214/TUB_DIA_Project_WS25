@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Rathaus Steglitz" eva="8089036">
+  <s id="1605432397236934687-2509052018-22" eva="8089036">
+    <ar ct="2509052105" l="1" />
+    <dp ct="2509052104" l="1" />
+  </s>
+  <s id="998789781966715998-2509051958-22" eva="8089036">
+    <ar cpth="Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr." ct="2509052043" l="1" />
+    <dp cpth="Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2509052044" l="1" />
+  </s>
+  <s id="-7866613208668656304-2509052024-9" eva="8089036">
+    <ar ct="2509052043" l="1" />
+    <dp ct="2509052044" l="1" />
+  </s>
+</timetable>

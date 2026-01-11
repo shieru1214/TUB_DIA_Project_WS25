@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hbf" eva="8011160">
+  <s id="6651321817368009437-2509051353-2" eva="8011160">
+    <ar ct="2509051402" />
+    <dp ct="2509051407" />
+  </s>
+  <s id="5247760409549199860-2509051044-12" eva="8011160">
+    <ar ct="2509051633">
+      <m id="r23905759" t="d" c="13" ts="2509041243" ts-tts="25-09-04 12:43:35.792" />
+      <m id="r23905761" t="d" c="13" ts="2509041243" ts-tts="25-09-04 12:43:35.792" />
+      <m id="r23905762" t="d" c="13" ts="2509041243" ts-tts="25-09-04 12:43:35.792" />
+      <m id="r23905764" t="d" c="13" ts="2509041243" ts-tts="25-09-04 12:43:35.792" />
+      <m id="r23905765" t="d" c="13" ts="2509041243" ts-tts="25-09-04 12:43:35.792" />
+      <m id="r23905767" t="d" c="13" ts="2509041243" ts-tts="25-09-04 12:43:35.792" />
+      <m id="r23905768" t="d" c="13" ts="2509041243" ts-tts="25-09-04 12:43:35.792" />
+      <m id="r23905770" t="d" c="13" ts="2509041243" ts-tts="25-09-04 12:43:35.792" />
+      <m id="r23905771" t="d" c="13" ts="2509041243" ts-tts="25-09-04 12:43:35.792" />
+      <m id="r23905773" t="d" c="13" ts="2509041243" ts-tts="25-09-04 12:43:35.792" />
+      <m id="r24053287" t="d" c="24" ts="2509051400" ts-tts="25-09-05 14:00:36.487" />
+    </ar>
+  </s>
+  <s id="-7424063805408296813-2509051327-9" eva="8011160">
+    <ar ct="2509051441" l="2">
+      <m id="r23995313" t="f" c="0" ts="2509050234" ts-tts="25-09-05 02:34:43.753" />
+    </ar>
+    <dp ct="2509051443" l="2">
+      <m id="r23995313" t="f" c="0" ts="2509050234" ts-tts="25-09-05 02:34:43.753" />
+    </dp>
+  </s>
+  <s id="-2622763224815699783-2509050800-13" eva="8011160">
+    <m id="r2486597" t="h" from="2509050800" to="2509052159" cat="Information" ts="2509050339" ts-tts="25-09-05 03:39:55.997" pr="2" />
+    <m id="r975577593" t="c" ts="2509051230" ts-tts="25-09-05 12:30:46.961" />
+    <m id="r975577594alt" t="c" ts="2509051230" ts-tts="25-09-05 12:30:47.115" />
+    <m id="r975577593alt" t="c" ts="2509051230" ts-tts="25-09-05 12:30:47.115" />
+    <m id="r975577595" t="c" ts="2509051230" ts-tts="25-09-05 12:30:46.961" />
+    <m id="r975577594" t="c" ts="2509051230" ts-tts="25-09-05 12:30:46.961" />
+    <ar ct="2509051406">
+      <m id="r23996162" t="q" c="95" ts="2509050346" ts-tts="25-09-05 03:46:32.863" />
+      <m id="r23996164" t="q" c="95" ts="2509050346" ts-tts="25-09-05 03:46:32.863" />
+      <m id="r24043145" t="f" c="0" ts="2509051230" ts-tts="25-09-05 12:30:47.094" />
+    </ar>
+    <dp ct="2509051409">
+      <m id="r23996162" t="q" c="95" ts="2509050346" ts-tts="25-09-05 03:46:32.863" />
+      <m id="r23996164" t="q" c="95" ts="2509050346" ts-tts="25-09-05 03:46:32.863" />
+    </dp>
+  </s>
+  <s id="1165611603977427437-2509051255-10" eva="8011160">
+    <ar ct="2509051400" l="1" />
+    <dp ct="2509051402" l="1">
+      <m id="r24043209" t="f" c="0" ts="2509051231" ts-tts="25-09-05 12:31:33.816" />
+      <m id="r24043210" t="f" c="0" ts="2509051231" ts-tts="25-09-05 12:31:33.816" />
+      <m id="r24043211" t="f" c="0" ts="2509051231" ts-tts="25-09-05 12:31:33.816" />
+      <m id="r24043212" t="f" c="0" ts="2509051231" ts-tts="25-09-05 12:31:33.816" />
+    </dp>
+  </s>
+  <s id="-4484283661271265558-2509051255-16" eva="8011160">
+    <ar cpth="Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße" ppth="Lübbenau(Spreewald)|Lübben(Spreewald)|Lubolz|Schönwalde(Spreewald)|Brand Tropical Islands|Oderin|Halbe|Groß Köris|Bestensee|Zeesen|Königs Wusterhausen|Berlin Ostkreuz|Berlin Ostbahnhof|Berlin Alexanderplatz|Berlin Friedrichstraße" pp="13" ct="2509051442" pt="2509051412" l="7">
+      <m id="r24048571" t="f" c="0" ts="2509051322" ts-tts="25-09-05 13:23:06.673" />
+      <m id="r24048572" t="f" c="0" ts="2509051322" ts-tts="25-09-05 13:23:06.673" />
+      <m id="r24052306" t="d" c="23" ts="2509051352" ts-tts="25-09-05 13:52:32.275" />
+      <m id="r24052308" t="d" c="23" ts="2509051352" ts-tts="25-09-05 13:52:32.275" />
+    </ar>
+    <dp cpth="Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Michendorf" ppth="Berlin Zoologischer Garten|Berlin-Charlottenburg|Berlin-Wannsee|Potsdam Medienstadt Babelsberg|Potsdam-Rehbrücke|Michendorf|Seddin|Beelitz-Heilstätten" pp="13" ct="2509051443" pt="2509051414" l="7">
+      <m id="r24048571" t="f" c="0" ts="2509051322" ts-tts="25-09-05 13:23:06.673" />
+      <m id="r24048572" t="f" c="0" ts="2509051322" ts-tts="25-09-05 13:23:06.673" />
+      <m id="r24052306" t="d" c="23" ts="2509051352" ts-tts="25-09-05 13:52:32.275" />
+      <m id="r24052308" t="d" c="23" ts="2509051352" ts-tts="25-09-05 13:52:32.275" />
+    </dp>
+    <tl f="N" t="e" o="800165" c="RE" n="26101" />
+    <ref>
+      <tl f="N" t="p" o="800165" c="RE" n="3725" />
+    </ref>
+  </s>
+</timetable>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="6691491657590837504-2509051201-18" eva="8089047">
+    <ar ct="2509051240" l="41">
+      <m id="r23914748" t="f" c="0" ts="2509041359" ts-tts="25-09-04 13:59:51.581" />
+      <m id="r23914749" t="f" c="0" ts="2509041359" ts-tts="25-09-04 13:59:51.581" />
+    </ar>
+    <dp ct="2509051240" l="41">
+      <m id="r23914748" t="f" c="0" ts="2509041359" ts-tts="25-09-04 13:59:51.581" />
+      <m id="r23914749" t="f" c="0" ts="2509041359" ts-tts="25-09-04 13:59:51.581" />
+    </dp>
+  </s>
+  <s id="-2457288288605307207-2509060448-8" eva="8089047">
+    <ar l="42">
+      <m id="r24007125" t="f" c="0" ts="2509050647" ts-tts="25-09-05 06:47:14.577" />
+      <m id="r24007126" t="f" c="0" ts="2509050647" ts-tts="25-09-05 06:47:14.577" />
+    </ar>
+    <dp l="42">
+      <m id="r24007125" t="f" c="0" ts="2509050647" ts-tts="25-09-05 06:47:14.577" />
+      <m id="r24007126" t="f" c="0" ts="2509050647" ts-tts="25-09-05 06:47:14.577" />
+    </dp>
+  </s>
+  <s id="5866681679898677004-2509060418-8" eva="8089047">
+    <ar l="42">
+      <m id="r24004622" t="f" c="0" ts="2509050617" ts-tts="25-09-05 06:18:05.370" />
+      <m id="r24004623" t="f" c="0" ts="2509050617" ts-tts="25-09-05 06:18:05.370" />
+    </ar>
+    <dp l="42">
+      <m id="r24004622" t="f" c="0" ts="2509050617" ts-tts="25-09-05 06:18:05.370" />
+      <m id="r24004623" t="f" c="0" ts="2509050617" ts-tts="25-09-05 06:18:05.370" />
+    </dp>
+  </s>
+  <s id="2940518632189457885-2509051121-21" eva="8089047">
+    <ar ct="2509051216" l="46" />
+    <dp ct="2509051216" l="46" />
+  </s>
+  <s id="-9093017592362016842-2509051151-7" eva="8089047">
+    <m id="r2486678" t="h" from="2509050700" to="2509060330" cat="Störung" ts="2509050743" ts-tts="25-09-05 07:43:04.437" pr="2" />
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald" ct="2509051216" l="7" />
+    <dp cpth="Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" ct="2509051216" l="7" />
+  </s>
+  <s id="-5822001986182524587-2509051201-7" eva="8089047">
+    <ar ct="2509051227" l="7" />
+    <dp ct="2509051227" l="7" />
+  </s>
+  <s id="5066896970256571775-2509051204-14" eva="8089047">
+    <ar cpth="Berlin Ostkreuz (S)|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" ct="2509051233" cs="c" clt="2509051209" l="41">
+      <m id="r24041560" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:19.029" />
+      <m id="r24041562" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:19.029" />
+      <m id="r24041564" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:19.029" />
+    </ar>
+    <dp cpth="" ct="2509051234" cs="c" clt="2509051209" l="41">
+      <m id="r24041560" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:19.029" />
+      <m id="r24041562" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:19.029" />
+      <m id="r24041564" t="d" c="36" ts="2509051215" ts-tts="25-09-05 12:15:19.029" />
+    </dp>
+  </s>
+  <s id="2470428453551712765-2509051230-30" eva="8089047">
+    <ar ct="2509051347" l="5" />
+    <dp ct="2509051347" l="5" />
+  </s>
+  <s id="-5365976065096125856-2509051229-24" eva="8089047">
+    <ar ct="2509051332" l="9" />
+    <dp ct="2509051332" l="9" />
+  </s>
+  <s id="3091600162069880434-2509051144-14" eva="8089047">
+    <ar ct="2509051213" l="41" />
+    <dp ct="2509051214" l="41" />
+  </s>
+  <s id="2432629386449695473-2509051110-30" eva="8089047">
+    <ar ct="2509051228" l="5" />
+    <dp ct="2509051228" l="5" />
+  </s>
+</timetable>

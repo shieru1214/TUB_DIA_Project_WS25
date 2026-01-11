@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jungfernheide">
+  <s id="3555623186981678054-2509071103-10">
+    <tl f="N" t="p" o="800158" c="RE" n="3173" />
+    <ar pt="2509071202" pp="4" l="4" ppth="Jüterbog|Luckenwalde|Trebbin|Thyrow|Ludwigsfelde|Berlin-Lichterfelde Ost|Berlin Südkreuz|Berlin Potsdamer Platz|Berlin Hbf" />
+    <dp pt="2509071202" pp="4" l="4" ppth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Nennhausen|Rathenow|Stendal Hbf" />
+  </s>
+  <s id="-662138540699531913-2509071135-12">
+    <tl f="N" t="p" o="800165" c="RB" n="18254" />
+    <ar pt="2509071233" pp="3" l="21" ppth="Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Golm|Marquardt|Priort|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau" />
+    <dp pt="2509071234" pp="3" l="21" ppth="Berlin Gesundbrunnen" />
+  </s>
+  <s id="-3833980205477606439-2509071214-2">
+    <tl f="N" t="p" o="800165" c="RB" n="18257" />
+    <ar pt="2509071223" pp="4" l="21" ppth="Berlin Gesundbrunnen" />
+    <dp pt="2509071224" pp="4" l="21" ppth="Berlin-Spandau|Berlin-Staaken|Dallgow-Döberitz|Elstal|Wustermark|Priort|Marquardt|Golm|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf" />
+  </s>
+  <s id="2500312828214632977-2509071202-9">
+    <tl f="N" t="p" o="800158" c="RE" n="3152" />
+    <ar pt="2509071257" pp="3" l="4" ppth="Rathenow|Nennhausen|Buschow|Wustermark|Elstal|Dallgow-Döberitz|Berlin-Staaken|Berlin-Spandau" />
+    <dp pt="2509071258" pp="3" l="4" ppth="Berlin Hbf|Berlin Potsdamer Platz|Berlin Südkreuz|Berlin-Lichterfelde Ost|Ludwigsfelde|Thyrow|Trebbin|Luckenwalde|Jüterbog|Oehna|Zellendorf|Linda(Elster)|Holzdorf(Elster)|Herzberg(Elster)|Falkenberg(Elster)" />
+  </s>
+</timetable>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tiergarten" eva="8089091">
+  <s id="8347728863791135643-2509061221-7" eva="8089091">
+    <ar ct="2509061238" l="5" />
+    <dp ct="2509061238" l="5" />
+  </s>
+  <s id="-2510683957234545195-2509061145-20" eva="8089091">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.507" pr="1" />
+    <ar ct="2509061234" l="3" />
+    <dp ct="2509061234" l="3" />
+  </s>
+  <s id="-890478799568697863-2509061245-5" eva="8089091">
+    <ar ppth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)" pp="3" ct="2509061253" pt="2509061253" l="7" />
+    <dp ppth="Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" pp="3" ct="2509061253" pt="2509061253" l="7" />
+    <tl f="S" t="e" o="08" c="S" n="70093" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="7093" />
+    </ref>
+  </s>
+  <s id="7531102054121913513-2509061245-20" eva="8089091">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.507" pr="1" />
+    <ar ct="2509061333" l="3" />
+    <dp ct="2509061334" l="3" />
+  </s>
+  <s id="5239619053258963677-2509061212-6" eva="8089091">
+    <ar ppth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)" pp="3" ct="2509061237" pt="2509061222" l="7" />
+    <dp ppth="Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" pp="3" ct="2509061237" pt="2509061223" l="7" />
+    <tl f="S" t="s" o="08" c="S" n="70555" />
+  </s>
+  <s id="156565735327697228-2509061151-17" eva="8089091">
+    <ar ct="2509061229" l="5" />
+    <dp ct="2509061230" l="5" />
+  </s>
+</timetable>

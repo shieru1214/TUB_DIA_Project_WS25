@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Schönholz" eva="8089087">
+  <s id="-1851985454215582007-2509061548-8" eva="8089087">
+    <ar cpth="Hennigsdorf (S)|Berlin-Heiligensee|Berlin-Schulzendorf|Berlin-Tegel (S)|Berlin Eichborndamm|Berlin Karl-Bonhoeffer-Nervenklinik|Berlin Alt-Reinickendorf" ct="2509061610" l="25" />
+    <dp cpth="Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof" ct="2509061610" l="25" />
+  </s>
+  <s id="-186661792005362392-2509061548-6" eva="8089087">
+    <m id="r2487385" t="h" from="2509061230" to="2509061600" cat="Störung" ts="2509061315" ts-tts="25-09-06 13:15:16.909" pr="1" />
+    <ar ct="2509061600" l="1" />
+    <dp ct="2509061601" l="1" />
+  </s>
+  <s id="506556623345286805-2509061614-24" eva="8089087">
+    <ar ct="2509061704" l="1" />
+    <dp ct="2509061705" l="1" />
+  </s>
+</timetable>

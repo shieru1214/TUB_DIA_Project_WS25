@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Yorckstr.(S2)" eva="8089050">
+  <s id="1529967735054320444-2509080903-15" eva="8089050">
+    <m id="r2488011" t="h" from="2509080700" to="2509081230" cat="Störung" ts="2509080717" ts-tts="25-09-08 07:17:56.722" pr="2" />
+    <ar ct="2509080939" l="2" />
+    <dp ct="2509080939" l="2" />
+  </s>
+  <s id="4536401026798061246-2509080842-8" eva="8089050">
+    <m id="r2488011" t="h" from="2509080700" to="2509081230" cat="Störung" ts="2509080717" ts-tts="25-09-08 07:17:56.722" pr="2" />
+    <ar cpth="Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)" ct="2509080859" l="2" />
+    <dp cpth="Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg|Berlin-Karow|Berlin-Buch" ct="2509080900" l="2" />
+  </s>
+  <s id="1144007675886845294-2509080834-13" eva="8089050">
+    <ar cpth="" ct="2509080901" cs="c" clt="2509080831" l="26" />
+    <dp cpth="" ct="2509080902" cs="c" clt="2509080831" l="26" />
+  </s>
+  <s id="-6782814073526287179-2509080823-15" eva="8089050">
+    <m id="r2488011" t="h" from="2509080700" to="2509081230" cat="Störung" ts="2509080717" ts-tts="25-09-08 07:17:56.722" pr="2" />
+    <ar ct="2509080859" l="2" />
+    <dp ct="2509080900" l="2" />
+  </s>
+  <s id="-372185282596328845-2509080837-14" eva="8089050">
+    <ar cpth="" ppth="Berlin-Karow|Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf" pp="1" ct="2509080928" pt="2509080906" cs="c" clt="2509080857" l="2" />
+    <dp cpth="" ppth="Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee|Berlin Schichauweg|Berlin-Lichtenrade|Mahlow" pp="1" ct="2509080929" pt="2509080907" cs="c" clt="2509080857" l="2" />
+    <tl f="S" t="e" o="08" c="S" n="20041" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="2041" />
+    </ref>
+  </s>
+  <s id="-9083921232904905854-2509080915-9" eva="8089050">
+    <ar ct="2509080934" l="26" />
+    <dp ct="2509080934" l="26" />
+  </s>
+  <s id="-2325902897086108489-2509080935-9" eva="8089050">
+    <ar cpth="" ct="2509081006" cs="c" clt="2509080837" l="26" />
+    <dp cpth="" ct="2509081006" cs="c" clt="2509080837" l="26" />
+  </s>
+  <s id="-1287345277131753784-2509080854-13" eva="8089050">
+    <ar ct="2509080921" l="26" />
+    <dp ct="2509080922" l="26" />
+  </s>
+  <s id="1020470361838804269-2509080857-14" eva="8089050">
+    <ar ppth="Berlin-Karow|Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf" pp="1" ct="2509080927" pt="2509080926" l="2" />
+    <dp ppth="Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Attilastr.|Berlin-Marienfelde|Berlin Buckower Chaussee|Berlin Schichauweg|Berlin-Lichtenrade|Mahlow" pp="1" ct="2509080928" pt="2509080927" l="2" />
+    <tl f="S" t="e" o="08" c="S" n="20043" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="2043" />
+    </ref>
+  </s>
+  <s id="7101012518885127652-2509080914-13" eva="8089050">
+    <ar ct="2509080941" l="26" />
+    <dp ct="2509080942" l="26" />
+  </s>
+</timetable>

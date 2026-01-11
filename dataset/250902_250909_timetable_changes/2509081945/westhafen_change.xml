@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westhafen" eva="8089116">
+  <s id="8442464436208815853-2509081943-2" eva="8089116">
+    <ar ct="2509081947" l="41" />
+    <dp ct="2509081947" l="41" />
+  </s>
+  <s id="7355274996465922552-2509081853-27" eva="8089116">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:40.977" pr="2" />
+    <ar cpth="Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)" ct="2509082015" cs="c" clt="2509081917" l="42" />
+    <dp cpth="" ct="2509082016" cs="c" clt="2509081917" l="42" />
+  </s>
+  <s id="5954479684116866032-2509081938-2" eva="8089116">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:40.977" pr="2" />
+    <ar ct="2509081946" l="41" />
+    <dp ct="2509081947" l="41" />
+  </s>
+  <s id="4324889087507141676-2509081858-27" eva="8089116">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:40.977" pr="2" />
+    <ar cpth="Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg" ct="2509082019" cs="c" clt="2509081921" l="42" />
+    <dp cpth="" ct="2509082019" cs="c" clt="2509081921" l="42" />
+  </s>
+  <s id="-8868036701525486674-2509081923-2" eva="8089116">
+    <m id="r2488390" t="h" from="2509081830" to="2509082359" cat="Störung" ts="2509081921" ts-tts="25-09-08 19:21:40.977" pr="2" />
+    <ar cpth="Berlin Beusselstraße" ct="2509081946" l="41" />
+    <dp cpth="Berlin-Wedding|Berlin Gesundbrunnen(S)|Berlin Schönhauser Allee|Berlin Prenzlauer Allee|Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park" ct="2509081947" l="41" />
+  </s>
+  <s id="-7500908397529856017-2509081933-2" eva="8089116">
+    <ar ct="2509081945" l="41" />
+    <dp ct="2509081945" l="41" />
+  </s>
+</timetable>

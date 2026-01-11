@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="2318587511647948329-2509060901-8" eva="8089047">
+    <ar l="42">
+      <m id="r24033112" t="f" c="0" ts="2509051100" ts-tts="25-09-05 11:00:26.173" />
+      <m id="r24033113" t="f" c="0" ts="2509051100" ts-tts="25-09-05 11:00:26.173" />
+    </ar>
+    <dp l="42">
+      <m id="r24033112" t="f" c="0" ts="2509051100" ts-tts="25-09-05 11:00:26.173" />
+      <m id="r24033113" t="f" c="0" ts="2509051100" ts-tts="25-09-05 11:00:26.173" />
+    </dp>
+  </s>
+  <s id="-7767710212417652601-2509060801-18" eva="8089047">
+    <ar l="41">
+      <m id="r24026124" t="f" c="0" ts="2509050959" ts-tts="25-09-05 10:00:01.042" />
+    </ar>
+    <dp l="41">
+      <m id="r24026124" t="f" c="0" ts="2509050959" ts-tts="25-09-05 10:00:01.042" />
+    </dp>
+  </s>
+  <s id="-6829664605985498835-2509051527-23" eva="8089047">
+    <ar ct="2509051629" l="3" />
+    <dp ct="2509051630" l="3" />
+  </s>
+  <s id="-4526419508944622247-2509051551-7" eva="8089047">
+    <ar cpth="Berlin-Grunewald" cp="3" ct="2509051615" l="7" />
+    <dp cpth="Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" cp="3" ct="2509051615" l="7" />
+  </s>
+  <s id="-2062604970987099247-2509051521-21" eva="8089047">
+    <ar ct="2509051616" l="46" />
+    <dp ct="2509051616" l="46" />
+  </s>
+  <s id="8666738498658689881-2509051510-30" eva="8089047">
+    <ar ct="2509051631" l="5" />
+    <dp ct="2509051631" l="5" />
+  </s>
+  <s id="7741911341396890485-2509051637-7" eva="8089047">
+    <ar ct="2509051655" l="9" />
+    <dp ct="2509051656" l="9" />
+  </s>
+  <s id="1378052578664399140-2509051511-23" eva="8089047">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" ct="2509051615" l="7" />
+    <dp cpth="Berlin-Grunewald" ct="2509051616" l="7" />
+  </s>
+  <s id="-4878495139225182622-2509051509-24" eva="8089047">
+    <ar ct="2509051624" l="9" />
+    <dp ct="2509051624" l="9" />
+  </s>
+  <s id="-1818876481882947779-2509051630-30" eva="8089047">
+    <ar ct="2509051747" l="5" />
+    <dp ct="2509051747" l="5" />
+  </s>
+  <s id="7773718363219437478-2509051544-14" eva="8089047">
+    <ar ct="2509051613" l="41" />
+    <dp ct="2509051614" l="41" />
+  </s>
+  <s id="4600221061694125734-2509051611-3" eva="8089047">
+    <ar cpth="" ct="2509051614" cs="c" clt="2509051557" l="5" />
+    <dp cpth="Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf|Berlin-Mahlsdorf (S)|Birkenstein|Hoppegarten(Mark)" cp="4" ct="2509051617" l="5" />
+  </s>
+  <s id="4362665963396406912-2509051629-24" eva="8089047">
+    <ar ct="2509051732" l="9" />
+    <dp ct="2509051732" l="9" />
+  </s>
+  <s id="-3502234289036778262-2509051557-7" eva="8089047">
+    <ar cpth="" ct="2509051611" cs="c" clt="2509051547" l="9" />
+    <dp cpth="Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ct="2509051612" l="9" />
+  </s>
+  <s id="1621608147827189567-2509051555-8" eva="8089047">
+    <ar ct="2509051613" l="42" />
+    <dp ct="2509051613" l="42" />
+  </s>
+</timetable>

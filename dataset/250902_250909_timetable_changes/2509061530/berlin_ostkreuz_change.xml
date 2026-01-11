@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostkreuz" eva="8011162">
+  <s id="-8216432252539745291-2509061514-2" eva="8011162">
+    <ar ct="2509061530" l="23">
+      <m id="r24097997" t="f" c="0" ts="2509051901" ts-tts="25-09-05 19:01:27.018" />
+    </ar>
+    <dp ct="2509061532" l="23">
+      <m id="r24097997" t="f" c="0" ts="2509051901" ts-tts="25-09-05 19:01:27.018" />
+    </dp>
+  </s>
+  <s id="-2262758252147298760-2509061912-18" eva="8011162">
+    <ar ct="2509062118" l="1" />
+    <dp ct="2509062120" l="1" />
+  </s>
+  <s id="-1839551630028491335-2509061319-14" eva="8011162">
+    <ar cpth="Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof" ppth="Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Potsdam Park Sanssouci|Potsdam Charlottenhof|Potsdam Hbf|Berlin-Wannsee|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof" pp="1" ct="2509061546" pt="2509061430" l="1">
+      <m id="r24186097" t="d" c="45" ts="2509061508" ts-tts="25-09-06 15:08:11.080" />
+    </ar>
+    <dp cpth="Erkner|Fangschleuse|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)" ppth="Erkner|Fangschleuse|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)" pp="1" ct="2509061548" pt="2509061432" l="1">
+      <m id="r24186097" t="d" c="45" ts="2509061508" ts-tts="25-09-06 15:08:11.080" />
+    </dp>
+    <tl f="N" t="p" o="OWRE" c="RE" n="73772" />
+  </s>
+  <s id="-1874589838217005072-2509061528-2" eva="8011162">
+    <ar ct="2509061545" />
+    <dp ct="2509061548" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:48.013" />
+</timetable>

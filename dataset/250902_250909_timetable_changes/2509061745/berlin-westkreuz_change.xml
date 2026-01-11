@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Westkreuz" eva="8089047">
+  <s id="4106508201288921189-2509061721-7" eva="8089047">
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-05 23:16:03.746" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509150000" cat="Information" ts="2508211458" ts-tts="25-09-06 17:16:03.420" pr="1" />
+    <ar ct="2509061745" l="7" />
+    <dp ct="2509061746" l="7" />
+  </s>
+  <s id="-611511338553226336-2509061649-24" eva="8089047">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.508" pr="1" />
+    <ar ct="2509061753" l="9" />
+    <dp ct="2509061753" l="9" />
+  </s>
+  <s id="-4635456032690953654-2509061730-30" eva="8089047">
+    <ar cpth="Strausberg Nord|Strausberg Stadt|Strausberg-Hegermühle|Strausberg (S)|Petershagen Nord|Fredersdorf(b Berlin)|Neuenhagen(b Berlin)|Hoppegarten(Mark)|Birkenstein|Berlin-Mahlsdorf (S)|Berlin-Kaulsdorf" ct="2509061847" cs="c" clt="2509061745" l="5" />
+    <dp cpth="" ct="2509061847" cs="c" clt="2509061745" l="5" />
+  </s>
+</timetable>

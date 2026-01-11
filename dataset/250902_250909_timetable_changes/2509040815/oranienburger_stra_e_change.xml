@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Oranienburger Straße" eva="8089027">
+  <s id="-5552247176246032799-2509040731-17" eva="8089027">
+    <m id="r2486142" t="h" from="2509040800" to="2509041500" cat="Störung" ts="2509040735" ts-tts="25-09-04 07:35:29.833" pr="2" />
+    <ar cpth="Oranienburg (S)|Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof" ct="2509040813" l="1" />
+    <dp cpth="Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg" ct="2509040814" l="1" />
+  </s>
+  <s id="-8306813654815949243-2509040745-14" eva="8089027">
+    <ar ct="2509040816" l="25" />
+    <dp ct="2509040816" l="25" />
+  </s>
+  <s id="-1847269556252195445-2509040828-14" eva="8089027">
+    <ar ct="2509040859" l="2" />
+    <dp ct="2509040900" l="2" />
+  </s>
+</timetable>

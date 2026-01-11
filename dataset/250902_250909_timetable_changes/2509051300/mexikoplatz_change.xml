@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Mexikoplatz" eva="8089023">
+  <s id="8636196545285041752-2509051244-4" eva="8089023">
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee" ct="2509051300" l="1" />
+    <dp cpth="Berlin-Zehlendorf" ct="2509051300" l="1" />
+  </s>
+  <s id="5670150254095344767-2509051315-27" eva="8089023">
+    <m id="r2486799" t="h" from="2509051300" to="2509051600" cat="Störung" ts="2509051216" ts-tts="25-09-05 12:16:22.410" pr="1" />
+    <ar ct="2509051415" l="1" />
+    <dp ct="2509051415" l="1" />
+  </s>
+  <s id="-3207641768684853403-2509051314-4" eva="8089023">
+    <m id="r2486799" t="h" from="2509051300" to="2509051600" cat="Störung" ts="2509051216" ts-tts="25-09-05 12:16:22.410" pr="1" />
+    <ar ct="2509051320" l="1" />
+    <dp ct="2509051320" l="1" />
+  </s>
+</timetable>

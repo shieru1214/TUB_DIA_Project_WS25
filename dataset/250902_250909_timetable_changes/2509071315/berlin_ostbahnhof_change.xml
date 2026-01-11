@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostbahnhof" eva="8010255">
+  <s id="3632043853724206783-2509071312-17" eva="8010255">
+    <ar ct="2509071509" l="1" />
+    <dp ct="2509071511" l="1" />
+  </s>
+  <s id="-8972773202442314831-2509071219-13" eva="8010255">
+    <ar ct="2509071327" l="1" />
+    <dp ct="2509071328" l="1" />
+  </s>
+  <s id="4184172692759307839-2509071345-1" eva="8010255">
+    <m id="r2415041" t="h" from="2505120800" to="2509202359" cat="Information" ts="2505112304" ts-tts="25-09-06 23:16:03.171" pr="3" />
+    <m id="r2487544" t="h" from="2509070526" to="2509080547" cat="Information" ts="2509070450" ts-tts="25-09-07 04:50:36.218" pr="2" />
+    <dp ct="2509071345">
+      <m id="r24241069" t="q" c="83" ts="2509070447" ts-tts="25-09-07 04:47:48.382" />
+      <m id="r24241071" t="q" c="83" ts="2509070447" ts-tts="25-09-07 04:47:48.382" />
+    </dp>
+  </s>
+  <s id="3021504401106346603-2509071112-17" eva="8010255">
+    <ar ct="2509071312" l="1" />
+    <dp ct="2509071314" l="1" />
+  </s>
+  <s id="3734400738937518806-2509071000-14" eva="8010255">
+    <ar cpth="Amsterdam Centraal|Hilversum|Amersfoort Centraal|Apeldoorn|Deventer|Almelo|Hengelo|Bad Bentheim|Rheine|Osnabrück Hbf|Bünde(Westf)|Hannover Hbf|Berlin-Spandau|Berlin Hbf" ppth="Amsterdam Centraal|Hilversum|Amersfoort Centraal|Apeldoorn|Deventer|Hengelo|Bad Bentheim|Rheine|Osnabrück Hbf|Bünde(Westf)|Hannover Hbf|Berlin-Spandau|Berlin Hbf" pp="3" ct="2509071649" pt="2509071602">
+      <m id="r24260771" t="d" c="5" ts="2509071138" ts-tts="25-09-07 11:38:47.386" />
+      <m id="r24266563" t="d" c="55" ts="2509071249" ts-tts="25-09-07 12:49:42.251" />
+      <m id="r24266565" t="d" c="55" ts="2509071249" ts-tts="25-09-07 12:49:42.251" />
+    </ar>
+    <tl f="F" t="p" o="84" c="IC" n="145" />
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:48.013" />
+</timetable>

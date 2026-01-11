@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Gesundbrunnen" eva="8011102">
+  <s id="8049328993498305601-2509060619-1" eva="8011102">
+    <dp ppth="Berlin Hbf|Berlin Südkreuz|Lutherstadt Wittenberg Hbf|Leipzig Hbf|Erfurt Hbf|Würzburg Hbf|Nürnberg Hbf|München Hbf" pp="7" ct="2509060719" pt="2509060619">
+      <m id="r24132857" t="d" c="47" ts="2509060521" ts-tts="25-09-06 05:21:08.767" />
+      <m id="r24132859" t="d" c="47" ts="2509060521" ts-tts="25-09-06 05:21:08.767" />
+      <m id="r24135796" t="f" c="0" ts="2509060630" ts-tts="25-09-06 06:30:59.023" />
+    </dp>
+    <tl f="F" t="p" o="80" c="ICE" n="503" />
+  </s>
+  <s id="8627919913190420403-2509051913-19" eva="8011102">
+    <ar cpth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Wels Hbf|Schärding|Passau Hbf|Plattling|Straubing|Regensburg Hbf|Nürnberg Hbf|Erfurt Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf" ppth="Wien Hbf|Wien Meidling|St.Pölten Hbf|Linz Hbf|Wels Hbf|Schärding|Passau Hbf|Plattling|Straubing|Regensburg Hbf|Nürnberg Hbf|Erfurt Hbf|Halle(Saale)Hbf|Leipzig Hbf|Bitterfeld|Lutherstadt Wittenberg Hbf|Berlin Südkreuz|Berlin Hbf" pp="10" ct="2509060727" pt="2509060640">
+      <m id="r24120115" t="d" c="31" ts="2509052241" ts-tts="25-09-05 22:41:38.380" />
+      <m id="r24120117" t="d" c="31" ts="2509052241" ts-tts="25-09-05 22:41:38.381" />
+      <m id="r24120119" t="d" c="31" ts="2509052241" ts-tts="25-09-05 22:41:38.381" />
+      <m id="r24128762" t="f" c="0" ts="2509060211" ts-tts="25-09-06 02:11:42.888" />
+      <m id="r24128763" t="d" c="38" ts="2509060211" ts-tts="25-09-06 02:11:42.888" />
+      <m id="r24128874" t="f" c="0" ts="2509060216" ts-tts="25-09-06 02:16:50.377" />
+      <m id="r24129042" t="f" c="0" ts="2509060222" ts-tts="25-09-06 02:22:13.367" />
+      <m id="r24129043" t="f" c="0" ts="2509060222" ts-tts="25-09-06 02:22:13.367" />
+      <m id="r24130452" t="f" c="0" ts="2509060328" ts-tts="25-09-06 03:28:13.277" />
+      <m id="r24130840" t="f" c="0" ts="2509060350" ts-tts="25-09-06 03:50:58.409" />
+      <m id="r24130848" t="f" c="0" ts="2509060351" ts-tts="25-09-06 03:51:29.082" />
+      <m id="r24130858" t="f" c="0" ts="2509060351" ts-tts="25-09-06 03:51:29.082" />
+      <m id="r24131070" t="f" c="0" ts="2509060403" ts-tts="25-09-06 04:03:30.260" />
+      <m id="r24131071" t="f" c="0" ts="2509060403" ts-tts="25-09-06 04:03:30.260" />
+      <m id="r24135694" t="f" c="0" ts="2509060627" ts-tts="25-09-06 06:28:06.470" />
+    </ar>
+    <dp cpth="Oranienburg|Neustrelitz Hbf|Waren(Müritz)|Rostock Hbf" ppth="Oranienburg|Neustrelitz Hbf|Waren(Müritz)|Rostock Hbf" pp="10" ct="2509060729" pt="2509060644">
+      <m id="r24120115" t="d" c="31" ts="2509052241" ts-tts="25-09-05 22:41:38.381" />
+      <m id="r24120117" t="d" c="31" ts="2509052241" ts-tts="25-09-05 22:41:38.381" />
+      <m id="r24120119" t="d" c="31" ts="2509052241" ts-tts="25-09-05 22:41:38.381" />
+      <m id="r24128762" t="f" c="0" ts="2509060211" ts-tts="25-09-06 02:11:42.888" />
+      <m id="r24128763" t="d" c="38" ts="2509060211" ts-tts="25-09-06 02:11:42.888" />
+      <m id="r24128874" t="f" c="0" ts="2509060216" ts-tts="25-09-06 02:16:50.377" />
+      <m id="r24129042" t="f" c="0" ts="2509060222" ts-tts="25-09-06 02:22:13.367" />
+      <m id="r24129043" t="f" c="0" ts="2509060222" ts-tts="25-09-06 02:22:13.367" />
+      <m id="r24130452" t="f" c="0" ts="2509060328" ts-tts="25-09-06 03:28:13.277" />
+      <m id="r24130840" t="f" c="0" ts="2509060350" ts-tts="25-09-06 03:50:58.409" />
+      <m id="r24130848" t="f" c="0" ts="2509060351" ts-tts="25-09-06 03:51:29.082" />
+      <m id="r24130858" t="f" c="0" ts="2509060351" ts-tts="25-09-06 03:51:29.082" />
+      <m id="r24131070" t="f" c="0" ts="2509060403" ts-tts="25-09-06 04:03:30.260" />
+      <m id="r24131071" t="f" c="0" ts="2509060403" ts-tts="25-09-06 04:03:30.260" />
+      <m id="r24135694" t="f" c="0" ts="2509060627" ts-tts="25-09-06 06:28:06.470" />
+    </dp>
+    <tl f="F" t="p" o="81" c="IC" n="494" />
+  </s>
+  <s id="2893431466261682474-2509060530-7" eva="8011102">
+    <ar ct="2509060746" />
+    <dp ct="2509060748" />
+  </s>
+  <s id="-8269544307770345785-2509060803-2" eva="8011102">
+    <ar ct="2509060807" l="3" />
+    <dp ct="2509060809" l="3" />
+  </s>
+</timetable>

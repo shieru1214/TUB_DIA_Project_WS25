@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bellevue" eva="8089005">
+  <s id="4721160709010608443-2509050751-18" eva="8089005">
+    <ar ct="2509050829" l="7" />
+    <dp ct="2509050830" l="7" />
+  </s>
+  <s id="-4481108465114944953-2509050845-18" eva="8089005">
+    <ar ct="2509050926" l="5" />
+    <dp ct="2509050927" l="5" />
+  </s>
+  <s id="-6258633030036935248-2509050811-18" eva="8089005">
+    <ar ct="2509050850" l="7" />
+    <dp ct="2509050850" l="7" />
+  </s>
+  <s id="-5659022420189687490-2509050817-6" eva="8089005">
+    <ar cpth="Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten" ct="2509050829" l="5" />
+    <dp cpth="Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin-Biesdorf|Berlin Wuhletal|Berlin-Kaulsdorf" ct="2509050829" l="5" />
+  </s>
+</timetable>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Treptower Park" eva="8089043">
+  <s id="665427122274433924-2509050015-3" eva="8089043">
+    <ar cpth="" cs="c" clt="2509041547" l="8" />
+    <dp cpth="Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" cp="4" ct="2509050019" l="8" />
+  </s>
+  <s id="-3116203184587331119-2509042355-3" eva="8089043">
+    <m id="r2486448" t="h" from="2509042100" to="2509050200" cat="Bauarbeiten" ts="2509041858" ts-tts="25-09-04 18:58:18.030" pr="1" />
+    <ar cpth="" cs="c" clt="2509041547" l="8" />
+    <dp cpth="Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" cp="4" ct="2509050000" l="8" />
+  </s>
+</timetable>

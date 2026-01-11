@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Friedrichshagen" eva="8089060">
+  <s id="-8013781951759900400-2509040958-13" eva="8089060">
+    <ar ppth="Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick" pp="3" ct="2509041030" pt="2509041028" l="3" />
+    <dp ppth="Berlin-Rahnsdorf|Berlin-Wilhelmshagen|Erkner (S)" pp="3" ct="2509041031" pt="2509041029" l="3" />
+    <tl f="S" t="e" o="08" c="S" n="30081" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="3081" />
+    </ref>
+  </s>
+</timetable>

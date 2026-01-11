@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Jannowitzbrücke" eva="8089019">
+  <s id="6430461702396114902-2509051030-20" eva="8089019">
+    <ar ct="2509051125" l="5" />
+    <dp ct="2509051125" l="5" />
+  </s>
+  <s id="-819772797836195503-2509050937-17" eva="8089019">
+    <ar cpth="Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" ct="2509051014" l="9" />
+    <dp cpth="Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Treptower Park|Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ct="2509051015" l="9" />
+  </s>
+  <s id="-6790455933799157302-2509050951-11" eva="8089019">
+    <ar ct="2509051015" l="5" />
+    <dp ct="2509051015" l="5" />
+  </s>
+  <s id="2686034295303383253-2509051029-14" eva="8089019">
+    <ar ct="2509051110" l="9" />
+    <dp ct="2509051110" l="9" />
+  </s>
+  <s id="-3327570311283232106-2509050937-15" eva="8089019">
+    <ar ppth="Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)" pp="3" ct="2509051017" pt="2509051016" l="7" />
+    <dp ppth="Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" pp="3" ct="2509051017" pt="2509051017" l="7" />
+    <tl f="S" t="e" o="08" c="S" n="70541" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="7541" />
+    </ref>
+  </s>
+  <s id="-6028579287227631708-2509050930-20" eva="8089019">
+    <ar ct="2509051027" l="5" />
+    <dp ct="2509051027" l="5" />
+  </s>
+</timetable>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Bornholmer Str." eva="8089008">
+  <s id="6466087082911955334-2509041545-18" eva="8089008">
+    <ar ct="2509041631" l="25" />
+    <dp ct="2509041631" l="25" />
+  </s>
+  <s id="-3620580451267568283-2509041645-2" eva="8089008">
+    <ar ct="2509041647" l="2" />
+    <dp ct="2509041648" l="2" />
+  </s>
+  <s id="5770142295134354740-2509041625-2" eva="8089008">
+    <ar ct="2509041638" l="2" />
+    <dp ct="2509041639" l="2" />
+  </s>
+  <s id="-1162932385611739113-2509041542-17" eva="8089008">
+    <ar cpth="Berlin-Lichtenrade|Berlin Schichauweg|Berlin Buckower Chaussee|Berlin-Marienfelde|Berlin Attilastr.|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof" ct="2509041628" cs="c" clt="2509041615" l="2">
+      <m id="r23935162" t="d" c="36" ts="2509041615" ts-tts="25-09-04 16:15:27.071" />
+      <m id="r23935164" t="d" c="36" ts="2509041615" ts-tts="25-09-04 16:15:27.071" />
+    </ar>
+    <dp cpth="" ct="2509041630" cs="c" clt="2509041615" l="2">
+      <m id="r23935162" t="d" c="36" ts="2509041615" ts-tts="25-09-04 16:15:27.071" />
+      <m id="r23935164" t="d" c="36" ts="2509041615" ts-tts="25-09-04 16:15:27.071" />
+    </dp>
+  </s>
+  <s id="806443734517056592-2509041605-18" eva="8089008">
+    <ar ct="2509041644" l="25" />
+    <dp ct="2509041645" l="25" />
+  </s>
+  <s id="7114292941308381244-2509041645-18" eva="8089008">
+    <ar ct="2509041723" l="25" />
+    <dp ct="2509041724" l="25" />
+  </s>
+  <s id="-7912077492962339955-2509041644-23" eva="8089008">
+    <ar ct="2509041730" l="1" />
+    <dp ct="2509041731" l="1" />
+  </s>
+</timetable>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Messe Nord/ZOB (Witzleben)" eva="8089110">
+  <s id="-8965910514656471641-2509071841-7" eva="8089110">
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend" ct="2509071855" l="42" />
+    <dp cpth="Berlin Westkreuz|Berlin-Halensee|Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee" ct="2509071856" l="42" />
+  </s>
+  <s id="-4032785458149120799-2509071931-19" eva="8089110">
+    <ar ct="2509072010" l="41" />
+    <dp ct="2509072010" l="41" />
+  </s>
+  <s id="-876407295610317014-2509071901-7" eva="8089110">
+    <ar ct="2509071916" l="42">
+      <m id="r24225346" t="f" c="0" ts="2509062100" ts-tts="25-09-06 21:00:25.172" />
+    </ar>
+    <dp ct="2509071915" l="42">
+      <m id="r24225346" t="f" c="0" ts="2509062100" ts-tts="25-09-06 21:00:25.172" />
+    </dp>
+  </s>
+  <s id="-893118153366842680-2509071844-15" eva="8089110">
+    <ar ct="2509071915" l="41" />
+    <dp ct="2509071915" l="41" />
+  </s>
+  <s id="1773677629505659818-2509072001-7" eva="8089110">
+    <ar ct="2509072017" l="42">
+      <m id="r24229667" t="f" c="0" ts="2509062158" ts-tts="25-09-06 21:59:10.655" />
+    </ar>
+    <dp ct="2509072017" l="42">
+      <m id="r24229667" t="f" c="0" ts="2509062158" ts-tts="25-09-06 21:59:10.655" />
+    </dp>
+  </s>
+  <s id="-2632220143402090863-2509071841-19" eva="8089110">
+    <ar ct="2509071930" l="41" />
+    <dp ct="2509071931" l="41" />
+  </s>
+</timetable>

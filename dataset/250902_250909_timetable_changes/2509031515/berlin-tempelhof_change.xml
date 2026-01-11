@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Tempelhof" eva="8089090">
+  <s id="8308573561363749255-2509040801-16" eva="8089090">
+    <ar l="42">
+      <m id="r23684817" t="f" c="0" ts="2509021601" ts-tts="25-09-02 16:02:04.444" />
+      <m id="r23752857" t="f" c="0" ts="2509031000" ts-tts="25-09-03 10:00:32.943" />
+    </ar>
+    <dp l="42">
+      <m id="r23684817" t="f" c="0" ts="2509021601" ts-tts="25-09-02 16:02:04.444" />
+      <m id="r23752857" t="f" c="0" ts="2509031000" ts-tts="25-09-03 10:00:32.943" />
+    </dp>
+  </s>
+  <s id="874705391058878384-2509040701-10" eva="8089090">
+    <ar l="41">
+      <m id="r23684837" t="f" c="0" ts="2509021602" ts-tts="25-09-02 16:02:35.934" />
+      <m id="r23746600" t="f" c="0" ts="2509030900" ts-tts="25-09-03 09:00:58.639" />
+      <m id="r23746601" t="f" c="0" ts="2509030900" ts-tts="25-09-03 09:00:58.639" />
+    </ar>
+    <dp l="41">
+      <m id="r23684837" t="f" c="0" ts="2509021602" ts-tts="25-09-02 16:02:35.934" />
+      <m id="r23746600" t="f" c="0" ts="2509030900" ts-tts="25-09-03 09:00:58.639" />
+      <m id="r23746601" t="f" c="0" ts="2509030900" ts-tts="25-09-03 09:00:58.639" />
+    </dp>
+  </s>
+  <s id="-1593749628335191992-2509031456-11" eva="8089090">
+    <m id="r2485791" t="h" from="2509031330" to="2509031600" cat="Störung" ts="2509031412" ts-tts="25-09-03 14:12:54.669" pr="1" />
+    <ar ct="2509031516" l="46" />
+    <dp ct="2509031516" l="46" />
+  </s>
+  <s id="-1353764245058250353-2509031437-13" eva="8089090">
+    <m id="r2485791" t="h" from="2509031330" to="2509031600" cat="Störung" ts="2509031412" ts-tts="25-09-03 14:12:54.669" pr="1" />
+    <ar cpth="Flughafen BER (S-Bahn)|Waßmannsdorf|Schönefeld(bei Berlin)|Berlin Grünbergallee|Berlin-Altglienicke|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße" ct="2509031515" l="45" />
+    <dp cpth="Berlin Südkreuz (S)" ct="2509031515" l="45" />
+  </s>
+</timetable>

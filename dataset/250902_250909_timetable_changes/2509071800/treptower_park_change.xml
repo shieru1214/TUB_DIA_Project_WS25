@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Treptower Park" eva="8089043">
+  <s id="3210702711678058138-2509071755-3" eva="8089043">
+    <ar ct="2509071800" l="85" />
+    <dp ct="2509071800" l="85" />
+  </s>
+  <s id="6317821078747857272-2509071815-3" eva="8089043">
+    <ar ct="2509071819" l="85" />
+    <dp ct="2509071819" l="85" />
+  </s>
+  <s id="-7445821860896069187-2509071748-4" eva="8089043">
+    <ar ct="2509071756" l="85" />
+    <dp ct="2509071759" l="85" />
+  </s>
+  <s id="-8430692406790002316-2509071717-20" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-06 23:16:03.798" pr="1" />
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße" ct="2509071803" l="9" />
+    <dp cpth="Berlin Plänterwald|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Altglienicke|Berlin Grünbergallee|Schönefeld(bei Berlin)|Waßmannsdorf|Flughafen BER (S-Bahn)" ct="2509071804" l="9" />
+  </s>
+</timetable>

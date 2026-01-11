@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Treptower Park" eva="8089043">
+  <s id="4929082008786566995-2509060017-20" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.508" pr="1" />
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)" ct="2509060102" cs="c" clt="2509060036" l="9" />
+    <dp cpth="Berlin Nöldnerplatz|Berlin-Lichtenberg (S)" ct="2509060103" cs="c" clt="2509060036" l="9" />
+  </s>
+  <s id="7913760786982203875-2509060115-3" eva="8089043">
+    <ar ct="2509060128" l="8" />
+    <dp ct="2509060129" l="8" />
+  </s>
+  <s id="7800888793616789940-2509060050-7" eva="8089043">
+    <ar ct="2509060116" l="8" />
+    <dp ct="2509060116" l="8" />
+  </s>
+  <s id="-2857058438164214573-2509060055-3" eva="8089043">
+    <ar ct="2509060059" l="8" />
+    <dp ct="2509060059" l="8" />
+  </s>
+  <s id="3262805832235325961-2509060029-11" eva="8089043">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-05 23:16:03.508" pr="1" />
+    <ar ct="2509060103" l="9" />
+    <dp ct="2509060103" l="9" />
+  </s>
+  <s id="7949202356934423406-2509060241-1" eva="8089043">
+    <dp ppth="Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee|Berlin Greifswalder Str" cp="4" pp="2" pt="2509060241" l="42" />
+    <tl f="S" t="e" o="08" c="S" n="43331" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="42331" />
+    </ref>
+  </s>
+</timetable>

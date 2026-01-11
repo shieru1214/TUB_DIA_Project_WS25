@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Ostkreuz" eva="8011162">
+  <s id="-8084248573434942668-2509060315-15" eva="8011162">
+    <m id="r2486933" t="h" from="2509052300" to="2509060430" cat="Störung" ts="2509051553" ts-tts="25-09-05 23:16:04.268" pr="1" />
+    <ar cpth="Brandenburg Hbf|Götz|Groß Kreutz|Werder(Havel)|Berlin-Charlottenburg|Berlin Zoologischer Garten|Berlin Hbf|Berlin Friedrichstraße|Berlin Alexanderplatz|Berlin Ostbahnhof" ct="2509060440" l="1">
+      <m id="r24069113" t="d" c="31" ts="2509051538" ts-tts="25-09-05 15:38:36.360" />
+    </ar>
+    <dp cpth="Erkner|Fangschleuse|Hangelsberg|Fürstenwalde(Spree)|Berkenbrück|Briesen(Mark)|Jacobsdorf(Mark)|Pillgram|Frankfurt(Oder)-Rosengarten|Frankfurt(Oder)" ct="2509060442" l="1">
+      <m id="r24069113" t="d" c="31" ts="2509051538" ts-tts="25-09-05 15:38:36.360" />
+    </dp>
+  </s>
+  <s id="-717944806167106896-2509060421-3" eva="8011162">
+    <ar ct="2509060439" />
+    <dp ct="2509060441" />
+  </s>
+  <s id="-701013599782892540-2509060500-14" eva="8011162">
+    <ar ct="2509060602" l="7">
+      <m id="r24115517" t="f" c="0" ts="2509052137" ts-tts="25-09-05 21:37:39.572" />
+    </ar>
+    <dp ct="2509060603" l="7">
+      <m id="r24115517" t="f" c="0" ts="2509052137" ts-tts="25-09-05 21:37:39.572" />
+    </dp>
+  </s>
+  <m id="i1084275" t="i" from="2509051600" to="2509052240" ts="2509051718" ts-tts="25-09-05 17:18:40.825" />
+</timetable>

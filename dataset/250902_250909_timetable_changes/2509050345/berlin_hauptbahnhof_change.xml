@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Hbf" eva="8011160">
+  <s id="2278117661468300015-2509050816-2" eva="8011160">
+    <ar>
+      <m id="r23996135" t="q" c="80" ts="2509050346" ts-tts="25-09-05 03:46:02.352" />
+    </ar>
+    <dp>
+      <m id="r23996135" t="q" c="80" ts="2509050346" ts-tts="25-09-05 03:46:02.352" />
+    </dp>
+  </s>
+  <s id="6047330944616926633-2509050816-2" eva="8011160">
+    <ar ppth="Berlin Ostbahnhof" pp="14" pt="2509050825">
+      <m id="r23996058" t="f" c="0" ts="2509050344" ts-tts="25-09-05 03:44:46.081" />
+      <m id="r23996110" t="f" c="0" ts="2509050345" ts-tts="25-09-05 03:45:31.856" />
+      <m id="r23996137" t="q" c="80" ts="2509050346" ts-tts="25-09-05 03:46:02.352" />
+      <m id="r23996138" t="q" c="80" ts="2509050346" ts-tts="25-09-05 03:46:02.352" />
+    </ar>
+    <dp ppth="Berlin-Spandau|Wolfsburg Hbf|Braunschweig Hbf|Hildesheim Hbf|Göttingen|Kassel-Wilhelmshöhe|Fulda|Hanau Hbf|Frankfurt(Main)Hbf|Mannheim Hbf|Karlsruhe Hbf|Offenburg|Freiburg(Breisgau) Hbf|Basel Bad Bf|Basel SBB" pp="14" pt="2509050829">
+      <m id="r23996058" t="f" c="0" ts="2509050344" ts-tts="25-09-05 03:44:46.081" />
+      <m id="r23996110" t="f" c="0" ts="2509050345" ts-tts="25-09-05 03:45:31.856" />
+      <m id="r23996137" t="q" c="80" ts="2509050346" ts-tts="25-09-05 03:46:02.352" />
+      <m id="r23996138" t="q" c="80" ts="2509050346" ts-tts="25-09-05 03:46:02.352" />
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2879" />
+  </s>
+  <s id="3879179377796470480-2509050744-6" eva="8011160">
+    <ar ct="2509050818" l="8" />
+    <dp ct="2509050820" l="8" />
+  </s>
+  <s id="700156942723660705-2509050336-3" eva="8011160">
+    <ar ct="2509050347" l="8" />
+    <dp ct="2509050349" l="8" />
+  </s>
+  <s id="-1148487310983463931-2509051613-17" eva="8011160">
+    <ar ppth="Basel SBB|Basel Bad Bf|Freiburg(Breisgau) Hbf|Offenburg|Karlsruhe Hbf|Mannheim Hbf|Frankfurt(Main)Hbf|Hanau Hbf|Fulda|Kassel-Wilhelmshöhe|Göttingen|Hildesheim Hbf|Braunschweig Hbf|Wolfsburg Hbf|Berlin-Spandau|Berlin Zoologischer Garten" pp="12" pt="2509052330">
+      <m id="r23996027" t="f" c="0" ts="2509050343" ts-tts="25-09-05 03:44:00.360" />
+    </ar>
+    <dp ppth="Berlin Ostbahnhof" pp="12" pt="2509052333">
+      <m id="r23996027" t="f" c="0" ts="2509050343" ts-tts="25-09-05 03:44:00.360" />
+    </dp>
+    <tl f="F" t="s" o="NZ" c="ICE" n="2874" />
+  </s>
+</timetable>

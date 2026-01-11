@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin Savignyplatz" eva="8089037">
+  <s id="-5907873652373276186-2509042207-21" eva="8089037">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.620" pr="1" />
+    <m id="r2486483" t="h" from="2509042000" to="2509042230" cat="Störung" ts="2509042015" ts-tts="25-09-04 20:15:25.268" pr="1" />
+    <ar cpth="" ct="2509042305" cs="c" clt="2509041949" l="3" />
+    <dp cpth="" ct="2509042305" cs="c" clt="2509041949" l="3" />
+  </s>
+  <s id="-4433529142148220301-2509042206-11" eva="8089037">
+    <ar ppth="Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)" pp="4" ct="2509042233" pt="2509042227" l="9">
+      <m id="r23952146" t="f" c="0" ts="2509041805" ts-tts="25-09-04 18:05:32.842" />
+    </ar>
+    <dp ppth="Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion|Berlin-Pichelsberg|Berlin-Stresow|Berlin-Spandau (S)" pp="4" ct="2509042233" pt="2509042228" l="9">
+      <m id="r23952146" t="f" c="0" ts="2509041805" ts-tts="25-09-04 18:05:32.842" />
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="90136" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="9136" />
+    </ref>
+  </s>
+  <s id="-1693482275053534971-2509042247-21" eva="8089037">
+    <m id="r2436847" t="h" from="2508312100" to="2509150700" cat="Information" ts="2508302307" ts-tts="25-09-03 23:16:03.620" pr="1" />
+    <ar ct="2509042342" l="3" />
+    <dp ct="2509042342" l="3" />
+  </s>
+  <s id="-2706240281375054422-2509042236-14" eva="8089037">
+    <ar cpth="" cs="c" clt="2509042215" l="7" />
+    <dp cpth="" cs="c" clt="2509042215" l="7" />
+  </s>
+  <s id="4595263880512092048-2509042156-10" eva="8089037">
+    <ar ppth="Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)" pp="4" ct="2509042215" pt="2509042215" l="7" />
+    <dp ppth="Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald|Berlin-Nikolassee|Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="4" pt="2509042215" l="7" />
+    <tl f="S" t="e" o="08" c="S" n="70146" />
+    <ref>
+      <tl f="S" t="p" o="08" c="S" n="7146" />
+    </ref>
+  </s>
+  <s id="2353399563548339555-2509042201-9" eva="8089037">
+    <m id="r2486483" t="h" from="2509042000" to="2509042230" cat="Störung" ts="2509042015" ts-tts="25-09-04 20:15:25.268" pr="1" />
+    <m id="r2485165" t="h" from="2509021000" to="2509090000" cat="Störung" ts="2509021056" ts-tts="25-09-03 23:16:04.182" pr="2" />
+    <m id="r2479822" t="h" from="2508210000" to="2509080000" cat="Information" ts="2508211458" ts-tts="25-09-03 23:16:04.075" pr="1" />
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)" ct="2509042231" cs="p" clt="2509042101" l="7" />
+    <dp cpth="Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2509042232" cs="p" clt="2509042101" l="7" />
+  </s>
+  <s id="1130075688227088336-2509042216-14" eva="8089037">
+    <m id="r2486483" t="h" from="2509042000" to="2509042230" cat="Störung" ts="2509042015" ts-tts="25-09-04 20:15:25.267" pr="1" />
+    <ar cpth="" ct="2509042245" cs="c" clt="2509042214" l="7" />
+    <dp cpth="" ct="2509042245" cs="c" clt="2509042214" l="7" />
+  </s>
+</timetable>

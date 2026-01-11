@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Blankenburg" eva="8089056">
+  <s id="7278155822775645133-2509081508-21" eva="8089056">
+    <ar ct="2509081558" l="2" />
+    <dp ct="2509081557" l="2" />
+  </s>
+  <s id="1368927795410428828-2509081523-3" eva="8089056">
+    <ar ct="2509081530" l="2" />
+    <dp ct="2509081530" l="2" />
+  </s>
+  <s id="-9086127261895760894-2509081502-20" eva="8089056">
+    <ar ct="2509081550" l="2" />
+    <dp ct="2509081551" l="2" />
+  </s>
+  <s id="3281516470649462316-2509081409-18" eva="8089056">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.451" pr="2" />
+    <ar ppth="Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Plänterwald|Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee|Berlin Greifswalder Str|Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf" pp="1" ct="2509081529" pt="2509081452" l="8" />
+    <tl f="S" t="p" o="08" c="S" n="8398" />
+  </s>
+  <s id="-3470459605550783544-2509081442-20" eva="8089056">
+    <ar ct="2509081528" l="2" />
+    <dp ct="2509081528" l="2" />
+  </s>
+  <s id="-2230900640356315077-2509081544-1" eva="8089056">
+    <m id="r2488245" t="h" from="2509081330" to="2509081800" cat="Störung" ts="2509081337" ts-tts="25-09-08 15:16:05.451" pr="2" />
+    <dp ct="2509081544" l="8" />
+  </s>
+  <s id="4260747015699722491-2509081543-3" eva="8089056">
+    <ar ct="2509081550" l="2" />
+    <dp ct="2509081550" l="2" />
+  </s>
+</timetable>

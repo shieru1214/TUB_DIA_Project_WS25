@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<timetable station="Berlin-Staaken" eva="8013021">
+  <s id="-8784812517696267066-2509032202-3" eva="8013021">
+    <m id="r2479739" t="h" from="2509010000" to="2509042100" cat="Information" ts="2508312308" ts-tts="25-09-02 23:16:04.291" pr="2" />
+  </s>
+  <s id="4117010618655160998-2509030436-10" eva="8013021">
+    <ar ppth="Potsdam Hbf|Potsdam Charlottenhof|Potsdam Park Sanssouci|Golm|Marquardt|Priort|Wustermark|Elstal|Dallgow-Döberitz" pp="1" ct="2509030617" pt="2509030523" l="21">
+      <m id="r23724235" t="d" c="47" ts="2509030431" ts-tts="25-09-03 04:31:31.456" />
+      <m id="r23725253" t="f" c="0" ts="2509030505" ts-tts="25-09-03 05:06:01.962" />
+    </ar>
+    <dp ppth="Berlin-Spandau|Berlin Jungfernheide|Berlin Gesundbrunnen" pp="1" ct="2509030617" pt="2509030523" l="21">
+      <m id="r23724235" t="d" c="47" ts="2509030431" ts-tts="25-09-03 04:31:31.456" />
+      <m id="r23725253" t="f" c="0" ts="2509030505" ts-tts="25-09-03 05:06:01.962" />
+    </dp>
+    <tl f="N" t="p" o="800165" c="RB" n="18240" />
+  </s>
+</timetable>
